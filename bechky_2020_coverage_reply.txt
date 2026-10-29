@@ -1,0 +1,12 @@
+Reply Coverage Chat - GPT 5.6 Sol High Thinking Effort
+
+Worked for 9m 5s
+
+Completed the targeted coverage extraction. I added F169–F172, no new claims, three links from F172 to C04/C05/C21, and the four corresponding voice judgments. The corpus now has 172 fragments and 293 links. Every listed passage, including each no-addition decision and its reason, is documented under “Coverage additions” in the log.
+
+Updated corpus JSON
+ · 
+Updated voice/gloss JSON
+ · 
+Updated extraction log
+ 

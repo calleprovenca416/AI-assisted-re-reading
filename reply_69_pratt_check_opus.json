@@ -1,0 +1,120 @@
+{
+  "paper": "Michael G. Pratt, 2000",
+  "read_to": "p. 493",
+  "passages": [
+    {
+      "n": 1,
+      "where": "p. 458, second full paragraph",
+      "test": "evidence",
+      "reason": "Besides the sales and membership figures that F07 records, the paragraph says who founded the firm and when, and that the company calls itself highly heterogeneous without publishing demographic data; no fragment records either fact, and the second bears on C10."
+    },
+    {
+      "n": 2,
+      "where": "p. 459, third full paragraph",
+      "test": "evidence",
+      "reason": "It gives estimates of how many people worldwide take part in network marketing, likens Amway's operation to named comparable firms, and calls Amway a standard for the form; no fragment records these setting facts, although the index recorded comparable ones (F07, F120)."
+    },
+    {
+      "n": 3,
+      "where": "p. 460, second full paragraph",
+      "test": "assertion",
+      "reason": "The paper adopts the view that abstract, morally charged phenomena can only be studied through natural participation and uses it to justify its method; this methodological claim is not among C46–C48 or any other claim."
+    },
+    {
+      "n": 4,
+      "where": "p. 460, footnote 5",
+      "test": "evidence",
+      "reason": "The footnote reports a belief widely held among distributors, that anyone who truly understood Amway would be impressed, and says this confidence made them open with the researcher; F15 and F16 record only the single family-tree remark and the upline's indifference to his interviewing."
+    },
+    {
+      "n": 5,
+      "where": "p. 460, footnote 6",
+      "test": "assertion",
+      "reason": "The footnote endorses and builds on the claim that [6 words of Pratt (2000), p. 460] decide much of what members learn of the culture, and sets the fieldwork length on that basis; no claim covers it."
+    },
+    {
+      "n": 6,
+      "where": "p. 461, second full paragraph",
+      "test": "evidence",
+      "reason": "It prints the distributors' own criteria for counting a member as active, the tenure ranges of active and inactive interviewees, the fact that every former distributor left within a year, and the informants' apparent race and share of women; no fragment covers this, and the last item bears on C10."
+    },
+    {
+      "n": 7,
+      "where": "pp. 464–465, the paragraph that runs over the page",
+      "test": "assertion",
+      "reason": "Beyond the percentages in F29, the paper asserts that lifestyle dreams are central because financial freedom is the route to family and helping dreams, so material wealth serves as the means to nonmaterial ends; no claim states this relation among dream types."
+    },
+    {
+      "n": 8,
+      "where": "p. 466, second full paragraph",
+      "test": "evidence",
+      "reason": "It records the distributors' own names for the excitement dreams produce (the burn, the fever, the bug); no fragment gives this observed member vocabulary."
+    },
+    {
+      "n": 9,
+      "where": "p. 467, footnote 11",
+      "test": "assertion",
+      "reason": "The footnote argues that dream building motivates because it supplies specific, difficult, self-set goals, and that goals tied to the self are especially motivating; this goal-setting mechanism differs from the identity-deficit mechanism of C15, and no claim covers it."
+    },
+    {
+      "n": 10,
+      "where": "pp. 469–470, the paragraph that runs over the page",
+      "test": "evidence",
+      "reason": "It prints the members' own rationale for positive programming, with their saying about filling the mind with uplifting material and the computer-input slogan; F53 gives only the author's account of the practice, not this member talk."
+    },
+    {
+      "n": 11,
+      "where": "p. 473, footnote 13",
+      "test": "assertion",
+      "reason": "F70 records the evidence on permeable boundaries, but the footnote also asserts that the in-group/out-group dynamics created by positive programming are more fluid than social identity theory posits; no claim states this."
+    },
+    {
+      "n": 12,
+      "where": "p. 474, first full paragraph",
+      "test": "evidence",
+      "reason": "Besides F74–F76, it reports that distributors were urged to approach family and friends before strangers, which let them test firsthand who truly supported them; F71 records the encouragement to invite but not this ordering or its use."
+    },
+    {
+      "n": 13,
+      "where": "p. 477, first full paragraph",
+      "test": "evidence",
+      "reason": "It prints an outside estimate of Amway's annual turnover as a range from 40 to nearly 100 percent; no fragment records it, and the index's absence A03 concerns only a published company rate."
+    },
+    {
+      "n": 14,
+      "where": "p. 478, first full paragraph",
+      "test": "evidence",
+      "reason": "Before the single quotation recorded as F93, it reports across informants that those who deidentified neither sought upline advice nor formed strong upline bonds, and some held mildly negative views; no fragment records this pattern for deidentifiers."
+    },
+    {
+      "n": 15,
+      "where": "p. 479, first full paragraph",
+      "test": "assertion",
+      "reason": "In its own voice, and building on cited work, the paper explains that mentoring relationships are [7 words of Pratt (2000), p. 479] ties, so negative mentor-protégé relations are common; no claim covers this mechanism."
+    },
+    {
+      "n": 16,
+      "where": "pp. 480–481, the paragraph that runs over the page",
+      "test": "evidence",
+      "reason": "Besides the quotation recorded as F105, it reports that ambivalent distributors often agonized over harming outside ties by using friendships for profit; no fragment records this observed worry."
+    },
+    {
+      "n": 17,
+      "where": "pp. 481–482, the paragraph that runs over the page",
+      "test": "assertion",
+      "reason": "It ventures that practices from other literatures, such as divestiture, mortification, hazing and public confession, work as sensebreaking by invalidating the self, and that they blur as sensegiving makes other members set the ideal-self standard; no claim states this."
+    },
+    {
+      "n": 18,
+      "where": "p. 486, first full paragraph",
+      "test": "assertion",
+      "reason": "It asserts that [6 words of Pratt (2000), p. 486] value-bound community whose membership means taking its values into the self, and that distributors build [6 words of Pratt (2000), p. 486] a physical workplace; C04 and C40 state only general or hedged versions of this."
+    },
+    {
+      "n": 19,
+      "where": "pp. 486–487, the paragraph that runs over the page",
+      "test": "evidence",
+      "reason": "To support C39, it prints a description of physicians' training: humbling exams and rounds, lab-coat length marking progress, surgical interns working [6 words of Pratt (2000), p. 486], bonds with senior role models, and tenure hurdles; no fragment records any of it, and the index has no fragment on either page."
+    }
+  ]
+}

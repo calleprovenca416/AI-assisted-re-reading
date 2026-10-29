@@ -1,0 +1,82 @@
+{
+  "card_id": "pratt_2000_construct_inversion_CP01_01",
+  "verdicts": [
+    {
+      "mode": "B_import",
+      "killed": true,
+      "citations": ["F94", "F95", "F97", "F98"],
+      "drift": [],
+      "note": "KILL. The statement imports a third distinct person's identity: \"A third, whom the author files under the same opposed outcome, says he bought in only to get out of an embarrassing situation at a high-pressure presentation (F98)\". F95 explicitly identifies its speaker as the same former distributor as F94. F97 introduces one former distributor, and F98 introduces another, but no fragment establishes that F94/F95 and F97 concern different people. Calling F98 a third person requires that unprinted distinction; it is not merely a paraphrase of another account. The card itself recognizes the unresolved identity when it says no stub establishes that F94/F95 and F97 are the same man. Lack of evidence that they are the same does not establish that they are different. No carrying fragment supplies the three-person count. The kill concerns this factual assertion, not the proposed grievance explanation or its disagreement with the author's theory. No author-account-to-event drift was identified.",
+      "considered_not_fired": [
+        {
+          "item": "F91: the regular-job change and absence of an Amway person in the account",
+          "why": "The stub says her job became manageable and satisfying, leaving little desire for meetings or sales. The card's immediate assertion concerns what her printed account contains. It does not establish that she had no grievance anywhere in her life; the proposed connection between grievance-free exit and detachment remains the wager to be tested."
+        },
+        {
+          "item": "F94 and F95: possessions, the causal 'because,' the law-career dream, and speaker continuity",
+          "why": "F94 explicitly attributes the initial attraction to lacking comparable possessions, so the causal connective adds nothing. F95 explicitly says the same former distributor described a law career as a dream worth hard work. Neither stub reports his upline relationship. The identity between these two fragments is carried, unlike the asserted distinctness from F97."
+        },
+        {
+          "item": "F97: unrecognized ability, more meetings, and 'by his own telling still needed motivating'",
+          "why": "The stub reports his blame of the upline for not recognizing prior sales ability and for relying on meetings rather than finding a way to motivate him. Calling this a grievance and paraphrasing the motivation complaint are supported. The card says no pursued wish is printed here, not that needing motivation proves he had no wish."
+        },
+        {
+          "item": "F98: pressure, embarrassment, and opposition without a printed wish",
+          "why": "The stub explicitly gives social pressure and dependence on transportation as reasons for buying in to escape embarrassment. It gives no dream. The disidentification classification is supplied in the fragment's author_code and is presented by the card as the author's classification. These clauses do not import the motive or turn silence into proof that he never had aspirations."
+        },
+        {
+          "item": "F96 and F125: weak ties on both sides; irritation and anger read as grievance",
+          "why": "F96 carries the four relationship descriptions. F125 carries the author's account of little reason to consult uplines and failure to develop strong distributor bonds. The card preserves that attribution. Treating irritation and anger as grievance is explicitly identified as what the reading takes them to mean; it does not supply a specific unprinted incident as observed evidence."
+        },
+        {
+          "item": "F99 and F125: the author's sequence and 'this reading puts it after on both'",
+          "why": "F99 supplies the author's sequence from failed sensegiving to critical reinterpretation and opposition; F125 supplies the author's account connecting absent desire to weak ties. The alternative ordering is marked as this reading's proposal. The card also declares F99 as strain and identifies the missing observation needed to test its explanation. The inversion is not presented as a newly observed chronology."
+        },
+        {
+          "item": "The final grievance wager and the absence of a separating feature",
+          "why": "The grievance rule is expressly a wager with an unprinted completion condition, rather than a report that every leaver's grievance status was observed. The card is construct_inversion and split is null, so there are no factual X/Y assignments or separating-feature clauses to test."
+        }
+      ]
+    },
+    {
+      "mode": "E_contradiction",
+      "killed": false,
+      "citations": [],
+      "note": "CLEAR. All 125 fragment stubs were scanned, with fragment notes, the absence register, and declared gaps checked. No fragment outside the seeds and declared strains establishes a detached leaver carrying the specified personal wrong, an opposed leaver without one, or an observed sequence that makes the proposed ordering impossible. Silence about grievances or aspirations is not evidence of their absence. This clearance does not establish the wager's truth and does not undo the independent import failure.",
+      "considered_not_fired": [
+        {
+          "item": "F93: a later leaver's rejection of unquestionable upline authority",
+          "why": "This is the closest adverse case: the card acknowledges the author's detached classification despite an objection to upline authority. F93 is explicitly listed under strains_against, so it cannot fire E. Its stub also does not specify a wrong done personally to the speaker."
+        },
+        {
+          "item": "F94, F95, F96, F99, and F21",
+          "why": "The surviving wish, missing grievance, sparse relationships, retrospective reinterpretation, and across-case aspiration account are all expressly declared strains; F94, F95, and F96 are also seeds. They cannot be treated as undeclared contradictions. F99 and F21 explicitly report the author's explanation rather than independently observed individual sequences."
+        },
+        {
+          "item": "F90 and F92: fading interest and an experience that did not suit the speaker",
+          "why": "Neither stub reports a personal wrong held against recruiters or uplines. Both can coexist with the proposed detachment pathway. Their silence does not prove grievance-free exit, but it also does not contradict it."
+        },
+        {
+          "item": "F100: the ex-Amway website's warnings",
+          "why": "The website warns of harm to family interests and credibility and urges exit. It does not provide an individual leaver's history establishing opposition without a personal wrong. Its broader grounds for criticism can coexist with grievances; an absent personal account is not a counterexample."
+        },
+        {
+          "item": "F75 and F76: outsiders' perceived exploitation and mutual distancing",
+          "why": "F75 reports perceived financial use of relationships among non-members, but does not establish that these speakers joined, left, and ended detached despite a grievance. F76 likewise gives no such leaver-level combination. Avoiding distributors is not by itself the card's detached outcome."
+        },
+        {
+          "item": "F80 and F101–F107: support, ambivalence, embarrassment, and lost friendships",
+          "why": "F80 reports a distributor's general view about support and continued activity, not an observed chronology of the opposed leavers. F101–F107 concern inactive or continuing participants and the researcher. F104's immediate denial after a coworker's insult does not establish a former distributor ending opposed without a recruiter/upline grievance. F105's lost friendship likewise does not establish the specified personal wrong and exit outcome."
+        },
+        {
+          "item": "F19, F27, F88, F89, F108, F109, and C28",
+          "why": "These passages articulate or organize the author's identification explanation. In particular, F108 presents prior sensebreaking as the author's account, not a separately described observation resolving the leavers' individual histories. Disagreement with that explanation is not an empirical contradiction. C28 is an incumbent claim, not counterevidence."
+        },
+        {
+          "item": "F22, F110, F123, F124, DG03, and absences A01–A03",
+          "why": "Financial success before quitting, changes in identification, short former-member tenure, and uncertain turnover rates do not determine the required grievance/outcome combination. DG03 explicitly notes that transitions are not analyzed in detail. A01–A03 concern profit figures, refused recruits' testimony, and turnover rates; none supplies the missing individual account or licenses treating an unprinted grievance, aspiration, or sequence as absent in fact."
+        }
+      ]
+    }
+  ]
+}

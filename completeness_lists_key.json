@@ -1,0 +1,331 @@
+{
+ "what": "which line of the judges' two lists is whose; for nobody",
+ "key_sha256": "f45cb6c49213d9b383cab572819d847684bf522db6902bf34d471a7b6e561e4d",
+ "replies": {
+  "bechky": {
+   "file": "reply_68_bechky_check_opus.json",
+   "sha256": "b615d3a3ba914a022541e4fa9be9dbca2182b0c0b76c2984ac902778564afa1b"
+  },
+  "pratt": {
+   "file": "reply_69_pratt_check_opus.json",
+   "sha256": "2a854382b1d99e79a4e405b76a9a31a2283ad762e826577e5ac32a8d602be450"
+  }
+ },
+ "papers": {
+  "bechky": {
+   "pi_list": "A",
+   "lines": {
+    "A01": {
+     "source": "pi",
+     "id": "H01",
+     "line": "pp. 606–607, the paragraph that runs over the page"
+    },
+    "A02": {
+     "source": "pi",
+     "id": "H02",
+     "line": "p. 607, second full paragraph"
+    },
+    "A03": {
+     "source": "pi",
+     "id": "H03",
+     "line": "p. 608, first full paragraph"
+    },
+    "A04": {
+     "source": "pi",
+     "id": "H04",
+     "line": "p. 609, third full paragraph"
+    },
+    "A05": {
+     "source": "pi",
+     "id": "H05",
+     "line": "p. 610, the paragraph above the subheading"
+    },
+    "A06": {
+     "source": "pi",
+     "id": "H06",
+     "line": "pp. 610–611, the paragraph that runs over the page"
+    },
+    "A07": {
+     "source": "pi",
+     "id": "H07",
+     "line": "p. 611, first full paragraph"
+    },
+    "A08": {
+     "source": "pi",
+     "id": "H08",
+     "line": "pp. 611–612, the paragraph that runs over the page"
+    },
+    "A09": {
+     "source": "pi",
+     "id": "H09",
+     "line": "p. 612, footnote 1"
+    },
+    "A10": {
+     "source": "pi",
+     "id": "H10",
+     "line": "p. 621, footnote 4"
+    },
+    "A11": {
+     "source": "pi",
+     "id": "H11",
+     "line": "pp. 622–623, the paragraph that runs over the page"
+    },
+    "A12": {
+     "source": "pi",
+     "id": "H12",
+     "line": "p. 633, Table 2, row \"Values\", column \"Toxicology\""
+    },
+    "A13": {
+     "source": "pi",
+     "id": "H13",
+     "line": "p. 636, third full paragraph"
+    },
+    "A14": {
+     "source": "pi",
+     "id": "H14",
+     "line": "pp. 637–638, the paragraph that runs over the page"
+    },
+    "A15": {
+     "source": "pi",
+     "id": "H15",
+     "line": "p. 638, first full paragraph"
+    },
+    "B01": {
+     "source": "checker",
+     "id": 1,
+     "line": "pp. 606–607, the paragraph that runs over the page"
+    },
+    "B02": {
+     "source": "checker",
+     "id": 2,
+     "line": "p. 608, first full paragraph"
+    },
+    "B03": {
+     "source": "checker",
+     "id": 3,
+     "line": "p. 609, third full paragraph"
+    },
+    "B04": {
+     "source": "checker",
+     "id": 4,
+     "line": "pp. 611–612, the paragraph that runs over the page"
+    },
+    "B05": {
+     "source": "checker",
+     "id": 5,
+     "line": "p. 612, footnote 1"
+    },
+    "B06": {
+     "source": "checker",
+     "id": 6,
+     "line": "p. 618, Figure 1"
+    },
+    "B07": {
+     "source": "checker",
+     "id": 7,
+     "line": "p. 618, Figure 2"
+    },
+    "B08": {
+     "source": "checker",
+     "id": 8,
+     "line": "p. 621, Figure 3"
+    },
+    "B09": {
+     "source": "checker",
+     "id": 9,
+     "line": "p. 621, footnote 4"
+    },
+    "B10": {
+     "source": "checker",
+     "id": 10,
+     "line": "p. 629, Figure 4"
+    },
+    "B11": {
+     "source": "checker",
+     "id": 11,
+     "line": "p. 630, Figure 5"
+    },
+    "B12": {
+     "source": "checker",
+     "id": 12,
+     "line": "p. 633, Table 2, Values row, Toxicology column"
+    },
+    "B13": {
+     "source": "checker",
+     "id": 13,
+     "line": "pp. 637–638, the paragraph that runs over the page"
+    }
+   }
+  },
+  "pratt": {
+   "pi_list": "A",
+   "lines": {
+    "A01": {
+     "source": "pi",
+     "id": "H01",
+     "line": "p. 459, third full paragraph"
+    },
+    "A02": {
+     "source": "pi",
+     "id": "H02",
+     "line": "p. 460, footnote 6"
+    },
+    "A03": {
+     "source": "pi",
+     "id": "H03",
+     "line": "p. 461, second full paragraph"
+    },
+    "A04": {
+     "source": "pi",
+     "id": "H04",
+     "line": "pp. 464–465, the paragraph that runs over the page"
+    },
+    "A05": {
+     "source": "pi",
+     "id": "H05",
+     "line": "p. 466, second full paragraph"
+    },
+    "A06": {
+     "source": "pi",
+     "id": "H06",
+     "line": "p. 467, footnote 11"
+    },
+    "A07": {
+     "source": "pi",
+     "id": "H07",
+     "line": "p. 471, first full paragraph"
+    },
+    "A08": {
+     "source": "pi",
+     "id": "H08",
+     "line": "p. 473, footnote 13"
+    },
+    "A09": {
+     "source": "pi",
+     "id": "H09",
+     "line": "p. 477, first full paragraph"
+    },
+    "A10": {
+     "source": "pi",
+     "id": "H10",
+     "line": "p. 478, first full paragraph"
+    },
+    "A11": {
+     "source": "pi",
+     "id": "H11",
+     "line": "p. 479, first full paragraph"
+    },
+    "A12": {
+     "source": "pi",
+     "id": "H12",
+     "line": "pp. 481–482, the paragraph that runs over the page"
+    },
+    "A13": {
+     "source": "pi",
+     "id": "H13",
+     "line": "p. 482, Figure 2"
+    },
+    "A14": {
+     "source": "pi",
+     "id": "H14",
+     "line": "pp. 486–487, the paragraph that runs over the page"
+    },
+    "B01": {
+     "source": "checker",
+     "id": 1,
+     "line": "p. 458, second full paragraph"
+    },
+    "B02": {
+     "source": "checker",
+     "id": 2,
+     "line": "p. 459, third full paragraph"
+    },
+    "B03": {
+     "source": "checker",
+     "id": 3,
+     "line": "p. 460, second full paragraph"
+    },
+    "B04": {
+     "source": "checker",
+     "id": 4,
+     "line": "p. 460, footnote 5"
+    },
+    "B05": {
+     "source": "checker",
+     "id": 5,
+     "line": "p. 460, footnote 6"
+    },
+    "B06": {
+     "source": "checker",
+     "id": 6,
+     "line": "p. 461, second full paragraph"
+    },
+    "B07": {
+     "source": "checker",
+     "id": 7,
+     "line": "pp. 464–465, the paragraph that runs over the page"
+    },
+    "B08": {
+     "source": "checker",
+     "id": 8,
+     "line": "p. 466, second full paragraph"
+    },
+    "B09": {
+     "source": "checker",
+     "id": 9,
+     "line": "p. 467, footnote 11"
+    },
+    "B10": {
+     "source": "checker",
+     "id": 10,
+     "line": "pp. 469–470, the paragraph that runs over the page"
+    },
+    "B11": {
+     "source": "checker",
+     "id": 11,
+     "line": "p. 473, footnote 13"
+    },
+    "B12": {
+     "source": "checker",
+     "id": 12,
+     "line": "p. 474, first full paragraph"
+    },
+    "B13": {
+     "source": "checker",
+     "id": 13,
+     "line": "p. 477, first full paragraph"
+    },
+    "B14": {
+     "source": "checker",
+     "id": 14,
+     "line": "p. 478, first full paragraph"
+    },
+    "B15": {
+     "source": "checker",
+     "id": 15,
+     "line": "p. 479, first full paragraph"
+    },
+    "B16": {
+     "source": "checker",
+     "id": 16,
+     "line": "pp. 480–481, the paragraph that runs over the page"
+    },
+    "B17": {
+     "source": "checker",
+     "id": 17,
+     "line": "pp. 481–482, the paragraph that runs over the page"
+    },
+    "B18": {
+     "source": "checker",
+     "id": 18,
+     "line": "p. 486, first full paragraph"
+    },
+    "B19": {
+     "source": "checker",
+     "id": 19,
+     "line": "pp. 486–487, the paragraph that runs over the page"
+    }
+   }
+  }
+ }
+}

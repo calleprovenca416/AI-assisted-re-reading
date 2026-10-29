@@ -1,0 +1,417 @@
+{
+ "what": "the key of the completeness test (T38): the PI's lines, the coverage chats' decisions on them, and which of the judges' two lists is the PI's; for nobody",
+ "plan": "COMPLETENESS_TEST_PLAN.md",
+ "seed": 20261024,
+ "draw": "random.Random(20261024): for bechky, then pratt, the PI's list is list A when randrange(2) gives 0",
+ "sources": {
+  "TWO_LISTS_bechky.md": "8ffba0ddbaa3d4f74780483623f267ef263808f01ffd47c6bc07cc74c461e5ea",
+  "bechky_2020_corpus.json": "7ce0e382bb5659552a63d65b889035674ed7ddbd112bdef37295a520b20f5acc",
+  "bechky_2020_coverage_extraction_log.md": "84c446452422b03de235c0d93c9033ad49f65ee2b4747530dc8ff0fac41ada04",
+  "bechky_2020_coverage_list.txt": "c022ce409510b89838117a9d47a0d9a93f948f6f23a6733a4639a13c8a47f080",
+  "bechky_2020_coverage_reading.md": "909001acb132fbd210ddc3d245775bd8988a6e974710f347f25e0c904f6df2ca",
+  "pratt_2000_corpus.json": "b22a8f26e2eb875ce0da9a29572380ba5a24dc88c196b5515d9380f47d2bd2c9",
+  "pratt_2000_coverage_extraction_log.md": "9565c8183363e4f6aca000767265facef9f00ab7c477ca7175b17dd79ffa2b14",
+  "pratt_2000_coverage_list.txt": "9543f6f1c6ab14b4706b7a43fed8ec1d1d573a0c9645cc5acd055465fc71f4e3",
+  "pratt_2000_coverage_reading.md": "07b743457e1f03f15209c146ec7b0b52d777b5af4d03e0254a08ed622924a939"
+ },
+ "builder_sha256": "ccb9c3c0c2942bd9b93d231a01ac8eb3454f9e4ab6755ba39d257a17f9813cf8",
+ "papers": {
+  "bechky": {
+   "range": [
+    606,
+    643
+   ],
+   "lines": [
+    {
+     "id": "H01",
+     "list_line": 1,
+     "line": "pp. 606–607, the paragraph that runs over the page",
+     "pages": [
+      606,
+      607
+     ],
+     "kind": "paragraph",
+     "coverage_added": [],
+     "coverage_log_line": 199
+    },
+    {
+     "id": "H02",
+     "list_line": 2,
+     "line": "p. 607, second full paragraph",
+     "pages": [
+      607
+     ],
+     "kind": "paragraph",
+     "coverage_added": [],
+     "coverage_log_line": 200
+    },
+    {
+     "id": "H03",
+     "list_line": 3,
+     "line": "p. 608, first full paragraph",
+     "pages": [
+      608
+     ],
+     "kind": "paragraph",
+     "coverage_added": [],
+     "coverage_log_line": 201
+    },
+    {
+     "id": "H04",
+     "list_line": 4,
+     "line": "p. 609, third full paragraph",
+     "pages": [
+      609
+     ],
+     "kind": "paragraph",
+     "coverage_added": [],
+     "coverage_log_line": 202
+    },
+    {
+     "id": "H05",
+     "list_line": 5,
+     "line": "p. 610, the paragraph above the subheading",
+     "pages": [
+      610
+     ],
+     "kind": "paragraph",
+     "coverage_added": [],
+     "coverage_log_line": 203
+    },
+    {
+     "id": "H06",
+     "list_line": 6,
+     "line": "pp. 610–611, the paragraph that runs over the page",
+     "pages": [
+      610,
+      611
+     ],
+     "kind": "paragraph",
+     "coverage_added": [],
+     "coverage_log_line": 204
+    },
+    {
+     "id": "H07",
+     "list_line": 7,
+     "line": "p. 611, first full paragraph",
+     "pages": [
+      611
+     ],
+     "kind": "paragraph",
+     "coverage_added": [],
+     "coverage_log_line": 205
+    },
+    {
+     "id": "H08",
+     "list_line": 8,
+     "line": "pp. 611–612, the paragraph that runs over the page",
+     "pages": [
+      611,
+      612
+     ],
+     "kind": "paragraph",
+     "coverage_added": [
+      "F169"
+     ],
+     "coverage_log_line": 206
+    },
+    {
+     "id": "H09",
+     "list_line": 9,
+     "line": "p. 612, footnote 1",
+     "pages": [
+      612
+     ],
+     "kind": "footnote",
+     "coverage_added": [
+      "F170"
+     ],
+     "coverage_log_line": 207
+    },
+    {
+     "id": "H10",
+     "list_line": 10,
+     "line": "p. 621, footnote 4",
+     "pages": [
+      621
+     ],
+     "kind": "footnote",
+     "coverage_added": [],
+     "coverage_log_line": 208
+    },
+    {
+     "id": "H11",
+     "list_line": 11,
+     "line": "pp. 622–623, the paragraph that runs over the page",
+     "pages": [
+      622,
+      623
+     ],
+     "kind": "paragraph",
+     "coverage_added": [
+      "F171"
+     ],
+     "coverage_log_line": 209
+    },
+    {
+     "id": "H12",
+     "list_line": 12,
+     "line": "p. 633, Table 2, row \"Values\", column \"Toxicology\"",
+     "pages": [
+      633
+     ],
+     "kind": "table",
+     "coverage_added": [],
+     "coverage_log_line": 210
+    },
+    {
+     "id": "H13",
+     "list_line": 13,
+     "line": "p. 636, third full paragraph",
+     "pages": [
+      636
+     ],
+     "kind": "paragraph",
+     "coverage_added": [
+      "F172"
+     ],
+     "coverage_log_line": 211
+    },
+    {
+     "id": "H14",
+     "list_line": 14,
+     "line": "pp. 637–638, the paragraph that runs over the page",
+     "pages": [
+      637,
+      638
+     ],
+     "kind": "paragraph",
+     "coverage_added": [],
+     "coverage_log_line": 212
+    },
+    {
+     "id": "H15",
+     "list_line": 15,
+     "line": "p. 638, first full paragraph",
+     "pages": [
+      638
+     ],
+     "kind": "paragraph",
+     "coverage_added": [],
+     "coverage_log_line": 213
+    }
+   ],
+   "duplicate": {
+    "list_line": 16,
+    "same_as_list_line": 15
+   },
+   "pi_is_list_A": true
+  },
+  "pratt": {
+   "range": [
+    456,
+    493
+   ],
+   "lines": [
+    {
+     "id": "H01",
+     "list_line": 1,
+     "line": "p. 459, third full paragraph",
+     "pages": [
+      459
+     ],
+     "kind": "paragraph",
+     "coverage_added": [
+      "F122"
+     ],
+     "coverage_log_line": 207
+    },
+    {
+     "id": "H02",
+     "list_line": 2,
+     "line": "p. 460, footnote 6",
+     "pages": [
+      460
+     ],
+     "kind": "footnote",
+     "coverage_added": [
+      "C53"
+     ],
+     "coverage_log_line": 208
+    },
+    {
+     "id": "H03",
+     "list_line": 3,
+     "line": "p. 461, second full paragraph",
+     "pages": [
+      461
+     ],
+     "kind": "paragraph",
+     "coverage_added": [
+      "F123"
+     ],
+     "coverage_log_line": 209
+    },
+    {
+     "id": "H04",
+     "list_line": 4,
+     "line": "pp. 464–465, the paragraph that runs over the page",
+     "pages": [
+      464,
+      465
+     ],
+     "kind": "paragraph",
+     "coverage_added": [],
+     "coverage_log_line": 210
+    },
+    {
+     "id": "H05",
+     "list_line": 5,
+     "line": "p. 466, second full paragraph",
+     "pages": [
+      466
+     ],
+     "kind": "paragraph",
+     "coverage_added": [],
+     "coverage_log_line": 211
+    },
+    {
+     "id": "H06",
+     "list_line": 6,
+     "line": "p. 467, footnote 11",
+     "pages": [
+      467
+     ],
+     "kind": "footnote",
+     "coverage_added": [
+      "C54"
+     ],
+     "coverage_log_line": 212
+    },
+    {
+     "id": "H07",
+     "list_line": 7,
+     "line": "p. 471, first full paragraph",
+     "pages": [
+      471
+     ],
+     "kind": "paragraph",
+     "coverage_added": [],
+     "coverage_log_line": 213
+    },
+    {
+     "id": "H08",
+     "list_line": 8,
+     "line": "p. 473, footnote 13",
+     "pages": [
+      473
+     ],
+     "kind": "footnote",
+     "coverage_added": [
+      "C55"
+     ],
+     "coverage_log_line": 214
+    },
+    {
+     "id": "H09",
+     "list_line": 9,
+     "line": "p. 477, first full paragraph",
+     "pages": [
+      477
+     ],
+     "kind": "paragraph",
+     "coverage_added": [
+      "F124",
+      "C56"
+     ],
+     "coverage_log_line": 215
+    },
+    {
+     "id": "H10",
+     "list_line": 10,
+     "line": "p. 478, first full paragraph",
+     "pages": [
+      478
+     ],
+     "kind": "paragraph",
+     "coverage_added": [
+      "F125",
+      "C57"
+     ],
+     "coverage_log_line": 216
+    },
+    {
+     "id": "H11",
+     "list_line": 11,
+     "line": "p. 479, first full paragraph",
+     "pages": [
+      479
+     ],
+     "kind": "paragraph",
+     "coverage_added": [
+      "C58"
+     ],
+     "coverage_log_line": 217
+    },
+    {
+     "id": "H12",
+     "list_line": 12,
+     "line": "pp. 481–482, the paragraph that runs over the page",
+     "pages": [
+      481,
+      482
+     ],
+     "kind": "paragraph",
+     "coverage_added": [
+      "C59"
+     ],
+     "coverage_log_line": 218
+    },
+    {
+     "id": "H13",
+     "list_line": 13,
+     "line": "p. 482, Figure 2",
+     "pages": [
+      482
+     ],
+     "kind": "figure",
+     "coverage_added": [
+      "C60"
+     ],
+     "coverage_log_line": 219
+    },
+    {
+     "id": "H14",
+     "list_line": 14,
+     "line": "pp. 486–487, the paragraph that runs over the page",
+     "pages": [
+      486,
+      487
+     ],
+     "kind": "paragraph",
+     "coverage_added": [],
+     "coverage_log_line": 220
+    }
+   ],
+   "duplicate": null,
+   "pi_is_list_A": true
+  }
+ },
+ "matcher": {
+  "L01": "H01",
+  "L02": "H02",
+  "L03": "H03",
+  "L04": "H04",
+  "L05": "H05",
+  "L06": "H06",
+  "L07": "H07",
+  "L08": "H08",
+  "L09": "H09",
+  "L10": "H10",
+  "L11": "H11",
+  "L12": "H12",
+  "L13": "H13",
+  "L14": "H14",
+  "L15": "H15"
+ }
+}

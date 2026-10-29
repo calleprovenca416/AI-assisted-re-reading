@@ -1,0 +1,597 @@
+{
+  "paper": "Bechky 2020",
+  "readings": [
+    {
+      "reading": "M01",
+      "claim": "C14",
+      "other_claims": [
+        "C16",
+        "C18"
+      ],
+      "passages": [
+        "F47",
+        "F50",
+        "F66",
+        "F122",
+        "F125"
+      ],
+      "alternative": "DNA gains authority through records that redistribute opportunities for later scrutiny, while expert discretion persists; neighboring reforms concern who can inspect judgments.",
+      "none_note": ""
+    },
+    {
+      "reading": "M02",
+      "claim": "C18",
+      "other_claims": [
+        "C04",
+        "C05",
+        "C03"
+      ],
+      "passages": [
+        "F109",
+        "F122",
+        "F123",
+        "F124",
+        "F125"
+      ],
+      "alternative": "Narcotics retains crystals because statutory deadlines and limited instrument capacity make wholesale substitution unworkable, while analysts consider affordable ways to enable later review.",
+      "none_note": ""
+    },
+    {
+      "reading": "M03",
+      "claim": "none",
+      "other_claims": [
+        "C04",
+        "C16"
+      ],
+      "passages": [
+        "F43",
+        "F46",
+        "F48",
+        "F50",
+        "F69"
+      ],
+      "alternative": "Forensic biology belongs among the evaluated cases: its collective judgments and earlier scrutiny resemble neighboring units, whose apparent differences concern the outputs being compared.",
+      "none_note": "It contests the analytical placement of forensic biology outside the compared cases as their reference point, rather than a claim explicitly stated in the reference."
+    },
+    {
+      "reading": "M04",
+      "claim": "C16",
+      "other_claims": [
+        "C17",
+        "C18",
+        "C05"
+      ],
+      "passages": [
+        "F67",
+        "F68",
+        "F71",
+        "F102",
+        "F125"
+      ],
+      "alternative": "Firearms already adapted its documentation; across units, additions preserving analytical judgment were accepted or considered, while changes replacing that judgment were resisted or never requested.",
+      "none_note": ""
+    },
+    {
+      "reading": "M05",
+      "claim": "C19",
+      "other_claims": [
+        "C17",
+        "C01",
+        "C02"
+      ],
+      "passages": [
+        "F60",
+        "F41",
+        "F98",
+        "F102",
+        "F165"
+      ],
+      "alternative": "The spillover boundary may separate the focal units themselves: shared audiences do not establish toxicology’s inclusion when its documented reform has an independent standards origin.",
+      "none_note": ""
+    },
+    {
+      "reading": "M06",
+      "claim": "C18",
+      "other_claims": [
+        "C03"
+      ],
+      "passages": [
+        "F122",
+        "F123",
+        "F124",
+        "F125",
+        "F129"
+      ],
+      "alternative": "Narcotics was awaiting an unsettled requirement while assessing capacity and compliance options; continued crystal testing marks an unfinished process, rather than an established refusal.",
+      "none_note": ""
+    },
+    {
+      "reading": "M07",
+      "claim": "C05",
+      "other_claims": [
+        "C16",
+        "C17",
+        "C18"
+      ],
+      "passages": [
+        "F90",
+        "F84",
+        "F80",
+        "F123",
+        "F129"
+      ],
+      "alternative": "Expected personal exposure in local court determines whether units change; occupational values describe their responses without adding an independent explanation.",
+      "none_note": ""
+    },
+    {
+      "reading": "M08",
+      "claim": "C18",
+      "other_claims": [
+        "C21",
+        "C05",
+        "C03"
+      ],
+      "passages": [
+        "F106",
+        "F121",
+        "F110",
+        "F123"
+      ],
+      "alternative": "Narcotics faces a regional contest over whose existing methods become compulsory, with perceived control of standard setting giving DNA comparisons their consequential force.",
+      "none_note": ""
+    },
+    {
+      "reading": "M09",
+      "claim": "C10",
+      "other_claims": [
+        "C20",
+        "C05",
+        "C18"
+      ],
+      "passages": [
+        "F114",
+        "F06",
+        "F57",
+        "F128",
+        "F113"
+      ],
+      "alternative": "Unit cultures partly result from employees moving toward preferred work, so narcotics resistance reflects selected membership as well as values acquired through practice.",
+      "none_note": ""
+    },
+    {
+      "reading": "M10",
+      "claim": "C17",
+      "other_claims": [
+        "C03"
+      ],
+      "passages": [
+        "F98",
+        "F101",
+        "F102",
+        "F143",
+        "F161"
+      ],
+      "alternative": "An existing accreditation obligation explains toxicology’s reporting reform; the nearby court challenge sets its implementation date rather than producing the decision to change.",
+      "none_note": ""
+    },
+    {
+      "reading": "M11",
+      "claim": "C10",
+      "other_claims": [
+        "C20",
+        "C05"
+      ],
+      "passages": [
+        "F06",
+        "F57",
+        "F114",
+        "F95"
+      ],
+      "alternative": "Hiring, transfers, and employees’ prior preferences assemble distinctive unit cultures, making responses partly consequences of accumulated staffing decisions.",
+      "none_note": ""
+    },
+    {
+      "reading": "M12",
+      "claim": "C21",
+      "other_claims": [
+        "C05",
+        "C10"
+      ],
+      "passages": [
+        "F54",
+        "F57",
+        "F75",
+        "F127",
+        "F149"
+      ],
+      "alternative": "Units defend or improve their standing and irreplaceability: craft training protects firearms and narcotics, while uncertainty reporting gives toxicology a claim to distinction.",
+      "none_note": ""
+    },
+    {
+      "reading": "M13",
+      "claim": "C18",
+      "other_claims": [
+        "C17",
+        "C05",
+        "C04"
+      ],
+      "passages": [
+        "F98",
+        "F102",
+        "F109",
+        "F123",
+        "F124"
+      ],
+      "alternative": "Narcotics faces costly replacement of routine analysis, whereas toxicology supplements established work; unequal disruption and capacity requirements explain their contrasting responses more directly than values.",
+      "none_note": ""
+    },
+    {
+      "reading": "M14",
+      "claim": "C02",
+      "other_claims": [
+        "C17",
+        "C18",
+        "C13"
+      ],
+      "passages": [
+        "F60",
+        "F85",
+        "F102",
+        "F122",
+        "F123"
+      ],
+      "alternative": "Firearms encounters explicit DNA comparison, while toxicology and narcotics face separately sourced demands that the author connects to DNA, making the three pressures causally heterogeneous.",
+      "none_note": ""
+    },
+    {
+      "reading": "M15",
+      "claim": "C17",
+      "other_claims": [
+        "C03"
+      ],
+      "passages": [
+        "F98",
+        "F101",
+        "F102",
+        "F78",
+        "F143"
+      ],
+      "alternative": "Toxicology’s standing accreditation requirement explains its eventual change relative to firearms; litigation merely advances a reform already required and planned.",
+      "none_note": ""
+    },
+    {
+      "reading": "M16",
+      "claim": "C18",
+      "other_claims": [
+        "C17",
+        "C04",
+        "C05"
+      ],
+      "passages": [
+        "F109",
+        "F119",
+        "F123",
+        "F125",
+        "F102"
+      ],
+      "alternative": "Narcotics protects viable case processing under equipment and deadline constraints; its proposed wholesale substitution costs much more than toxicology’s supplementary reporting calculation.",
+      "none_note": ""
+    },
+    {
+      "reading": "M17",
+      "claim": "C14",
+      "other_claims": [
+        "C16",
+        "C18"
+      ],
+      "passages": [
+        "F47",
+        "F50",
+        "F69",
+        "F122",
+        "F125"
+      ],
+      "alternative": "Durable records redistribute the ability to revisit expert conclusions, making control over subsequent scrutiny the central issue across DNA and neighboring units.",
+      "none_note": ""
+    },
+    {
+      "reading": "M18",
+      "claim": "C18",
+      "other_claims": [
+        "C04",
+        "C05"
+      ],
+      "passages": [
+        "F109",
+        "F119",
+        "F123",
+        "F124",
+        "F125"
+      ],
+      "alternative": "Knowing GC/MS does not provide capacity for universal use; equipment limits and legal turnaround requirements explain continued crystal testing even without craft preferences.",
+      "none_note": ""
+    },
+    {
+      "reading": "M19",
+      "claim": "C16",
+      "other_claims": [
+        "C18",
+        "C04"
+      ],
+      "passages": [
+        "F47",
+        "F67",
+        "F68",
+        "F122",
+        "F125"
+      ],
+      "alternative": "Firearms has already adopted reviewable documentation while declining quantification; narcotics considers similar records, so the outcome categories obscure selective adaptation shared across units.",
+      "none_note": ""
+    },
+    {
+      "reading": "M20",
+      "claim": "C10",
+      "other_claims": [
+        "C20",
+        "C05",
+        "C18"
+      ],
+      "passages": [
+        "F114",
+        "F113",
+        "F95",
+        "F128",
+        "F06"
+      ],
+      "alternative": "Occupational values partly record selective entry, persistence, and departure, with dissatisfied toxicologists carrying preferences into narcotics rather than acquiring them solely from its techniques.",
+      "none_note": ""
+    },
+    {
+      "reading": "M21",
+      "claim": "C16",
+      "other_claims": [
+        "C03",
+        "C04"
+      ],
+      "passages": [
+        "F47",
+        "F66",
+        "F67",
+        "F68",
+        "F73"
+      ],
+      "alternative": "Firearms already accommodated courtroom scrutiny through documented, jointly checked judgments; its resistance concerns statistical matching, and freedom from local challenge may reflect earlier adaptation.",
+      "none_note": ""
+    },
+    {
+      "reading": "M22",
+      "claim": "C17",
+      "other_claims": [
+        "C01",
+        "C02",
+        "C03"
+      ],
+      "passages": [
+        "F98",
+        "F101",
+        "F102"
+      ],
+      "alternative": "Accreditation established toxicology’s reform before the DNA comparison became urgent; litigation accelerated an existing project whose content and eventual adoption had independent foundations.",
+      "none_note": ""
+    },
+    {
+      "reading": "M23",
+      "claim": "C17",
+      "other_claims": [
+        "C01",
+        "C02",
+        "C03"
+      ],
+      "passages": [
+        "F89",
+        "F90",
+        "F98",
+        "F102",
+        "F34"
+      ],
+      "alternative": "Accreditation determined toxicology’s uncertainty reform and DUI litigation accelerated it; DNA supplies the author’s causal framing rather than a documented impetus for participants.",
+      "none_note": ""
+    },
+    {
+      "reading": "M24",
+      "claim": "C17",
+      "other_claims": [
+        "C01",
+        "C02"
+      ],
+      "passages": [
+        "F89",
+        "F90",
+        "F98",
+        "F102",
+        "F161"
+      ],
+      "alternative": "Toxicology completed an existing ISO obligation early because testimony was threatened; its change reflects standards compliance and litigation rather than a response to DNA.",
+      "none_note": ""
+    },
+    {
+      "reading": "M25",
+      "claim": "C05",
+      "other_claims": [
+        "C16",
+        "C17",
+        "C18"
+      ],
+      "passages": [
+        "F84",
+        "F80",
+        "F98",
+        "F129",
+        "F67"
+      ],
+      "alternative": "Units adjust when credible local consequences make persistence costly; their different exposure stages explain outcomes, while values shape the language and form of adjustment.",
+      "none_note": ""
+    },
+    {
+      "reading": "M26",
+      "claim": "C05",
+      "other_claims": [
+        "C17",
+        "C18",
+        "C16"
+      ],
+      "passages": [
+        "F109",
+        "F123",
+        "F125",
+        "F102",
+        "F85"
+      ],
+      "alternative": "Resource requirements determine responses: toxicology can reuse existing infrastructure, narcotics lacks throughput capacity, and firearms lacks affordable statistical infrastructure; values express these practical costs.",
+      "none_note": ""
+    },
+    {
+      "reading": "M27",
+      "claim": "C10",
+      "other_claims": [
+        "C20",
+        "C05",
+        "C18"
+      ],
+      "passages": [
+        "F06",
+        "F57",
+        "F114",
+        "F95",
+        "F128"
+      ],
+      "alternative": "Unit values partly reflect organizational placement and preference driven transfers; response differences track who occupies each bench, with further transfers another possible reaction to imposed change.",
+      "none_note": ""
+    },
+    {
+      "reading": "M28",
+      "claim": "C17",
+      "other_claims": [
+        "C03",
+        "C01",
+        "C02"
+      ],
+      "passages": [
+        "F89",
+        "F90",
+        "F98",
+        "F102"
+      ],
+      "alternative": "An impending case accelerated a previously established accreditation project; DNA comparison may explain urgency without determining the reporting reform’s substance or eventual adoption.",
+      "none_note": ""
+    }
+  ],
+  "groups": [
+    {
+      "group": "G1",
+      "point": "DNA’s authority and neighboring reforms turn on redistributing access to later scrutiny through durable records, while expert judgment remains.",
+      "readings": [
+        "M01",
+        "M17"
+      ]
+    },
+    {
+      "group": "G2",
+      "point": "Narcotics retains crystals to meet legal deadlines with limited capacity; replacing its routine method imposes costs that technical availability alone does not resolve.",
+      "readings": [
+        "M02",
+        "M13",
+        "M16",
+        "M18"
+      ]
+    },
+    {
+      "group": "G3",
+      "point": "Forensic biology should be another evaluated case of collective judgment, rather than the analytical reference point outside the comparison.",
+      "readings": [
+        "M03"
+      ]
+    },
+    {
+      "group": "G4",
+      "point": "Firearms already adapted by making judgments reviewable; distinguishing documentary additions from replacement of judgment reveals selective accommodation obscured by the resistance category.",
+      "readings": [
+        "M04",
+        "M19",
+        "M21"
+      ]
+    },
+    {
+      "group": "G5",
+      "point": "Shared audiences do not locate the spillover boundary: toxicology may fall outside it despite belonging to the same laboratory.",
+      "readings": [
+        "M05"
+      ]
+    },
+    {
+      "group": "G6",
+      "point": "Narcotics’ apparent resistance is a provisional stage of an unresolved rulemaking and capacity problem, without a demonstrated refusal of a binding demand.",
+      "readings": [
+        "M06"
+      ]
+    },
+    {
+      "group": "G7",
+      "point": "Credible local consequences determine whether units change; differences in exposure explain outcomes more directly than occupational values.",
+      "readings": [
+        "M07",
+        "M25"
+      ]
+    },
+    {
+      "group": "G8",
+      "point": "Narcotics’ dispute concerns regional control over compulsory standards, with DNA prestige strengthening one coalition’s established methods.",
+      "readings": [
+        "M08"
+      ]
+    },
+    {
+      "group": "G9",
+      "point": "Staff placement and movement toward preferred work help produce occupational cultures, so observed values and responses partly reflect selective membership.",
+      "readings": [
+        "M09",
+        "M11",
+        "M20",
+        "M27"
+      ]
+    },
+    {
+      "group": "G10",
+      "point": "Prior accreditation obligations explain toxicology’s reporting reform; impending litigation accelerates a change whose content and eventual adoption were already established.",
+      "readings": [
+        "M10",
+        "M15",
+        "M22",
+        "M23",
+        "M24",
+        "M28"
+      ]
+    },
+    {
+      "group": "G11",
+      "point": "Responses protect occupational standing and members’ irreplaceability, making status and power central to the pattern across units.",
+      "readings": [
+        "M12"
+      ]
+    },
+    {
+      "group": "G12",
+      "point": "Explicit DNA comparison in firearms and independently sourced demands elsewhere are combined under one spillover label, obscuring differences in what prompted evaluation.",
+      "readings": [
+        "M14"
+      ]
+    },
+    {
+      "group": "G13",
+      "point": "Across all three units, equipment, data, time, and deadline costs determine responses, while occupational values articulate those practical constraints.",
+      "readings": [
+        "M26"
+      ]
+    }
+  ]
+}

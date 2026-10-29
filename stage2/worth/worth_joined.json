@@ -1,0 +1,880 @@
+{
+ "sheet": "stage2/worth/worth_sheet_filled_2.xlsx",
+ "first_sheet": "stage2/worth/worth_sheet_filled.xlsx",
+ "below_bar": {
+  "pratt": 0.593,
+  "bechky": null
+ },
+ "readings": [
+  {
+   "paper": "pratt",
+   "reading": "P01",
+   "arm": "plain",
+   "source_id": "R3",
+   "move": null,
+   "sentences": 18,
+   "worth": 1,
+   "note": "worth checking against the case; but I don't think it's very likely to create a theoretical opening",
+   "late": false,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 10,
+    "found": 10,
+    "R": 9,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 12,
+    "found": 11,
+    "R": 9,
+    "P": 0,
+    "U": 1,
+    "C": 0,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "pratt",
+   "reading": "P02",
+   "arm": "middle",
+   "source_id": "boundary_shift_01",
+   "move": "boundary_shift",
+   "sentences": 6,
+   "worth": 1,
+   "note": "worth checking against the case; but I don't think it's very likely to create a theoretical opening",
+   "late": false,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 5,
+    "found": 4,
+    "R": 1,
+    "P": 1,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 5,
+    "found": 4,
+    "R": 2,
+    "P": 1,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "pratt",
+   "reading": "P03",
+   "arm": "plain",
+   "source_id": "R1",
+   "move": null,
+   "sentences": 21,
+   "worth": 2,
+   "note": "I think this is quite interesting. Could be developed further. Sounds consistent with other identity-related research.",
+   "late": false,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 15,
+    "found": 12,
+    "R": 10,
+    "P": 3,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 17,
+    "found": 13,
+    "R": 10,
+    "P": 3,
+    "U": 1,
+    "C": 0,
+    "warrant": true
+   }
+  },
+  {
+   "paper": "pratt",
+   "reading": "P04",
+   "arm": "system",
+   "source_id": "pratt_2000_construct_inversion_CP03_01",
+   "move": "construct_inversion",
+   "sentences": 15,
+   "worth": 0,
+   "note": "don’t see any worthwhile opening.",
+   "late": false,
+   "attack": "killed",
+   "opus": {
+    "reporting": 11,
+    "found": 11,
+    "R": 6,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 10,
+    "found": 7,
+    "R": 7,
+    "P": 3,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "pratt",
+   "reading": "P05",
+   "arm": "plain",
+   "source_id": "R2",
+   "move": null,
+   "sentences": 20,
+   "worth": 2,
+   "note": "Not bad. It's quite interesting proposition; worth investigating further",
+   "late": false,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 12,
+    "found": 11,
+    "R": 8,
+    "P": 0,
+    "U": 0,
+    "C": 1,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 16,
+    "found": 12,
+    "R": 11,
+    "P": 3,
+    "U": 0,
+    "C": 1,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "pratt",
+   "reading": "P06",
+   "arm": "middle",
+   "source_id": "construct_fission_01",
+   "move": "construct_fission",
+   "sentences": 9,
+   "worth": 1,
+   "note": "worth checking against the case; but I don't think it's very likely to create a theoretical opening",
+   "late": false,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 5,
+    "found": 4,
+    "R": 0,
+    "P": 1,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 5,
+    "found": 3,
+    "R": 0,
+    "P": 2,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "pratt",
+   "reading": "P07",
+   "arm": "middle",
+   "source_id": "construct_inversion_01",
+   "move": "construct_inversion",
+   "sentences": 7,
+   "worth": 2,
+   "note": "Not bad. It's quite interesting proposition; worth investigating further",
+   "late": false,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 4,
+    "found": 3,
+    "R": 1,
+    "P": 1,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 5,
+    "found": 4,
+    "R": 3,
+    "P": 0,
+    "U": 1,
+    "C": 0,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "pratt",
+   "reading": "P08",
+   "arm": "middle",
+   "source_id": "counterfactual_ending_01",
+   "move": "counterfactual_ending",
+   "sentences": 11,
+   "worth": 1,
+   "note": "worth checking against the case; but I don't think it's very likely to create a theoretical opening",
+   "late": false,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 8,
+    "found": 8,
+    "R": 4,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 10,
+    "found": 8,
+    "R": 6,
+    "P": 2,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "pratt",
+   "reading": "P09",
+   "arm": "system",
+   "source_id": "pratt_2000_counterfactual_ending_C56_01",
+   "move": "counterfactual_ending",
+   "sentences": 11,
+   "worth": 2,
+   "note": "Not bad. It's quite interesting proposition; worth investigating further",
+   "late": false,
+   "attack": "killed",
+   "opus": {
+    "reporting": 6,
+    "found": 6,
+    "R": 4,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 8,
+    "found": 6,
+    "R": 4,
+    "P": 2,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "pratt",
+   "reading": "P10",
+   "arm": "system",
+   "source_id": "pratt_2000_construct_inversion_CP01_01",
+   "move": "construct_inversion",
+   "sentences": 12,
+   "worth": 1,
+   "note": "worth checking against the case; but I don't think it's very likely to create a theoretical opening",
+   "late": false,
+   "attack": "killed",
+   "opus": {
+    "reporting": 11,
+    "found": 7,
+    "R": 2,
+    "P": 0,
+    "U": 0,
+    "C": 4,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 9,
+    "found": 4,
+    "R": 3,
+    "P": 1,
+    "U": 0,
+    "C": 4,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "pratt",
+   "reading": "P11",
+   "arm": "system",
+   "source_id": "pratt_2000_focalization_shift_current_and_former_distributors_01",
+   "move": "focalization_shift",
+   "sentences": 12,
+   "worth": 0,
+   "note": "not worth exploring",
+   "late": false,
+   "attack": "killed",
+   "opus": {
+    "reporting": 8,
+    "found": 6,
+    "R": 2,
+    "P": 2,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 7,
+    "found": 5,
+    "R": 3,
+    "P": 0,
+    "U": 1,
+    "C": 1,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "pratt",
+   "reading": "P12",
+   "arm": "plain",
+   "source_id": "R4",
+   "move": null,
+   "sentences": 21,
+   "worth": 0,
+   "note": "not worth exploring",
+   "late": true,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 13,
+    "found": 10,
+    "R": 8,
+    "P": 2,
+    "U": 1,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 15,
+    "found": 9,
+    "R": 8,
+    "P": 2,
+    "U": 2,
+    "C": 2,
+    "warrant": true
+   }
+  },
+  {
+   "paper": "pratt",
+   "reading": "P13",
+   "arm": "system",
+   "source_id": "pratt_2000_construct_inversion_CP02_01",
+   "move": "construct_inversion",
+   "sentences": 13,
+   "worth": 0,
+   "note": "not worth exploring",
+   "late": false,
+   "attack": "killed",
+   "opus": {
+    "reporting": 9,
+    "found": 7,
+    "R": 4,
+    "P": 0,
+    "U": 0,
+    "C": 2,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 9,
+    "found": 3,
+    "R": 3,
+    "P": 4,
+    "U": 0,
+    "C": 2,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "pratt",
+   "reading": "P14",
+   "arm": "plain",
+   "source_id": "R5",
+   "move": null,
+   "sentences": 19,
+   "worth": 2,
+   "note": "Not bad. It's quite interesting proposition; worth investigating further",
+   "late": true,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 12,
+    "found": 11,
+    "R": 6,
+    "P": 0,
+    "U": 1,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 13,
+    "found": 10,
+    "R": 7,
+    "P": 3,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "pratt",
+   "reading": "P15",
+   "arm": "middle",
+   "source_id": "focalization_shift_01",
+   "move": "focalization_shift",
+   "sentences": 8,
+   "worth": 0,
+   "note": "not worth exploring",
+   "late": false,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 6,
+    "found": 6,
+    "R": 6,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 7,
+    "found": 4,
+    "R": 4,
+    "P": 1,
+    "U": 2,
+    "C": 0,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "bechky",
+   "reading": "B01",
+   "arm": "middle",
+   "source_id": "counterfactual_ending_01",
+   "move": "counterfactual_ending",
+   "sentences": 9,
+   "worth": 0,
+   "note": "not worth investigating",
+   "late": false,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 8,
+    "found": 8,
+    "R": 6,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 8,
+    "found": 8,
+    "R": 6,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "bechky",
+   "reading": "B02",
+   "arm": "plain",
+   "source_id": "R4",
+   "move": null,
+   "sentences": 17,
+   "worth": 2,
+   "note": "worth checking with the paper; something interesting here.",
+   "late": false,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 13,
+    "found": 13,
+    "R": 8,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 13,
+    "found": 9,
+    "R": 7,
+    "P": 2,
+    "U": 2,
+    "C": 0,
+    "warrant": true
+   }
+  },
+  {
+   "paper": "bechky",
+   "reading": "B03",
+   "arm": "middle",
+   "source_id": "construct_fission_01",
+   "move": "construct_fission",
+   "sentences": 6,
+   "worth": 1,
+   "note": "worth investigating a bit; doubt it's going to change the incumbent story.",
+   "late": false,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 4,
+    "found": 4,
+    "R": 3,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 4,
+    "found": 3,
+    "R": 2,
+    "P": 0,
+    "U": 0,
+    "C": 1,
+    "warrant": true
+   }
+  },
+  {
+   "paper": "bechky",
+   "reading": "B04",
+   "arm": "system",
+   "source_id": "bechky_2020_counterfactual_ending_DG02_01",
+   "move": "counterfactual_ending",
+   "sentences": 13,
+   "worth": 1,
+   "note": "interesting; but I doubt it's a real opening",
+   "late": false,
+   "attack": "survived",
+   "opus": {
+    "reporting": 10,
+    "found": 9,
+    "R": 6,
+    "P": 0,
+    "U": 0,
+    "C": 1,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 10,
+    "found": 8,
+    "R": 5,
+    "P": 0,
+    "U": 0,
+    "C": 2,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "bechky",
+   "reading": "B05",
+   "arm": "plain",
+   "source_id": "R1",
+   "move": null,
+   "sentences": 14,
+   "worth": 2,
+   "note": "worth checking with the paper; something interesting here.",
+   "late": false,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 10,
+    "found": 10,
+    "R": 10,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 11,
+    "found": 8,
+    "R": 7,
+    "P": 1,
+    "U": 0,
+    "C": 2,
+    "warrant": true
+   }
+  },
+  {
+   "paper": "bechky",
+   "reading": "B06",
+   "arm": "plain",
+   "source_id": "R2",
+   "move": null,
+   "sentences": 18,
+   "worth": 2,
+   "note": "worth checking with the paper; something interesting here.",
+   "late": true,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 14,
+    "found": 13,
+    "R": 12,
+    "P": 1,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 15,
+    "found": 9,
+    "R": 9,
+    "P": 4,
+    "U": 1,
+    "C": 1,
+    "warrant": true
+   }
+  },
+  {
+   "paper": "bechky",
+   "reading": "B07",
+   "arm": "plain",
+   "source_id": "R5",
+   "move": null,
+   "sentences": 18,
+   "worth": 2,
+   "note": "worth checking with the paper; something interesting here.",
+   "late": false,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 12,
+    "found": 12,
+    "R": 12,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 14,
+    "found": 10,
+    "R": 10,
+    "P": 3,
+    "U": 1,
+    "C": 0,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "bechky",
+   "reading": "B08",
+   "arm": "middle",
+   "source_id": "construct_inversion_01",
+   "move": "construct_inversion",
+   "sentences": 9,
+   "worth": 0,
+   "note": "not worth investigating",
+   "late": false,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 7,
+    "found": 7,
+    "R": 6,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 7,
+    "found": 7,
+    "R": 6,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "bechky",
+   "reading": "B09",
+   "arm": "system",
+   "source_id": "bechky_2020_construct_inversion_from_pair_CP02_01",
+   "move": "construct_inversion",
+   "sentences": 21,
+   "worth": 2,
+   "note": "worth checking with the paper; something interesting here.",
+   "late": false,
+   "attack": "killed",
+   "opus": {
+    "reporting": 17,
+    "found": 17,
+    "R": 15,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 17,
+    "found": 16,
+    "R": 15,
+    "P": 1,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "bechky",
+   "reading": "B10",
+   "arm": "system",
+   "source_id": "bechky_2020_focalization_shift_forensic_biology_DNA_01",
+   "move": "focalization_shift",
+   "sentences": 15,
+   "worth": 2,
+   "note": "worth checking with the paper; something interesting here.",
+   "late": false,
+   "attack": "survived",
+   "opus": {
+    "reporting": 13,
+    "found": 11,
+    "R": 9,
+    "P": 1,
+    "U": 0,
+    "C": 1,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 13,
+    "found": 9,
+    "R": 7,
+    "P": 3,
+    "U": 0,
+    "C": 1,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "bechky",
+   "reading": "B11",
+   "arm": "middle",
+   "source_id": "construct_inversion_02",
+   "move": "construct_inversion",
+   "sentences": 7,
+   "worth": 0,
+   "note": "not worth investigating",
+   "late": false,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 4,
+    "found": 4,
+    "R": 4,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 4,
+    "found": 3,
+    "R": 3,
+    "P": 0,
+    "U": 1,
+    "C": 0,
+    "warrant": true
+   }
+  },
+  {
+   "paper": "bechky",
+   "reading": "B12",
+   "arm": "plain",
+   "source_id": "R3",
+   "move": null,
+   "sentences": 20,
+   "worth": 2,
+   "note": "worth checking with the paper; something interesting here.",
+   "late": false,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 14,
+    "found": 14,
+    "R": 12,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 17,
+    "found": 13,
+    "R": 11,
+    "P": 2,
+    "U": 1,
+    "C": 1,
+    "warrant": true
+   }
+  },
+  {
+   "paper": "bechky",
+   "reading": "B13",
+   "arm": "system",
+   "source_id": "bechky_2020_construct_inversion_from_pair_CP01_01",
+   "move": "construct_inversion",
+   "sentences": 18,
+   "worth": 2,
+   "note": "worth checking with the paper; something interesting here.",
+   "late": false,
+   "attack": "killed",
+   "opus": {
+    "reporting": 15,
+    "found": 15,
+    "R": 11,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 15,
+    "found": 15,
+    "R": 12,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   }
+  },
+  {
+   "paper": "bechky",
+   "reading": "B14",
+   "arm": "middle",
+   "source_id": "construct_fission_02",
+   "move": "construct_fission",
+   "sentences": 8,
+   "worth": 2,
+   "note": "worth checking with the paper; something interesting here.",
+   "late": false,
+   "attack": "not attacked",
+   "opus": {
+    "reporting": 4,
+    "found": 4,
+    "R": 3,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   },
+   "astra": {
+    "reporting": 4,
+    "found": 4,
+    "R": 3,
+    "P": 0,
+    "U": 0,
+    "C": 0,
+    "warrant": false
+   }
+  }
+ ]
+}

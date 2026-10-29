@@ -1,0 +1,377 @@
+{
+  "paper": "Bechky 2020 (Administrative Science Quarterly 65(3): 606-643; copyright The Author(s) 2019)",
+  "cards": [
+    {
+      "card_id": "construct_fission_01",
+      "move": "construct_fission",
+      "trigger": "The paper's construct of a 'comparison with DNA profiling' that all three units are said to have met (claim on pp. 606, 633, 634); the passages beneath it on pp. 617-632 differ in whether any speaker names DNA as the standard.",
+      "claim": "[6 words of Bechky (2020), p. 606] techniques and [8 words of Bechky (2020), p. 606] alike (p. 606, restated p. 633).",
+      "incumbent_reading": "One comparison to DNA profiling, open to interpretation, reached each unit by a different pathway and bore on a different aspect of its work.",
+      "wager": {
+        "statement": "The construct does two jobs. In X passages the speaker or the quoted text itself holds other work up against DNA: the NAS excerpt sets toolmark-type tests beside [6 words of Bechky (2020), p. 620] (p. 620b); an examiner at the statewide meeting says they cannot be like DNA (p. 624b); a narcotics analyst voices the demand as one made of firearms (p. 624c); Tom and Pete talk about statistics and numbers when the author asks what being like DNA means (p. 624e). In Y passages a demand is reported and the speaker names another source for it: Jason names ISO and NIST documents and scientific fields in general and denies that NAS spurred it (p. 627d); Jodi names NAS 'and other attacks', East Coast practice and the lack of an output others can review (p. 631c); Robin names a Daubert hearing on crystal testing (p. 632a); Taylor and Billie name East Coast instrument routine (p. 632d, p. 632e). In the Y passages the tie to DNA is supplied by the author's characterisation (p. 627b, p. 628c, p. 632f). Read this way, the firearms unit met a comparison with DNA, while toxicology and narcotics met demands for a stated measurement uncertainty or a reviewable output that no printed toxicologist or narcotics analyst attributes to DNA in respect of their own work. The three-way difference in response would then be partly a difference in what was asked and by whom, not three answers to one question.",
+        "seed_pages": ["p. 620b", "p. 624b", "p. 624c", "p. 624e", "p. 627d", "p. 631c", "p. 632a"],
+        "what_it_would_take_to_cohere": {
+          "observation": "A passage in which a toxicologist, a narcotics analyst, or the defense attorney in the DUI case names DNA profiling as the standard for toxicology or narcotics work; its absence from the record behind the paper would cohere the reading, its presence would dissolve it.",
+          "printed": false,
+          "printed_pages": [],
+          "basis": "Looked through the toxicology section (pp. 625-628), the narcotics section (pp. 628-632) and the methods (p. 615, where the author says interviews probed [6 words of Bechky (2020), p. 615] DNA). The attorney's parallel to DNA is given in the author's voice as something he would do (p. 627b); no words of his and no testimony are printed. The phrase on p. 617 comes from a narcotics analyst but is printed without its target."
+        },
+        "strains_against": [
+          "p. 617 -- a narcotics analyst is the speaker of 'be more like DNA', and the author places it as pressure on the other subfields generally; if it was said of narcotics work, X reaches into narcotics.",
+          "p. 627b -- the author reports that the attorney's challenge would draw a parallel to DNA error measurement; if that reports what the attorney said, toxicology belongs on the X side.",
+          "p. 628c -- GC/MS logs and graphs are reported as seen as compatible with DNA standards, with no speaker given; if narcotics analysts were the ones seeing it so, DNA stands behind the Y passages.",
+          "p. 621a, p. 623c, p. 624a -- three firearms passages report pressure without naming DNA, so the Y side is not confined to toxicology and narcotics.",
+          "p. 619c -- members of other units did measure themselves against the DNA unit, though on resources and not on method."
+        ],
+        "who_could_complete_it": "Someone with the fieldnotes and interview transcripts from the toxicology and narcotics units, or a record of the DUI hearing."
+      },
+      "passage_jobs": {
+        "p. 617": "A narcotics analyst supplies the phrase about being like DNA, with no target printed, so it is counted as X with its unit in doubt.",
+        "p. 619c": "Members of other units remark on the DNA unit's equipment, funding and staff, showing a comparison with DNA made on resources.",
+        "p. 620b": "The NAS excerpt itself sets comparative tests beside DNA testing, which anchors X in a document aimed at firearms-type work.",
+        "p. 621a": "A working-group board member reports attempts to bar firearms evidence in Daubert hearings without mentioning DNA, a Y-coded passage inside firearms.",
+        "p. 623c": "A meeting speaker attacks the critics and the NAS report without naming DNA, a second Y-coded firearms passage.",
+        "p. 624a": "Another examiner calls the criticism a spur to be more convincing, again without naming DNA.",
+        "p. 624b": "An examiner at the statewide meeting says they cannot be like DNA, the clearest X passage from inside the occupation.",
+        "p. 624c": "A narcotics analyst states the DNA demand as one addressed to firearms, which places X on firearms from a neighbouring unit's view.",
+        "p. 624e": "Tom and Pete answer the author's own question about being like DNA with talk of statistics and numbers, an X passage that was elicited.",
+        "p. 627b": "The author, not a participant, ties the DUI challenge to DNA error measurement, which is the author's account and not a passage in a participant's voice.",
+        "p. 627d": "Jason names ISO, NIST and scientific fields as the sources of uncertainty measurement and denies the NAS report spurred it.",
+        "p. 628a": "Jason describes the uncertainty figure as built from the lab's own historical data on an unchanged method, with no comparator named.",
+        "p. 628c": "The paper reports, without a speaker, that GC/MS output was seen as compatible with DNA standards.",
+        "p. 631c": "Jodi names NAS and other attacks, East Coast practice and the absence of a reviewable output as the sources of worry.",
+        "p. 632a": "Robin reports a workshop on a Daubert hearing against crystal testing and the caseload limit, naming a court and not DNA.",
+        "p. 632d": "Taylor sets MCCL's trained crystal work against East Coast instrument routine, naming a region and not DNA.",
+        "p. 632e": "Billie sets her liking for varied chemistry against putting everything on the GC, again without naming DNA.",
+        "p. 632f": "The author characterises the standardised practices as what analysts felt DNA comparisons implied, which is where DNA enters the narcotics account."
+      },
+      "grounded_in": [
+        {
+          "kind": "divergence",
+          "items": ["p. 627d", "the author's characterisation on p. 627b"],
+          "how": "Jason says uncertainty measurement was already under way and was not spurred by NAS, citing other documents; the author describes the same change as spillover urging toxicologists to be like DNA."
+        },
+        {
+          "kind": "missing_fact",
+          "question": "Was the 'be more like DNA' phrase on p. 617 said about narcotics analysts' own work, or is it the remark about firearms printed on p. 624c?",
+          "bears_on": "The claim that comparison with DNA profiling challenged narcotics analysts (p. 606, p. 633).",
+          "if_one_way": "If it was said of narcotics work, the claim would read as carried by a narcotics analyst's own words and the split would weaken.",
+          "if_the_other": "If it is the firearms remark, no narcotics analyst is printed naming DNA for their own work and the claim for narcotics would read as resting on the author's characterisation."
+        }
+      ],
+      "reach": {
+        "same_construct": ["p. 616-617 (DNA as an informal standard open to many interpretations)", "p. 634 (the meaning of DNA profiling differing by occupation)"],
+        "same_outcome": ["p. 633 (Table 2, response row)"],
+        "feature_elsewhere": ["p. 615 (DNA supervisors' self-introduction)", "p. 619c", "p. 619d (trace examiners' flyer names DNA)"],
+        "orphans_used": ["p. 617"]
+      },
+      "rival": "The paper's own account: DNA profiling is an informal standard with many dimensions (pp. 616-617), so error measurement and instrument output are aspects of the DNA comparison whether or not a speaker says the word, and no split is needed.",
+      "split": {
+        "side_x": {"label": "X: passages where the speaker or quoted text itself holds work up against DNA", "pages": ["p. 617", "p. 620b", "p. 624b", "p. 624c", "p. 624e"]},
+        "side_y": {"label": "Y: passages where a demand is reported and the speaker names a source other than DNA (accreditation and measurement documents, East Coast practice, a hearing, the NAS report without DNA)", "pages": ["p. 621a", "p. 623c", "p. 624a", "p. 627d", "p. 628a", "p. 631c", "p. 632a", "p. 632d", "p. 632e"]},
+        "separating_feature": "Whether the speaker, or the document quoted, names DNA profiling as what the work is being measured against.",
+        "independent_of_outcome": "Yes for coding: it needs only the wording of the passage, not whether the unit changed. Partly in effect, since the feature nearly coincides with the speaker's unit and unit coincides with outcome.",
+        "sorts_correctly": "10 of 14: the feature codes all 14 passages, and the coding lines up with the unit division (X in firearms, Y in toxicology and narcotics) in 10; the exceptions are p. 617 (X, narcotics speaker, target unknown) and p. 621a, p. 623c, p. 624a (Y inside firearms).",
+        "confounds": [
+          "Unit: X passages are almost all about firearms, so the feature may only be re-describing which unit is speaking.",
+          "Elicitation: p. 624e follows the author's own question, and p. 615 says interviews probed the rise of DNA.",
+          "Venue: X passages come from a public meeting and a published report, Y passages mostly from benches, group talk and an outreach session.",
+          "Selection: which remarks the paper prints for each unit."
+        ]
+      },
+      "naming": {"register_version": null, "outcome": "register not opened"}
+    },
+    {
+      "card_id": "construct_fission_02",
+      "move": "construct_fission",
+      "trigger": "The paper's construct of 'changing work practices', which each unit is said to have embraced or resisted (p. 606; Table 2, p. 633); the passages beneath it on pp. 621-632 concern changes of two different kinds.",
+      "claim": "[10 words of Bechky (2020), p. 606] its work practices (p. 606; response row of Table 2, p. 633).",
+      "incumbent_reading": "Toxicologists adapted their practices while firearms examiners and narcotics analysts resisted changing theirs.",
+      "wager": {
+        "statement": "'Change to practice' covers two things. X is a change that leaves in place the way the result is reached and adds to what is recorded, shown or reported with it. Y is a change that replaces the person's own looking and judging as the way the identification is reached. On the X side: firearms examiners say knowing a mark on sight is no longer acceptable and images must back the call (p. 622a); they keep note packets with images of each set of striae to support judgment on the stand (p. 621b); a second examiner signs each page (p. 622b); toxicology adds an uncertainty range with the same instrument and method (p. 627a, p. 628a); narcotics analysts talk over buying microscope cameras (p. 632c). On the Y side: counting striae is not regularly used (p. 623a), numbers are declined (p. 624e), and a move to GC/MS is feared or refused (p. 631c, p. 632a, p. 632d, p. 632e). Read this way the three units look alike: each has taken on or entertained an X change, none is printed taking on a Y change, and toxicology is not printed as being asked for one. The contrast between embracing and resisting would then lie partly in which kind of change each unit was presented with. This sits close to the paper's values account for the Y passages; it departs from the paper on firearms, where an X change is printed as already made.",
+        "seed_pages": ["p. 622a", "p. 621b", "p. 628a", "p. 632c", "p. 624e", "p. 632d"],
+        "what_it_would_take_to_cohere": {
+          "observation": "The date and occasion of the firearms unit's move to image-backed documentation, and any instance of a unit accepting a Y-type change or of toxicology being asked for one.",
+          "printed": false,
+          "printed_pages": [],
+          "basis": "pp. 621-622 say firearms practices changed over time and give no date or prompt. The toxicology section (pp. 625-628) prints no request to alter the method, and Jason says it has not changed (p. 628a). The narcotics section (pp. 628-632) prints no adoption of GC/MS beyond its existing use for unknowns (p. 629)."
+        },
+        "strains_against": [
+          "p. 632b -- a second analyst's visual check is an X-type change, and MCCL analysts met it with the objection that it would double the time, so X is not always welcomed.",
+          "p. 623a -- Tom does turn to counting striae when on the fence, so a Y-type tool is in partial use.",
+          "p. 624a -- the outside examiner's call to guard against bias cannot be placed on either side from the passage.",
+          "p. 624d -- the author reports that the MCCL examiners did not modify how they worked; the documentation change on p. 622a is undated and may precede the pressure.",
+          "p. 624e -- Pete's objection is to reporting a percentage, which is about how a result is stated; toxicology's change (p. 628b) also alters how a result is stated, so the feature holds only if it is drawn at how the result is reached."
+        ],
+        "who_could_complete_it": "Someone with the firearms unit's protocol history, or fieldnotes dating the documentation requirement."
+      },
+      "passage_jobs": {
+        "p. 619b": "Terri's remark that a report takes a whole lab shows the DNA unit pairing documented output with shared judgment.",
+        "p. 621b": "Note packets with images are kept to support the examiner's judgment on the stand, an addition to the record that leaves the judgment where it was.",
+        "p. 622a": "Examiners say the old way of vouching for a mark on sight has given way to documenting with images, an X change printed as already made.",
+        "p. 622b": "A second examiner follows each step and signs each page, a check added around the judgment.",
+        "p. 623a": "The examiners do not regularly use the striae-counting method and regard their own judgment as stricter, a Y change declined with one partial exception.",
+        "p. 624a": "An examiner from elsewhere urges being more convincing and guarding against bias, which the feature cannot place.",
+        "p. 624b": "An examiner says being like DNA is impossible without saying which change is meant, so it cannot be coded.",
+        "p. 624d": "The author states that the MCCL examiners made no change, which is the characterisation the reading diverges from.",
+        "p. 624e": "Tom and Pete reject numbers and counting as a way to make the call, the Y change refused.",
+        "p. 627a": "Toxicology brings forward its plan for estimating uncertainty, an addition to the report.",
+        "p. 628a": "Jason says instrument and method are unchanged, which is what places the toxicology change on the X side.",
+        "p. 628b": "The result is now reported with a stated range and confidence level, the visible form of the X change.",
+        "p. 629": "Crystal tests are used for many cases and GC/MS for unknowns, under a legal turnaround requirement, which is a confound for the Y refusals.",
+        "p. 630a": "A second crystal test with a different solvent is already required and done, an added check that leaves the method in place.",
+        "p. 631c": "Jodi fears the crystal test will go and GC/MS will replace it, a Y change anticipated with worry.",
+        "p. 632a": "Robin says the unit could not keep up without crystals, an objection to the Y change on caseload.",
+        "p. 632b": "A second analyst's visual review is debated and described as doubling the time, the one X change met with objection.",
+        "p. 632c": "Cameras for the microscopes are discussed as a possibility cheaper than instruments, an X change entertained.",
+        "p. 632d": "Taylor says instrument work needs no skill, a Y change refused on grounds of training.",
+        "p. 632e": "Billie says running everything on the GC would bore her, a Y change refused on grounds of variety."
+      },
+      "grounded_in": [
+        {
+          "kind": "divergence",
+          "items": ["p. 622a", "the author's characterisation on p. 624d and in Table 2, p. 633"],
+          "how": "Examiners report that their documentation practice has changed and that images are now required; the author records the unit as not having modified how it worked and as resisting change to local practices."
+        },
+        {
+          "kind": "missing_fact",
+          "question": "When did the firearms unit move to image-backed documentation, and what prompted it?",
+          "bears_on": "The claim that MCCL firearms examiners rejected the [6 words of Bechky (2020), p. 633] (p. 624d; p. 633).",
+          "if_one_way": "If the move came with the courtroom and scientific scrutiny the paper describes, the firearms row would read as a unit that adapted its record while holding its judgment.",
+          "if_the_other": "If it predates that scrutiny and has another cause, the firearms row would read as printed."
+        }
+      ],
+      "reach": {
+        "same_construct": ["p. 632f (narcotics analysts holding on to their practices)", "p. 635c (courtroom challenges as occasions for change)"],
+        "same_outcome": ["p. 633 (Table 2, response row)", "p. 637 (resistance traced to values)"],
+        "feature_elsewhere": ["p. 619b", "p. 630a"],
+        "orphans_used": ["p. 622a", "p. 632c"]
+      },
+      "rival": "The paper's values account: units accept what fits their values and refuse what does not, so X and Y only re-describe compatibility with values; and the firearms documentation change may simply predate the episode.",
+      "split": {
+        "side_x": {"label": "X: changes that leave the way the result is reached in place and add to what is recorded, shown or reported with it", "pages": ["p. 621b", "p. 622a", "p. 622b", "p. 627a", "p. 628a", "p. 632b", "p. 632c"]},
+        "side_y": {"label": "Y: changes that replace the person's own looking and judging as the way the identification is reached (counting or numbers for holistic judgment, an instrument run for the crystal test)", "pages": ["p. 623a", "p. 624e", "p. 631c", "p. 632a", "p. 632d", "p. 632e"]},
+        "separating_feature": "Whether the change at issue in the passage alters how the identification or result is reached, or only what accompanies it in the record and report.",
+        "independent_of_outcome": "Yes: the kind of change can be coded from the passage's description of the change without knowing whether the unit accepted it. One passage (Pete on p. 624e) shows the line between stating and reaching a result is not always sharp.",
+        "sorts_correctly": "12 of 15: X changes are adopted or entertained and Y changes declined or feared in 12 passages; p. 624a and p. 624b cannot be coded; p. 632b is an X change met with objection.",
+        "confounds": [
+          "Unit: no Y change is printed as asked of toxicology, so the feature and the unit are not separable there.",
+          "Cost and time: in narcotics the Y change is also the slower, instrument-limited option (p. 631c, p. 632a), and the one X change objected to is the one that costs time (p. 632b).",
+          "Legal turnaround requirement on narcotics cases (p. 629).",
+          "Elicitation: the firearms Y passage on p. 624e answers the author's question.",
+          "Period: the firearms X change (p. 622a) is undated."
+        ]
+      },
+      "naming": {"register_version": null, "outcome": "register not opened"}
+    },
+    {
+      "card_id": "construct_inversion_01",
+      "move": "construct_inversion",
+      "trigger": "from_pair: the court challenge facing toxicology (p. 625a, p. 627a) and the court challenges facing firearms (p. 621a, p. 624d), which the paper sets side by side on p. 635c. Several things varied: how local the challenge was (credited by the paper), fit with values (credited), a dated accreditation plan already in hand (credited only as making change easier), what the challenge was aimed at (a figure missing from a report versus the admissibility of a discipline), and an existing state-law confidence requirement (p. 627c).",
+      "claim": "Toxicologists were moved to change by anticipating attack on the stand, an immediate local challenge that [6 words of Bechky (2020), p. 635] face (p. 625a; p. 635a; p. 635c).",
+      "incumbent_reading": "The local, immediate court challenge propelled toxicology's change, with the accreditation work making it easier, while distant challenges left firearms unmoved.",
+      "wager": {
+        "statement": "Attribute the difference to what the paper treats as a facilitator. Before the NAS report the lab was already conforming to ISO 17025, and toxicology had a three-year plan to estimate uncertainty of measurement (p. 627a). Its protocol already required a log tracing instruments, reagents and standards, and state law already required a confidence interval (p. 627c). It had quality-control data from more than five years on an unchanged method (p. 628a). On hearing of the challenge the unit brought the plan forward (p. 627a). Jason tells a criminal-justice audience that labs were not scrambling on account of NAS and that the work was already being done (p. 627d). On this reading the two units differ in whether the answer to the challenge was already scheduled by the accreditor; the nearness of the court case accounts for the date, not for the change. No comparable scheduled item is printed for the firearms unit. The reading agrees with the paper that ASCLD's requirements mattered (p. 633, p. 635a) and departs from it only in putting them first.",
+        "seed_pages": ["p. 627a", "p. 627c", "p. 627d", "p. 628a"],
+        "what_it_would_take_to_cohere": {
+          "observation": "What conforming to ISO 17025 required of the firearms unit and whether that unit had any dated plan of its own; and whether the DUI challenge took place.",
+          "printed": false,
+          "printed_pages": [],
+          "basis": "The firearms section (pp. 620-625) does not mention ISO or any accreditation requirement on the unit. p. 616 gives ASCLD's field-level response only. p. 627a says the lab as a whole was conforming but details only toxicology. The DUI case is described as upcoming (p. 625a) and its result is not printed anywhere in pp. 625-628 or the discussion."
+        },
+        "strains_against": [
+          "p. 627a -- the plan ran over three years and the unit chose to act at once on hearing of the challenge; if timing is the outcome to be explained, the challenge explains it.",
+          "p. 627c -- the reports in use did not yet carry the uncertainty figure, so 'already doing it' overstates what was in place.",
+          "p. 627d -- Jason's denial is made in an outreach session to the criminal-justice community, the audience from which the challenge came, so the occasion of the statement is the pressure it denies.",
+          "p. 625a -- a named local case and an attorney's campaign succeeding in other states are printed; a local threat was real.",
+          "p. 628b -- the unit's pride in the new figure fits the paper's values account as well as this one."
+        ],
+        "who_could_complete_it": "Someone with the lab's accreditation plan across units, or the court record of the DUI case."
+      },
+      "passage_jobs": {
+        "p. 621a": "A working-group board member reports growing attempts to bar firearms evidence in pretrial hearings, the firearms half of the pair.",
+        "p. 624d": "The author reports that MCCL firearms testimony had not been challenged locally and that practice did not change, the firearms outcome.",
+        "p. 625a": "An attorney's campaign on uncertainty of measurement reaches a specific case in the lab's jurisdiction, the toxicology half of the pair.",
+        "p. 627a": "The ISO work and the three-year plan are dated before the NAS report and the plan is brought forward, which is the variable the reading credits.",
+        "p. 627c": "A tracing log, a state-law confidence requirement and existing reporting at a set confidence level show how much was already in place.",
+        "p. 627d": "Jason tells outsiders the unit was already doing this and was not spurred by NAS, a participant's own attribution.",
+        "p. 628a": "Jason describes five years of data on an unchanged instrument and method, the material the new figure was computed from.",
+        "p. 628b": "The unit shows pride in the new range and confidence level, which both accounts can absorb.",
+        "p. 635a": "The author says the unit was motivated by anticipating attack and that accreditation changes made responding easier, the ordering the reading reverses.",
+        "p. 635c": "The author sets the toxicology and firearms court challenges side by side, which is what makes them a pair."
+      },
+      "grounded_in": [
+        {
+          "kind": "missing_fact",
+          "question": "Did conforming to ISO 17025 place a comparable dated requirement on the firearms unit?",
+          "bears_on": "The claim that the immediacy of the court challenge is what separates toxicology from firearms (p. 635c).",
+          "if_one_way": "If firearms had such a requirement and still made no change, the claim would read as strengthened: a plan in hand does not move a unit, and pathway and values do.",
+          "if_the_other": "If only toxicology had one, the claim would read as unable to tell immediacy apart from having the change already scheduled."
+        },
+        {
+          "kind": "divergence",
+          "items": ["p. 627d", "the author's characterisation on p. 635a"],
+          "how": "Jason says the unit was already doing uncertainty measurement and that NAS did not spur it; the author says the unit was motivated to change by anticipating an attack on the stand."
+        }
+      ],
+      "reach": {
+        "same_construct": ["p. 633 (Table 2, pathway rows)", "p. 635c (pathways as occasions for meaning making)"],
+        "same_outcome": ["p. 637 (toxicologists embracing the change)"],
+        "feature_elsewhere": [],
+        "orphans_used": ["p. 627c"]
+      },
+      "rival": "The paper's own ordering: the plan had a three-year horizon and the figure was not yet in reports, so without the local case it would have stayed scheduled; the challenge did the work and the plan only eased it.",
+      "split": null,
+      "naming": {"register_version": null, "outcome": "register not opened"}
+    },
+    {
+      "card_id": "construct_inversion_02",
+      "move": "construct_inversion",
+      "trigger": "from_seam: the claim that each unit's technique forms its members' values (p. 626a; p. 637). The pipette passage (p. 626b) points one way; the passages on analysts leaving toxicology (p. 630b), on newcomers who do not fit (p. 626a) and on personal preference (p. 632e) point the other.",
+      "claim": "Toxicologists' technique instilled their values, and occupational values [6 words of Bechky (2020), p. 637] (p. 626a; p. 637).",
+      "incumbent_reading": "Doing a unit's work produces that unit's values, which then shape how its members receive the comparison with DNA.",
+      "wager": {
+        "statement": "Read the direction the other way: what the paper calls a unit's values is partly a record of who came, who stayed and who left. Taylor took the toxicology job as the one that was open, did that work, wanted out, and persuaded management to train her elsewhere (p. 630b); several narcotics analysts had worked in toxicology and been eager to move (p. 630b). Neha says a 'normal person' sometimes arrives in toxicology and irritates the rest (p. 626a). Billie ties her liking for crystal tests to being a chemist and to not wanting to repeat one task, and says other people would prefer the instrument (p. 632e). Analysts are hired into a specific unit (p. 613). On this reading the same technique did not produce the same values in everyone who performed it, and the narcotics unit's dislike of standardised work would be something its members brought with them out of toxicology. The units' different responses would then track who is in them.",
+        "seed_pages": ["p. 630b", "p. 626a", "p. 632e"],
+        "what_it_would_take_to_cohere": {
+          "observation": "Work histories for each unit showing who moved, in which direction and at whose request, and whether those who stayed in toxicology arrived with the compulsive habits they describe.",
+          "printed": false,
+          "printed_pages": [],
+          "basis": "The author says interviews covered career histories (p. 614), but only Taylor's move and the unnamed 'several' are printed (p. 630b). No toxicologist's history appears in pp. 625-628, and the firearms section (pp. 620-625) gives training length but no movement in or out."
+        },
+        "strains_against": [
+          "p. 626b -- a ruined sample brings a long report and weeks of teasing, which shows the unit teaching care on the job.",
+          "p. 623b -- Tom says his internal criteria were built through training and repeated looking, a participant crediting the work with forming his standards.",
+          "p. 630b -- Taylor says getting out took a long time, so movement between units is slow and sorting would be weak.",
+          "p. 620a -- the director treats analysts as [6 words of Bechky (2020), p. 620] and plans a swap, which fits neither self-selection nor formation by technique.",
+          "p. 613 -- placement follows tests and a panel interview, and Taylor took what was open (p. 630b), so entry is not shown to follow preference."
+        ],
+        "who_could_complete_it": "Someone with personnel or career-history records for the lab's units, or the interview material on career histories."
+      },
+      "passage_jobs": {
+        "p. 613": "Analysts are hired into a named unit after tests and an interview, which is the entry point any sorting would work through.",
+        "p. 614": "The author reports asking about career histories, which shows the deciding material was collected but is not printed.",
+        "p. 620a": "The director says every criminalist [8 words of Bechky (2020), p. 620] and plans a swap between two units, showing movement is administratively possible.",
+        "p. 623b": "Tom attributes his criteria to training and experience, which supports formation by the work.",
+        "p. 626a": "Neha describes newcomers without the compulsive habits as an irritant, which shows the trait is not universal among those who do the work.",
+        "p. 626b": "Jason describes the report and the teasing that follow a pipetting error, the passage that best supports the paper's direction.",
+        "p. 630b": "Taylor and several others did toxicology work, disliked it and left for narcotics, which shows the technique failing to instil its values in them.",
+        "p. 632e": "Billie grounds her preference in herself as a chemist and contrasts it with other people's, which presents the value as personal.",
+        "p. 637": "The author states that values follow from seeing the consequences of the technique, the claim being inverted."
+      },
+      "grounded_in": [
+        {
+          "kind": "divergence",
+          "items": ["p. 630b", "the author's characterisation on p. 626a and p. 637"],
+          "how": "Analysts who performed toxicology's technique report finding it mind-numbing and leaving; the author says the technique instils its values in those who perform it."
+        },
+        {
+          "kind": "missing_fact",
+          "question": "How did the current toxicologists and firearms examiners come to their units: by vacancy and staying, or by seeking the unit out, and who left?",
+          "bears_on": "The claim that values [6 words of Bechky (2020), p. 637] (p. 637).",
+          "if_one_way": "If members were placed by vacancy, stayed and came to hold the unit's values, the claim would read as printed.",
+          "if_the_other": "If those who disliked a unit's work left and those who liked it stayed or sought it, the claim would read as describing who remains and not what the work does to people."
+        }
+      ],
+      "reach": {
+        "same_construct": ["p. 620c (distinct occupational cultures attributed to work practices and training)", "p. 633 (Table 2, values row)"],
+        "same_outcome": ["p. 632f (narcotics analysts' resistance attributed to their values)", "p. 637 (resistance explained by values)"],
+        "feature_elsewhere": [],
+        "orphans_used": ["p. 620a", "p. 630b"]
+      },
+      "rival": "The paper's position [8 words of Bechky (2020), p. 637] (p. 620c, p. 637): whether people are formed by a unit or sort into it, the values present in the unit are what meet the comparison, so the direction makes no difference to the response.",
+      "split": null,
+      "naming": {"register_version": null, "outcome": "register not opened"}
+    },
+    {
+      "card_id": "counterfactual_ending_01",
+      "move": "counterfactual_ending",
+      "trigger": "The paper leaves the narcotics working-group debate unresolved and reports the analysts' own forecast of change (p. 628c, p. 631c, p. 632b), yet closes the episode with the unit holding on to its practices (p. 632f; Table 2, p. 633).",
+      "claim": "Narcotics analysts met the spillover through an internal professional debate, had no immediate need to change, and so kept the practices they valued (p. 632f; p. 633).",
+      "incumbent_reading": "Narcotics analysts resisted changing local practices on account of their values and the absence of any direct pressure.",
+      "wager": {
+        "statement": "Read the narcotics outcome as where things stood when fieldwork ended in August 2010 (p. 612), not as an ending. Jodi expects the crystal test to be phased out and GC/MS to take its place (p. 631c). The working group is still debating a second analyst's check (p. 632b). The unit is weighing cameras against instruments on cost (p. 632c). Robin has attended a workshop on a recent Daubert hearing against crystal testing (p. 632a). What is printed as resistance is talk at benches and in meetings (p. 615) about preferences, time and cost; no instruction to change is printed, and no refusal of one. The objections that carry quantities are about capacity: two instruments and long runs (p. 632a), and a legal requirement of short turnaround (p. 629). If the working group ruled against the crystal test, the printed material would support reading the unit's holding on as a matter of nothing yet being required and of capacity, with values shaping how the prospect was talked about. Robin's hearing also gives narcotics a court challenge heard about at a professional event, the same shape as the one firearms examiners heard about at theirs (p. 621a), where the author records none for narcotics (p. 635b; p. 633).",
+        "seed_pages": ["p. 631c", "p. 632a", "p. 632b", "p. 632c"],
+        "what_it_would_take_to_cohere": {
+          "observation": "How the working-group debate came out and what the MCCL narcotics unit did afterwards about cameras, second review or GC/MS; and where the Daubert hearing on crystal testing was held and how it was decided.",
+          "printed": false,
+          "printed_pages": [],
+          "basis": "The narcotics section (pp. 628-632) leaves the debate open, and the discussion (pp. 632-638) reports no later development. Fieldwork ends in August 2010 (p. 612). The hearing is mentioned once, through Robin, with no place or result (p. 632a)."
+        },
+        "strains_against": [
+          "p. 632d and p. 632e -- Taylor and Billie object on grounds of skill and boredom, not caseload, so objections from what they value are printed.",
+          "p. 631c -- Jodi defends the crystal test as definitive, quick and easy, a preference on the test's merits and not only a forecast of losing it.",
+          "p. 632a -- the hearing's place and result are not given; it may be a single case far from MCCL, and the author's statement on p. 635b may mean only that MCCL's analysts were not themselves challenged.",
+          "p. 632f -- the author reports that the unit did hold on to its practices during the period observed, which the reading does not dispute."
+        ],
+        "who_could_complete_it": "Someone with the working group's later guidance and the lab's subsequent narcotics protocols, or the record of the hearing."
+      },
+      "passage_jobs": {
+        "p. 612": "The fieldwork dates fix the point at which the narcotics episode is cut off.",
+        "p. 615": "The author reports that [6 words of Bechky (2020), p. 615] technique at benches and in group meetings, which is the form the printed resistance takes.",
+        "p. 621a": "Firearms examiners hear at a meeting of admissibility challenges elsewhere, the parallel to Robin's workshop.",
+        "p. 628c": "The paper reports the analysts' worry that their practices might be outlawed by their professional body, an open question at the close.",
+        "p. 629": "The law requires short turnaround on narcotics cases, a constraint on any move to slower analysis.",
+        "p. 631c": "Jodi forecasts that the crystal test will go and GC/MS will come, a participant treating the present practice as provisional.",
+        "p. 632a": "Robin reports a hearing that challenged crystal testing and says the unit could not keep up on two instruments, giving both a court challenge and a capacity limit.",
+        "p. 632b": "The working group is debating a second analyst's check, which shows the matter was undecided.",
+        "p. 632c": "The unit considers buying cameras as cheaper than more instruments, a step toward a reviewable record under discussion.",
+        "p. 632d": "Taylor objects that instrument work needs no trained person, a values objection the reading has to carry.",
+        "p. 632e": "Billie objects that instrument-only work would bore her, a second values objection.",
+        "p. 632f": "The author concludes that with no immediate need the unit kept its practices, the ending read here as provisional.",
+        "p. 633": "Table 2 records no court pathway for narcotics, which Robin's passage sits against.",
+        "p. 635b": "The author states that narcotics analysts met no court challenges of any kind."
+      },
+      "grounded_in": [
+        {
+          "kind": "divergence",
+          "items": ["p. 632a", "the author's characterisation on p. 635b and in Table 2, p. 633"],
+          "how": "Robin reports attending a workshop [7 words of Bechky (2020), p. 632] crystal testing; the author records that narcotics analysts met no court challenges of any kind and enters 'no' for courts."
+        },
+        {
+          "kind": "missing_fact",
+          "question": "How did the working-group debate on crystal tests end, and did the MCCL unit then change its practice?",
+          "bears_on": "The claim that narcotics analysts' values led them to resist changing their practices (p. 632f; p. 637).",
+          "if_one_way": "If a reviewable output was required and the unit complied, the claim would read as values colouring how a change was received, not whether it happened.",
+          "if_the_other": "If crystal tests stayed permitted and the unit kept them unchanged, the claim would read as printed."
+        }
+      ],
+      "reach": {
+        "same_construct": ["p. 633 (Table 2, pathway rows for narcotics and firearms)", "p. 635b"],
+        "same_outcome": ["p. 637 (narcotics analysts resisting despite a compatible technique)"],
+        "feature_elsewhere": [],
+        "orphans_used": ["p. 632a", "p. 632c"]
+      },
+      "rival": "The paper's own bounded claim: during the period observed nothing required a change and the unit kept its practice, which is all 'resisted' asserts; a later forced change would not undo the finding that values shaped how the prospect was received.",
+      "split": null,
+      "naming": {"register_version": null, "outcome": "register not opened"}
+    }
+  ],
+  "declined": [
+    {
+      "move": "construct_inversion",
+      "trigger": "from_pair: MCCL firearms examiners (p. 624d) against [6 words of Bechky (2020), p. 635] spoke at the statewide meeting (p. 623c, p. 624a), whom the paper describes as seeming motivated to change (p. 635c).",
+      "why": "The second episode has no printed outcome. The paper says it has no data on those examiners' local actions (footnote 5, p. 635), and prints only what two of them said at a meeting, where one attacked the critics and one urged self-examination. Without a second outcome there is no pair that came out differently, and supplying one would be an import."
+    },
+    {
+      "move": "focalization_shift",
+      "trigger": "The DNA unit, which speaks through Carly and Terri (p. 619a, p. 619b) and the supervisors' self-introduction (p. 615) but carries no central claim.",
+      "why": "The printed passages show contamination, uncertainty and shared judgment in DNA work, and the paper already says exactly this about them (p. 619). No DNA analyst is printed speaking about the other units, the NAS report or the envy the author describes, so a retelling from this unit would either restate the paper or assert views no passage carries."
+    },
+    {
+      "move": "focalization_shift",
+      "trigger": "The laboratory director, who circulates the NAS summary (p. 616) and tells staff they [8 words of Bechky (2020), p. 620] (p. 620a).",
+      "why": "Two short passages only. The director was interviewed (p. 614) but nothing from that interview is printed, and no passage gives the director's view of the units' different responses. The interchangeability remark is used in construct_inversion_02; it cannot carry a reading of its own."
+    },
+    {
+      "move": "boundary_shift",
+      "trigger": "Moving the start of the toxicology episode back to the ISO 17025 work and the protocol update of more than five years earlier (p. 627a, p. 628a).",
+      "why": "The same passages and the same divergence already carry construct_inversion_01. A separate card would use no evidence differently from that card and would be a restatement of it."
+    },
+    {
+      "move": "counterfactual_ending",
+      "trigger": "The paper's forecast that ethnographers will resist pressure to drop masking (p. 638).",
+      "why": "It is the author's prediction about another field, with no reported passages beneath it; there is no printed evidence to read either way."
+    }
+  ]
+}

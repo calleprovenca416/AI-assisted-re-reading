@@ -1,0 +1,90 @@
+{
+  "paper": "Pratt, M. G. 2000",
+  "checks": [
+    {
+      "reading": "R01",
+      "faithful": true,
+      "reason": "The opening captures the possibility that the identification categories are career stages and proposes testing the unreported transitions against tenure."
+    },
+    {
+      "reading": "R02",
+      "faithful": true,
+      "reason": "It preserves the contrast between concessions made during outsider encounters and favorable reinterpretations afterward, and proposes observing both moments."
+    },
+    {
+      "reading": "R03",
+      "faithful": false,
+      "reason": "It changes departure before prolonged socialization into departure before socialization at all and assumes that high sales rank establishes prior identification and fully completed practices."
+    },
+    {
+      "reading": "R04",
+      "faithful": false,
+      "reason": "It treats the absence of reported earlier dreams or later mentoring failures as proof those events never occurred and calls a car belonging to someone else a stranger’s car."
+    },
+    {
+      "reading": "R05",
+      "faithful": true,
+      "reason": "It attributes identification to freely chosen costly enactments rather than preexisting discontent and proposes testing the sequence of action and stated dissatisfaction."
+    },
+    {
+      "reading": "R06",
+      "faithful": true,
+      "reason": "It captures the reading’s reversal of causation, in which not recruiting preserves outside ties, and proposes checking whether recruitment or criticism came first."
+    },
+    {
+      "reading": "R07",
+      "faithful": false,
+      "reason": "It presents the link between accounting choices and organizational allegiance as established even though the reading explicitly offers it as an untested possibility."
+    },
+    {
+      "reading": "R08",
+      "faithful": false,
+      "reason": "It shifts the test from whether support depends on performing Amway work to whether the personal relationship predates Amway, a distinction the reading does not make."
+    },
+    {
+      "reading": "R09",
+      "faithful": true,
+      "reason": "It correctly emphasizes mentoring and role modeling within the shopping trip over acquiring desired goods and proposes comparing early outings to test that emphasis."
+    },
+    {
+      "reading": "R10",
+      "faithful": true,
+      "reason": "It characterizes seekership as dissatisfaction brought into Amway and reinterpreted there, and proposes following that dissatisfaction across entry and later life changes."
+    },
+    {
+      "reading": "R11",
+      "faithful": true,
+      "reason": "It preserves the claim that dream building creates and renews identity shortfalls before mentoring begins and proposes testing the order of those encounters."
+    },
+    {
+      "reading": "R12",
+      "faithful": true,
+      "reason": "It treats reactions by existing contacts as a possible source of the social conditions shaping identification and proposes tracing those reactions and their effects."
+    },
+    {
+      "reading": "R13",
+      "faithful": true,
+      "reason": "It distinguishes unmeasured net financial position from observed sales volume and proposes comparing financial flows across identification groups."
+    },
+    {
+      "reading": "R14",
+      "faithful": true,
+      "reason": "It separates excitement about imagined futures from dissatisfaction with present life and proposes testing which is associated with subsequent identification."
+    },
+    {
+      "reading": "R15",
+      "faithful": true,
+      "reason": "It locates the proposed difference between detached and oppositional leavers in unresolved grievance despite weak mentor ties in both and suggests reconstructing each sequence."
+    },
+    {
+      "reading": "R16",
+      "faithful": true,
+      "reason": "It captures the proposal that dream building operates through the mentor relationship and would test whether dreams change independently of that bond."
+    },
+    {
+      "reading": "R17",
+      "faithful": true,
+      "reason": "It preserves the account of identification states as different ways of reckoning participation costs and proposes tracking financial judgments alongside continued membership or exit."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+ "what": "The PI's times for the map test (T39): for each step, the minutes the PI reported; read by score_map_test.py (F7).",
+ "steps": [
+  {
+   "step": "round 1, the maps (chats 73 to 76)",
+   "chat_minutes": {
+    "73": 10,
+    "74": 10,
+    "75": 10,
+    "76": 10
+   },
+   "pi_minutes": null,
+   "pi_minutes_at_least": null
+  },
+  {
+   "step": "settling (both papers together)",
+   "chat_minutes": {},
+   "pi_minutes": null,
+   "pi_minutes_at_least": 120
+  },
+  {
+   "step": "round 2, the placement (chats 77 and 78; then 81 and 82 for the readings left missing)",
+   "chat_minutes": {
+    "77": null,
+    "78": null,
+    "81": 7,
+    "82": 7
+   },
+   "pi_minutes": null,
+   "pi_minutes_at_least": null
+  },
+  {
+   "step": "round 2, the openings' check (chats 79 and 80)",
+   "chat_minutes": {
+    "79": 5,
+    "80": 3
+   },
+   "pi_minutes": null,
+   "pi_minutes_at_least": null
+  },
+  {
+   "step": "the PI's comparison sheet",
+   "chat_minutes": {},
+   "pi_minutes": 30,
+   "pi_minutes_at_least": null
+  }
+ ]
+}

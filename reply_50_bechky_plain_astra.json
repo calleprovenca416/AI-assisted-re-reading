@@ -1,0 +1,207 @@
+{
+  "paper": "Beth A. Bechky, 2020",
+  "readings": [
+    {
+      "reading_id": "R1",
+      "wager": "The toxicology episode could be read as the accelerated completion of an existing accreditation project. The laboratory already possessed the data, procedures, and plan needed to report measurement uncertainty; an impending courtroom challenge supplied a deadline. DNA supplied a persuasive comparison, but might not have determined the reform's content or eventual adoption. On this reading, the central change was when an established obligation became urgent, rather than which neighboring technology became exemplary.",
+      "evidence": [
+        {
+          "page": "p. 625",
+          "job": "A defense attorney's successful challenges elsewhere and an anticipated local challenge brought measurement uncertainty to immediate attention, although the NAS report had not criticized toxicological analysis. This locates the trigger in an organized litigation strategy rather than a newly identified technical defect."
+        },
+        {
+          "page": "p. 627",
+          "job": "Before the NAS report appeared, MCCL was preparing for ISO accreditation requirements and toxicology had a three-year uncertainty-estimation plan. The threatened testimony prompted immediate implementation. This supplies the chronology needed to read the event as acceleration of a prior commitment."
+        },
+        {
+          "page": "p. 627",
+          "job": "At an outreach session, a toxicologist disputed the claim that laboratories had only begun addressing uncertainty because of the NAS report and invoked other scientific standards. His account gives the existing program an explicitly different origin, although it is also a public defense of the laboratory."
+        },
+        {
+          "page": "p. 628",
+          "job": "The toxicologist described using the same instrument and method for five years and combining previously collected quality-control information with assessments of procedural uncertainty. This supports continuity in analysis beneath the new reporting practice."
+        }
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "A dated record of the accreditation project would need to show that the same reporting specification, resources, and implementation commitment existed before the local DNA comparison, with the threatened case changing the deadline alone. The paper prints the prior plan and continuity of methods, but not a complete decision history establishing whether DNA-related pressure changed the project's substance or whether the earlier commitment would actually have been fulfilled.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {
+          "page": "p. 627",
+          "why": "The anticipated attorney challenge expressly compared toxicology with DNA's error-measurement practices. Even if accreditation explains the destination, the comparison may still explain why the laboratory acted at that moment."
+        },
+        {
+          "page": "p. 628",
+          "why": "The analysts demonstrably produced a new uncertainty statement and expressed pride in it. This was an accomplished reporting change, so the reading cannot reduce the episode to unchanged work or empty rhetoric."
+        }
+      ],
+      "who_could_complete_it": "An accreditation coordinator or quality manager with dated implementation plans, protocol revisions, meeting records, and the preparation file for the threatened court case."
+    },
+    {
+      "reading_id": "R2",
+      "wager": "Narcotics analysts' resistance could primarily be a defense of a workable production system under legal deadlines and limited equipment. A technique can be available and scientifically acceptable without being feasible for the entire caseload. Read this way, the contrast with toxicology reflects the unequal costs and scale of the requested changes: toxicology added calculations to established work, while narcotics faced replacing its main route through a heavy workload. Occupational preferences would reinforce this difference without necessarily causing it.",
+      "evidence": [
+        {
+          "page": "p. 629",
+          "job": "Narcotics analysts already used GC/MS for unfamiliar substances or drugs unsuitable for crystal testing. They nevertheless relied on rapid crystal tests for common cases because local law imposed short turnaround times. This distinguishes resistance to universal deployment from rejection of instrumentation itself."
+        },
+        {
+          "page": "p. 631",
+          "job": "Analysts contested delays introduced by a new reporting system and discussed differences measured in minutes. This shows that small processing costs mattered in everyday work even when DNA comparisons were not the immediate issue."
+        },
+        {
+          "page": "p. 632",
+          "job": "An analyst explained that two available instruments and lengthy runs could not accommodate the caseload. The proposed second examination of crystals would require repeating the tests, while microscope cameras were discussed as a less expensive alternative to more GC/MS instruments. These passages identify concrete capacity constraints and possible remedies."
+        },
+        {
+          "page": "p. 628",
+          "job": "Toxicology's revised reporting drew on established equipment, methods, and accumulated data. This supplies a comparison in which the change could build on existing capacity rather than displace the main production method."
+        }
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Observe the narcotics unit after sufficient instrument capacity, staffing, and turnaround time are secured, while the demand for reviewable evidence remains. Broad acceptance of GC/MS under those conditions would support the capacity reading; continued refusal on grounds of boredom or lost craft would favor the values account. The paper prints analysts' capacity claims and proposed alternatives, but no adequately resourced trial or measured comparison of full-caseload throughput.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {
+          "page": "p. 632",
+          "why": "Analysts objected explicitly to repetitive instrument work and loss of skilled judgment, and the author identifies these losses as their greatest concern. Those objections could survive any increase in equipment or staffing."
+        },
+        {
+          "page": "p. 630",
+          "why": "Several narcotics analysts had sought to leave toxicology because they disliked its routine and paperwork. Their actual career choices give the preference for varied benchwork more weight than an expedient justification of current capacity limits."
+        }
+      ],
+      "who_could_complete_it": "A laboratory operations manager with workload and turnaround records, equipment-use data, and observations of a funded change in analytical capacity."
+    },
+    {
+      "reading_id": "R3",
+      "wager": "The comparison with DNA could be read as a struggle over making expert work inspectable after the analyst has finished. DNA's authority rests partly on durable records that let evidence travel to reviewers and courts, while substantial judgment remains inside its production. The proposed reforms would therefore redistribute the ability to question an analysis, not simply replace subjectivity with objectivity. Firearms examiners may already have accommodated part of this demand through imaging, even while resisting the particular demand for statistical matching.",
+      "evidence": [
+        {
+          "page": "p. 619",
+          "job": "Legal parties could inspect DNA records, yet analysts described contamination, imperfect graphs, and conclusions reached through extensive collective interpretation. This separates the availability of a reviewable record from the absence of expert discretion."
+        },
+        {
+          "page": "p. 621",
+          "job": "Firearms examiners assembled detailed images and notes to sustain testimony and emphasized that outsiders had inspected their work. This shows that documentary accessibility was already part of their defense of expert judgment."
+        },
+        {
+          "page": "p. 622",
+          "job": "Examiners described an earlier shift toward mandatory documentation, and the observed review involved negotiating both an identification and the images that would substantiate it. This makes their apparent resistance compatible with prior adaptation in the form of evidence they produced."
+        },
+        {
+          "page": "p. 631",
+          "job": "A narcotics analyst identified the inability of others to revisit a crystal observation as a reason the method might be prohibited. The threatened deficiency concerns access to the evidentiary trace, even though she regarded the test as reliable."
+        },
+        {
+          "page": "p. 632",
+          "job": "The proposed remedies included another analyst examining crystals or cameras preserving their appearance. These would change who could inspect the result without necessarily requiring abandonment of crystal chemistry, helping isolate reviewability as a distinct demand."
+        }
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Follow a disputed crystal analysis through the introduction of durable images, keeping the underlying test unchanged, and observe whether independent reviewers can reassess it and whether the relevant evaluators then accept the method. Acceptance without conversion to GC/MS would support the reading; demands for additional validation despite adequate records would limit it. The paper reports proposed cameras and review arrangements, but not their implementation or evaluators' responses.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {
+          "page": "p. 620",
+          "why": "The scientific criticism reproduced in the paper concerns unknown error rates and erroneous identifications as well as weak documentation. Better access to records cannot by itself establish that a method produces valid conclusions."
+        },
+        {
+          "page": "p. 624",
+          "why": "Firearms examiners already created images but still faced demands for statistical justification. Inspectability alone therefore does not explain the standard they were being asked to meet."
+        },
+        {
+          "page": "p. 622",
+          "why": "The observed second examiner helped construct a persuasive image and agreed a conclusion through dialogue. This is collaborative judgment, not evidence that a durable record actually enabled an independent challenge."
+        }
+      ],
+      "who_could_complete_it": "An independent technical reviewer or evidence auditor able to follow case records from bench decisions through later review and courtroom use."
+    },
+    {
+      "reading_id": "R4",
+      "wager": "The narcotics dispute could be retold as competition within an occupation over whose established equipment and methods would become compulsory for everyone. DNA's prestige would serve as an argument available to a regional coalition seeking to make its own practice the national rule. The consequential difference would be access to standard-setting authority, with occupational values shaping what each side defended. This would give power a more central role than the paper's explanation allows, without assuming that the proposed standards lacked scientific merit.",
+      "evidence": [
+        {
+          "page": "p. 628",
+          "job": "The paper describes an existing regional division between instrument-based analysis and crystal testing and says that the community accepted both methods as scientifically valid. Renewed comparison with DNA could therefore change the relative standing of already legitimate alternatives rather than introduce an entirely new technical problem."
+        },
+        {
+          "page": "p. 631",
+          "job": "MCCL analysts feared that Eastern practitioners, whom they believed disproportionately represented on the scientific working group's board, could prohibit crystal testing. This connects their anxiety to perceived control of rule-making, although it does not verify the board's composition or intentions."
+        },
+        {
+          "page": "p. 630",
+          "job": "The working group's existing requirement for two different crystal tests already organized MCCL's practice. This establishes that its standards could reach the bench, making a prospective prohibition more consequential than a difference in professional opinion alone."
+        },
+        {
+          "page": "p. 632",
+          "job": "MCCL's limited instrument capacity meant that adopting the preferred alternative would impose substantial local costs. This identifies what the unit could lose if another region's existing arrangements became the general requirement."
+        }
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "A documented standards decision would need to show that a coalition's representation and established laboratory arrangements determined which method became required, after considering competing validation evidence and workable review alternatives. The paper prints MCCL's belief about regional influence and descriptions of the debate, but no board deliberations, votes, verified membership analysis, or account from advocates of the competing method.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {
+          "page": "p. 630",
+          "why": "The paper identifies a substantive uncertainty in crystal testing: unfamiliar compounds might yield similar crystals. Advocates of stricter standards could be responding to this limitation rather than promoting regional interests."
+        },
+        {
+          "page": "p. 632",
+          "why": "No prohibition had forced a local change, and analysts also resisted on grounds of autonomy and interest in their work. The printed outcome therefore establishes concern about possible power, not a demonstrated exercise of it."
+        }
+      ],
+      "who_could_complete_it": "A participant in standards deliberations, together with board membership records, proposals, minutes, votes, and submissions from laboratories using both methods."
+    },
+    {
+      "reading_id": "R5",
+      "wager": "The contrast between toxicology and narcotics could partly result from people sorting themselves into work they already preferred. Employees who disliked repetitive processing sought transfers, leaving units increasingly populated by people who valued their characteristic tasks. Management's hiring and transfer arrangements would help produce the apparently distinct occupational cultures. Responses to proposed changes would then reflect accumulated staffing choices as well as values learned through doing the work.",
+      "evidence": [
+        {
+          "page": "p. 613",
+          "job": "Criminalists entered with similar educational backgrounds but were hired into particular units. This places the starting distinction inside an organizational assignment process rather than demonstrating that entrants already belonged to wholly separate professional populations."
+        },
+        {
+          "page": "p. 619",
+          "job": "The author describes criminalists as potentially interchangeable across units and introduces a director's plan to exchange narcotics and firearms staff. This supplies an organizational route through which unit membership could change."
+        },
+        {
+          "page": "p. 630",
+          "job": "Several narcotics analysts had previously worked in toxicology and wanted to leave. One explained taking the available toxicology position and later persuading management to arrange training elsewhere because the balance of paperwork and benchwork was unsatisfying. This is direct evidence of preference influencing movement between units."
+        },
+        {
+          "page": "p. 626",
+          "job": "Toxicologists described colleagues who did not share their organizational habits as irritating exceptions. This shows that fit within a unit was noticed and policed, which could reinforce selection, although the passage does not show anyone leaving because of it."
+        }
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Follow analysts' stated preferences before placement, during training, and across transfers. The reading would gain support if preferences predicted requested destinations and remained stable despite reassignment; changes following immersion in a new unit would favor occupational socialization. The paper includes retrospective accounts of some transfers, but no longitudinal comparison separating selection from learning or showing how widespread each process was.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {
+          "page": "p. 620",
+          "why": "Lengthy specialized training, especially in firearms, and differing relationships with the legal system provide substantial opportunities for work to reshape values after assignment. Similar entry credentials do not imply that subsequent occupational formation is weak."
+        },
+        {
+          "page": "p. 626",
+          "why": "Toxicology's tracking discipline has concrete consequences for preventing sample errors under heavy throughput. Its valued habits can be learned responses to task demands, not simply the expression of employees' prior tastes."
+        },
+        {
+          "page": "p. 630",
+          "why": "The transfer accounts describe dissatisfaction after experience in toxicology. They do not establish that the relevant preferences preceded that experience, so they support sorting without establishing where the preferences originated."
+        }
+      ],
+      "who_could_complete_it": "A researcher following new hires and transferring analysts, with access to placement decisions, training histories, transfer requests, and interviews conducted before and after each move."
+    }
+  ]
+}

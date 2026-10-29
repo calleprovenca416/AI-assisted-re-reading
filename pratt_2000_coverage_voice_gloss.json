@@ -1,0 +1,687 @@
+{
+  "paper_id": "pratt_2000",
+  "voice": [
+    {
+      "fragment_id": "F01",
+      "code": "reported",
+      "reason": "The passage narrates a specific episode in the researcher's experience rather than interpreting across multiple events."
+    },
+    {
+      "fragment_id": "F02",
+      "code": "reported",
+      "reason": "The passage reports an observed behavior, condition, or recurring feature as something that occurred in the setting."
+    },
+    {
+      "fragment_id": "F03",
+      "code": "reported",
+      "reason": "The passage records speech from a particular setting or occasion rather than the author's interpretive synthesis."
+    },
+    {
+      "fragment_id": "F04",
+      "code": "reported",
+      "reason": "The passage reports an observed behavior, condition, or recurring feature as something that occurred in the setting."
+    },
+    {
+      "fragment_id": "F05",
+      "code": "author_insight",
+      "reason": "The passage synthesizes how Amway manages members' organizational attachment across the study rather than reporting one episode."
+    },
+    {
+      "fragment_id": "F06",
+      "code": "reported",
+      "reason": "The passage reports an observed behavior, condition, or recurring feature as something that occurred in the setting."
+    },
+    {
+      "fragment_id": "F07",
+      "code": "reported",
+      "reason": "The passage reports content from a specific published or recorded source rather than the author's own interpretation across events."
+    },
+    {
+      "fragment_id": "F08",
+      "code": "reported",
+      "reason": "The passage reports content from a specific published or recorded source rather than the author's own interpretation across events."
+    },
+    {
+      "fragment_id": "F09",
+      "code": "reported",
+      "reason": "The passage reports a practice, condition, or event as something that was the case without adding a cross-case causal or meaning interpretation."
+    },
+    {
+      "fragment_id": "F10",
+      "code": "reported",
+      "reason": "The passage reports a practice, condition, or event as something that was the case without adding a cross-case causal or meaning interpretation."
+    },
+    {
+      "fragment_id": "F11",
+      "code": "reported",
+      "reason": "The passage reports a practice, condition, or event as something that was the case without adding a cross-case causal or meaning interpretation."
+    },
+    {
+      "fragment_id": "F12",
+      "code": "reported",
+      "reason": "The passage reports an observed behavior, condition, or recurring feature as something that occurred in the setting."
+    },
+    {
+      "fragment_id": "F13",
+      "code": "reported",
+      "reason": "The passage reports content from a specific published or recorded source rather than the author's own interpretation across events."
+    },
+    {
+      "fragment_id": "F14",
+      "code": "reported",
+      "reason": "The passage reports a practice, condition, or event as something that was the case without adding a cross-case causal or meaning interpretation."
+    },
+    {
+      "fragment_id": "F15",
+      "code": "reported",
+      "reason": "The passage records speech from a particular setting or occasion rather than the author's interpretive synthesis."
+    },
+    {
+      "fragment_id": "F16",
+      "code": "reported",
+      "reason": "The passage reports an observed behavior, condition, or recurring feature as something that occurred in the setting."
+    },
+    {
+      "fragment_id": "F17",
+      "code": "author_insight",
+      "reason": "The author gives a cross-case interpretation of Amway's identification-management process rather than a discrete event."
+    },
+    {
+      "fragment_id": "F18",
+      "code": "author_insight",
+      "reason": "The author classifies informants' reactions and interprets them through identification across multiple cases."
+    },
+    {
+      "fragment_id": "F19",
+      "code": "author_insight",
+      "reason": "The passage interprets differing reactions as a function of success or failure in two practices across cases."
+    },
+    {
+      "fragment_id": "F20",
+      "code": "author_insight",
+      "reason": "The author states an analytic null relationship between prospecting and identification rather than reporting a single encounter."
+    },
+    {
+      "fragment_id": "F21",
+      "code": "author_insight",
+      "reason": "The passage interprets combinations of practice success and failure as corresponding to different identification forms."
+    },
+    {
+      "fragment_id": "F22",
+      "code": "reported",
+      "reason": "The passage reports an observed behavior, condition, or recurring feature as something that occurred in the setting."
+    },
+    {
+      "fragment_id": "F23",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F24",
+      "code": "reported",
+      "reason": "The passage reports content from a specific published or recorded source rather than the author's own interpretation across events."
+    },
+    {
+      "fragment_id": "F25",
+      "code": "reported",
+      "reason": "The passage reports content from a specific published or recorded source rather than the author's own interpretation across events."
+    },
+    {
+      "fragment_id": "F26",
+      "code": "reported",
+      "reason": "The passage reports an observed behavior, condition, or recurring feature as something that occurred in the setting."
+    },
+    {
+      "fragment_id": "F27",
+      "code": "author_insight",
+      "reason": "The author explains identification outcomes through the sensemaking consequences of successful and failed practices."
+    },
+    {
+      "fragment_id": "F28",
+      "code": "author_insight",
+      "reason": "The passage interprets dream building as a process that connects possessions and self rather than narrating one session."
+    },
+    {
+      "fragment_id": "F29",
+      "code": "reported",
+      "reason": "The passage reports content from a specific published or recorded source rather than the author's own interpretation across events."
+    },
+    {
+      "fragment_id": "F30",
+      "code": "reported",
+      "reason": "The passage records speech from a particular setting or occasion rather than the author's interpretive synthesis."
+    },
+    {
+      "fragment_id": "F31",
+      "code": "reported",
+      "reason": "The passage reports content from a specific published or recorded source rather than the author's own interpretation across events."
+    },
+    {
+      "fragment_id": "F32",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F33",
+      "code": "reported",
+      "reason": "The passage records a particular field-note episode or observation rather than a cross-case interpretation."
+    },
+    {
+      "fragment_id": "F34",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F35",
+      "code": "reported",
+      "reason": "The passage reports an observed behavior, condition, or recurring feature as something that occurred in the setting."
+    },
+    {
+      "fragment_id": "F36",
+      "code": "reported",
+      "reason": "The passage reports an observed behavior, condition, or recurring feature as something that occurred in the setting."
+    },
+    {
+      "fragment_id": "F37",
+      "code": "reported",
+      "reason": "The passage records speech from a particular setting or occasion rather than the author's interpretive synthesis."
+    },
+    {
+      "fragment_id": "F38",
+      "code": "author_insight",
+      "reason": "The author uses a mass-customization analogy to interpret how acceptable dreams are structured and personalized."
+    },
+    {
+      "fragment_id": "F39",
+      "code": "reported",
+      "reason": "The passage records a particular field-note episode or observation rather than a cross-case interpretation."
+    },
+    {
+      "fragment_id": "F40",
+      "code": "author_insight",
+      "reason": "The author explains an identity-deficit mechanism created by comparison between present and desired selves."
+    },
+    {
+      "fragment_id": "F41",
+      "code": "reported",
+      "reason": "The passage reports an observed behavior, condition, or recurring feature as something that occurred in the setting."
+    },
+    {
+      "fragment_id": "F42",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F43",
+      "code": "reported",
+      "reason": "The passage reports content from a specific published or recorded source rather than the author's own interpretation across events."
+    },
+    {
+      "fragment_id": "F44",
+      "code": "reported",
+      "reason": "The passage records speech from a particular setting or occasion rather than the author's interpretive synthesis."
+    },
+    {
+      "fragment_id": "F45",
+      "code": "reported",
+      "reason": "The passage reports an observed behavior, condition, or recurring feature as something that occurred in the setting."
+    },
+    {
+      "fragment_id": "F46",
+      "code": "reported",
+      "reason": "The passage reports content from a specific published or recorded source rather than the author's own interpretation across events."
+    },
+    {
+      "fragment_id": "F47",
+      "code": "reported",
+      "reason": "The passage records speech from a particular setting or occasion rather than the author's interpretive synthesis."
+    },
+    {
+      "fragment_id": "F48",
+      "code": "author_insight",
+      "reason": "The passage states the author’s interpretation of the cumulative consequences of repeated dream building."
+    },
+    {
+      "fragment_id": "F49",
+      "code": "author_insight",
+      "reason": "The author synthesizes several behaviors and meanings into the cross-case construct of seekership."
+    },
+    {
+      "fragment_id": "F50",
+      "code": "reported",
+      "reason": "The passage reports content from a specific published or recorded source rather than the author's own interpretation across events."
+    },
+    {
+      "fragment_id": "F51",
+      "code": "reported",
+      "reason": "The passage reports content from a specific published or recorded source rather than the author's own interpretation across events."
+    },
+    {
+      "fragment_id": "F52",
+      "code": "reported",
+      "reason": "The passage reports content from a specific published or recorded source rather than the author's own interpretation across events."
+    },
+    {
+      "fragment_id": "F53",
+      "code": "author_insight",
+      "reason": "The passage organizes positive programming into an interpreted sensegiving process spanning multiple observations."
+    },
+    {
+      "fragment_id": "F54",
+      "code": "reported",
+      "reason": "The passage reports content from a specific published or recorded source rather than the author's own interpretation across events."
+    },
+    {
+      "fragment_id": "F55",
+      "code": "reported",
+      "reason": "The passage reports an observed behavior, condition, or recurring feature as something that occurred in the setting."
+    },
+    {
+      "fragment_id": "F56",
+      "code": "reported",
+      "reason": "The passage reports an observed behavior, condition, or recurring feature as something that occurred in the setting."
+    },
+    {
+      "fragment_id": "F57",
+      "code": "reported",
+      "reason": "The passage reports content from a specific published or recorded source rather than the author's own interpretation across events."
+    },
+    {
+      "fragment_id": "F58",
+      "code": "reported",
+      "reason": "The passage reports an observed behavior, condition, or recurring feature as something that occurred in the setting."
+    },
+    {
+      "fragment_id": "F59",
+      "code": "reported",
+      "reason": "The passage reports content from a specific published or recorded source rather than the author's own interpretation across events."
+    },
+    {
+      "fragment_id": "F60",
+      "code": "reported",
+      "reason": "The passage records speech from a particular setting or occasion rather than the author's interpretive synthesis."
+    },
+    {
+      "fragment_id": "F61",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F62",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F63",
+      "code": "author_insight",
+      "reason": "The author interprets mentoring advice as shaping members' self-understanding and insulating them from outsiders."
+    },
+    {
+      "fragment_id": "F64",
+      "code": "reported",
+      "reason": "The passage reports an observed behavior, condition, or recurring feature as something that occurred in the setting."
+    },
+    {
+      "fragment_id": "F65",
+      "code": "author_insight",
+      "reason": "The passage interprets comparisons among relationships as a revaluing process that privileges Amway ties."
+    },
+    {
+      "fragment_id": "F66",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F67",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F68",
+      "code": "reported",
+      "reason": "The passage reports an observed behavior, condition, or recurring feature as something that occurred in the setting."
+    },
+    {
+      "fragment_id": "F69",
+      "code": "reported",
+      "reason": "The passage reports content from a specific published or recorded source rather than the author's own interpretation across events."
+    },
+    {
+      "fragment_id": "F70",
+      "code": "author_insight",
+      "reason": "The author maps the observed boundary pattern onto an in-group/out-group framework and explains its fluidity."
+    },
+    {
+      "fragment_id": "F71",
+      "code": "reported",
+      "reason": "The passage reports an observed behavior, condition, or recurring feature as something that occurred in the setting."
+    },
+    {
+      "fragment_id": "F72",
+      "code": "author_insight",
+      "reason": "The passage explains how repeated member contact and sponsorship produce social encapsulation across cases."
+    },
+    {
+      "fragment_id": "F73",
+      "code": "author_insight",
+      "reason": "The author explains how criticism is discounted and contact reduced through ideological encapsulation."
+    },
+    {
+      "fragment_id": "F74",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F75",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F76",
+      "code": "reported",
+      "reason": "The passage reports an observed behavior, condition, or recurring feature as something that occurred in the setting."
+    },
+    {
+      "fragment_id": "F77",
+      "code": "author_insight",
+      "reason": "The passage uses commitment and sensemaking theory to explain the consequences of freely chosen distributor behavior."
+    },
+    {
+      "fragment_id": "F78",
+      "code": "author_insight",
+      "reason": "The author interprets either recruiting outcome as reinforcing the same relationship standard."
+    },
+    {
+      "fragment_id": "F79",
+      "code": "author_insight",
+      "reason": "The passage synthesizes several recurring behaviors into the construct of encapsulated sensemaking."
+    },
+    {
+      "fragment_id": "F80",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F81",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F82",
+      "code": "reported",
+      "reason": "The passage reports content from a specific published or recorded source rather than the author's own interpretation across events."
+    },
+    {
+      "fragment_id": "F83",
+      "code": "reported",
+      "reason": "The passage records a particular field-note episode or observation rather than a cross-case interpretation."
+    },
+    {
+      "fragment_id": "F84",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F85",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F86",
+      "code": "author_insight",
+      "reason": "The author explains positive identification as the joint result of successful sensebreaking and sensegiving."
+    },
+    {
+      "fragment_id": "F87",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F88",
+      "code": "author_insight",
+      "reason": "The figure synthesizes the author's process framework across evidence rather than depicting a single reported event."
+    },
+    {
+      "fragment_id": "F89",
+      "code": "author_insight",
+      "reason": "The author infers the reason for absent or broken identification from multiple nonmember interviews."
+    },
+    {
+      "fragment_id": "F90",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F91",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F92",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F93",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F94",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F95",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F96",
+      "code": "reported",
+      "reason": "The sentence reports a cross-case pattern in the frequency and tone of upline interactions without assigning a cause or broader meaning."
+    },
+    {
+      "fragment_id": "F97",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F98",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F99",
+      "code": "author_insight",
+      "reason": "The author explains disidentification through failed sensegiving, outsider interpretation, and opposition to Amway."
+    },
+    {
+      "fragment_id": "F100",
+      "code": "reported",
+      "reason": "The passage reports content from a specific published or recorded source rather than the author's own interpretation across events."
+    },
+    {
+      "fragment_id": "F101",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F102",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F103",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F104",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F105",
+      "code": "reported",
+      "reason": "The passage presents an informant's reported statement or experience rather than the author's cross-case interpretation."
+    },
+    {
+      "fragment_id": "F106",
+      "code": "reported",
+      "reason": "The passage reports an observed behavior, condition, or recurring feature as something that occurred in the setting."
+    },
+    {
+      "fragment_id": "F107",
+      "code": "author_insight",
+      "reason": "The passage explains ambivalence through simultaneous interpretive influence from members and nonmembers."
+    },
+    {
+      "fragment_id": "F108",
+      "code": "author_insight",
+      "reason": "The author summarizes the identification process across cases as motivated sensemaking rather than recounting an episode."
+    },
+    {
+      "fragment_id": "F109",
+      "code": "author_insight",
+      "reason": "The figure generalizes the author's identification-management model across practices and outcomes."
+    },
+    {
+      "fragment_id": "F110",
+      "code": "reported",
+      "reason": "The passage reports that distributors sometimes moved between identification states over time rather than explaining why they did so."
+    },
+    {
+      "fragment_id": "F111",
+      "code": "author_insight",
+      "reason": "The conclusion interprets what Amway provided and meant for active distributors across cases rather than reporting one bounded episode."
+    },
+    {
+      "fragment_id": "F112",
+      "code": "reported",
+      "reason": "The passage records a particular field-note episode or observation rather than a cross-case interpretation."
+    },
+    {
+      "fragment_id": "F113",
+      "code": "reported",
+      "reason": "The passage records a particular field-note episode or observation rather than a cross-case interpretation."
+    },
+    {
+      "fragment_id": "F114",
+      "code": "reported",
+      "reason": "The passage records a particular field-note episode or observation rather than a cross-case interpretation."
+    },
+    {
+      "fragment_id": "F115",
+      "code": "reported",
+      "reason": "The passage records a particular field-note episode or observation rather than a cross-case interpretation."
+    },
+    {
+      "fragment_id": "F116",
+      "code": "reported",
+      "reason": "The passage records a particular field-note episode or observation rather than a cross-case interpretation."
+    },
+    {
+      "fragment_id": "F117",
+      "code": "reported",
+      "reason": "The passage records a particular field-note episode or observation rather than a cross-case interpretation."
+    },
+    {
+      "fragment_id": "F118",
+      "code": "reported",
+      "reason": "The passage records a particular field-note episode or observation rather than a cross-case interpretation."
+    },
+    {
+      "fragment_id": "F119",
+      "code": "reported",
+      "reason": "The passage records a particular field-note episode or observation rather than a cross-case interpretation."
+    },
+    {
+      "fragment_id": "F120",
+      "code": "reported",
+      "reason": "The footnote supplies factual setting information about the product range available to distributors rather than interpreting its meaning."
+    },
+    {
+      "fragment_id": "F121",
+      "code": "reported",
+      "reason": "The footnote reports a recurring way upline members described their relationships with downline members without explaining why that framing occurred."
+    },
+    {
+      "fragment_id": "F122",
+      "code": "reported",
+      "reason": "The paragraph presents aggregate participation estimates from outside reporting, not an interpretive synthesis or an event witnessed in fieldwork."
+    },
+    {
+      "fragment_id": "F123",
+      "code": "reported",
+      "reason": "The methods paragraph gives a concrete observed tenure pattern among former-distributor interviewees."
+    },
+    {
+      "fragment_id": "F124",
+      "code": "reported",
+      "reason": "The paragraph reports a specific secondary estimate and the company’s non-disclosure of its rate."
+    },
+    {
+      "fragment_id": "F125",
+      "code": "author_insight",
+      "reason": "The paragraph connects an absent or waning interest in Amway with weaker upline ties across interviewees, rather than presenting one bounded incident."
+    }
+  ],
+  "gloss_relation": [
+    {
+      "fragment_id": "F08",
+      "code": "consistent",
+      "reason": "The source passage itself presents broad access to the opportunity and effort-based success, matching the author's summary of general attainability."
+    },
+    {
+      "fragment_id": "F10",
+      "code": "goes_beyond",
+      "reason": "The reported rank and training structure supports a hierarchy reading, but the gloss adds a broader characterization of that hierarchy as both financial and social."
+    },
+    {
+      "fragment_id": "F39",
+      "code": "consistent",
+      "reason": "The field note directly combines strong excitement about the personal dream with simultaneous skepticism, which is the point summarized by the gloss."
+    },
+    {
+      "fragment_id": "F54",
+      "code": "goes_beyond",
+      "reason": "The birth-attendant metaphor supports closeness and family-like imagery, but the gloss adds a broader claim about loving, nonfinancial mentoring that the excerpt does not itself state."
+    },
+    {
+      "fragment_id": "F60",
+      "code": "consistent",
+      "reason": "Providing food during hardship while softening the gift directly supports the author's summary of personal support extending beyond routine business help."
+    },
+    {
+      "fragment_id": "F61",
+      "code": "consistent",
+      "reason": "The informant explicitly describes unusually dependable personal ties within his group, which supports the summary of very strong upline-downline bonds."
+    },
+    {
+      "fragment_id": "F62",
+      "code": "consistent",
+      "reason": "The distributor links reaching the recognition level to joining an upline golf trip because he wants to be with people he likes, directly supporting the motivational gloss."
+    },
+    {
+      "fragment_id": "F66",
+      "code": "consistent",
+      "reason": "The interview explicitly attributes incomplete training in conventional firms to self-protection, supporting the author's summary of those ties as non-mutual."
+    },
+    {
+      "fragment_id": "F67",
+      "code": "goes_beyond",
+      "reason": "The episode shows withdrawal from a friend's wedding role after a schedule conflict, while the gloss adds the interpretation that the friend was treated as unsupportive of the business."
+    },
+    {
+      "fragment_id": "F87",
+      "code": "consistent",
+      "reason": "The interview description emphasizes visible intensity, certainty, and a continuing internal drive, which supports the author's summary of an energetic positive identification."
+    },
+    {
+      "fragment_id": "F104",
+      "code": "goes_beyond",
+      "reason": "The distributor's immediate denial of affiliation after a stigmatizing remark is compatible with embarrassment, but the speaker does not explicitly name embarrassment as the reason."
+    }
+  ]
+}

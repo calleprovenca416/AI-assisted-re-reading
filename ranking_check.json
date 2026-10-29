@@ -1,0 +1,1343 @@
+{
+ "both": {
+  "count": 6300,
+  "mean_score_by_worth": {
+   "0": {
+    "mean_score": 0.317857,
+    "n": 8
+   },
+   "1": {
+    "mean_score": 0.413757,
+    "n": 9
+   },
+   "2": {
+    "mean_score": 0.275866,
+    "n": 22
+   },
+   "3": {
+    "mean_score": 0.404762,
+    "n": 4
+   }
+  },
+  "n": 43,
+  "p": 0.630037,
+  "rho": -0.07589,
+  "rho_by_coding": {
+   "astra": -0.037792,
+   "gemini": -0.162242
+  },
+  "verdict": "no clear relation at this size"
+ },
+ "fable_table": [
+  {
+   "cost": 9,
+   "fable": [
+    "0.70",
+    "0.70"
+   ],
+   "fable_findings": 9,
+   "paper": "pratt",
+   "reading": "R09",
+   "recomputed": [
+    "0.70",
+    "0.70"
+   ],
+   "same": true
+  },
+  {
+   "cost": 7,
+   "fable": [
+    "0.70",
+    "0.73"
+   ],
+   "fable_findings": 7,
+   "paper": "pratt",
+   "reading": "R14",
+   "recomputed": [
+    "0.70",
+    "0.73"
+   ],
+   "same": true
+  },
+  {
+   "cost": 8,
+   "fable": [
+    "0.62",
+    "0.62"
+   ],
+   "fable_findings": 8,
+   "paper": "bechky",
+   "reading": "R22",
+   "recomputed": [
+    "0.62",
+    "0.62"
+   ],
+   "same": true
+  },
+  {
+   "cost": 25,
+   "fable": [
+    "0.57",
+    "0.57"
+   ],
+   "fable_findings": 25,
+   "paper": "bechky",
+   "reading": "R05",
+   "recomputed": [
+    "0.57",
+    "0.57"
+   ],
+   "same": true
+  },
+  {
+   "cost": 4,
+   "fable": [
+    "0.48",
+    "0.45"
+   ],
+   "fable_findings": 4,
+   "paper": "pratt",
+   "reading": "R08",
+   "recomputed": [
+    "0.48",
+    "0.45"
+   ],
+   "same": true
+  },
+  {
+   "cost": 9,
+   "fable": [
+    "0.48",
+    "0.38"
+   ],
+   "fable_findings": 9,
+   "paper": "bechky",
+   "reading": "R07",
+   "recomputed": [
+    "0.48",
+    "0.38"
+   ],
+   "same": true
+  },
+  {
+   "cost": 10,
+   "fable": [
+    "0.31",
+    "0.31"
+   ],
+   "fable_findings": 10,
+   "paper": "bechky",
+   "reading": "R29",
+   "recomputed": [
+    "0.31",
+    "0.31"
+   ],
+   "same": true
+  },
+  {
+   "cost": 13,
+   "fable": [
+    "0.20",
+    "0.20"
+   ],
+   "fable_findings": 13,
+   "paper": "pratt",
+   "reading": "R03",
+   "recomputed": [
+    "0.20",
+    "0.20"
+   ],
+   "same": true
+  },
+  {
+   "cost": 6,
+   "fable": [
+    "0.17",
+    "0.13"
+   ],
+   "fable_findings": 6,
+   "paper": "pratt",
+   "reading": "R02",
+   "recomputed": [
+    "0.17",
+    "0.13"
+   ],
+   "same": true
+  },
+  {
+   "cost": 5,
+   "fable": [
+    "0.48",
+    "0.14"
+   ],
+   "fable_findings": 5,
+   "paper": "bechky",
+   "reading": "R27",
+   "recomputed": [
+    "0.48",
+    "0.14"
+   ],
+   "same": true
+  },
+  {
+   "cost": 10,
+   "fable": [
+    "0.03",
+    "0.03"
+   ],
+   "fable_findings": 10,
+   "paper": "pratt",
+   "reading": "R01",
+   "recomputed": [
+    "0.03",
+    "0.03"
+   ],
+   "same": true
+  },
+  {
+   "cost": 13,
+   "fable": [
+    "0.43",
+    "0.00"
+   ],
+   "fable_findings": 13,
+   "paper": "bechky",
+   "reading": "R16",
+   "recomputed": [
+    "0.43",
+    "0.00"
+   ],
+   "same": true
+  }
+ ],
+ "inputs": {
+  "map_results.json": "0dfdeab883118c2a192fbb890efc2a958eb4bf3abc55c301a2996dc2847f396d",
+  "map_round2_key.json": "16203667c98851db4412f5ec1e58c9dabcbff9b666558a7ac5e85a6ce7b6b313",
+  "relation_results.json": "5dff925eb5d23484ae44642628f29fd12e28366ef4db1e5fc907c4ad97a1fc47",
+  "reply_77_bechky_place_argon.json": "099915f0e41be3c0c0d1da89bf74a95b32d880e75bd1f7bad56555e6309c4677",
+  "reply_78_pratt_place_argon.json": "3188febbc4a9923c5124d507ed41b5be65515c4e7e91225b024d1573fb7f6dbc"
+ },
+ "papers": {
+  "bechky": {
+   "check": {
+    "count": 8429,
+    "mean_score_by_worth": {
+     "0": {
+      "mean_score": 0.269841,
+      "n": 3
+     },
+     "1": {
+      "mean_score": 0.380952,
+      "n": 4
+     },
+     "2": {
+      "mean_score": 0.291317,
+      "n": 17
+     },
+     "3": {
+      "mean_score": 0.404762,
+      "n": 4
+     }
+    },
+    "n": 28,
+    "p": 0.842916,
+    "rho": 0.038515,
+    "rho_by_coding": {
+     "astra": 0.08033,
+     "gemini": -0.159438
+    },
+    "verdict": "no clear relation at this size"
+   },
+   "core": [
+    "C01",
+    "C03",
+    "C04",
+    "C05",
+    "C13",
+    "C20",
+    "C21"
+   ],
+   "rows": [
+    {
+     "cost": 6,
+     "flag": false,
+     "planted": false,
+     "reading": "R01",
+     "score": {
+      "fraction": "10/21",
+      "value": 0.47619
+     },
+     "score_astra": {
+      "fraction": "4/7",
+      "value": 0.571429
+     },
+     "score_gemini": {
+      "fraction": "10/21",
+      "value": 0.47619
+     },
+     "stars": 4,
+     "stars_astra": 4,
+     "stars_gemini": 4,
+     "worth": 3
+    },
+    {
+     "cost": 12,
+     "flag": false,
+     "planted": true,
+     "reading": "R02",
+     "score": {
+      "fraction": "8/21",
+      "value": 0.380952
+     },
+     "score_astra": {
+      "fraction": "8/21",
+      "value": 0.380952
+     },
+     "score_gemini": {
+      "fraction": "8/21",
+      "value": 0.380952
+     },
+     "stars": 3,
+     "stars_astra": 3,
+     "stars_gemini": 3,
+     "worth": null
+    },
+    {
+     "cost": 13,
+     "flag": false,
+     "planted": false,
+     "reading": "R03",
+     "score": {
+      "fraction": "4/7",
+      "value": 0.571429
+     },
+     "score_astra": {
+      "fraction": "4/7",
+      "value": 0.571429
+     },
+     "score_gemini": {
+      "fraction": "4/7",
+      "value": 0.571429
+     },
+     "stars": 4,
+     "stars_astra": 4,
+     "stars_gemini": 4,
+     "worth": 2
+    },
+    {
+     "cost": 5,
+     "flag": true,
+     "planted": false,
+     "reading": "R04",
+     "score": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "score_astra": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "score_gemini": {
+      "fraction": "3/7",
+      "value": 0.428571
+     },
+     "stars": 1,
+     "stars_astra": 1,
+     "stars_gemini": 4,
+     "worth": 2
+    },
+    {
+     "cost": 25,
+     "flag": false,
+     "planted": false,
+     "reading": "R05",
+     "score": {
+      "fraction": "4/7",
+      "value": 0.571429
+     },
+     "score_astra": {
+      "fraction": "4/7",
+      "value": 0.571429
+     },
+     "score_gemini": {
+      "fraction": "4/7",
+      "value": 0.571429
+     },
+     "stars": 4,
+     "stars_astra": 4,
+     "stars_gemini": 4,
+     "worth": 2
+    },
+    {
+     "cost": 15,
+     "flag": false,
+     "planted": false,
+     "reading": "R06",
+     "score": {
+      "fraction": "2/7",
+      "value": 0.285714
+     },
+     "score_astra": {
+      "fraction": "2/7",
+      "value": 0.285714
+     },
+     "score_gemini": {
+      "fraction": "2/7",
+      "value": 0.285714
+     },
+     "stars": 3,
+     "stars_astra": 3,
+     "stars_gemini": 3,
+     "worth": 2
+    },
+    {
+     "cost": 9,
+     "flag": true,
+     "planted": false,
+     "reading": "R07",
+     "score": {
+      "fraction": "8/21",
+      "value": 0.380952
+     },
+     "score_astra": {
+      "fraction": "8/21",
+      "value": 0.380952
+     },
+     "score_gemini": {
+      "fraction": "10/21",
+      "value": 0.47619
+     },
+     "stars": 3,
+     "stars_astra": 3,
+     "stars_gemini": 4,
+     "worth": 2
+    },
+    {
+     "cost": 16,
+     "flag": true,
+     "planted": false,
+     "reading": "R08",
+     "score": {
+      "fraction": "1/6",
+      "value": 0.166667
+     },
+     "score_astra": {
+      "fraction": "1/6",
+      "value": 0.166667
+     },
+     "score_gemini": {
+      "fraction": "13/42",
+      "value": 0.309524
+     },
+     "stars": 2,
+     "stars_astra": 2,
+     "stars_gemini": 3,
+     "worth": 2
+    },
+    {
+     "cost": 15,
+     "flag": true,
+     "planted": false,
+     "reading": "R09",
+     "score": {
+      "fraction": "2/7",
+      "value": 0.285714
+     },
+     "score_astra": {
+      "fraction": "2/7",
+      "value": 0.285714
+     },
+     "score_gemini": {
+      "fraction": "11/21",
+      "value": 0.52381
+     },
+     "stars": 3,
+     "stars_astra": 3,
+     "stars_gemini": 4,
+     "worth": 2
+    },
+    {
+     "cost": 5,
+     "flag": true,
+     "planted": false,
+     "reading": "R10",
+     "score": {
+      "fraction": "1/7",
+      "value": 0.142857
+     },
+     "score_astra": {
+      "fraction": "1/7",
+      "value": 0.142857
+     },
+     "score_gemini": {
+      "fraction": "3/7",
+      "value": 0.428571
+     },
+     "stars": 2,
+     "stars_astra": 2,
+     "stars_gemini": 4,
+     "worth": 0
+    },
+    {
+     "cost": 7,
+     "flag": true,
+     "planted": false,
+     "reading": "R11",
+     "score": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "score_astra": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "score_gemini": {
+      "fraction": "1/7",
+      "value": 0.142857
+     },
+     "stars": 1,
+     "stars_astra": 1,
+     "stars_gemini": 2,
+     "worth": 1
+    },
+    {
+     "cost": 14,
+     "flag": true,
+     "planted": false,
+     "reading": "R12",
+     "score": {
+      "fraction": "4/7",
+      "value": 0.571429
+     },
+     "score_astra": {
+      "fraction": "4/7",
+      "value": 0.571429
+     },
+     "score_gemini": {
+      "fraction": "13/21",
+      "value": 0.619048
+     },
+     "stars": 4,
+     "stars_astra": 4,
+     "stars_gemini": 5,
+     "worth": 1
+    },
+    {
+     "cost": 12,
+     "flag": false,
+     "planted": true,
+     "reading": "R13",
+     "score": {
+      "fraction": "4/7",
+      "value": 0.571429
+     },
+     "score_astra": {
+      "fraction": "4/7",
+      "value": 0.571429
+     },
+     "score_gemini": {
+      "fraction": "4/7",
+      "value": 0.571429
+     },
+     "stars": 4,
+     "stars_astra": 4,
+     "stars_gemini": 4,
+     "worth": null
+    },
+    {
+     "cost": 5,
+     "flag": true,
+     "planted": false,
+     "reading": "R14",
+     "score": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "score_astra": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "score_gemini": {
+      "fraction": "2/7",
+      "value": 0.285714
+     },
+     "stars": 1,
+     "stars_astra": 1,
+     "stars_gemini": 3,
+     "worth": 2
+    },
+    {
+     "cost": 5,
+     "flag": true,
+     "planted": false,
+     "reading": "R15",
+     "score": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "score_astra": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "score_gemini": {
+      "fraction": "10/21",
+      "value": 0.47619
+     },
+     "stars": 1,
+     "stars_astra": 1,
+     "stars_gemini": 4,
+     "worth": 2
+    },
+    {
+     "cost": 13,
+     "flag": true,
+     "planted": false,
+     "reading": "R16",
+     "score": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "score_astra": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "score_gemini": {
+      "fraction": "3/7",
+      "value": 0.428571
+     },
+     "stars": 1,
+     "stars_astra": 1,
+     "stars_gemini": 4,
+     "worth": 2
+    },
+    {
+     "cost": 8,
+     "flag": false,
+     "planted": false,
+     "reading": "R17",
+     "score": {
+      "fraction": "8/21",
+      "value": 0.380952
+     },
+     "score_astra": {
+      "fraction": "8/21",
+      "value": 0.380952
+     },
+     "score_gemini": {
+      "fraction": "8/21",
+      "value": 0.380952
+     },
+     "stars": 3,
+     "stars_astra": 3,
+     "stars_gemini": 3,
+     "worth": 2
+    },
+    {
+     "cost": 6,
+     "flag": true,
+     "planted": false,
+     "reading": "R18",
+     "score": {
+      "fraction": "8/21",
+      "value": 0.380952
+     },
+     "score_astra": {
+      "fraction": "8/21",
+      "value": 0.380952
+     },
+     "score_gemini": {
+      "fraction": "3/7",
+      "value": 0.428571
+     },
+     "stars": 3,
+     "stars_astra": 3,
+     "stars_gemini": 4,
+     "worth": 3
+    },
+    {
+     "cost": 19,
+     "flag": false,
+     "planted": false,
+     "reading": "R19",
+     "score": {
+      "fraction": "10/21",
+      "value": 0.47619
+     },
+     "score_astra": {
+      "fraction": "10/21",
+      "value": 0.47619
+     },
+     "score_gemini": {
+      "fraction": "10/21",
+      "value": 0.47619
+     },
+     "stars": 4,
+     "stars_astra": 4,
+     "stars_gemini": 4,
+     "worth": 1
+    },
+    {
+     "cost": 5,
+     "flag": false,
+     "planted": false,
+     "reading": "R20",
+     "score": {
+      "fraction": "10/21",
+      "value": 0.47619
+     },
+     "score_astra": {
+      "fraction": "10/21",
+      "value": 0.47619
+     },
+     "score_gemini": {
+      "fraction": "10/21",
+      "value": 0.47619
+     },
+     "stars": 4,
+     "stars_astra": 4,
+     "stars_gemini": 4,
+     "worth": 3
+    },
+    {
+     "cost": 12,
+     "flag": false,
+     "planted": false,
+     "reading": "R21",
+     "score": {
+      "fraction": "2/7",
+      "value": 0.285714
+     },
+     "score_astra": {
+      "fraction": "2/7",
+      "value": 0.285714
+     },
+     "score_gemini": {
+      "fraction": "8/21",
+      "value": 0.380952
+     },
+     "stars": 3,
+     "stars_astra": 3,
+     "stars_gemini": 3,
+     "worth": 3
+    },
+    {
+     "cost": 8,
+     "flag": false,
+     "planted": false,
+     "reading": "R22",
+     "score": {
+      "fraction": "13/21",
+      "value": 0.619048
+     },
+     "score_astra": {
+      "fraction": "13/21",
+      "value": 0.619048
+     },
+     "score_gemini": {
+      "fraction": "13/21",
+      "value": 0.619048
+     },
+     "stars": 5,
+     "stars_astra": 5,
+     "stars_gemini": 5,
+     "worth": 2
+    },
+    {
+     "cost": 6,
+     "flag": false,
+     "planted": false,
+     "reading": "R23",
+     "score": {
+      "fraction": "13/21",
+      "value": 0.619048
+     },
+     "score_astra": {
+      "fraction": "13/21",
+      "value": 0.619048
+     },
+     "score_gemini": {
+      "fraction": "13/21",
+      "value": 0.619048
+     },
+     "stars": 5,
+     "stars_astra": 5,
+     "stars_gemini": 5,
+     "worth": 2
+    },
+    {
+     "cost": 4,
+     "flag": false,
+     "planted": false,
+     "reading": "R24",
+     "score": {
+      "fraction": "3/7",
+      "value": 0.428571
+     },
+     "score_astra": {
+      "fraction": "3/7",
+      "value": 0.428571
+     },
+     "score_gemini": {
+      "fraction": "3/7",
+      "value": 0.428571
+     },
+     "stars": 4,
+     "stars_astra": 4,
+     "stars_gemini": 4,
+     "worth": 2
+    },
+    {
+     "cost": 14,
+     "flag": false,
+     "planted": false,
+     "reading": "R25",
+     "score": {
+      "fraction": "10/21",
+      "value": 0.47619
+     },
+     "score_astra": {
+      "fraction": "10/21",
+      "value": 0.47619
+     },
+     "score_gemini": {
+      "fraction": "11/21",
+      "value": 0.52381
+     },
+     "stars": 4,
+     "stars_astra": 4,
+     "stars_gemini": 4,
+     "worth": 1
+    },
+    {
+     "cost": 12,
+     "flag": false,
+     "planted": false,
+     "reading": "R26",
+     "score": {
+      "fraction": "11/21",
+      "value": 0.52381
+     },
+     "score_astra": {
+      "fraction": "11/21",
+      "value": 0.52381
+     },
+     "score_gemini": {
+      "fraction": "11/21",
+      "value": 0.52381
+     },
+     "stars": 4,
+     "stars_astra": 4,
+     "stars_gemini": 4,
+     "worth": 0
+    },
+    {
+     "cost": 5,
+     "flag": true,
+     "planted": false,
+     "reading": "R27",
+     "score": {
+      "fraction": "1/7",
+      "value": 0.142857
+     },
+     "score_astra": {
+      "fraction": "1/7",
+      "value": 0.142857
+     },
+     "score_gemini": {
+      "fraction": "10/21",
+      "value": 0.47619
+     },
+     "stars": 2,
+     "stars_astra": 2,
+     "stars_gemini": 4,
+     "worth": 0
+    },
+    {
+     "cost": 13,
+     "flag": true,
+     "planted": false,
+     "reading": "R28",
+     "score": {
+      "fraction": "1/3",
+      "value": 0.333333
+     },
+     "score_astra": {
+      "fraction": "1/3",
+      "value": 0.333333
+     },
+     "score_gemini": {
+      "fraction": "3/7",
+      "value": 0.428571
+     },
+     "stars": 3,
+     "stars_astra": 3,
+     "stars_gemini": 4,
+     "worth": 2
+    },
+    {
+     "cost": 10,
+     "flag": false,
+     "planted": false,
+     "reading": "R29",
+     "score": {
+      "fraction": "13/42",
+      "value": 0.309524
+     },
+     "score_astra": {
+      "fraction": "13/42",
+      "value": 0.309524
+     },
+     "score_gemini": {
+      "fraction": "13/42",
+      "value": 0.309524
+     },
+     "stars": 3,
+     "stars_astra": 3,
+     "stars_gemini": 3,
+     "worth": 2
+    },
+    {
+     "cost": 3,
+     "flag": true,
+     "planted": false,
+     "reading": "R30",
+     "score": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "score_astra": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "score_gemini": {
+      "fraction": "10/21",
+      "value": 0.47619
+     },
+     "stars": 1,
+     "stars_astra": 1,
+     "stars_gemini": 4,
+     "worth": 2
+    }
+   ]
+  },
+  "pratt": {
+   "check": {
+    "count": 5923,
+    "mean_score_by_worth": {
+     "0": {
+      "mean_score": 0.346667,
+      "n": 5
+     },
+     "1": {
+      "mean_score": 0.44,
+      "n": 5
+     },
+     "2": {
+      "mean_score": 0.223333,
+      "n": 5
+     }
+    },
+    "n": 15,
+    "p": 0.592341,
+    "rho": -0.152972,
+    "rho_by_coding": {
+     "astra": 0.028526,
+     "gemini": -0.209003
+    },
+    "verdict": "no clear relation at this size"
+   },
+   "core": [
+    "C01",
+    "C02",
+    "C11",
+    "C12",
+    "C13",
+    "C20",
+    "C27",
+    "C28",
+    "C29",
+    "C34"
+   ],
+   "rows": [
+    {
+     "cost": 10,
+     "flag": false,
+     "planted": false,
+     "reading": "R01",
+     "score": {
+      "fraction": "1/30",
+      "value": 0.033333
+     },
+     "score_astra": {
+      "fraction": "1/30",
+      "value": 0.033333
+     },
+     "score_gemini": {
+      "fraction": "1/30",
+      "value": 0.033333
+     },
+     "stars": 1,
+     "stars_astra": 1,
+     "stars_gemini": 1,
+     "worth": 2
+    },
+    {
+     "cost": 6,
+     "flag": false,
+     "planted": false,
+     "reading": "R02",
+     "score": {
+      "fraction": "2/15",
+      "value": 0.133333
+     },
+     "score_astra": {
+      "fraction": "2/15",
+      "value": 0.133333
+     },
+     "score_gemini": {
+      "fraction": "1/6",
+      "value": 0.166667
+     },
+     "stars": 2,
+     "stars_astra": 2,
+     "stars_gemini": 2,
+     "worth": 0
+    },
+    {
+     "cost": 13,
+     "flag": false,
+     "planted": false,
+     "reading": "R03",
+     "score": {
+      "fraction": "1/5",
+      "value": 0.2
+     },
+     "score_astra": {
+      "fraction": "1/5",
+      "value": 0.2
+     },
+     "score_gemini": {
+      "fraction": "1/5",
+      "value": 0.2
+     },
+     "stars": 2,
+     "stars_astra": 2,
+     "stars_gemini": 2,
+     "worth": 2
+    },
+    {
+     "cost": 5,
+     "flag": false,
+     "planted": false,
+     "reading": "R04",
+     "score": {
+      "fraction": "9/20",
+      "value": 0.45
+     },
+     "score_astra": {
+      "fraction": "9/20",
+      "value": 0.45
+     },
+     "score_gemini": {
+      "fraction": "9/20",
+      "value": 0.45
+     },
+     "stars": 4,
+     "stars_astra": 4,
+     "stars_gemini": 4,
+     "worth": 1
+    },
+    {
+     "cost": 12,
+     "flag": true,
+     "planted": true,
+     "reading": "R05",
+     "score": {
+      "fraction": "7/30",
+      "value": 0.233333
+     },
+     "score_astra": {
+      "fraction": "7/30",
+      "value": 0.233333
+     },
+     "score_gemini": {
+      "fraction": "19/30",
+      "value": 0.633333
+     },
+     "stars": 2,
+     "stars_astra": 2,
+     "stars_gemini": 5,
+     "worth": null
+    },
+    {
+     "cost": 5,
+     "flag": false,
+     "planted": false,
+     "reading": "R06",
+     "score": {
+      "fraction": "2/15",
+      "value": 0.133333
+     },
+     "score_astra": {
+      "fraction": "2/15",
+      "value": 0.133333
+     },
+     "score_gemini": {
+      "fraction": "2/15",
+      "value": 0.133333
+     },
+     "stars": 2,
+     "stars_astra": 2,
+     "stars_gemini": 2,
+     "worth": 2
+    },
+    {
+     "cost": 5,
+     "flag": false,
+     "planted": false,
+     "reading": "R07",
+     "score": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "score_astra": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "score_gemini": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "stars": 1,
+     "stars_astra": 1,
+     "stars_gemini": 1,
+     "worth": 0
+    },
+    {
+     "cost": 4,
+     "flag": false,
+     "planted": false,
+     "reading": "R08",
+     "score": {
+      "fraction": "9/20",
+      "value": 0.45
+     },
+     "score_astra": {
+      "fraction": "9/20",
+      "value": 0.45
+     },
+     "score_gemini": {
+      "fraction": "29/60",
+      "value": 0.483333
+     },
+     "stars": 4,
+     "stars_astra": 4,
+     "stars_gemini": 4,
+     "worth": 0
+    },
+    {
+     "cost": 9,
+     "flag": false,
+     "planted": false,
+     "reading": "R09",
+     "score": {
+      "fraction": "7/10",
+      "value": 0.7
+     },
+     "score_astra": {
+      "fraction": "7/10",
+      "value": 0.7
+     },
+     "score_gemini": {
+      "fraction": "7/10",
+      "value": 0.7
+     },
+     "stars": 5,
+     "stars_astra": 5,
+     "stars_gemini": 5,
+     "worth": 0
+    },
+    {
+     "cost": 8,
+     "flag": false,
+     "planted": false,
+     "reading": "R10",
+     "score": {
+      "fraction": "19/30",
+      "value": 0.633333
+     },
+     "score_astra": {
+      "fraction": "19/30",
+      "value": 0.633333
+     },
+     "score_gemini": {
+      "fraction": "19/30",
+      "value": 0.633333
+     },
+     "stars": 5,
+     "stars_astra": 5,
+     "stars_gemini": 5,
+     "worth": 2
+    },
+    {
+     "cost": 13,
+     "flag": false,
+     "planted": true,
+     "reading": "R11",
+     "score": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "score_astra": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "score_gemini": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "stars": 1,
+     "stars_astra": 1,
+     "stars_gemini": 1,
+     "worth": null
+    },
+    {
+     "cost": 11,
+     "flag": false,
+     "planted": false,
+     "reading": "R12",
+     "score": {
+      "fraction": "9/20",
+      "value": 0.45
+     },
+     "score_astra": {
+      "fraction": "9/20",
+      "value": 0.45
+     },
+     "score_gemini": {
+      "fraction": "29/60",
+      "value": 0.483333
+     },
+     "stars": 4,
+     "stars_astra": 4,
+     "stars_gemini": 4,
+     "worth": 1
+    },
+    {
+     "cost": 7,
+     "flag": true,
+     "planted": false,
+     "reading": "R13",
+     "score": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "score_astra": {
+      "fraction": "0/1",
+      "value": 0.0
+     },
+     "score_gemini": {
+      "fraction": "9/20",
+      "value": 0.45
+     },
+     "stars": 1,
+     "stars_astra": 1,
+     "stars_gemini": 4,
+     "worth": 1
+    },
+    {
+     "cost": 7,
+     "flag": false,
+     "planted": false,
+     "reading": "R14",
+     "score": {
+      "fraction": "7/10",
+      "value": 0.7
+     },
+     "score_astra": {
+      "fraction": "11/15",
+      "value": 0.733333
+     },
+     "score_gemini": {
+      "fraction": "7/10",
+      "value": 0.7
+     },
+     "stars": 5,
+     "stars_astra": 5,
+     "stars_gemini": 5,
+     "worth": 1
+    },
+    {
+     "cost": 8,
+     "flag": false,
+     "planted": false,
+     "reading": "R15",
+     "score": {
+      "fraction": "3/5",
+      "value": 0.6
+     },
+     "score_astra": {
+      "fraction": "3/5",
+      "value": 0.6
+     },
+     "score_gemini": {
+      "fraction": "3/5",
+      "value": 0.6
+     },
+     "stars": 5,
+     "stars_astra": 5,
+     "stars_gemini": 5,
+     "worth": 1
+    },
+    {
+     "cost": 12,
+     "flag": true,
+     "planted": false,
+     "reading": "R16",
+     "score": {
+      "fraction": "7/60",
+      "value": 0.116667
+     },
+     "score_astra": {
+      "fraction": "7/10",
+      "value": 0.7
+     },
+     "score_gemini": {
+      "fraction": "7/60",
+      "value": 0.116667
+     },
+     "stars": 2,
+     "stars_astra": 5,
+     "stars_gemini": 2,
+     "worth": 2
+    },
+    {
+     "cost": 8,
+     "flag": false,
+     "planted": false,
+     "reading": "R17",
+     "score": {
+      "fraction": "9/20",
+      "value": 0.45
+     },
+     "score_astra": {
+      "fraction": "29/60",
+      "value": 0.483333
+     },
+     "score_gemini": {
+      "fraction": "9/20",
+      "value": 0.45
+     },
+     "stars": 4,
+     "stars_astra": 4,
+     "stars_gemini": 4,
+     "worth": 0
+    }
+   ]
+  }
+ },
+ "script_sha256": "c52a8dab41f4d890b425678d52459f698e798ca9edd41d2249df3de84c57c8ce",
+ "seed": 20261027,
+ "shuffles": 10000,
+ "what": "T39, measure 8: a rough ranking of the readings by the map (Fable's score) and its check against the PI's worth, by rank_map_readings.py, as MAP_TEST_PLAN.md's addition of 19 Oct 2026 defines them"
+}

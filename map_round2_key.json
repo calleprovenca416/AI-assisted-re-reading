@@ -1,0 +1,2951 @@
+{
+ "builder_sha256": "627ed3a777dab4f21fd609ee2a78055d3a01f7bf72607bc8ebc179e4a570be5e",
+ "coders": {
+  "A": "gemini",
+  "B": "astra"
+ },
+ "inputs": {
+  "RELATION_CODING.md": "be24fa430a3eb9b10ae1c83348935250b66f3e038876e6e32452263ed72fba30",
+  "RELATION_READINGS_bechky.md": "20cadee86efc3d6a29dcc6d4ac29c1006fe6527fb21612a561e7e4d6a378cbf1",
+  "RELATION_READINGS_pratt.md": "c6de0290d9fedd02ddc4a92c465940f5eb8c4985ae92e4d864bede0cd994f580",
+  "bechky_2020_v1.json": "6f83d744cd1dd68326cce29568a4aff461580d852d1222c4f1d096cb6922ced0",
+  "map_closure_bechky.json": "7ff976788af4392a40fbe8bd40b0b7b8151690da18b484aa41f19b24680d339f",
+  "map_closure_pratt.json": "dde21e59c1423aa3877bc6dcd6254c7fec6fe013c4274196e3e5723ab91d6ea7",
+  "map_settled_bechky.json": "01b7fc1b3045c294af9593573cf9b5ba0f059da901bfd62b1b25998db605380b",
+  "map_settled_pratt.json": "323c704a457c2b86357f4f7c370abc961e277a044fb6a43efe7cd6f861736532",
+  "pratt_2000_v1.json": "a4810cc03d9a439220b2c8781acf494c62d5ac63f7f53f359157238739147c99",
+  "relation_key.json": "b8598261afbe915c4d5c58832c7d4516f7500b7f87493c531cf1682490937ea5",
+  "relation_results.json": "5dff925eb5d23484ae44642628f29fd12e28366ef4db1e5fc907c4ad97a1fc47"
+ },
+ "papers": {
+  "bechky": {
+   "citation": "Bechky, B. A. 2020. Evaluative spillovers from technological change: The effects of \"DNA envy\" on occupational practices in forensic science. Administrative Science Quarterly, 65(3): 606–643.",
+   "core": [
+    "C01",
+    "C03",
+    "C04",
+    "C05",
+    "C13",
+    "C20",
+    "C21"
+   ],
+   "counts": {
+    "absence": 1,
+    "claim": 23,
+    "construct": 35,
+    "contrast pair": 2,
+    "declared gap": 3,
+    "edge": 33,
+    "factor": 3,
+    "unit": 4
+   },
+   "elements": {
+    "A01": {
+     "kind": "absence",
+     "what": "The paper reports hearing presentations from firearms examiners outside MCCL but states that it has no data on what those examiners did in their own laboratories."
+    },
+    "C01": {
+     "core": true,
+     "kind": "claim",
+     "what": "Evaluative spillovers allow a technology to reshape the work of adjacent occupations even when those groups do not adopt the technology."
+    },
+    "C02": {
+     "core": false,
+     "kind": "claim",
+     "what": "When one forensic technique acquires unusually strong legitimacy, it becomes a benchmark that draws evaluation toward neighboring forensic occupations."
+    },
+    "C03": {
+     "core": true,
+     "kind": "claim",
+     "what": "Institutional pathways shape how evaluative spillovers are encountered and acted on; locally immediate routes create a stronger impetus for local practice change than remote or nonurgent routes."
+    },
+    "C04": {
+     "core": true,
+     "kind": "claim",
+     "what": "The technical compatibility between a benchmark technology and an occupation’s existing method shapes how feasible adaptation is, although compatibility by itself does not guarantee change."
+    },
+    "C05": {
+     "core": true,
+     "kind": "claim",
+     "what": "Occupational values filter evaluative comparisons: alignment with valued ways of doing good work supports adaptation, whereas a threat to those values promotes resistance."
+    },
+    "C06": {
+     "core": false,
+     "kind": "claim",
+     "what": "Direct adoption of new technology can reconfigure occupational task boundaries, access to resources, workplace relations, and status arrangements."
+    },
+    "C07": {
+     "core": false,
+     "kind": "claim",
+     "what": "The same technology can yield different workplace social arrangements because local expertise, routines, and relationships condition how it is used."
+    },
+    "C08": {
+     "core": false,
+     "kind": "claim",
+     "what": "Occupations with greater professional authority are better positioned to resist technology-driven changes to their tasks."
+    },
+    "C09": {
+     "core": false,
+     "kind": "claim",
+     "what": "Association with novel technology can raise an occupation’s symbolic legitimacy because technology is culturally linked to progress and rationality."
+    },
+    "C10": {
+     "core": false,
+     "kind": "claim",
+     "what": "Differences in occupational work and field relationships generate distinct occupational cultures, including different values and preferred practices."
+    },
+    "C11": {
+     "core": false,
+     "kind": "claim",
+     "what": "Changes in occupational practice are mediated by how workers make sense of institutional demands."
+    },
+    "C12": {
+     "core": false,
+     "kind": "claim",
+     "what": "Ethnographic observation can make visible how organization members interpret and respond to field-level discourse in ways that other methods may not reveal."
+    },
+    "C13": {
+     "core": true,
+     "kind": "claim",
+     "what": "A benchmark technology is not interpreted as one fixed standard; neighboring occupations select different features of it when comparing the technology with their own work."
+    },
+    "C14": {
+     "core": false,
+     "kind": "claim",
+     "what": "Statistical conventions, error reporting, reviewable outputs, and iterative review in DNA work transform a messy judgment-heavy process into evidence that outsiders can perceive as objective and credible."
+    },
+    "C15": {
+     "core": false,
+     "kind": "claim",
+     "what": "The privileged legitimacy and resource position of DNA profiling generated “DNA envy” and resentment elsewhere in forensic science."
+    },
+    "C16": {
+     "core": false,
+     "kind": "claim",
+     "what": "At MCCL, firearms examiners resisted local practice change because the comparison arrived through remote challenges, did not map onto their method, and conflicted with their commitment to holistic subjective judgment."
+    },
+    "C17": {
+     "core": false,
+     "kind": "claim",
+     "what": "At MCCL, toxicologists accelerated a reporting change because a local court threat was immediate, the change fit their instrumented method and error-avoidance values, and related accreditation work was already underway."
+    },
+    "C18": {
+     "core": false,
+     "kind": "claim",
+     "what": "At MCCL, narcotics analysts retained crystal-testing practices because the pressure came through an internal professional debate without immediate compulsion and the implied move to instrumentation threatened autonomy, variety, and craft judgment despite technical compatibility."
+    },
+    "C19": {
+     "core": false,
+     "kind": "claim",
+     "what": "Evaluative spillovers are more likely to reach occupations that share evaluating audiences and have overlapping activities or interests; weaker overlap should reduce spillover."
+    },
+    "C20": {
+     "core": true,
+     "kind": "claim",
+     "what": "Occupational values and technique are intertwined in practice because values are rooted in what the work requires and reveals to practitioners."
+    },
+    "C21": {
+     "core": true,
+     "kind": "claim",
+     "what": "For the three focal occupations, differences in the nature of the work—especially values and technique—accounted for the response pattern more than relative occupational status or power did."
+    },
+    "C22": {
+     "core": false,
+     "kind": "claim",
+     "what": "Applying the paper’s framework beyond forensics, ethnographers are expected to resist pressure to alter masking practices because source anonymity is strongly valued and the comparison reaches them through a relatively weak public route."
+    },
+    "C23": {
+     "core": false,
+     "kind": "claim",
+     "what": "As digital technologies affect more workplaces, evaluative spillovers are expected to travel across a wider range of occupations and industries."
+    },
+    "CP01": {
+     "controls": {
+      "X1": "varies",
+      "X2": "varies",
+      "X3": "varies"
+     },
+     "kind": "contrast pair",
+     "what": "The firearms challenge was remote and produced no local practice change, whereas the toxicology challenge was immediate and accompanied by a local reporting change."
+    },
+    "CP02": {
+     "controls": {
+      "X1": "varies",
+      "X2": "held",
+      "X3": "varies"
+     },
+     "kind": "contrast pair",
+     "what": "Toxicology combined technical and value alignment with adaptation, while narcotics combined technical compatibility with value conflict and resistance."
+    },
+    "DG01": {
+     "kind": "declared gap",
+     "what": "The single-laboratory ethnography does not establish how evaluative spillovers would unfold in other occupational fields; the paper presents the case as showing a possible mechanism rather than a general field pattern."
+    },
+    "DG02": {
+     "kind": "declared gap",
+     "what": "The study cannot determine the outer boundary of neighboring occupations or how far evaluative spillover extends, leaving that boundary question for future research."
+    },
+    "DG03": {
+     "kind": "declared gap",
+     "what": "The author lacks evidence about what firearms examiners from other jurisdictions did locally after the court challenges they described at the professional meeting."
+    },
+    "E01": {
+     "base": "C02",
+     "claim": "C01",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "mechanistic",
+     "what": "C01 rests on C02"
+    },
+    "E02": {
+     "base": "C09",
+     "claim": "C01",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "mechanistic",
+     "what": "C01 rests on C09"
+    },
+    "E03": {
+     "base": "C14",
+     "claim": "C01",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "mechanistic",
+     "what": "C01 rests on C14"
+    },
+    "E04": {
+     "base": "C17",
+     "claim": "C01",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "evidential",
+     "what": "C01 rests on C17"
+    },
+    "E05": {
+     "base": "C02",
+     "claim": "C03",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "mechanistic",
+     "what": "C03 rests on C02"
+    },
+    "E06": {
+     "base": "C16",
+     "claim": "C03",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C03 rests on C16"
+    },
+    "E07": {
+     "base": "C17",
+     "claim": "C03",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "evidential",
+     "what": "C03 rests on C17"
+    },
+    "E08": {
+     "base": "C18",
+     "claim": "C03",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C03 rests on C18"
+    },
+    "E09": {
+     "base": "C02",
+     "claim": "C04",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "mechanistic",
+     "what": "C04 rests on C02"
+    },
+    "E10": {
+     "base": "C16",
+     "claim": "C04",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C04 rests on C16"
+    },
+    "E11": {
+     "base": "C17",
+     "claim": "C04",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C04 rests on C17"
+    },
+    "E12": {
+     "base": "C18",
+     "claim": "C04",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "evidential",
+     "what": "C04 rests on C18"
+    },
+    "E13": {
+     "base": "C02",
+     "claim": "C05",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "mechanistic",
+     "what": "C05 rests on C02"
+    },
+    "E14": {
+     "base": "C16",
+     "claim": "C05",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C05 rests on C16"
+    },
+    "E15": {
+     "base": "C17",
+     "claim": "C05",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C05 rests on C17"
+    },
+    "E16": {
+     "base": "C18",
+     "claim": "C05",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C05 rests on C18"
+    },
+    "E17": {
+     "base": "C02",
+     "claim": "C13",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "mechanistic",
+     "what": "C13 rests on C02"
+    },
+    "E18": {
+     "base": "C14",
+     "claim": "C13",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C13 rests on C14"
+    },
+    "E19": {
+     "base": "C16",
+     "claim": "C13",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C13 rests on C16"
+    },
+    "E20": {
+     "base": "C17",
+     "claim": "C13",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C13 rests on C17"
+    },
+    "E21": {
+     "base": "C18",
+     "claim": "C13",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C13 rests on C18"
+    },
+    "E22": {
+     "base": "C04",
+     "claim": "C20",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "significance",
+     "what": "C20 rests on C04"
+    },
+    "E23": {
+     "base": "C05",
+     "claim": "C20",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "significance",
+     "what": "C20 rests on C05"
+    },
+    "E24": {
+     "base": "C10",
+     "claim": "C20",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C20 rests on C10"
+    },
+    "E25": {
+     "base": "C16",
+     "claim": "C20",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C20 rests on C16"
+    },
+    "E26": {
+     "base": "C17",
+     "claim": "C20",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C20 rests on C17"
+    },
+    "E27": {
+     "base": "C18",
+     "claim": "C20",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C20 rests on C18"
+    },
+    "E28": {
+     "base": "C04",
+     "claim": "C21",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "comparative",
+     "what": "C21 rests on C04"
+    },
+    "E29": {
+     "base": "C05",
+     "claim": "C21",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "comparative",
+     "what": "C21 rests on C05"
+    },
+    "E30": {
+     "base": "C08",
+     "claim": "C21",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "comparative",
+     "what": "C21 rests on C08"
+    },
+    "E31": {
+     "base": "C16",
+     "claim": "C21",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C21 rests on C16"
+    },
+    "E32": {
+     "base": "C17",
+     "claim": "C21",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C21 rests on C17"
+    },
+    "E33": {
+     "base": "C18",
+     "claim": "C21",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C21 rests on C18"
+    },
+    "K01": {
+     "claims": [
+      "C23"
+     ],
+     "kind": "construct",
+     "names": [
+      "digital technologies"
+     ],
+     "what": "digital technologies"
+    },
+    "K02": {
+     "claims": [
+      "C15"
+     ],
+     "kind": "construct",
+     "names": [
+      "DNA envy"
+     ],
+     "what": "DNA envy"
+    },
+    "K03": {
+     "claims": [
+      "C02",
+      "C13",
+      "C14",
+      "C15"
+     ],
+     "kind": "construct",
+     "names": [
+      "DNA profiling"
+     ],
+     "what": "DNA profiling"
+    },
+    "K04": {
+     "claims": [
+      "C12"
+     ],
+     "kind": "construct",
+     "names": [
+      "ethnography"
+     ],
+     "what": "ethnography"
+    },
+    "K05": {
+     "claims": [
+      "C19"
+     ],
+     "kind": "construct",
+     "names": [
+      "evaluating audiences"
+     ],
+     "what": "evaluating audiences"
+    },
+    "K06": {
+     "claims": [
+      "C01",
+      "C02",
+      "C03",
+      "C04",
+      "C05",
+      "C13",
+      "C16",
+      "C17",
+      "C18",
+      "C19",
+      "C22",
+      "C23"
+     ],
+     "kind": "construct",
+     "names": [
+      "evaluative spillovers"
+     ],
+     "what": "evaluative spillovers"
+    },
+    "K07": {
+     "claims": [
+      "C07"
+     ],
+     "kind": "construct",
+     "names": [
+      "expertise"
+     ],
+     "what": "expertise"
+    },
+    "K08": {
+     "claims": [
+      "C16"
+     ],
+     "kind": "construct",
+     "names": [
+      "firearms examination"
+     ],
+     "what": "firearms examination"
+    },
+    "K09": {
+     "claims": [
+      "C11"
+     ],
+     "kind": "construct",
+     "names": [
+      "institutional demands"
+     ],
+     "what": "institutional demands"
+    },
+    "K10": {
+     "claims": [
+      "C12"
+     ],
+     "kind": "construct",
+     "names": [
+      "institutional discourse"
+     ],
+     "what": "institutional discourse"
+    },
+    "K11": {
+     "claims": [
+      "C03",
+      "C16",
+      "C17",
+      "C18",
+      "C22"
+     ],
+     "kind": "construct",
+     "names": [
+      "institutional pathways"
+     ],
+     "what": "institutional pathways"
+    },
+    "K12": {
+     "claims": [
+      "C11",
+      "C12",
+      "C13"
+     ],
+     "kind": "construct",
+     "names": [
+      "meaning making",
+      "occupational interpretation"
+     ],
+     "what": "meaning making"
+    },
+    "K13": {
+     "claims": [
+      "C18"
+     ],
+     "kind": "construct",
+     "names": [
+      "narcotics analysis"
+     ],
+     "what": "narcotics analysis"
+    },
+    "K14": {
+     "claims": [
+      "C01",
+      "C19"
+     ],
+     "kind": "construct",
+     "names": [
+      "neighboring occupations"
+     ],
+     "what": "neighboring occupations"
+    },
+    "K15": {
+     "claims": [
+      "C14"
+     ],
+     "kind": "construct",
+     "names": [
+      "objectivity"
+     ],
+     "what": "objectivity"
+    },
+    "K16": {
+     "claims": [
+      "C06"
+     ],
+     "kind": "construct",
+     "names": [
+      "occupational boundaries"
+     ],
+     "what": "occupational boundaries"
+    },
+    "K17": {
+     "claims": [
+      "C03",
+      "C04",
+      "C05",
+      "C21",
+      "C23"
+     ],
+     "kind": "construct",
+     "names": [
+      "occupational change"
+     ],
+     "what": "occupational change"
+    },
+    "K18": {
+     "claims": [
+      "C10"
+     ],
+     "kind": "construct",
+     "names": [
+      "occupational communities"
+     ],
+     "what": "occupational communities"
+    },
+    "K19": {
+     "claims": [
+      "C10",
+      "C20"
+     ],
+     "kind": "construct",
+     "names": [
+      "occupational culture"
+     ],
+     "what": "occupational culture"
+    },
+    "K20": {
+     "claims": [
+      "C02",
+      "C09",
+      "C14",
+      "C15"
+     ],
+     "kind": "construct",
+     "names": [
+      "legitimacy",
+      "occupational legitimacy",
+      "symbolic legitimacy"
+     ],
+     "what": "occupational legitimacy"
+    },
+    "K21": {
+     "claims": [
+      "C01",
+      "C07",
+      "C10",
+      "C11"
+     ],
+     "kind": "construct",
+     "names": [
+      "occupational practices",
+      "work practices"
+     ],
+     "what": "occupational practices"
+    },
+    "K22": {
+     "claims": [
+      "C05",
+      "C10",
+      "C16",
+      "C17",
+      "C18",
+      "C20",
+      "C21",
+      "C22"
+     ],
+     "kind": "construct",
+     "names": [
+      "occupational values"
+     ],
+     "what": "occupational values"
+    },
+    "K23": {
+     "claims": [
+      "C08",
+      "C21"
+     ],
+     "kind": "construct",
+     "names": [
+      "power",
+      "professional power"
+     ],
+     "what": "power"
+    },
+    "K24": {
+     "claims": [
+      "C08"
+     ],
+     "kind": "construct",
+     "names": [
+      "professional authority"
+     ],
+     "what": "professional authority"
+    },
+    "K25": {
+     "claims": [
+      "C07"
+     ],
+     "kind": "construct",
+     "names": [
+      "relationships"
+     ],
+     "what": "relationships"
+    },
+    "K26": {
+     "claims": [
+      "C14"
+     ],
+     "kind": "construct",
+     "names": [
+      "representation"
+     ],
+     "what": "representation"
+    },
+    "K27": {
+     "claims": [
+      "C06",
+      "C15"
+     ],
+     "kind": "construct",
+     "names": [
+      "resources"
+     ],
+     "what": "resources"
+    },
+    "K28": {
+     "claims": [
+      "C07"
+     ],
+     "kind": "construct",
+     "names": [
+      "social order"
+     ],
+     "what": "social order"
+    },
+    "K29": {
+     "claims": [
+      "C06",
+      "C21"
+     ],
+     "kind": "construct",
+     "names": [
+      "status"
+     ],
+     "what": "status"
+    },
+    "K30": {
+     "claims": [
+      "C08"
+     ],
+     "kind": "construct",
+     "names": [
+      "task change"
+     ],
+     "what": "task change"
+    },
+    "K31": {
+     "claims": [
+      "C04",
+      "C13",
+      "C16",
+      "C17",
+      "C18",
+      "C20",
+      "C21"
+     ],
+     "kind": "construct",
+     "names": [
+      "technique"
+     ],
+     "what": "technique"
+    },
+    "K32": {
+     "claims": [
+      "C01"
+     ],
+     "kind": "construct",
+     "names": [
+      "technological change"
+     ],
+     "what": "technological change"
+    },
+    "K33": {
+     "claims": [
+      "C09"
+     ],
+     "kind": "construct",
+     "names": [
+      "technology"
+     ],
+     "what": "technology"
+    },
+    "K34": {
+     "claims": [
+      "C06",
+      "C07"
+     ],
+     "kind": "construct",
+     "names": [
+      "technology adoption"
+     ],
+     "what": "technology adoption"
+    },
+    "K35": {
+     "claims": [
+      "C17"
+     ],
+     "kind": "construct",
+     "names": [
+      "toxicology"
+     ],
+     "what": "toxicology"
+    },
+    "U1": {
+     "claim": "C14",
+     "kind": "unit",
+     "outcome": "?",
+     "values": {
+      "X1": "?",
+      "X2": "?",
+      "X3": "?"
+     },
+     "what": "forensic biology (DNA)"
+    },
+    "U2": {
+     "claim": "C16",
+     "kind": "unit",
+     "outcome": "-",
+     "values": {
+      "X1": "-",
+      "X2": "-",
+      "X3": "-"
+     },
+     "what": "firearms"
+    },
+    "U3": {
+     "claim": "C17",
+     "kind": "unit",
+     "outcome": "+",
+     "values": {
+      "X1": "+",
+      "X2": "+",
+      "X3": "+"
+     },
+     "what": "toxicology"
+    },
+    "U4": {
+     "claim": "C18",
+     "kind": "unit",
+     "outcome": "-",
+     "values": {
+      "X1": "-",
+      "X2": "+",
+      "X3": "-"
+     },
+     "what": "controlled substances (narcotics)"
+    },
+    "X1": {
+     "claim": "C03",
+     "kind": "factor",
+     "what": "immediacy of the institutional pathway"
+    },
+    "X2": {
+     "claim": "C04",
+     "kind": "factor",
+     "what": "technical compatibility with the DNA benchmark"
+    },
+    "X3": {
+     "claim": "C05",
+     "kind": "factor",
+     "what": "compatibility with occupational values"
+    }
+   },
+   "files": {
+    "SETTLED_MAP_bechky.md": "1798bf6555fc47d52ea24468473c4f24a79ce2aa43061a60f16821f8497a2c57",
+    "T37_CODES_bechky.md": "be3fee35e9cf68d46aa92622e185c0118d726ed15c449493971b72d393281fb7"
+   },
+   "passages": {
+    "F01": "p. 607",
+    "F02": "p. 612",
+    "F03": "p. 612",
+    "F04": "p. 612",
+    "F05": "p. 613",
+    "F06": "p. 613",
+    "F07": "p. 613",
+    "F08": "pp. 613–614",
+    "F09": "Table 1, Number of members — forensic biology (DNA), p. 613",
+    "F10": "Table 1, Number of members — firearms, p. 613",
+    "F100": "p. 627",
+    "F101": "p. 627",
+    "F102": "pp. 627–628",
+    "F103": "p. 628",
+    "F104": "p. 628",
+    "F105": "p. 628",
+    "F106": "p. 628",
+    "F107": "pp. 628–629",
+    "F108": "p. 629",
+    "F109": "p. 629",
+    "F11": "Table 1, Number of members — toxicology, p. 613",
+    "F110": "pp. 629–630",
+    "F111": "p. 630",
+    "F112": "p. 630",
+    "F113": "p. 630",
+    "F114": "p. 630",
+    "F115": "p. 630",
+    "F116": "p. 631",
+    "F117": "p. 631",
+    "F118": "p. 631",
+    "F119": "p. 631",
+    "F12": "Table 1, Number of members — controlled substances (narcotics), p. 613",
+    "F120": "p. 631",
+    "F121": "p. 631",
+    "F122": "p. 631",
+    "F123": "p. 632",
+    "F124": "p. 632",
+    "F125": "p. 632",
+    "F126": "p. 632",
+    "F127": "p. 632",
+    "F128": "p. 632",
+    "F129": "p. 632",
+    "F13": "Table 1, Gender — forensic biology (DNA), p. 613",
+    "F130": "Table 2, Institutional pathways of spillover — firearms, p. 633",
+    "F131": "Table 2, Institutional pathways of spillover — toxicology, p. 633",
+    "F132": "Table 2, Institutional pathways of spillover — controlled substances (narcotics), p. 633",
+    "F133": "Table 2, Scientific — firearms, p. 633",
+    "F134": "Table 2, Scientific — toxicology, p. 633",
+    "F135": "Table 2, Scientific — controlled substances (narcotics), p. 633",
+    "F136": "Table 2, Public — firearms, p. 633",
+    "F137": "Table 2, Public — toxicology, p. 633",
+    "F138": "Table 2, Public — controlled substances (narcotics), p. 633",
+    "F139": "Table 2, Courts — firearms, p. 633",
+    "F14": "Table 1, Gender — firearms, p. 613",
+    "F140": "Table 2, Courts — toxicology, p. 633",
+    "F141": "Table 2, Courts — controlled substances (narcotics), p. 633",
+    "F142": "Table 2, Professional association — firearms, p. 633",
+    "F143": "Table 2, Professional association — toxicology, p. 633",
+    "F144": "Table 2, Professional association — controlled substances (narcotics), p. 633",
+    "F145": "Table 2, Technique — firearms, p. 633",
+    "F146": "Table 2, Technique — toxicology, p. 633",
+    "F147": "Table 2, Technique — controlled substances (narcotics), p. 633",
+    "F148": "Table 2, Values — firearms, p. 633",
+    "F149": "Table 2, Values — toxicology, p. 633",
+    "F15": "Table 1, Gender — toxicology, p. 613",
+    "F150": "Table 2, Values — controlled substances (narcotics), p. 633",
+    "F151": "Table 2, Response of group at MCCL — firearms, p. 633",
+    "F152": "Table 2, Response of group at MCCL — toxicology, p. 633",
+    "F153": "Table 2, Response of group at MCCL — controlled substances (narcotics), p. 633",
+    "F154": "p. 633",
+    "F155": "pp. 633–634",
+    "F156": "p. 634",
+    "F157": "p. 634",
+    "F158": "p. 634",
+    "F159": "pp. 634–635",
+    "F16": "Table 1, Gender — controlled substances (narcotics), p. 613",
+    "F160": "pp. 634–635",
+    "F161": "p. 635",
+    "F162": "p. 635",
+    "F163": "p. 635",
+    "F164": "pp. 635–636",
+    "F165": "p. 636",
+    "F166": "p. 637",
+    "F167": "p. 637",
+    "F168": "p. 637",
+    "F169": "pp. 611–612",
+    "F17": "Table 1, Age range — forensic biology (DNA), p. 613",
+    "F170": "footnote 1, p. 612",
+    "F171": "pp. 622–623",
+    "F172": "p. 636",
+    "F18": "Table 1, Age range — firearms, p. 613",
+    "F19": "Table 1, Age range — toxicology, p. 613",
+    "F20": "Table 1, Age range — controlled substances (narcotics), p. 613",
+    "F21": "Table 1, Education — forensic biology (DNA), p. 613",
+    "F22": "Table 1, Education — firearms, p. 613",
+    "F23": "Table 1, Education — toxicology, p. 613",
+    "F24": "Table 1, Education — controlled substances (narcotics), p. 613",
+    "F25": "p. 614",
+    "F26": "p. 614",
+    "F27": "p. 614",
+    "F28": "p. 615",
+    "F29": "p. 615",
+    "F30": "p. 615",
+    "F31": "p. 615",
+    "F32": "p. 616",
+    "F33": "p. 616",
+    "F34": "p. 616",
+    "F35": "p. 616",
+    "F36": "p. 616",
+    "F37": "p. 616",
+    "F38": "p. 616",
+    "F39": "p. 616",
+    "F40": "pp. 616–617",
+    "F41": "p. 617",
+    "F42": "p. 617",
+    "F43": "p. 617",
+    "F44": "p. 617",
+    "F45": "pp. 617–618",
+    "F46": "p. 618",
+    "F47": "pp. 618–619",
+    "F48": "p. 619",
+    "F49": "p. 619",
+    "F50": "p. 619",
+    "F51": "p. 619",
+    "F52": "p. 619",
+    "F53": "p. 619",
+    "F54": "p. 619",
+    "F55": "p. 619",
+    "F56": "p. 619",
+    "F57": "pp. 619–620",
+    "F58": "p. 620",
+    "F59": "p. 620",
+    "F60": "p. 620",
+    "F61": "p. 620",
+    "F62": "p. 621",
+    "F63": "p. 621",
+    "F64": "p. 621",
+    "F65": "p. 621",
+    "F66": "p. 621",
+    "F67": "p. 622",
+    "F68": "p. 622",
+    "F69": "p. 622",
+    "F70": "p. 622",
+    "F71": "p. 623",
+    "F72": "p. 623",
+    "F73": "p. 623",
+    "F74": "p. 623",
+    "F75": "p. 623",
+    "F76": "p. 623",
+    "F77": "p. 623",
+    "F78": "p. 623",
+    "F79": "p. 623",
+    "F80": "pp. 623–624",
+    "F81": "p. 624",
+    "F82": "p. 624",
+    "F83": "p. 624",
+    "F84": "p. 624",
+    "F85": "p. 624",
+    "F86": "p. 624",
+    "F87": "pp. 624–625",
+    "F88": "p. 625",
+    "F89": "p. 625",
+    "F90": "p. 625",
+    "F91": "p. 625",
+    "F92": "pp. 625–626",
+    "F93": "p. 626",
+    "F94": "p. 626",
+    "F95": "p. 626",
+    "F96": "pp. 626–627",
+    "F97": "p. 627",
+    "F98": "p. 627",
+    "F99": "p. 627"
+   },
+   "readings": [
+    "R01",
+    "R02",
+    "R03",
+    "R04",
+    "R05",
+    "R06",
+    "R07",
+    "R08",
+    "R09",
+    "R10",
+    "R11",
+    "R12",
+    "R13",
+    "R14",
+    "R15",
+    "R16",
+    "R17",
+    "R18",
+    "R19",
+    "R20",
+    "R21",
+    "R22",
+    "R23",
+    "R24",
+    "R25",
+    "R26",
+    "R27",
+    "R28",
+    "R29",
+    "R30"
+   ],
+   "sample": [
+    "R05",
+    "R07",
+    "R16",
+    "R22",
+    "R27",
+    "R29"
+   ]
+  },
+  "pratt": {
+   "citation": "Pratt, M. G. 2000. The good, the bad, and the ambivalent: Managing identification among Amway distributors. Administrative Science Quarterly, 45(3): 456–493.",
+   "core": [
+    "C01",
+    "C02",
+    "C11",
+    "C12",
+    "C13",
+    "C20",
+    "C27",
+    "C28",
+    "C29",
+    "C34"
+   ],
+   "counts": {
+    "absence": 3,
+    "claim": 60,
+    "construct": 86,
+    "contrast pair": 3,
+    "declared gap": 4,
+    "edge": 37,
+    "factor": 3
+   },
+   "elements": {
+    "A01": {
+     "kind": "absence",
+     "what": "The paper says current and former distributors could not or would not give clear net-profit figures and disagreed about what should count as revenue or cost."
+    },
+    "A02": {
+     "kind": "absence",
+     "what": "The methods section says failed recruits were interviewed, and the findings attribute lack of identification partly to people who never joined, but no direct quotation from a clearly identified refused recruit is printed."
+    },
+    "A03": {
+     "kind": "absence",
+     "what": "The paper says no official company turnover figure is available in print and therefore uses a very wide estimate from another source."
+    },
+    "C01": {
+     "core": true,
+     "kind": "claim",
+     "what": "Amway manages how members define their connection to the organization through the paired processes labeled sensebreaking and sensegiving."
+    },
+    "C02": {
+     "core": true,
+     "kind": "claim",
+     "what": "Positive identification is fostered when sensebreaking and sensegiving both work successfully."
+    },
+    "C03": {
+     "core": false,
+     "kind": "claim",
+     "what": "Breakdowns in sensebreaking or sensegiving can shift members away from positive identification toward broken, oppositional, or mixed forms of attachment."
+    },
+    "C04": {
+     "core": false,
+     "kind": "claim",
+     "what": "As organizations rely less on direct supervision and conventional workplace cues, they have greater reason to use shared values as a means of coordinating members."
+    },
+    "C05": {
+     "core": false,
+     "kind": "claim",
+     "what": "Organizational identification is distinguished from commitment and person-organization fit by making the self-concept central to the member-organization connection."
+    },
+    "C06": {
+     "core": false,
+     "kind": "claim",
+     "what": "The emotional valence of a person’s reaction to Amway differentiates identification states: positive, negative, mixed, and weak reactions align with positive, oppositional, ambivalent, and absent forms of identification."
+    },
+    "C07": {
+     "core": false,
+     "kind": "claim",
+     "what": "Among distributors, differences in identification track whether dream building and positive programming succeed or fail."
+    },
+    "C08": {
+     "core": false,
+     "kind": "claim",
+     "what": "Prospecting did not distinguish members’ identification because everyone studied as a member had already been recruited successfully."
+    },
+    "C09": {
+     "core": false,
+     "kind": "claim",
+     "what": "Financial performance did not determine whether distributors identified positively, negatively, ambivalently, or weakly with Amway."
+    },
+    "C10": {
+     "core": false,
+     "kind": "claim",
+     "what": "Visible demographic differences did not appear to sort distributors into distinct identification states."
+    },
+    "C11": {
+     "core": true,
+     "kind": "claim",
+     "what": "The paper explains identification states as products of motivated sensemaking about the self and its organizational connection."
+    },
+    "C12": {
+     "core": true,
+     "kind": "claim",
+     "what": "Successful sensebreaking creates seekership by unsettling a member’s current understanding of self and producing a need for new meaning."
+    },
+    "C13": {
+     "core": true,
+     "kind": "claim",
+     "what": "Dream building serves as Amway’s principal sensebreaking practice by tying aspirations to the self, creating identity deficits, and keeping the resulting motivation active."
+    },
+    "C14": {
+     "core": false,
+     "kind": "claim",
+     "what": "Personalizing dreams around familiar choices and emotionally attractive possibilities makes those aspirations easier for distributors to fold into their sense of self."
+    },
+    "C15": {
+     "core": false,
+     "kind": "claim",
+     "what": "Comparing a desired future self with the current self creates an identity deficit that motivates distributors to alter the present self."
+    },
+    "C16": {
+     "core": false,
+     "kind": "claim",
+     "what": "Identity deficits exert stronger motivational pressure when people are already dissatisfied with their present identity or are in crisis."
+    },
+    "C17": {
+     "core": false,
+     "kind": "claim",
+     "what": "Repeated dream building keeps members in seekership by replacing fulfilled aspirations with new ones and renewing the need for self-validation."
+    },
+    "C18": {
+     "core": false,
+     "kind": "claim",
+     "what": "As dream building continues, additional areas of a distributor’s life become tied to the distributor identity."
+    },
+    "C19": {
+     "core": false,
+     "kind": "claim",
+     "what": "Seekership directs members to look for interpretations that can resolve uncertainty about who they are."
+    },
+    "C20": {
+     "core": true,
+     "kind": "claim",
+     "what": "Positive programming channels seekers toward supportive Amway relationships and away from disfavored outside influences; when it works, this produces encapsulated sensemaking."
+    },
+    "C21": {
+     "core": false,
+     "kind": "claim",
+     "what": "Upline-downline bonds become stronger when mentors enact both practical help with the business and personal care for the distributor."
+    },
+    "C22": {
+     "core": false,
+     "kind": "claim",
+     "what": "Revaluing outside relationships against the Amway relationship standard creates barriers that increase social and ideological encapsulation."
+    },
+    "C23": {
+     "core": false,
+     "kind": "claim",
+     "what": "Encapsulation shifts sensemaking toward supportive organizational sources and reduces the force of negative outside evaluations."
+    },
+    "C24": {
+     "core": false,
+     "kind": "claim",
+     "what": "Freely chosen acts of distributing can strengthen commitment to those acts and make the distributor identity more prominent in later interpretation."
+    },
+    "C25": {
+     "core": false,
+     "kind": "claim",
+     "what": "Recruiting interactions can become self-reinforcing because either acceptance or rejection by friends and family can be interpreted as support for the Amway relationship standard."
+    },
+    "C26": {
+     "core": false,
+     "kind": "claim",
+     "what": "Once positive identification forms, it encourages continued dream building and repeated enactment of the identification process."
+    },
+    "C27": {
+     "core": true,
+     "kind": "claim",
+     "what": "When sensebreaking fails to create or sustain seekership, identification does not form or an existing identification dissolves."
+    },
+    "C28": {
+     "core": true,
+     "kind": "claim",
+     "what": "When sensebreaking succeeds but sensegiving fails, members are pushed toward disidentification, in part because they turn to Amway-critical outsiders for meaning."
+    },
+    "C29": {
+     "core": true,
+     "kind": "claim",
+     "what": "When sensebreaking succeeds but sensegiving is only partly effective, members draw meaning from both Amway supporters and critics and develop ambivalent identification."
+    },
+    "C30": {
+     "core": false,
+     "kind": "claim",
+     "what": "Selecting people already inclined to seek meaning through organizations may make organizational identification easier to manage."
+    },
+    "C31": {
+     "core": false,
+     "kind": "claim",
+     "what": "Organizations that attract favorable reactions from outsiders may need less rigid insider-outsider boundaries because supportive nonmembers can also supply organization-consistent meaning."
+    },
+    "C32": {
+     "core": false,
+     "kind": "claim",
+     "what": "Positive identification is expected to make members more willing to follow what the organization asks of them."
+    },
+    "C33": {
+     "core": false,
+     "kind": "claim",
+     "what": "Positive identification should also make members more receptive to later rounds of sensebreaking and sensegiving."
+    },
+    "C34": {
+     "core": true,
+     "kind": "claim",
+     "what": "Identification management is an ongoing process because identification can be reenacted, weakened, or transformed rather than fixed once and for all."
+    },
+    "C35": {
+     "core": false,
+     "kind": "claim",
+     "what": "A discrepancy between the current and ideal self creates a need for meaning that can motivate organizational identification."
+    },
+    "C36": {
+     "core": false,
+     "kind": "claim",
+     "what": "Identification can become a frame through which later experience is interpreted, even though identification itself emerges from sensemaking."
+    },
+    "C37": {
+     "core": false,
+     "kind": "claim",
+     "what": "Organizational identification depends not only on a person’s relation to an abstract organization but also on how the self is interpreted through relationships with members and nonmembers."
+    },
+    "C38": {
+     "core": false,
+     "kind": "claim",
+     "what": "As more domains of a person’s identity become bound to the organization, the identification becomes deeper."
+    },
+    "C39": {
+     "core": false,
+     "kind": "claim",
+     "what": "Professional socialization may build strong professional identification when practices that unsettle the self are paired with relationships and demands that channel subsequent meaning-making."
+    },
+    "C40": {
+     "core": false,
+     "kind": "claim",
+     "what": "For geographically dispersed workforces, encapsulated sensemaking may help preserve a shared purpose despite limited face-to-face contact."
+    },
+    "C41": {
+     "core": false,
+     "kind": "claim",
+     "what": "Strong positive identification can improve organizational functioning."
+    },
+    "C42": {
+     "core": false,
+     "kind": "claim",
+     "what": "Intensive identification management can also impose costs on members and organizations, including dependence, conformity, burnout, reduced flexibility, and turnover."
+    },
+    "C43": {
+     "core": false,
+     "kind": "claim",
+     "what": "For many active distributors, Amway gave their lives greater purpose and communal belonging by bringing work, family, and religion into one identity framework."
+    },
+    "C44": {
+     "core": false,
+     "kind": "claim",
+     "what": "Strong organizational cultures may help sustain members’ loyalty and commitment when job security no longer provides that attachment."
+    },
+    "C45": {
+     "core": false,
+     "kind": "claim",
+     "what": "Extreme-case research can aid theory development because the focal dynamics are easier to see in unusually strong settings."
+    },
+    "C46": {
+     "core": false,
+     "kind": "claim",
+     "what": "Using several kinds of data enables triangulation that can strengthen the paper’s interpretive assertions."
+    },
+    "C47": {
+     "core": false,
+     "kind": "claim",
+     "what": "Participating in the same work as informants can increase the trust they place in the researcher."
+    },
+    "C48": {
+     "core": false,
+     "kind": "claim",
+     "what": "A semiovert researcher role can create room to ask questions that would be harder to pose as an ordinary coworker."
+    },
+    "C49": {
+     "core": false,
+     "kind": "claim",
+     "what": "Relationship configurations created by positive programming can remain balanced whether prospects join or refuse, and that stability may reinforce organization-consistent sensemaking."
+    },
+    "C50": {
+     "core": false,
+     "kind": "claim",
+     "what": "In part-time, contingent, or voluntary membership settings, creating seekership may give people a stronger reason to form an organizational attachment."
+    },
+    "C51": {
+     "core": false,
+     "kind": "claim",
+     "what": "In professions with lengthy socialization, seekership may help sustain motivation for continued development after formal qualification."
+    },
+    "C52": {
+     "core": false,
+     "kind": "claim",
+     "what": "Identification-management practices that can generate substantial turnover are more workable for organizations with a large supply of potential labor."
+    },
+    "C53": {
+     "core": false,
+     "kind": "claim",
+     "what": "Learning an organization’s culture is especially concentrated in the initial six months after entry."
+    },
+    "C54": {
+     "core": false,
+     "kind": "claim",
+     "what": "Goals tied to a person’s view of who they are can exert an unusually strong influence on their willingness to act."
+    },
+    "C55": {
+     "core": false,
+     "kind": "claim",
+     "what": "Amway’s classifications of insiders and outsiders can shift with recruitment interest, members’ reduced activity, and the position of unsupportive spouses."
+    },
+    "C56": {
+     "core": false,
+     "kind": "claim",
+     "what": "A system that does not consistently secure identification among members leaves the organization more exposed to member departure."
+    },
+    "C57": {
+     "core": false,
+     "kind": "claim",
+     "what": "When members have no ongoing need to pursue personal change through Amway, they are less inclined to consult or bond with upline distributors."
+    },
+    "C58": {
+     "core": false,
+     "kind": "claim",
+     "what": "Combining business interests with personal closeness can make mentoring ties especially vulnerable to conflict or resentment."
+    },
+    "C59": {
+     "core": false,
+     "kind": "claim",
+     "what": "Organizational practices that undermine a member’s current self-evaluation can create seekership without relying on Amway-style dream building."
+    },
+    "C60": {
+     "core": false,
+     "kind": "claim",
+     "what": "Organizations may also foster encapsulated sensemaking by shaping group cohesion, insider distinctions, social contacts, and favorable outsider relationships."
+    },
+    "CP01": {
+     "controls": {
+      "X1": "varies",
+      "X2": "held",
+      "X3": "unclear"
+     },
+     "kind": "contrast pair",
+     "what": "The first pathway loses the need to seek change and ends in detachment; the second retains aspiration but loses organizational sensegiving and ends in opposition."
+    },
+    "CP02": {
+     "controls": {
+      "X1": "held",
+      "X2": "varies",
+      "X3": "held"
+     },
+     "kind": "contrast pair",
+     "what": "The former distributor reports failed support and disenchantment, whereas the inactive distributor reports durable support despite weak participation."
+    },
+    "CP03": {
+     "controls": {
+      "X1": "held",
+      "X2": "held",
+      "X3": "varies"
+     },
+     "kind": "contrast pair",
+     "what": "The first episode strengthens reliance on organizational interpretation, while the second produces immediate distancing from the organization."
+    },
+    "DG01": {
+     "kind": "declared gap",
+     "what": "The study does not test personality or other individual-difference explanations for identification, and the paper says such explanations cannot be ruled out."
+    },
+    "DG02": {
+     "kind": "declared gap",
+     "what": "The researcher acknowledges that his visible participant-researcher role may have altered distributor behavior, although he gives reasons for thinking the effect was limited."
+    },
+    "DG03": {
+     "kind": "declared gap",
+     "what": "Changes from one identification state to another occurred, but the paper does not analyze those transitions in detail."
+    },
+    "DG04": {
+     "kind": "declared gap",
+     "what": "The paper cautions that its context-dependent extreme-case ethnography should not be generalized directly to other organizations, where identification management may be less visible or operate differently."
+    },
+    "E01": {
+     "base": "C02",
+     "claim": "C01",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C01 rests on C02"
+    },
+    "E02": {
+     "base": "C03",
+     "claim": "C01",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C01 rests on C03"
+    },
+    "E03": {
+     "base": "C07",
+     "claim": "C01",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C01 rests on C07"
+    },
+    "E04": {
+     "base": "C11",
+     "claim": "C01",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C01 rests on C11"
+    },
+    "E05": {
+     "base": "C12",
+     "claim": "C01",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "mechanistic",
+     "what": "C01 rests on C12"
+    },
+    "E06": {
+     "base": "C13",
+     "claim": "C01",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "mechanistic",
+     "what": "C01 rests on C13"
+    },
+    "E07": {
+     "base": "C19",
+     "claim": "C01",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "mechanistic",
+     "what": "C01 rests on C19"
+    },
+    "E08": {
+     "base": "C20",
+     "claim": "C01",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "mechanistic",
+     "what": "C01 rests on C20"
+    },
+    "E09": {
+     "base": "C27",
+     "claim": "C01",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C01 rests on C27"
+    },
+    "E10": {
+     "base": "C28",
+     "claim": "C01",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C01 rests on C28"
+    },
+    "E11": {
+     "base": "C29",
+     "claim": "C01",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C01 rests on C29"
+    },
+    "E12": {
+     "base": "C12",
+     "claim": "C02",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "mechanistic",
+     "what": "C02 rests on C12"
+    },
+    "E13": {
+     "base": "C20",
+     "claim": "C02",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "mechanistic",
+     "what": "C02 rests on C20"
+    },
+    "E14": {
+     "base": "C12",
+     "claim": "C11",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "mechanistic",
+     "what": "C11 rests on C12"
+    },
+    "E15": {
+     "base": "C13",
+     "claim": "C11",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "mechanistic",
+     "what": "C11 rests on C13"
+    },
+    "E16": {
+     "base": "C20",
+     "claim": "C11",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "mechanistic",
+     "what": "C11 rests on C20"
+    },
+    "E17": {
+     "base": "C28",
+     "claim": "C11",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C11 rests on C28"
+    },
+    "E18": {
+     "base": "C13",
+     "claim": "C12",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "evidential",
+     "what": "C12 rests on C13"
+    },
+    "E19": {
+     "base": "C27",
+     "claim": "C12",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C12 rests on C27"
+    },
+    "E20": {
+     "base": "C14",
+     "claim": "C13",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "mechanistic",
+     "what": "C13 rests on C14"
+    },
+    "E21": {
+     "base": "C15",
+     "claim": "C13",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "mechanistic",
+     "what": "C13 rests on C15"
+    },
+    "E22": {
+     "base": "C17",
+     "claim": "C13",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "mechanistic",
+     "what": "C13 rests on C17"
+    },
+    "E23": {
+     "base": "C21",
+     "claim": "C20",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "mechanistic",
+     "what": "C20 rests on C21"
+    },
+    "E24": {
+     "base": "C22",
+     "claim": "C20",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "mechanistic",
+     "what": "C20 rests on C22"
+    },
+    "E25": {
+     "base": "C23",
+     "claim": "C20",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "mechanistic",
+     "what": "C20 rests on C23"
+    },
+    "E26": {
+     "base": "C28",
+     "claim": "C20",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C20 rests on C28"
+    },
+    "E27": {
+     "base": "C12",
+     "claim": "C27",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "mechanistic",
+     "what": "C27 rests on C12"
+    },
+    "E28": {
+     "base": "C12",
+     "claim": "C28",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "mechanistic",
+     "what": "C28 rests on C12"
+    },
+    "E29": {
+     "base": "C15",
+     "claim": "C28",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "mechanistic",
+     "what": "C28 rests on C15"
+    },
+    "E30": {
+     "base": "C20",
+     "claim": "C28",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "mechanistic",
+     "what": "C28 rests on C20"
+    },
+    "E31": {
+     "base": "C12",
+     "claim": "C29",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "mechanistic",
+     "what": "C29 rests on C12"
+    },
+    "E32": {
+     "base": "C20",
+     "claim": "C29",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "mechanistic",
+     "what": "C29 rests on C20"
+    },
+    "E33": {
+     "base": "C01",
+     "claim": "C34",
+     "kind": "edge",
+     "strength": "necessary",
+     "type": "significance",
+     "what": "C34 rests on C01"
+    },
+    "E34": {
+     "base": "C17",
+     "claim": "C34",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C34 rests on C17"
+    },
+    "E35": {
+     "base": "C26",
+     "claim": "C34",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C34 rests on C26"
+    },
+    "E36": {
+     "base": "C27",
+     "claim": "C34",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C34 rests on C27"
+    },
+    "E37": {
+     "base": "C33",
+     "claim": "C34",
+     "kind": "edge",
+     "strength": "contributing",
+     "type": "evidential",
+     "what": "C34 rests on C33"
+    },
+    "K01": {
+     "claims": [
+      "C03",
+      "C06",
+      "C29"
+     ],
+     "kind": "construct",
+     "names": [
+      "ambivalent identification"
+     ],
+     "what": "ambivalent identification"
+    },
+    "K02": {
+     "claims": [
+      "C60"
+     ],
+     "kind": "construct",
+     "names": [
+      "association/disassociation tactics"
+     ],
+     "what": "association/disassociation tactics"
+    },
+    "K03": {
+     "claims": [
+      "C49"
+     ],
+     "kind": "construct",
+     "names": [
+      "balance theory"
+     ],
+     "what": "balance theory"
+    },
+    "K04": {
+     "claims": [
+      "C14"
+     ],
+     "kind": "construct",
+     "names": [
+      "choice"
+     ],
+     "what": "choice"
+    },
+    "K05": {
+     "claims": [
+      "C60"
+     ],
+     "kind": "construct",
+     "names": [
+      "co-option"
+     ],
+     "what": "co-option"
+    },
+    "K06": {
+     "claims": [
+      "C05",
+      "C24",
+      "C44"
+     ],
+     "kind": "construct",
+     "names": [
+      "commitment"
+     ],
+     "what": "commitment"
+    },
+    "K07": {
+     "claims": [
+      "C40"
+     ],
+     "kind": "construct",
+     "names": [
+      "common purpose"
+     ],
+     "what": "common purpose"
+    },
+    "K08": {
+     "claims": [
+      "C43"
+     ],
+     "kind": "construct",
+     "names": [
+      "community"
+     ],
+     "what": "community"
+    },
+    "K09": {
+     "claims": [
+      "C32"
+     ],
+     "kind": "construct",
+     "names": [
+      "compliance"
+     ],
+     "what": "compliance"
+    },
+    "K10": {
+     "claims": [
+      "C50"
+     ],
+     "kind": "construct",
+     "names": [
+      "contingent workers"
+     ],
+     "what": "contingent workers"
+    },
+    "K11": {
+     "claims": [
+      "C16"
+     ],
+     "kind": "construct",
+     "names": [
+      "crisis"
+     ],
+     "what": "crisis"
+    },
+    "K12": {
+     "claims": [
+      "C15",
+      "C16",
+      "C35"
+     ],
+     "kind": "construct",
+     "names": [
+      "current identity",
+      "current self"
+     ],
+     "what": "current self"
+    },
+    "K13": {
+     "claims": [
+      "C03",
+      "C06",
+      "C27",
+      "C57"
+     ],
+     "kind": "construct",
+     "names": [
+      "deidentification"
+     ],
+     "what": "deidentification"
+    },
+    "K14": {
+     "claims": [
+      "C23"
+     ],
+     "kind": "construct",
+     "names": [
+      "dirty work"
+     ],
+     "what": "dirty work"
+    },
+    "K15": {
+     "claims": [
+      "C03",
+      "C06",
+      "C28"
+     ],
+     "kind": "construct",
+     "names": [
+      "disidentification"
+     ],
+     "what": "disidentification"
+    },
+    "K16": {
+     "claims": [
+      "C18",
+      "C24"
+     ],
+     "kind": "construct",
+     "names": [
+      "distributor identity"
+     ],
+     "what": "distributor identity"
+    },
+    "K17": {
+     "claims": [
+      "C59"
+     ],
+     "kind": "construct",
+     "names": [
+      "divestiture"
+     ],
+     "what": "divestiture"
+    },
+    "K18": {
+     "claims": [
+      "C07",
+      "C13",
+      "C14",
+      "C17",
+      "C18",
+      "C26",
+      "C54"
+     ],
+     "kind": "construct",
+     "names": [
+      "dream building"
+     ],
+     "what": "dream building"
+    },
+    "K19": {
+     "claims": [
+      "C53"
+     ],
+     "kind": "construct",
+     "names": [
+      "early tenure"
+     ],
+     "what": "early tenure"
+    },
+    "K20": {
+     "claims": [
+      "C21"
+     ],
+     "kind": "construct",
+     "names": [
+      "economic support"
+     ],
+     "what": "economic support"
+    },
+    "K21": {
+     "claims": [
+      "C14"
+     ],
+     "kind": "construct",
+     "names": [
+      "emotion"
+     ],
+     "what": "emotion"
+    },
+    "K22": {
+     "claims": [
+      "C06"
+     ],
+     "kind": "construct",
+     "names": [
+      "emotional evaluation"
+     ],
+     "what": "emotional evaluation"
+    },
+    "K23": {
+     "claims": [
+      "C21"
+     ],
+     "kind": "construct",
+     "names": [
+      "emotional support"
+     ],
+     "what": "emotional support"
+    },
+    "K24": {
+     "claims": [
+      "C20",
+      "C31",
+      "C40",
+      "C60"
+     ],
+     "kind": "construct",
+     "names": [
+      "encapsulated sensemaking"
+     ],
+     "what": "encapsulated sensemaking"
+    },
+    "K25": {
+     "claims": [
+      "C23"
+     ],
+     "kind": "construct",
+     "names": [
+      "encapsulation"
+     ],
+     "what": "encapsulation"
+    },
+    "K26": {
+     "claims": [
+      "C45"
+     ],
+     "kind": "construct",
+     "names": [
+      "extreme cases"
+     ],
+     "what": "extreme cases"
+    },
+    "K27": {
+     "claims": [
+      "C14"
+     ],
+     "kind": "construct",
+     "names": [
+      "familiarity"
+     ],
+     "what": "familiarity"
+    },
+    "K28": {
+     "claims": [
+      "C09"
+     ],
+     "kind": "construct",
+     "names": [
+      "financial success"
+     ],
+     "what": "financial success"
+    },
+    "K29": {
+     "claims": [
+      "C54"
+     ],
+     "kind": "construct",
+     "names": [
+      "goal setting"
+     ],
+     "what": "goal setting"
+    },
+    "K30": {
+     "claims": [
+      "C60"
+     ],
+     "kind": "construct",
+     "names": [
+      "group cohesion"
+     ],
+     "what": "group cohesion"
+    },
+    "K31": {
+     "claims": [
+      "C59"
+     ],
+     "kind": "construct",
+     "names": [
+      "hazing"
+     ],
+     "what": "hazing"
+    },
+    "K32": {
+     "claims": [
+      "C15",
+      "C35"
+     ],
+     "kind": "construct",
+     "names": [
+      "ideal self"
+     ],
+     "what": "ideal self"
+    },
+    "K33": {
+     "claims": [
+      "C34"
+     ],
+     "kind": "construct",
+     "names": [
+      "identification dynamics"
+     ],
+     "what": "identification dynamics"
+    },
+    "K34": {
+     "claims": [
+      "C01",
+      "C30",
+      "C34",
+      "C42",
+      "C52",
+      "C56"
+     ],
+     "kind": "construct",
+     "names": [
+      "identification management"
+     ],
+     "what": "identification management"
+    },
+    "K35": {
+     "claims": [
+      "C06",
+      "C07",
+      "C09",
+      "C10",
+      "C11"
+     ],
+     "kind": "construct",
+     "names": [
+      "identification types"
+     ],
+     "what": "identification types"
+    },
+    "K36": {
+     "claims": [
+      "C13",
+      "C15",
+      "C16"
+     ],
+     "kind": "construct",
+     "names": [
+      "identity deficits"
+     ],
+     "what": "identity deficits"
+    },
+    "K37": {
+     "claims": [
+      "C59"
+     ],
+     "kind": "construct",
+     "names": [
+      "identity mortification"
+     ],
+     "what": "identity mortification"
+    },
+    "K38": {
+     "claims": [
+      "C22"
+     ],
+     "kind": "construct",
+     "names": [
+      "ideological encapsulation"
+     ],
+     "what": "ideological encapsulation"
+    },
+    "K39": {
+     "claims": [
+      "C55"
+     ],
+     "kind": "construct",
+     "names": [
+      "in-group/out-group dynamics"
+     ],
+     "what": "in-group/out-group dynamics"
+    },
+    "K40": {
+     "claims": [
+      "C58"
+     ],
+     "kind": "construct",
+     "names": [
+      "instrumental relationships"
+     ],
+     "what": "instrumental relationships"
+    },
+    "K41": {
+     "claims": [
+      "C37"
+     ],
+     "kind": "construct",
+     "names": [
+      "interpersonal relationships"
+     ],
+     "what": "interpersonal relationships"
+    },
+    "K42": {
+     "claims": [
+      "C44"
+     ],
+     "kind": "construct",
+     "names": [
+      "job security"
+     ],
+     "what": "job security"
+    },
+    "K43": {
+     "claims": [
+      "C52"
+     ],
+     "kind": "construct",
+     "names": [
+      "labor pool"
+     ],
+     "what": "labor pool"
+    },
+    "K44": {
+     "claims": [
+      "C44"
+     ],
+     "kind": "construct",
+     "names": [
+      "loyalty"
+     ],
+     "what": "loyalty"
+    },
+    "K45": {
+     "claims": [
+      "C21",
+      "C57",
+      "C58"
+     ],
+     "kind": "construct",
+     "names": [
+      "mentor-protege relationships",
+      "upline relationships"
+     ],
+     "what": "mentor-protege relationships"
+    },
+    "K46": {
+     "claims": [
+      "C11"
+     ],
+     "kind": "construct",
+     "names": [
+      "motivated sensemaking"
+     ],
+     "what": "motivated sensemaking"
+    },
+    "K47": {
+     "claims": [
+      "C35"
+     ],
+     "kind": "construct",
+     "names": [
+      "motivation"
+     ],
+     "what": "motivation"
+    },
+    "K48": {
+     "claims": [
+      "C46"
+     ],
+     "kind": "construct",
+     "names": [
+      "multiple data sources"
+     ],
+     "what": "multiple data sources"
+    },
+    "K49": {
+     "claims": [
+      "C38"
+     ],
+     "kind": "construct",
+     "names": [
+      "multiplex bonds"
+     ],
+     "what": "multiplex bonds"
+    },
+    "K50": {
+     "claims": [
+      "C53"
+     ],
+     "kind": "construct",
+     "names": [
+      "organizational culture"
+     ],
+     "what": "organizational culture"
+    },
+    "K51": {
+     "claims": [
+      "C41"
+     ],
+     "kind": "construct",
+     "names": [
+      "organizational functioning"
+     ],
+     "what": "organizational functioning"
+    },
+    "K52": {
+     "claims": [
+      "C05",
+      "C08",
+      "C35",
+      "C36",
+      "C37",
+      "C38"
+     ],
+     "kind": "construct",
+     "names": [
+      "identification",
+      "organizational identification"
+     ],
+     "what": "organizational identification"
+    },
+    "K53": {
+     "claims": [
+      "C53"
+     ],
+     "kind": "construct",
+     "names": [
+      "organizational socialization"
+     ],
+     "what": "organizational socialization"
+    },
+    "K54": {
+     "claims": [
+      "C04"
+     ],
+     "kind": "construct",
+     "names": [
+      "organizational values"
+     ],
+     "what": "organizational values"
+    },
+    "K55": {
+     "claims": [
+      "C50"
+     ],
+     "kind": "construct",
+     "names": [
+      "part-time workers"
+     ],
+     "what": "part-time workers"
+    },
+    "K56": {
+     "claims": [
+      "C05"
+     ],
+     "kind": "construct",
+     "names": [
+      "person-organization fit"
+     ],
+     "what": "person-organization fit"
+    },
+    "K57": {
+     "claims": [
+      "C02",
+      "C06",
+      "C26",
+      "C32",
+      "C33",
+      "C41",
+      "C42",
+      "C43"
+     ],
+     "kind": "construct",
+     "names": [
+      "positive identification"
+     ],
+     "what": "positive identification"
+    },
+    "K58": {
+     "claims": [
+      "C07",
+      "C20",
+      "C25",
+      "C49",
+      "C55"
+     ],
+     "kind": "construct",
+     "names": [
+      "positive programming"
+     ],
+     "what": "positive programming"
+    },
+    "K59": {
+     "claims": [
+      "C39"
+     ],
+     "kind": "construct",
+     "names": [
+      "professional identification"
+     ],
+     "what": "professional identification"
+    },
+    "K60": {
+     "claims": [
+      "C51"
+     ],
+     "kind": "construct",
+     "names": [
+      "professional socialization"
+     ],
+     "what": "professional socialization"
+    },
+    "K61": {
+     "claims": [
+      "C08"
+     ],
+     "kind": "construct",
+     "names": [
+      "prospecting"
+     ],
+     "what": "prospecting"
+    },
+    "K62": {
+     "claims": [
+      "C59"
+     ],
+     "kind": "construct",
+     "names": [
+      "public confessions"
+     ],
+     "what": "public confessions"
+    },
+    "K63": {
+     "claims": [
+      "C43"
+     ],
+     "kind": "construct",
+     "names": [
+      "purpose"
+     ],
+     "what": "purpose"
+    },
+    "K64": {
+     "claims": [
+      "C22",
+      "C31",
+      "C55"
+     ],
+     "kind": "construct",
+     "names": [
+      "in-group/out-group barriers",
+      "relationship barriers"
+     ],
+     "what": "relationship barriers"
+    },
+    "K65": {
+     "claims": [
+      "C25"
+     ],
+     "kind": "construct",
+     "names": [
+      "relationship standard"
+     ],
+     "what": "relationship standard"
+    },
+    "K66": {
+     "claims": [
+      "C22"
+     ],
+     "kind": "construct",
+     "names": [
+      "revaluing"
+     ],
+     "what": "revaluing"
+    },
+    "K67": {
+     "claims": [
+      "C12",
+      "C13",
+      "C17",
+      "C19",
+      "C27",
+      "C30",
+      "C50",
+      "C51",
+      "C57",
+      "C59"
+     ],
+     "kind": "construct",
+     "names": [
+      "seekership"
+     ],
+     "what": "seekership"
+    },
+    "K68": {
+     "claims": [
+      "C30"
+     ],
+     "kind": "construct",
+     "names": [
+      "selection"
+     ],
+     "what": "selection"
+    },
+    "K69": {
+     "claims": [
+      "C05",
+      "C12",
+      "C14",
+      "C54"
+     ],
+     "kind": "construct",
+     "names": [
+      "self-concept",
+      "sense of self"
+     ],
+     "what": "self-concept"
+    },
+    "K70": {
+     "claims": [
+      "C25"
+     ],
+     "kind": "construct",
+     "names": [
+      "self-fulfilling prophecies"
+     ],
+     "what": "self-fulfilling prophecies"
+    },
+    "K71": {
+     "claims": [
+      "C17"
+     ],
+     "kind": "construct",
+     "names": [
+      "self-validation"
+     ],
+     "what": "self-validation"
+    },
+    "K72": {
+     "claims": [
+      "C47",
+      "C48"
+     ],
+     "kind": "construct",
+     "names": [
+      "semiovert participant observation"
+     ],
+     "what": "semiovert participant observation"
+    },
+    "K73": {
+     "claims": [
+      "C01",
+      "C02",
+      "C03",
+      "C12",
+      "C13",
+      "C26",
+      "C27",
+      "C28",
+      "C29",
+      "C33",
+      "C39",
+      "C59"
+     ],
+     "kind": "construct",
+     "names": [
+      "sensebreaking"
+     ],
+     "what": "sensebreaking"
+    },
+    "K74": {
+     "claims": [
+      "C01",
+      "C02",
+      "C03",
+      "C20",
+      "C28",
+      "C29",
+      "C31",
+      "C33",
+      "C39",
+      "C60"
+     ],
+     "kind": "construct",
+     "names": [
+      "sensegiving"
+     ],
+     "what": "sensegiving"
+    },
+    "K75": {
+     "claims": [
+      "C19",
+      "C23",
+      "C24",
+      "C36",
+      "C37",
+      "C49"
+     ],
+     "kind": "construct",
+     "names": [
+      "sensemaking"
+     ],
+     "what": "sensemaking"
+    },
+    "K76": {
+     "claims": [
+      "C04"
+     ],
+     "kind": "construct",
+     "names": [
+      "social control"
+     ],
+     "what": "social control"
+    },
+    "K77": {
+     "claims": [
+      "C22"
+     ],
+     "kind": "construct",
+     "names": [
+      "social encapsulation"
+     ],
+     "what": "social encapsulation"
+    },
+    "K78": {
+     "claims": [
+      "C58"
+     ],
+     "kind": "construct",
+     "names": [
+      "social relationships"
+     ],
+     "what": "social relationships"
+    },
+    "K79": {
+     "claims": [
+      "C04",
+      "C44"
+     ],
+     "kind": "construct",
+     "names": [
+      "strong cultures"
+     ],
+     "what": "strong cultures"
+    },
+    "K80": {
+     "claims": [
+      "C45"
+     ],
+     "kind": "construct",
+     "names": [
+      "theory building"
+     ],
+     "what": "theory building"
+    },
+    "K81": {
+     "claims": [
+      "C46"
+     ],
+     "kind": "construct",
+     "names": [
+      "triangulation"
+     ],
+     "what": "triangulation"
+    },
+    "K82": {
+     "claims": [
+      "C47"
+     ],
+     "kind": "construct",
+     "names": [
+      "trust"
+     ],
+     "what": "trust"
+    },
+    "K83": {
+     "claims": [
+      "C52",
+      "C56"
+     ],
+     "kind": "construct",
+     "names": [
+      "membership turnover",
+      "turnover"
+     ],
+     "what": "turnover"
+    },
+    "K84": {
+     "claims": [
+      "C21",
+      "C23"
+     ],
+     "kind": "construct",
+     "names": [
+      "upline distributors"
+     ],
+     "what": "upline distributors"
+    },
+    "K85": {
+     "claims": [
+      "C10"
+     ],
+     "kind": "construct",
+     "names": [
+      "visible demographic variables"
+     ],
+     "what": "visible demographic variables"
+    },
+    "K86": {
+     "claims": [
+      "C50"
+     ],
+     "kind": "construct",
+     "names": [
+      "voluntary membership"
+     ],
+     "what": "voluntary membership"
+    },
+    "X1": {
+     "claim": "C27",
+     "kind": "factor",
+     "what": "successful sensebreaking (seekership created)"
+    },
+    "X2": {
+     "claim": "C21",
+     "kind": "factor",
+     "what": "strong upline mentor bonds"
+    },
+    "X3": {
+     "claim": "C22",
+     "kind": "factor",
+     "what": "eschewing negative non-member relationships (encapsulation)"
+    }
+   },
+   "files": {
+    "SETTLED_MAP_pratt.md": "d24ef5ad826e25e6eb5ce07fc3cf1d5d4e8d6e95ec3f2cedf1cd29006cd8b2e3",
+    "T37_CODES_pratt.md": "c75aa89962ca5c5a269bb272cad5057a2380af4c446e45bded122b74418b8288"
+   },
+   "passages": {
+    "F01": "p. 456",
+    "F02": "p. 456",
+    "F03": "p. 456",
+    "F04": "p. 456",
+    "F05": "pp. 456–457",
+    "F06": "p. 458",
+    "F07": "p. 458",
+    "F08": "p. 458",
+    "F09": "p. 459",
+    "F10": "p. 459",
+    "F100": "p. 479",
+    "F101": "p. 480",
+    "F102": "p. 480",
+    "F103": "p. 480",
+    "F104": "p. 480",
+    "F105": "pp. 480–481",
+    "F106": "p. 481",
+    "F107": "p. 481",
+    "F108": "p. 481",
+    "F109": "Figure 2, p. 482",
+    "F11": "p. 459",
+    "F110": "p. 485",
+    "F111": "p. 488",
+    "F112": "Appendix, p. 492",
+    "F113": "Appendix, p. 492",
+    "F114": "Appendix, p. 492",
+    "F115": "Appendix, pp. 492–493",
+    "F116": "Appendix, p. 493",
+    "F117": "Appendix, p. 493",
+    "F118": "Appendix, p. 493",
+    "F119": "Appendix, p. 493",
+    "F12": "p. 460",
+    "F120": "footnote 4, p. 459",
+    "F121": "footnote 15, p. 475",
+    "F122": "p. 459",
+    "F123": "p. 461",
+    "F124": "p. 477",
+    "F125": "p. 478",
+    "F13": "p. 460",
+    "F14": "p. 460",
+    "F15": "p. 460",
+    "F16": "p. 460",
+    "F17": "p. 462",
+    "F18": "p. 462",
+    "F19": "pp. 462–463",
+    "F20": "p. 463",
+    "F21": "p. 463",
+    "F22": "p. 463",
+    "F23": "p. 463",
+    "F24": "p. 463",
+    "F25": "p. 463",
+    "F26": "p. 463",
+    "F27": "pp. 463–464",
+    "F28": "pp. 464–465",
+    "F29": "p. 465",
+    "F30": "Table 1, Lifestyle—Material wealth/possessions, p. 465",
+    "F31": "Table 1, Lifestyle—Freedom, p. 465",
+    "F32": "Table 1, Family, p. 465",
+    "F33": "Table 1, Helping—Business opportunity, p. 465",
+    "F34": "Table 1, Helping—Altruism, p. 465",
+    "F35": "pp. 465–466",
+    "F36": "p. 466",
+    "F37": "p. 466",
+    "F38": "p. 466",
+    "F39": "pp. 466–467",
+    "F40": "p. 467",
+    "F41": "p. 467",
+    "F42": "p. 468",
+    "F43": "p. 468",
+    "F44": "p. 468",
+    "F45": "p. 468",
+    "F46": "p. 468",
+    "F47": "p. 468",
+    "F48": "pp. 468–469",
+    "F49": "p. 469",
+    "F50": "p. 469",
+    "F51": "p. 469",
+    "F52": "p. 469",
+    "F53": "pp. 469–470",
+    "F54": "p. 470",
+    "F55": "p. 470",
+    "F56": "p. 470",
+    "F57": "p. 470",
+    "F58": "pp. 470–471",
+    "F59": "p. 471",
+    "F60": "p. 471",
+    "F61": "p. 471",
+    "F62": "p. 471",
+    "F63": "pp. 471–472",
+    "F64": "p. 472",
+    "F65": "p. 472",
+    "F66": "p. 472",
+    "F67": "p. 472",
+    "F68": "p. 472",
+    "F69": "pp. 472–473",
+    "F70": "p. 473",
+    "F71": "p. 473",
+    "F72": "p. 473",
+    "F73": "p. 473",
+    "F74": "p. 474",
+    "F75": "p. 474",
+    "F76": "p. 474",
+    "F77": "p. 474",
+    "F78": "p. 474",
+    "F79": "p. 475",
+    "F80": "p. 475",
+    "F81": "p. 475",
+    "F82": "p. 475",
+    "F83": "p. 475",
+    "F84": "p. 475",
+    "F85": "p. 476",
+    "F86": "p. 476",
+    "F87": "p. 476",
+    "F88": "Figure 1, p. 477",
+    "F89": "p. 477",
+    "F90": "p. 477",
+    "F91": "pp. 477–478",
+    "F92": "p. 478",
+    "F93": "p. 478",
+    "F94": "p. 478",
+    "F95": "p. 478",
+    "F96": "p. 479",
+    "F97": "p. 479",
+    "F98": "p. 479",
+    "F99": "p. 479"
+   },
+   "readings": [
+    "R01",
+    "R02",
+    "R03",
+    "R04",
+    "R05",
+    "R06",
+    "R07",
+    "R08",
+    "R09",
+    "R10",
+    "R11",
+    "R12",
+    "R13",
+    "R14",
+    "R15",
+    "R16",
+    "R17"
+   ],
+   "sample": [
+    "R01",
+    "R02",
+    "R03",
+    "R08",
+    "R09",
+    "R14"
+   ]
+  }
+ },
+ "what": "The key of the map test's round 2 (T39, MAP_TEST_PLAN.md, part E): the map's elements with their ids, the passages, the readings and the PI's sample, for the checks and the PI's comparison sheet. Not for any chat."
+}

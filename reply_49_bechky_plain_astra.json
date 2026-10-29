@@ -1,0 +1,203 @@
+{
+  "paper": "Beth A. Bechky, 2020",
+  "readings": [
+    {
+      "reading_id": "R1",
+      "wager": "The toxicology episode could be read as an existing accreditation reform brought forward by litigation. On this reading, the new reporting practice had already acquired its rationale, materials, and organizational commitment before the comparison with DNA became urgent. DNA supplied a persuasive courtroom reference for accelerating that project. The wager is that the reform's content and eventual adoption can be explained without making technological spillover their initiating cause; the spillover primarily changed the timetable.",
+      "evidence": [
+        {
+          "page": "p. 627",
+          "job": "Before the NAS report appeared, the laboratory was preparing for ISO accreditation, and toxicology already had a three-year plan to estimate measurement uncertainty. Analysts implemented that plan immediately when they learned of the anticipated courtroom challenge. This supplies a sequence in which the project precedes the pressure used to explain its implementation."
+        },
+        {
+          "page": "p. 627",
+          "job": "In an outreach presentation, a toxicologist disputed the suggestion that the NAS report had initiated the uncertainty work, cited standards from several scientific settings, and described historical data collected under an earlier protocol. This provides an actor's explicit alternative account of the reform's origin, although the public presentation could also be self-protective."
+        },
+        {
+          "page": "p. 628",
+          "job": "The presentation described an unchanged instrument and method, with existing quality-control information combined into a new uncertainty calculation. This locates the change in the statistical treatment and reporting of established work rather than in the introduction of a new analytic process."
+        }
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Dated accreditation plans and successive protocol drafts would need to show that the eventual calculation and reporting requirements were specified and committed to before the DNA-based court challenge, with the subsequent decision changing chiefly the deadline. The paper reports a prior plan but does not print enough of its contents or implementation history to establish that stronger claim.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {
+          "page": "p. 625",
+          "why": "The paper traces the immediate threat to a defense-attorney network using measurement uncertainty to challenge results. The reform's timing therefore has an identifiable external trigger that an accreditation-only explanation cannot absorb."
+        },
+        {
+          "page": "p. 635",
+          "why": "The author already treats accreditation preparations as enabling the response and distinguishes them from the local challenge that prompted action. The alternative must establish that prior commitments explain the substantive reform, not merely repeat an enabling condition in the paper's account."
+        }
+      ],
+      "who_could_complete_it": "An accreditation coordinator or laboratory quality manager with dated plans, protocol versions, implementation deadlines, and records of the decision to accelerate reporting."
+    },
+    {
+      "reading_id": "R2",
+      "wager": "Narcotics analysts' resistance could be read as the defense of a workable service under binding equipment and turnaround constraints. Their ability to perform GC/MS did not establish that their unit could process its whole workload that way. On this reading, the apparent mismatch between technical compatibility and refusal to change is largely a mismatch between knowing a method and having the capacity to use it at scale. Craft values make the defense compelling to analysts, but insufficient capacity would be enough to sustain it.",
+      "evidence": [
+        {
+          "page": "p. 629",
+          "job": "Local charging requirements imposed rapid turnaround, and the unit's common methamphetamine cases could often be confirmed with crystal tests in roughly ten to fifteen minutes. Analysts already used GC/MS for unfamiliar substances or cases that crystal testing could not resolve. This presents the existing mixture of methods as a practical allocation of limited processing time."
+        },
+        {
+          "page": "p. 631",
+          "job": "Analysts objected to delays introduced by a new reporting system and discussed saving individual minutes in data entry. This shows that sensitivity to throughput extended beyond a dispute over scientific identity or instrumentation."
+        },
+        {
+          "page": "p. 632",
+          "job": "An analyst said that two instruments and lengthy runs could not accommodate the caseload. The group also considered duplicate crystal tests and microscope cameras, comparing their time and purchase costs. These passages supply concrete bottlenecks and show attention to alternative ways of meeting review demands."
+        }
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "A funded trial would need to remove the instrument, staffing, and turnaround bottlenecks while preserving the proposed reporting requirements, then show whether the same analysts accepted routine GC/MS. Acceptance after capacity relief would support the claim that scarcity was decisive; continued refusal would strengthen the cultural explanation. The paper prints neither such a trial nor a measured comparison of full-workload capacity.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {
+          "page": "p. 632",
+          "why": "Analysts explicitly objected to repetitive instrument work and to losing discretion and variety. These objections could persist even with sufficient instruments and staffing; they cannot simply be treated as disguised complaints about capacity."
+        },
+        {
+          "page": "p. 630",
+          "why": "Several narcotics analysts had actively sought to leave toxicology because they disliked its routine work. Their demonstrated willingness to change jobs gives the preference for craft work behavioral support beyond the immediate equipment dispute."
+        }
+      ],
+      "who_could_complete_it": "A laboratory operations analyst with case-arrival records, turnaround requirements, instrument schedules, staffing data, and observations of analysts working after a substantial increase in capacity."
+    },
+    {
+      "reading_id": "R3",
+      "wager": "The central change could be a redistribution of the ability to check an expert's conclusion. Durable images, instrument records, and explicit uncertainty calculations allow people who were absent from the original analysis to revisit parts of it. DNA's authority would then rest partly on making judgments available for later inspection, and the other units' disputes would concern how much of their work could be reopened by reviewers and legal audiences. This reading makes control over subsequent scrutiny the organizing issue, extending beyond whether an occupation regards a technique as scientifically appropriate.",
+      "evidence": [
+        {
+          "page": "p. 619",
+          "job": "Legal parties could inspect DNA documentation, while the observed production of a DNA report involved anomalies, interpretation, and collective judgment. This combination suggests that inspectable records can carry authority even when the underlying work remains dependent on expert judgment."
+        },
+        {
+          "page": "p. 621",
+          "job": "Firearms examiners assembled detailed images to support their conclusions in testimony, and an examiner invoked outsiders' previous reviews of his work. This links documentary practice to the capacity to withstand later inspection."
+        },
+        {
+          "page": "p. 622",
+          "job": "Firearms examiners described a historical shift toward image-backed documentation and worked together to select persuasive views of a comparison. The record offered for inspection was itself actively constructed, making the distribution of checking rights inseparable from decisions about what would be visible."
+        },
+        {
+          "page": "p. 631",
+          "job": "A narcotics analyst identified the absence of a lasting, independently checkable output from crystal testing as a reason the method might lose acceptance. This isolates later reviewability as a vulnerability even though the analyst considered the identification scientifically sound."
+        },
+        {
+          "page": "p. 632",
+          "job": "The proposed remedies included another analyst's visual review and cameras on microscopes. These proposals would change who could inspect the result and when, without necessarily replacing the underlying chemistry."
+        }
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Following a case from bench to review to court would need to show that newly available records enabled a previously excluded reviewer or legal participant to discover, contest, or alter an inference, and that practitioners adjusted their work in anticipation of that possibility. The paper prints records and discussions of reviewability, but not this completed chain of changed access and changed authority.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {
+          "page": "p. 622",
+          "why": "The detailed firearms review involved colleagues reaching agreement together, including accepting somewhat different thresholds. That episode demonstrates communal judgment more directly than independent scrutiny or a transfer of authority to outsiders."
+        },
+        {
+          "page": "p. 624",
+          "why": "The firearms dispute also concerned whether population-based numerical claims were possible at all. Better access to images would not, by itself, resolve the substantive question of what a match can warrant."
+        },
+        {
+          "page": "p. 628",
+          "why": "Toxicologists performed additional uncertainty calculations. Their change had substantive statistical content, so it cannot be reduced to preserving or exposing an otherwise unchanged conclusion."
+        }
+      ],
+      "who_could_complete_it": "A researcher able to follow complete case files through laboratory review and courtroom use, including the questions, revisions, and challenges made possible by particular records."
+    },
+    {
+      "reading_id": "R4",
+      "wager": "The units could share a practical rule: revise established work when a credible local challenge makes continuing costly, and otherwise defend it. The observed contrast between adoption and resistance would then reflect different positions in a sequence of exposure to consequences, more than enduring differences in willingness to change. Occupational values would supply the language and acceptable form of adjustment, while the likelihood of losing the ability to testify would determine whether adjustment happened. This wager gives local consequences greater explanatory weight than the paper's joint account of pathways, techniques, and values.",
+      "evidence": [
+        {
+          "page": "p. 624",
+          "job": "MCCL firearms examiners had not faced challenges in their own jurisdiction, whereas a presenter who had encountered questioning elsewhere treated criticism as a reason to improve practice. Variation inside firearms examination makes actual exposure a candidate explanation for divergent responses within an ostensibly shared occupational culture."
+        },
+        {
+          "page": "p. 627",
+          "job": "Toxicologists moved from a multi-year plan to immediate implementation when an upcoming local case threatened their testimony. This is a concrete example of perceived consequences changing the timing of action."
+        },
+        {
+          "page": "p. 632",
+          "job": "The narcotics debate had not yet imposed an immediate requirement, and analysts continued their preferred practices. Their observed resistance could therefore be a position maintained while the disputed rule remained unsettled."
+        },
+        {
+          "page": "p. 622",
+          "job": "Firearms examiners described having previously moved from personal assurances toward systematic visual documentation. Their own history demonstrates some capacity to accommodate external expectations while retaining expert judgment."
+        }
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "The same MCCL firearms or narcotics practitioners would need to be observed before and after a direct, consequential local demand, showing whether they changed practices while retaining their stated occupational values. The paper does not print that transition. Its footnote on p. 635 explicitly says that local actions of the outside firearms presenters were not observed.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {
+          "page": "p. 624",
+          "why": "Firearms examiners gave specific reasons why DNA-style numerical claims did not fit their evidence. More immediate pressure might produce a different kind of response, or no feasible compliance, rather than the convergence this reading anticipates."
+        },
+        {
+          "page": "p. 627",
+          "why": "Toxicologists had both a prepared plan and existing measurement records, and regarded the requested change as compatible with their work. Their rapid response cannot isolate the effect of pressure from readiness and compatibility."
+        },
+        {
+          "page": "p. 635",
+          "why": "The author already emphasizes differences in immediacy and local exposure. The alternative requires evidence that these consequences dominate the other conditions; merely showing that they matter would reproduce the paper's explanation."
+        }
+      ],
+      "who_could_complete_it": "A longitudinal observer of the same practitioners through a local admissibility dispute, mandatory standard, or other consequential challenge, with access to subsequent protocols and casework."
+    },
+    {
+      "reading_id": "R5",
+      "wager": "The apparent coherence of occupational values could partly be produced by people sorting themselves into work they already prefer. In particular, narcotics may collect analysts who dislike repetitive instrument work and leave units where that work predominates. Resistance would then express the preferences of a selected local membership as well as values learned through practicing an occupation. On this reading, job movement helps create the cultural differences that the paper subsequently uses to explain responses to evaluation.",
+      "evidence": [
+        {
+          "page": "p. 630",
+          "job": "Several narcotics analysts had previously worked in toxicology and wanted to leave. One described entering toxicology because it had a vacancy, then persuading management to provide training elsewhere because the balance of paperwork and benchwork was unsatisfactory. This is direct evidence of dissatisfaction preceding a move into the unit whose values it later exemplified."
+        },
+        {
+          "page": "p. 613",
+          "job": "Criminalists entered with broadly similar educational backgrounds and were hired into particular units. This establishes a common recruitment pool from which initial placement and subsequent movement could generate differences between unit memberships."
+        },
+        {
+          "page": "p. 619",
+          "job": "The laboratory regarded criminalists as potentially interchangeable across units, and the director was planning a transfer involving narcotics and firearms. This shows that the boundaries treated analytically as occupational were also crossed through organizational staffing decisions."
+        },
+        {
+          "page": "p. 632",
+          "job": "A narcotics analyst explicitly recognized that other people preferred instrument-based routines while she preferred varied chemical work. This permits a reading in which divergent individual preferences help determine where workers settle."
+        }
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Career histories recorded before and after unit transfers would need to show that preferences predicted destinations and persisted across moves, with movers contributing to the receiving unit's shared stance toward change. The paper prints retrospective accounts of movement but does not establish when preferences arose or whether assignment usually changed them.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {
+          "page": "p. 620",
+          "why": "The units required substantial specialized training, including a long apprenticeship in firearms. Such training provides a strong route through which work could reshape preferences, rather than merely attract people who already share them."
+        },
+        {
+          "page": "p. 626",
+          "why": "Toxicologists corrected one another's organization of samples and connected vigilance to the practical demands of repetitive processing. These interactions show values being actively maintained through work, which a selection-only account would miss."
+        },
+        {
+          "page": "p. 630",
+          "why": "The move accounts come from narcotics analysts looking back on toxicology. They do not establish comparable selection processes for the other units, and the disliked preferences could themselves have developed during prior work."
+        }
+      ],
+      "who_could_complete_it": "A researcher with interviews conducted before and after transfers, staffing and training histories, and observations of newcomers who remain in or leave each unit."
+    }
+  ]
+}

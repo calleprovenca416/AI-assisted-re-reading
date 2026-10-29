@@ -1,0 +1,7 @@
+{
+  "_note": "7 Oct 2026. Passed to build_cold_pack.py with --pairs when Bechky's pack is built. The builder stops on CP02's episode A as the extraction wrote it, because it has the word 'comparison'. There the word means the comparison that the people in the setting are held to, and not what the paper does with the pair, but the builder cannot tell the two apart. Episode A below says the same without that word, in new words: 'that fit the standard they were measured against' stands for 'that fit the comparison'. Episode B is the extraction's text, unchanged. This replaces the text in coder 2's workbook only; the corpus is unchanged. CP01 is printed as the extraction wrote it.",
+  "CP02": {
+    "episode_a": "Toxicologists had an instrumented method and error-focused values that fit the standard they were measured against, and changed their reporting practice.",
+    "episode_b": "Narcotics analysts had an available instrumented alternative but valued craft, variety, and autonomy and retained crystal testing."
+  }
+}

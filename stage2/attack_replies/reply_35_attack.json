@@ -1,0 +1,100 @@
+{
+  "card_id": "bechky_2020_counterfactual_ending_DG02_01",
+  "verdicts": [
+    {
+      "mode": "B_import",
+      "killed": false,
+      "citations": ["F05", "F06", "F33", "F34", "F36", "F41", "F54", "F55", "F57", "F59", "F60", "F62", "F82", "F89", "F90", "F98", "F99", "F101", "F102", "F122", "F123", "F131", "F151", "F152", "F153", "F157", "F165"],
+      "drift": [
+        "fragment_jobs.F62 says, 'Shows the comparison arriving for firearms as exclusion attempts, as reported by a SWG-GUN board member.' F62 reports the board member describing increasingly common exclusion attempts; it does not report that speaker identifying those attempts as the arrival of the DNA comparison. That connection is printed in the author's account in F59. The job description blurs the author's connection with the participant's report. This is drift, not import."
+      ],
+      "note": "CLEAR. No factual assertion in the statement or fragment jobs requires an unprinted fact. The proposed boundary inside the three occupations is explicitly a wager ('may', 'If so'), not a reported finding that toxicology was untouched by DNA. The card distinguishes the missing participant or attorney attribution from the author's printed attribution. The causal language in the F98 job is supported narrowly as a claim about the pre-existing direction of the plan, not independence of its timing or implementation. One attribution drift is recorded separately. split is null, so there is no separating feature to audit.",
+      "considered_not_fired": [
+        {
+          "item": "The ending places three occupations within the comparison while leaving its outer boundary unknown.",
+          "why": "F165 carries the author's account of shared audiences and an undetermined extent. F59, F99 and F131, and the author's accounts in F105 and F132 carry the inclusion of firearms, toxicology and narcotics respectively. The statement explicitly identifies this as the author's account; it does not invent a participant consensus."
+        },
+        {
+          "item": "The firearms clauses and fragment jobs F60, F62 and F82.",
+          "why": "F60 carries the NAS assertions about testing, error rates and erroneous results compared with DNA, and its unit field identifies firearms. F62 carries the board member's report of increasing exclusion attempts. F82 carries an examiner's explicit rejection of equivalence with DNA. The additional connection in the F62 job is printed in F59, so its attribution problem is drift rather than an unsupported import."
+        },
+        {
+          "item": "The narcotics clauses and fragment jobs F41 and F122, including the causal 'because' in Jodi's fear.",
+          "why": "F41 directly carries the narcotics analyst's description of pressure on non-DNA specialties. F122 directly carries both the fear of phasing out crystal testing and the stated reason that it leaves no persistent instrument output. The card does not supply that reason from general knowledge or attribute a DNA reference to Jodi. F41 is the participant statement connecting evaluation of non-DNA work, including narcotics, to DNA; F83 separately concerns firearms."
+        },
+        {
+          "item": "Toxicology's lack of direct NAS criticism, existing requirements and courtroom challenge: F89, F90, F101 and F102.",
+          "why": "F89 carries both the absence of direct criticism and the report's emphasis on accuracy and error rates. F90 carries the target, prior success and teaching of the uncertainty strategy, without identifying its intellectual source. F101 carries state-law and ASCLD requirements, existing 95-percent reporting and ISO preparation. F102 carries Jason's rejection of a report-origin account and his citation of ISO and NIST. These are paraphrases of printed material."
+        },
+        {
+          "item": "fragment_jobs.F98: 'so the change's direction does not depend on the report.'",
+          "why": "F98 specifies that the plan to estimate measurement uncertainty existed before the NAS report and that the imminent court challenge accelerated that same plan. It therefore carries a direction already established before the report. The clause does not say the report or challenge had no effect on implementation or speed; the card also expressly acknowledges the possible subsequent influence in its F102 strain. Reading this as total causal independence would add a stronger assertion than the card makes."
+        },
+        {
+          "item": "No toxicologist or attorney names DNA in the stubs; the DNA connection is in the author's voice: F99, F131 and F157.",
+          "why": "The full fragment scan supplies no toxicologist or attorney statement naming DNA as the basis of the uncertainty demand. F102 names the NAS report, not DNA, and rejects the claim that the work only began because of it. F99, F131 and F157 print the author's connection. The card reports an absence of a particular attribution, not an established absence of influence."
+        },
+        {
+          "item": "Different practice outcomes in F151, F152 and F153.",
+          "why": "These fragments explicitly print the author's accounts of unchanged local firearms and narcotics practice and changed toxicology practice. The wager labels those accounts as such. Its fragment-job summaries are shorthand for that expressly attributed comparison. F98 and F103 also report the toxicology work and new reporting capability. No additional outcome is invented."
+        },
+        {
+          "item": "Shared laboratory, director's interchangeability statement and shared audiences: F57 and F165.",
+          "why": "F05 and F06 locate the units within MCCL. F57 carries what the director said about all staff being criminalists capable of working in any unit; the card describes his treatment of them, not demonstrated interchangeability. F165 carries the author's shared-audience account. The suggestion that these commonalities cannot distinguish the proposed boundary is the reading's conditional theoretical inference, not a newly asserted event."
+        },
+        {
+          "item": "Trace examiners and the far boundary: F55.",
+          "why": "F55 names trace examiners and reports their association, attention-and-resource concern and flyer comparison with DNA. The corpus names no additional forensic occupation outside the three focal occupations and DNA, and supplies no comparison of trace methods with DNA methods. F08's trace-evidence tasks belong to the focal controlled-substances unit. The card claims missing evidence of method evaluation, not proof that trace examiners experienced none."
+        },
+        {
+          "item": "Declared-strain jobs F33, F34, F36, F54 and F123.",
+          "why": "F33 and F34 carry association responses and advice to laboratory leaders; describing these as a route to laboratories and units does not assert that every unit implemented the advice. F36 carries distribution and instructions to all staff. F54 carries resource comparisons by unnamed non-DNA members. F123 carries Robin's workshop account; neither it nor the remaining corpus prints the challenge's origin or a NAS criticism of crystal testing. The card does not import a definition or history of Daubert."
+        }
+      ]
+    },
+    {
+      "mode": "E_contradiction",
+      "killed": false,
+      "citations": [],
+      "note": "CLEAR. All 172 fragments were scanned, including their notes, together with the absence register and declared gaps. No non-seed, undeclared fragment reports an event or participant statement that requires the conditional reading to be false. Several fragments print the incumbent explanation of toxicology as a DNA spillover, but their content is explicitly the author's account; rejecting that explanation does not contradict the fact that the author offered it. The reading does not deny the court challenge, reporting change, general circulation of the report or possibility of influence. No claim or author interpretation was promoted into contrary event evidence.",
+      "considered_not_fired": [
+        {
+          "item": "F99, F131, F146, F154, F155, F156, F157, F158 and F166: author explanations connecting toxicology and the three-unit comparison to DNA.",
+          "why": "These are the strongest apparent counterexamples outside the seeds and declared strains. Their stubs attribute the relevant connection to the author or the paper's explanation; they do not report a toxicologist or attorney naming DNA as the source of the demand. The card acknowledges and disputes this attribution. Their placement in the stub field does not turn an explicitly attributed interpretation into an independently reported event."
+        },
+        {
+          "item": "F31, F88, F91-F97, F100, F103, F104, F140, F143, F149, F152, F161 and F164: actual toxicology work, change and local urgency.",
+          "why": "The reading accommodates the instrumented work, concern with errors, new reporting practice, court threat and standing accreditation requirements. F103's observed pride in new 99-percent reports corroborates a change the card already accepts. None supplies the missing origin of the attorney's demand. The author explanations of urgency and fit can coexist with a question about that origin."
+        },
+        {
+          "item": "F98 and F102: acceleration of a pre-existing plan and a NAS-origin idea being explicitly rejected.",
+          "why": "Both are seeds, and F102 is also a declared strain, so neither is eligible for an E kill. The reading additionally distinguishes prior origin from subsequent influence rather than denying the printed acceleration."
+        },
+        {
+          "item": "F33, F34, F36, F41, F54, F89 and F123: wider routes by which comparison pressure could reach toxicology.",
+          "why": "All are declared strains; F41 and F89 are also seeds. The card explicitly admits laboratory-wide circulation, association influence, a general non-DNA comparison, unnamed speakers and overlapping evaluative content. These pressures cannot count as undeclared contradictions."
+        },
+        {
+          "item": "F01, F04, F32, F35, F37, F38 and F44: field-wide criticism and dissemination beyond the specifically declared routes.",
+          "why": "General NAS criticism, association infrastructure, media coverage and a legal commentator's DNA recommendation do not establish that the particular toxicology uncertainty challenge derived from DNA. The conditional reading can accommodate a broad reform climate while questioning that specific connection."
+        },
+        {
+          "item": "F83: a second narcotics analyst statement explicitly mentioning DNA.",
+          "why": "F83 describes outsiders comparing firearms with DNA. It does not connect the analyst's own narcotics method to DNA and does not involve a toxicologist. In context, the card's 'participant link to DNA on this side is F41 alone' concerns the evidence placing narcotics work within the comparison, not an exhaustive count of DNA mentions by narcotics speakers. F83 therefore does not contradict that narrower assertion."
+        },
+        {
+          "item": "F67, F79, F80, F85, F119, F124 and F125: changed documentation expectations, calls for reconsideration and discussion of possible changes.",
+          "why": "F67 reports a historical shift without attributing it to the focal comparison. F79, F80 and F85 show reactions and reflection, not a contrary observed local adoption. F119's new case-reporting system is not identified as a response to DNA. F124 and F125 describe proposals and discussion, not implementation. The card's no-change comparison concerns the focal response summarized in F151 and F153, not a claim that these units never changed anything."
+        },
+        {
+          "item": "F27, F58, F113 and F114: distinct occupations and differences in work despite a shared laboratory.",
+          "why": "The card does not deny occupational differences or assert actual universal interchangeability. It reports the director's position and proposes a boundary between units. These fragments can coexist with that proposed boundary; C19's probabilistic claim is also not itself evidence eligible for E."
+        },
+        {
+          "item": "F55, DG01, DG02, DG03 and A01: evidence outside the focal comparison and limits of coverage.",
+          "why": "F55 reports resource and attention concerns, not an evaluation of trace methods against DNA. DG01 and DG02 restrict generalization and boundary knowledge. DG03 and A01 explicitly identify uncollected evidence about outside firearms examiners' local actions. Missing observations cannot be treated as contrary outcomes, and no absent testimony is assumed to prove toxicology's exclusion."
+        }
+      ]
+    }
+  ]
+}

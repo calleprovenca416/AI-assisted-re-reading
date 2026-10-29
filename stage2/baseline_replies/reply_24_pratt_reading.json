@@ -1,0 +1,321 @@
+{
+  "paper": "Michael G. Pratt, 2000, 'The Good, the Bad, and the Ambivalent: Managing Identification among Amway Distributors', Administrative Science Quarterly, 45: 456-493",
+  "cards": [
+    {
+      "card_id": "construct_inversion_01",
+      "move": "construct_inversion",
+      "trigger": "from_seam: the claim on p. 481 that ambivalent distributors did not eschew negative relationships, were therefore exposed to negative information, and took anti-Amway advice from non-members. The passages beneath it point both ways: p. 480d, p. 480e and p. 481 n. 16 show non-member negativity reaching a member; p. 480a denies that anyone is saying such things; p. 480c shows a distributor who does not approach anyone at all.",
+      "claim": "p. 481: ambivalent distributors bonded with upline but did not go on to [12 words of Pratt (2000), p. 481] from non-Amway others and were pulled two ways, which showed in sporadic activity.",
+      "incumbent_reading": "The paper holds that ambivalence comes from partially failed sensegiving: non-member ties are kept, negative advice comes in through them, and inactivity is the behavioural expression of the resulting two-mindedness (p. 480-481).",
+      "wager": {
+        "statement": "Read the other way round, not distributing comes first and the intact non-member ties are its result. No printed passage from an ambivalent distributor reports being advised against Amway by a non-member. The one informant who addresses the point says nobody tells him he cannot or should not do it, that everybody says it works, and that the not-starting is down to him (p. 480a). What the other passages print is abstention: one inactive distributor does not bring lists, does not sponsor and does not use the products consistently (p. 480c); another now calls only people he does not see much of (p. 480e). On the author's own account, approaching family and friends is how a distributor finds out which relationships are negative (author's characterisation on p. 474; an active distributor describes the first months of approaching them as the hardest, p. 474a). A distributor who does not approach never runs that test, so nothing has happened that would lead to those ties being dropped. On this reading the ambivalence printed on p. 480a is between wanting to start and not starting, not between two sets of advisers, and the kept ties are a trace of the inactivity rather than its cause.",
+        "seed_pages": ["p. 480a", "p. 480c", "p. 480e", "p. 474a"],
+        "what_it_would_take_to_cohere": {
+          "observation": "For the ambivalent informants, whether stopping (or never starting) selling and sponsoring began before or after any negative word about Amway reached them from a non-member.",
+          "printed": false,
+          "printed_pages": [],
+          "basis": "Looked at pp. 479-481 (the ambivalence section), p. 461 (which gives only the tenure range of inactive distributors, [7 words of Pratt (2000), p. 461]), and p. 485, where the author says changes between identification states are not discussed in detail. No passage dates inactivity against exposure."
+        },
+        "strains_against": [
+          "p. 480e -- this distributor did recruit a friend and lost him, and only afterwards redirected his calls; here a non-member's reaction precedes the pulling back, which is the paper's order. What he reports receiving is flight, not advice, and he still calls people.",
+          "p. 480d -- a non-member's negative remark does reach an ambivalent distributor at work, and the distributor disowns Amway on the spot; exposure is doing something here, though the remark is unsolicited rather than sought.",
+          "p. 481 n. 16 -- the author reports that his own enthusiasm was hard to keep up around critical academic colleagues, and that he ignored them during the most intense nine months; that is the paper's direction (exposure lowers enthusiasm) in the author's own case.",
+          "p. 479 -- the author's characterisation is that ambivalent distributors were 'mostly' inactive, so some were not; the reading has nothing to say about an active ambivalent distributor."
+        ],
+        "who_could_complete_it": "Interview transcripts or field notes for the inactive informants that record when they last approached family or friends and what, if anything, non-members had said to them by then."
+      },
+      "passage_jobs": {
+        "p. 480a": "It carries the denial: an inactive distributor says no one is telling him he cannot or should not, and places the cause of not starting in himself.",
+        "p. 480c": "It shows an inactive distributor listing the approaches he does not make (lists, sponsoring, consistent use) while reporting warm support from his sponsor.",
+        "p. 480e": "It shows a distributor steering his calls away from people who are part of his daily life after a friend ran, so that close ties are no longer put to the approach.",
+        "p. 474a": "It carries an active distributor's report that the hard reactions from family and friends arrive in the first months of approaching them, which ties the discovery of 'negative' relationships to the act of approaching.",
+        "p. 480d": "It is the one printed instance of a negative remark reaching an ambivalent distributor, and it arrives unasked from a co-worker.",
+        "p. 481 n. 16": "It records the author's own drop in enthusiasm around critical colleagues, which the reading must declare as running the paper's way."
+      },
+      "grounded_in": [
+        {
+          "kind": "divergence",
+          "items": ["p. 480a", "the author's characterisation on p. 481"],
+          "how": "The author says ambivalent distributors went to negative non-members for advice and that anti-Amway advice created the pull away; the ambivalent informant on p. 480a says nobody is saying he cannot or should not and that everybody says it works."
+        },
+        {
+          "kind": "missing_fact",
+          "question": "Did the ambivalent informants' inactivity begin before or after negative information from non-members reached them?",
+          "bears_on": "the claim on p. 481 that keeping non-member ties led to exposure, which led to ambivalence and sporadic activity",
+          "if_one_way": "If inactivity came first, the claim would read as a description of what an inactive member's social world looks like, with kept ties as a by-product of not approaching anyone.",
+          "if_the_other": "If exposure came first, the claim would read as the paper has it: negative advice produces the two-mindedness that then shows as inactivity."
+        }
+      ],
+      "reach": {
+        "same_construct": ["p. 475 (encapsulated sensemaking as involving the eschewing of negative relationships)", "p. 474 (enactment of relationship barriers through distributing)"],
+        "same_outcome": ["p. 481 (sporadic activity as behavioural expression of ambivalence)", "p. 477 (Figure 1, the 'partially yes' path)"],
+        "feature_elsewhere": [],
+        "orphans_used": ["p. 461 (inactive distributors defined as renewing while doing few if any distributing activities; tenure [7 words of Pratt (2000), p. 461])"]
+      },
+      "rival": "The paper's own account: the informant on p. 480a simply happens not to have met negativity, the other ambivalent informants did, and the interviews the paper does not print contain the advice-seeking the author summarises on p. 481.",
+      "split": null,
+      "naming": {"register_version": null, "outcome": "register not opened"}
+    },
+    {
+      "card_id": "boundary_shift_01",
+      "move": "boundary_shift",
+      "trigger": "The paper sets recruitment outside the identification episode (p. 463 n. 7), but p. 479b, offered as evidence of disidentification, is an account of the recruitment meeting itself, and p. 466a shows dream building being done with prospects. The start point is moved back from after joining to the recruitment meeting.",
+      "claim": "p. 479: because sensebreaking succeeded and sensegiving failed, disidentified distributors sought meaning with non-members whose views were negative, and so came to see the organization unfavourably; with p. 463 n. 7: prospecting bears no relationship to members' identification.",
+      "incumbent_reading": "The paper holds that disidentification is produced after joining, by dream building that works followed by sensegiving that fails and recourse to negative confidants (p. 478-479), and that recruitment is irrelevant because every member was successfully recruited (p. 463 n. 7).",
+      "wager": {
+        "statement": "Start the episode at the recruitment meeting and the second disidentified informant's story is complete before the paper's episode opens. He describes how his sponsor got him in: a sales talk, people around him saying positive things, a slide show, being there in someone else's car, strong social pressure, and paying about $120 as the easiest way out; he says he felt humiliated and likens it to a torture session (p. 479b). In that passage the unfavourable reading of the sponsor is already in place at the moment of joining, and joining is described as an exit from the room, not as the pursuit of anything wanted. Nothing printed for him shows a dream, an upline relationship that then went wrong, or a confidant. The recruitment meeting is also not empty of the practices the paper studies: an Emerald distributor addresses a group of prospects at a meeting that is also a dream-building session (p. 466a), and the first disidentified informant locates what attracted him at the outset, in the look of his recruiter's home (p. 478c). On this reading recruitment is where an identification in opposition can be set, and 'successfully recruited' covers both a prospect who was drawn in (p. 478c) and one who paid to get out (p. 479b).",
+        "seed_pages": ["p. 479b", "p. 466a", "p. 478c", "p. 463 n. 7"],
+        "what_it_would_take_to_cohere": {
+          "observation": "What the informant of p. 479b thought of Amway and of his sponsor between joining and leaving, and whether he ever spoke of a dream of his own; and whether any positively identified informant described a recruitment meeting in similar terms.",
+          "printed": false,
+          "printed_pages": [],
+          "basis": "Looked at pp. 478-479: only the recruitment recollection is printed for this informant. Looked at pp. 470-476 for recruitment accounts by active distributors: p. 474a concerns reactions of family and friends, not the speaker's own recruitment. p. 461 says only that all former distributors interviewed left within a year."
+        },
+        "strains_against": [
+          "p. 478c -- the other disidentified informant reports being very impressed at the start; his entry was favourable, so for him the negative view cannot date from recruitment and the paper's later-failure account fits better.",
+          "p. 479a -- the same informant's complaint is about what upline failed to do after he joined (they did not know how to excite him beyond sending him to another meeting), which is a post-joining grievance.",
+          "p. 463 n. 7 -- the author reports finding no relationship between prospecting and identification; the reading sets one retrospective passage against that reported finding.",
+          "p. 479 -- the author's characterisation is that the confidants of disidentified distributors were decidedly negative; if such confidants existed for the informant of p. 479b, the later process the paper describes may still have occurred."
+        ],
+        "who_could_complete_it": "The full interview with the informant of p. 479b, and recruitment accounts from informants of each identification type set side by side."
+      },
+      "passage_jobs": {
+        "p. 479b": "It carries the recruitment meeting as the informant tells it, with the pressure, the payment as a way out, and the humiliation all placed at the point of joining.",
+        "p. 466a": "It shows that dream-building talk is delivered to prospects at a meeting, so the practice the paper starts its episode with is already under way before membership.",
+        "p. 478c": "It shows a disidentified informant placing his initial attraction at the first encounter with his recruiter's home, which puts evidence the paper uses for sensebreaking at the recruitment stage too.",
+        "p. 463 n. 7": "It is the author's statement of the boundary: prospecting is set aside because all members were, by definition, recruited.",
+        "p. 479a": "It shows the other disidentified informant complaining of upline conduct after joining, which the reading declares as fitting the paper's bounds better than its own."
+      },
+      "grounded_in": [
+        {
+          "kind": "divergence",
+          "items": ["p. 479b", "the author's characterisation on p. 463 n. 7"],
+          "how": "The author sets recruitment aside as unrelated to identification; the passage he prints to show a disidentified informant's disapproval of his upline is entirely about how that informant was recruited."
+        },
+        {
+          "kind": "missing_fact",
+          "question": "Did the informant of p. 479b ever report excitement about a dream after joining?",
+          "bears_on": "the claim on p. 478 that members who disidentified [7 words of Pratt (2000), p. 478], and the claim on p. 481 that sensebreaking preceded every identification that formed",
+          "if_one_way": "If he did, the claim would read as holding for him: seekership was created and then went unmet by upline.",
+          "if_the_other": "If he did not, the claim would read as having an exception: an identification in opposition formed without seekership, for which Figure 1 (p. 477) prints no path."
+        }
+      ],
+      "reach": {
+        "same_construct": ["p. 478 (disidentified members as having undergone sensebreaking)", "p. 481 (sensebreaking as preceding every formed identification)"],
+        "same_outcome": ["p. 479 (negative confidants as the source of the unfavourable view)", "p. 474b (non-members who avoid distributors because they feel their relationships are being used)"],
+        "feature_elsewhere": [],
+        "orphans_used": ["p. 461 (all former distributors [7 words of Pratt (2000), p. 461])"]
+      },
+      "rival": "The paper's reading: the recruitment story is a memory recoloured after leaving; at the time the informant was drawn in like anyone else, and the hostility was built later with negative confidants, so recruitment is rightly outside the episode.",
+      "split": null,
+      "naming": {"register_version": null, "outcome": "register not opened"}
+    },
+    {
+      "card_id": "construct_fission_01",
+      "move": "construct_fission",
+      "trigger": "The paper's 'successful sensebreaking' is evidenced by two kinds of passage: informants naming something wrong with their present lives, and informants naming excitement about a wanted thing with no fault found in the present. The claim on p. 477 that sensebreaking failed for the non-identified rests on one passage of each kind (p. 477a, p. 477b).",
+      "claim": "p. 469 and p. 477: when dream building works, distributors are dissatisfied with who they are and are driven to seek meaning; when it fails, members never feel or stop [7 words of Pratt (2000), p. 477] do not identify.",
+      "incumbent_reading": "The paper treats excitement about a dream and devaluing of the current self as one process, since the wanted thing reminds a person of what they lack (p. 467), and treats its presence or absence as what separates those who form some identification from those who form none (p. 477).",
+      "wager": {
+        "statement": "The concept is doing two jobs. X is a stated current dissatisfaction with one's own life; Y is excitement about a dream with no such dissatisfaction stated. The printed passages let them come apart. The author's own journal reports being caught up in a dream of personal freedom while also thinking the dreams foolish, and names nothing wrong with his present life (p. 466b). A former distributor says they were excited at the beginning about their own business and financial independence and then lost interest (p. 477a): Y occurred and lapsed, and X is not reported. The distributor who did not renew gives her reason as a present life she likes, a job that has reached the point of little overtime (p. 477b): X is absent, and nothing is said about dreams. Where X is printed, the speaker ties it to paid work or to things lacked: a wife burned out at her job, two working parents and [6 words of Pratt (2000), p. 465] (p. 465c); not wanting to be at the mercy of people at work (p. 480b); not having what the recruiter had (p. 478c). The wager is that X, not Y, is what goes with an identification of any kind forming, and that the printed passages show Y as what sessions, tapes and displays deliver while showing X in speakers' accounts of their jobs and households. If so, 'sensebreaking failed' on p. 477 covers two different things: excitement that was produced and faded, and a present life that was never, or no longer, found wanting.",
+        "seed_pages": ["p. 466b", "p. 477a", "p. 477b", "p. 465c", "p. 480b", "p. 478c"],
+        "what_it_would_take_to_cohere": {
+          "observation": "A passage in which an informant who never identified says whether, while excited, they found their present life wanting; and, for the speakers who do state a current dissatisfaction, whether it was there before their first contact with Amway.",
+          "printed": false,
+          "printed_pages": [],
+          "basis": "Looked at p. 465 (Table 1), pp. 466-469, pp. 477-478 and p. 480. No passage dates a dissatisfaction against contact with Amway, and the two passages from non-identified informants do not speak to both X and Y. The author states on p. 467 that such deficits are especially potent for people already unhappy, which is a claim, not a dated observation."
+        },
+        "strains_against": [
+          "p. 478d -- a disidentified informant speaks of a dream (practising law) and of working hard for it with no fault stated in his present life; this is a Y passage from someone who did form an identification, against the wager at passage level, though the same speaker supplies X on p. 478c.",
+          "p. 480b -- the ambivalent informant's statement mixes a wanted thing (security, feeling good) with a current complaint about work, so the feature does not cleanly separate the two within one passage.",
+          "p. 469b -- a highly successful distributor reports giving up television, early nights and a basketball league; neither a fault in the present nor a wanted thing is stated, so the feature leaves this passage unsorted although the paper uses it for seekership.",
+          "p. 467 -- the author's argument that wanted possessions bring to mind what one lacks would make Y and X two moments of one thing; nothing printed rules that out."
+        ],
+        "who_could_complete_it": "Interview material from former and non-renewing distributors about their lives at the time they joined, and dated accounts from current distributors of when their stated dissatisfactions began."
+      },
+      "passage_jobs": {
+        "p. 465c": "It carries X in a current distributor: a present family arrangement he finds lacking, described through job and day-care circumstances.",
+        "p. 466b": "It carries Y without X in the author's own case: excitement about a freedom dream alongside the thought that such dreams were foolish.",
+        "p. 477a": "It carries Y that lapsed in a former distributor: early excitement about owning a business and independence, then lost interest.",
+        "p. 477b": "It carries X absent in a non-renewing distributor: she likes her job now that overtime is low, and gives that as why [6 words of Pratt (2000), p. 477].",
+        "p. 478c": "It carries X in a disidentified informant: he did not have the things his recruiter had, offered tentatively as what first drew him.",
+        "p. 478d": "It carries Y in the same disidentified informant, about a dream outside Amway, and so counts against the wager at passage level.",
+        "p. 480b": "It carries X, mixed with wants, in an ambivalent informant who does not want to be controlled or mistreated at work.",
+        "p. 465e": "It carries Y in a distributor of unstated type (a foster home she wants to own), which the feature can place but the wager cannot score.",
+        "p. 469b": "It reports sacrifices made by a successful distributor and is left unsorted by the feature."
+      },
+      "grounded_in": [
+        {
+          "kind": "divergence",
+          "items": ["p. 477a", "the author's characterisation on p. 477"],
+          "how": "The author says the non-identified never felt, or [7 words of Pratt (2000), p. 477]; the former distributor quoted speaks of having been excited and then losing interest, and says nothing about discomfort with his or her life either way."
+        },
+        {
+          "kind": "divergence",
+          "items": ["p. 466b", "the claim on p. 467"],
+          "how": "The paper claims that taking ideal possessions into the self challenges the current self; the author's journal reports strong excitement about a dream together with a judgement that it was foolish, and reports no challenge to how he saw his present life."
+        },
+        {
+          "kind": "missing_fact",
+          "question": "For speakers who state a current dissatisfaction, was it there before their first contact with Amway?",
+          "bears_on": "the claim on p. 464 that Amway creates seekership in new members through sensebreaking",
+          "if_one_way": "If it was there before, the claim would read as Amway meeting and giving words to a dissatisfaction people brought with them, closer to the selection route the author raises on p. 482.",
+          "if_the_other": "If it arose after, the claim would read as the paper has it: dream building breaks down a previously settled view of one's life."
+        }
+      ],
+      "reach": {
+        "same_construct": ["p. 464 (dream building as devaluing the current self)", "p. 467 (identity deficit)", "p. 481 (sensebreaking as preceding every formed identification)"],
+        "same_outcome": ["p. 477 (failure to identify or deidentification)", "p. 482 (the author's suggestion that dissatisfaction with one's situation may predispose a person to seek)"],
+        "feature_elsewhere": ["p. 471d (a distributor angry at not yet qualifying for a trip with his upline: a stated current lack, placed by the paper under sensegiving)", "p. 475c (a distributor who says he had always got on with his boss and only now sees her as the paper's 'J.O.B.': a present relationship newly found wanting, placed by the paper under encapsulated sensemaking)", "p. 480a (an inactive distributor dissatisfied with his own not starting)"],
+        "orphans_used": []
+      },
+      "rival": "The paper's own account on p. 467: wanting a thing and feeling its lack are a single process, the Y passages are early or partial reports of it, and Table 1 excerpts were chosen to illustrate dream categories rather than to record everything the speaker said, so no split is needed.",
+      "split": {
+        "side_x": {"label": "X: the passage states a current dissatisfaction with the speaker's own life (or, for p. 477b, states its absence)", "pages": ["p. 465c", "p. 477b", "p. 478c", "p. 480b"]},
+        "side_y": {"label": "Y: the passage states excitement about a dream, with no current dissatisfaction stated", "pages": ["p. 465e", "p. 466b", "p. 477a", "p. 478d"]},
+        "separating_feature": "Whether the passage, in the speaker's own words, names something wrong with or missing from the speaker's present life, as against naming only a wanted future thing or the excitement of wanting it.",
+        "independent_of_outcome": "Partly. The feature can be coded from the wording of a passage without knowing the speaker's identification type. But the two passages from people who left are retrospective, and a speaker who has left may describe their present life as satisfactory for that reason.",
+        "sorts_correctly": "5 of 9. 'Correctly' here means the passage's side matches the wager that X goes with a formed identification and Y alone, or X absent, goes with none. Matching: p. 465c, p. 477a, p. 477b, p. 478c, p. 480b. Against: p. 478d. Not scorable because the speaker's identification type is not printed: p. 465e, p. 466b. Left unsorted by the feature: p. 469b.",
+        "confounds": [
+          "Source of the passage: Y passages come from a field journal and Table 1 illustrations; X passages come from interviews in which informants describe their lives at more length.",
+          "Speaker status and timing: the passages from non-identified informants are from people speaking after leaving, and all former distributors interviewed left within a year (p. 461).",
+          "Position in the paper: Table 1 passages (p. 465) were selected by the author to illustrate dream categories, not sensebreaking success.",
+          "Same speaker on both sides: p. 478c and p. 478d come from one informant.",
+          "Subject matter: every X passage but p. 478c concerns paid work, so job conditions vary with the feature."
+        ]
+      },
+      "naming": {"register_version": null, "outcome": "register not opened"}
+    },
+    {
+      "card_id": "focalization_shift_01",
+      "move": "focalization_shift",
+      "trigger": "The upline Emerald 'Mark' speaks and acts throughout the appendix (p. 492-493), which the paper uses only to illustrate how a downline's dreams are identified and shaped (p. 466). The session is retold from Mark's own printed words and actions.",
+      "claim": "p. 466: dream-building sessions identify and shape the downline distributor's dreams, and letting members pick familiar dreams makes them excited, so that possessions are taken into the self before sensegiving begins (sequence in Figure 1, p. 477).",
+      "incumbent_reading": "The paper presents the shopping session as an instance of dream building in which the downline's dreams are identified and shaped (p. 466), a sensebreaking practice that precedes the mentoring relationship in its model (p. 469-470, p. 477).",
+      "wager": {
+        "statement": "Followed through Mark, the session prints three things happening, and a wanted possession for the downline is the slightest of them. First, Mark pursues his own wants: he points out a leather jacket, says he is interested in it himself, and arranges for the clerk to phone the author so that the author can buy it for him when it is reduced (p. 492); he asks about boot shops and goes to one although he knows the author has no interest in boots, and says his wife gets angry when he does this on such outings (p. 493). Second, Mark shows and coaches a manner: he takes control in the first shop, stumps a jeweller with knowledgeable questions (p. 492), tells the two downline that their ignorance of jewellery shows and that they should fake it, praises the author for walking straight in at the next shop, and says [6 words of Pratt (2000), p. 493] get treated well (p. 493). Third, Mark works the relationship and the business: he offers to pick up cheaper shorts near his home (p. 492), buys the author a biscuit with a father-and-son joke that the author returns, tells a salesperson the author will soon be rich or else Mark is wasting his time, and begins prospecting that salesperson (p. 493). Against this, the author records declining interest in men's jewellery (p. 492), little success in several clothing shops, being worn out (p. 493), and liking very few things all day, the jacket Mark had pointed out being one of them (p. 492). Mark's own stated view is that most people do not know what they want and learn it from watching the upline want things (p. 493). So in this exhibit what passes to the downline is mainly how Mark carries himself and a familial tie to Mark; the mentor relationship the paper places second is being built inside the practice it places first, and the standard set before the downline is the mentor more than any object. This sits close to what the author concedes on p. 481-482, that the two kinds of practice blur as other distributors come to shape one's ideal self; it differs in holding that, in the one session printed, the blur is there from the first outing rather than arriving later.",
+        "seed_pages": ["p. 492", "p. 493"],
+        "what_it_would_take_to_cohere": {
+          "observation": "Whether the author afterwards came to want anything shown to him in the session (suits, rings), and whether his dream of personal freedom (p. 466b) arose before or after his outings with Mark.",
+          "printed": false,
+          "printed_pages": [],
+          "basis": "Looked at p. 466b, where the journal names a freedom dream and none of the session's goods and gives no date relative to the session; and at pp. 492-493, where the excerpt is abridged at several points and ends at the boot shop."
+        },
+        "strains_against": [
+          "p. 466b -- the author's journal says the excitement of dreams was almost impossible to escape and that he was caught up in them; dream building did take hold of him somewhere, even if this session does not show it.",
+          "p. 492 -- the author does find a leather jacket he thinks very fine; one possession was wanted, though Mark had pointed it out and wanted it too.",
+          "p. 493 -- Mark's own explanation of shopping for himself is that it teaches the downline to dream build; taken at his word, his conduct is dream teaching, as the paper says, not self-display or relationship work.",
+          "p. 493 -- the author reports acting with more confidence at the later jewellery shop and taking charge at the last clothing shop; this could be read as dream building beginning to work rather than as a manner being copied."
+        ],
+        "who_could_complete_it": "The unabridged field journal for this and later sessions, and accounts from other downline distributors taken on similar outings by an upline."
+      },
+      "passage_jobs": {
+        "p. 492": "It carries the first half of the session: Mark directing the shopping, the jacket he wants bought for him, the author's refusal of jewellery, and Mark's display of knowledge to a jeweller.",
+        "p. 493": "It carries the second half: the coaching to fake it, the father-and-son joke, the author's tiredness and lack of finds, Mark's remark to the salesperson, the prospecting, the boots, his wife's anger, and Mark's own rationale.",
+        "p. 466b": "It records the author's excitement about a freedom dream, which the reading must set beside the thin uptake of goods in the session."
+      },
+      "grounded_in": [
+        {
+          "kind": "divergence",
+          "items": ["p. 492", "p. 493", "the author's characterisation on p. 466"],
+          "how": "The author introduces the appendix as a [8 words of Pratt (2000), p. 466], and says picking familiar dreams makes distributors very excited; the journal excerpt itself records few things liked all day, little success in several shops, and the author worn out."
+        },
+        {
+          "kind": "missing_fact",
+          "question": "Did the author's freedom dream (p. 466b) come before or after his dream-building outings with upline?",
+          "bears_on": "the sequence claimed on p. 469-470 and drawn in Figure 1 (p. 477), in which dream building creates the need that the mentor relationship then meets",
+          "if_one_way": "If the dream came first, the sequence would read as the paper has it, with sessions like this one adding detail to a want already in place.",
+          "if_the_other": "If it came after, or out of, time spent with Mark, the sequence would read as starting with the mentor tie, with the want following from it."
+        }
+      ],
+      "reach": {
+        "same_construct": ["p. 465-466 (learning dreams by modelling those of upline)", "p. 481-482 (the author's remark that the practices blur as other distributors shape one's ideal self)"],
+        "same_outcome": ["p. 470 (establishing a mentor as the first step of positive programming)", "p. 475b with n. 15 (upline and downline describing each other in parent and child terms)", "p. 471d (a distributor who wants a higher level in order to be with his upline)"],
+        "feature_elsewhere": [],
+        "orphans_used": ["p. 493 (Mark's wife's anger at his shopping for himself on these outings)", "p. 493 (Mark prospecting the salesperson)", "p. 492 (the arrangement for the author to buy the jacket on Mark's behalf)"]
+      },
+      "rival": "The paper's reading, which is also Mark's: one tiring afternoon is a single lesson in a long course, the upline shops for himself precisely to model wanting, and the author's excitement recorded on p. 466b shows the course worked; no retelling from Mark's side is needed.",
+      "split": null,
+      "naming": {"register_version": null, "outcome": "register not opened"}
+    },
+    {
+      "card_id": "counterfactual_ending_01",
+      "move": "counterfactual_ending",
+      "trigger": "The paper's hedge on p. 463b that no informant 'could (or would)' state net profit or loss, set beside its conclusion on the same page that identification was not based on financial success.",
+      "claim": "p. 463: identification was not based on a distributor's financial success with the organization.",
+      "incumbent_reading": "The paper rules money out as a basis of identification because some financially successful distributors quit and some unsuccessful ones loved Amway (p. 463a).",
+      "wager": {
+        "statement": "Read the ruling-out as provisional. The paper prints that no current or former distributor interviewed gave a clear answer on net profit or loss (p. 463b), and that informants disagreed on whether tapes, books and functions count as costs (p. 463c). The one financial marker it names for the people it calls successful is [6 words of Pratt (2000), p. 463] (p. 463a). What the two observations on p. 463a establish, then, is that identification type did not follow sales volume. Each informant's net position, and which way money moved between that informant and the people above them, is not observed for anyone. That unobserved quantity is what the printed disidentification material is about. One disidentified informant describes paying about $120 at his recruitment as the way out of a pressured sale (p. 479b). The author's own summary of how disidentified distributors re-read upline warmth is that upline were being pleasant in order to make money for themselves (author's characterisation on p. 479). Members pay a fee of about $[7 words of Pratt (2000), p. 459] (p. 459). An upline tells a salesperson in the author's hearing that the author will be rich soon or the upline is wasting his time (p. 493), and the author reports that those above him cared only that he was selling and trying to sponsor (p. 460 n. 5). The wager is that the ending could go the other way on a narrower question: whether a member comes out as someone money flows from or someone money flows to may sort with the direction of their identification, and the comparison on p. 463a could not have detected it.",
+        "seed_pages": ["p. 463a", "p. 463b", "p. 463c", "p. 479b", "p. 459"],
+        "what_it_would_take_to_cohere": {
+          "observation": "For each informant, net profit or loss including spending on tapes, books and functions, set against that informant's identification type.",
+          "printed": false,
+          "printed_pages": [],
+          "basis": "p. 463b states that no informant gave a clear answer. The only figures printed are aggregates from the company: an average monthly gross income of $65 for an active distributor (p. 463d) and one percent of active distributors reaching direct level (p. 463 n. 8). Looked also at pp. 477-481 for any informant stating what they spent or earned: only the $120 on p. 479b."
+        },
+        "strains_against": [
+          "p. 463a -- the author met distributors who reached high sales levels and quit, and active distributors who loved Amway without financial success; if sales level tracks net position at all, these are two observations against any money-based account.",
+          "p. 480c -- an inactive distributor who does not sponsor, sell or use consistently reports warm support and liking for his sponsor and voices no complaint about money, though on the wager he is someone money flows from.",
+          "p. 479a -- the first disidentified informant's grievance is that upline did not see his potential or know how to excite him; money is not what he complains of.",
+          "p. 477b -- the non-renewing distributor gives time and a job she likes as her reason, not cost or earnings.",
+          "p. 470 -- distributors' own saying, as the paper reports it, is that people come in for the money and stay for the people, which puts money at entry only."
+        ],
+        "who_could_complete_it": "Informants' own records of purchases, sales and spending on materials and functions, or upline order records, matched to the author's classification of each informant."
+      },
+      "passage_jobs": {
+        "p. 463a": "It carries the two observations the claim rests on, and shows that 'financially successful' is indicated by sales volume level.",
+        "p. 463b": "It carries the hedge: no informant could, or would, state net profit or loss.",
+        "p. 463c": "It shows informants disagreeing over whether spending on tapes, books and functions is a cost, so that net position was not a settled quantity even for them.",
+        "p. 479b": "It shows a disidentified informant describing his entry as a payment extracted under pressure.",
+        "p. 459": "It establishes that members pay to join [6 words of Pratt (2000), p. 459], so money moves upward from a member regardless of sales.",
+        "p. 493": "It shows an upline speaking of a downline's future wealth as the return on his own time.",
+        "p. 460 n. 5": "It carries the author's report that those above him cared only about his selling and sponsoring."
+      },
+      "grounded_in": [
+        {
+          "kind": "divergence",
+          "items": ["p. 463a", "p. 463b"],
+          "how": "On p. 463a the author sorts distributors into financially successful and not; on p. 463b he reports that none of those he interviewed gave a clear account of net profit or loss, so the sorting cannot rest on net position."
+        },
+        {
+          "kind": "missing_fact",
+          "question": "Was it that informants could not state their net position, or that they would not?",
+          "bears_on": "the claim on p. 463 that identification was not based on financial success",
+          "if_one_way": "If they could not, the claim would read as partly supported: a figure unknown to the member cannot be what the member identifies on, though the member's sense of which way money was moving stays open.",
+          "if_the_other": "If they would not, the claim would read as untested: informants held knowledge they did not disclose, and whether disclosure or the figures differed by identification type is unknown."
+        }
+      ],
+      "reach": {
+        "same_construct": ["p. 463 (demographic variables also set aside as not accounting for identification)", "p. 463 n. 9 (the author's note that individual differences cannot be wholly ruled out)"],
+        "same_outcome": ["p. 479 (disidentified distributors feeling used and manipulated)", "p. 487-488 (the author's concern [7 words of Pratt (2000), p. 488])"],
+        "feature_elsewhere": [],
+        "orphans_used": ["p. 463d (the company's estimate of $65 [8 words of Pratt (2000), p. 463])", "p. 459 (membership fee and paid training materials)", "p. 460 n. 5 (upline indifferent to anything but selling and sponsoring)"]
+      },
+      "rival": "The paper's reading: sales level is a fair stand-in for financial outcome, the two observations on p. 463a already break any link between money and identification, and feeling used is a product of how disidentified members made sense of upline with negative confidants (p. 479), not of where money went.",
+      "split": null,
+      "naming": {"register_version": null, "outcome": "register not opened"}
+    }
+  ],
+  "declined": [
+    {
+      "move": "construct_inversion",
+      "trigger": "from_pair: p. 478b (a former distributor mildly critical of upline, placed by the paper with the non-identified) and p. 479a (a former distributor who blames upline, placed with the disidentified); the paper itself sets the two reactions side by side on p. 478.",
+      "why": "What visibly varies is whether the complaint concerns how others treated the Diamonds (p. 478b) or how upline treated the speaker (p. 479a). But a prior sales record is printed for one informant only (p. 479a), and neither informant's entry, tenure or dreams are printed in a comparable way, so stating what else did or did not vary between the two would require supplying facts the paper does not give. The five-card limit was also reached, and p. 479 material is already used in boundary_shift_01."
+    },
+    {
+      "move": "construct_inversion",
+      "trigger": "from_pair: p. 475d (an encapsulated distributor whose friends avoid her and will not look at the plan) and p. 480e (an ambivalent distributor whose friend ran after being recruited); both show non-members pulling away, with different results for the distributor.",
+      "why": "The only printed difference between the two episodes, apart from the outcome, is that one speaker says 'we' and the other 'I'. Reading that as distributing with a partner versus alone would import a fact about the speakers that no passage carries; and p. 477a, a non-identified former distributor who also says 'we', would contradict it."
+    },
+    {
+      "move": "focalization_shift",
+      "trigger": "Non-members who were approached and refused: sixteen non-distributors were interviewed (p. 461), and they carry no claim in the model.",
+      "why": "Their side is printed once, in indirect summary (p. 474b: several avoided distributor friends and family because they felt their relationships were being used). Every other appearance (p. 472 wedding, p. 475d, p. 480d, p. 480e) is a distributor's report of them. A retelling from their side would have to be built from the distributors' words or from one summarising sentence."
+    },
+    {
+      "move": "counterfactual_ending",
+      "trigger": "The author's statement on p. 485 that distributors sometimes moved between identification states (including from none back to positive), which he says is not discussed in detail, and the related remark on p. 482.",
+      "why": "No reported passage shows any informant making such a move, so a reading of the four types as provisional positions would rest entirely on the author's unsupported remark. The gap is used as a missing fact in construct_inversion_01 instead."
+    }
+  ]
+}

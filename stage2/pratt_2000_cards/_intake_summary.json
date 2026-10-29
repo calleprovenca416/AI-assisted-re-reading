@@ -1,0 +1,35 @@
+{
+  "declined": [],
+  "summary": [
+    {
+      "card_id": "pratt_2000_construct_inversion_CP01_01",
+      "move": "construct_inversion",
+      "mechanical_kills": [],
+      "restatement_share_new": 0.615
+    },
+    {
+      "card_id": "pratt_2000_construct_inversion_CP02_01",
+      "move": "construct_inversion",
+      "mechanical_kills": [],
+      "restatement_share_new": 0.364
+    },
+    {
+      "card_id": "pratt_2000_construct_inversion_CP03_01",
+      "move": "construct_inversion",
+      "mechanical_kills": [],
+      "restatement_share_new": 0.375
+    },
+    {
+      "card_id": "pratt_2000_counterfactual_ending_C56_01",
+      "move": "counterfactual_ending",
+      "mechanical_kills": [],
+      "restatement_share_new": 0.714
+    },
+    {
+      "card_id": "pratt_2000_focalization_shift_current_and_former_distributors_01",
+      "move": "focalization_shift",
+      "mechanical_kills": [],
+      "restatement_share_new": 0.5
+    }
+  ]
+}

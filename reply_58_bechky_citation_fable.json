@@ -1,0 +1,108 @@
+{
+  "paper": "Bechky, 2020",
+  "what_you_know": "I know this paper at the level of its argument: an ethnography of a U.S. crime laboratory showing that the rise of DNA analysis, with its probabilistic match statistics and protocol-driven work, changed the standards by which courts, lawyers, and scientific critics judged the comparison disciplines (latent prints, firearms/toolmarks, trace and the like), a condition practitioners called 'DNA envy,' and that examiners in those disciplines altered their testimony, documentation and verification, and interpretive caution in response, which Bechky names an evaluative spillover from technological change, a route by which a technology reshapes occupations that never adopt it. I am fairly confident of the thesis and the broad shape of the findings but not of page placement; the pages below are reconstructed from the article's span (theory early, methods around 613-616, findings through the late 610s to early 630s, discussion from the mid-630s) and should be read as approximate.",
+  "readings": [
+    {
+      "reading_id": "R1",
+      "wager": "The practice changes track the activation of a legal audience, not DNA technology as such. Post-conviction exonerations, the 2009 National Academy of Sciences report, Daubert-style admissibility fights, and the 2009 Melendez-Diaz ruling forcing analysts onto the stand all intensified adversarial scrutiny of forensic testimony in the same years. DNA supplied lawyers with an idiom (error rates, match probabilities), but the cause was the courtroom's changed demands. Had the same scrutiny arrived with a different emblem, the same hedging, documentation, and verification would have followed, and the spillover runs from the legal field to the lab, with the technology as vocabulary rather than trigger.",
+      "evidence": [
+        {"page": "p. ~606-608", "job": "The opening casts the courtroom as the arena where forensic claims are judged; in this reading that arena is the causal site, not a conduit for DNA's standards."},
+        {"page": "p. ~614-616", "job": "Methods describe observing testimony, trial preparation, and court-related training; shows that court exposure is where much of the data on pressure were gathered."},
+        {"page": "p. ~617-619", "job": "References to the NAS report and legal challenges; read as the institutional events that changed what lawyers ask, independent of any one technology."},
+        {"page": "p. ~620-626", "job": "Examiners recounting cross-examination about error rates and statistics and rehearsing answers; read as audience pressure delivered in a DNA idiom."},
+        {"page": "p. ~628-632", "job": "Changes to report wording and testimony hedging; the changes cluster on court-facing outputs, which is what an audience-driven account predicts."}
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Whether disciplines in the same lab that face the same courtroom pressure but no DNA comparison (controlled-substance chemistry, toxicology, which are instrumental rather than pattern-matching) also hedged testimony and added documentation in the period, and whether the dated sequence of practice changes aligns with the NAS report and Melendez-Diaz rather than with the DNA unit's growth. As I recall, the paper does not systematically compare the non-pattern units or print a dated sequence of changes.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {"page": "p. ~621-624", "why": "Examiners name DNA's statistics specifically as what they are held against; lawyers' questions use constructs (random match probability) that would not exist without the technology, so the idiom is not interchangeable."},
+        {"page": "p. ~634-638", "why": "The discussion builds the concept on the comparison between occupations sharing an evaluative arena, with adoption of the technology in one occupation as the trigger; this reading has to treat that comparison as incidental."}
+      ],
+      "who_could_complete_it": "A legal historian or court-records analyst able to date defense motions and judicial rulings against pattern evidence across jurisdictions, including labs where DNA work was outsourced; or an ethnographer stationed in the chemistry and toxicology units of the same laboratory."
+    },
+    {
+      "reading_id": "R2",
+      "wager": "'DNA envy' is literally envy: a story of status and resources inside the laboratory. Federal backlog money, hires with graduate degrees, new space, and management attention flowed to DNA, while apprenticeship-trained pattern examiners experienced relative decline. The practice changes are status-repair projects (science talk, certification, verification rituals) aimed at recovering standing with lab leadership, peers, and funders; the courtroom is a secondary stage. The evaluative standard is the vehicle, but the process is stratification within one organization.",
+      "evidence": [
+        {"page": "p. ~616-618", "job": "Descriptions of the DNA unit's growth, credentials, and resources set against examiners trained on the bench; read as the material basis of a status gap."},
+        {"page": "p. ~619-621", "job": "Analysts' talk of envy and of being seen as second-rate; read literally as status injury rather than as perception of a new standard."},
+        {"page": "p. ~626-630", "job": "Pattern examiners' efforts to make their work look scientific, including attempts at statistics and more documentation; read as emulation for standing."},
+        {"page": "p. ~631-633", "job": "Variation in response across units; read as mapping onto each unit's resource position in the lab."}
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Whether units with equal courtroom exposure but different resource standing diverged in their changes; whether the changes were argued internally in terms of budget, hiring, and standing (staff meetings, grant applications) rather than court; and whether DNA analysts themselves were exempt from the new routines. The paper gives lab context but not, as I recall, an accounting of resource flows or internal deliberations.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {"page": "p. ~608-612", "why": "The theory frames the spillover as a shift in evaluative criteria, and the practice changes are keyed to specific criteria (error rates, objectivity, reproducibility) rather than to generic prestige-seeking."},
+        {"page": "p. ~622-625", "why": "Examiners locate the demands in lawyers and judges, audiences outside the lab, which a purely intra-organizational account must reinterpret."},
+        {"page": "p. ~636-638", "why": "The discussion situates the mechanism in shared external audiences; it does not treat internal stratification as the driver."}
+      ],
+      "who_could_complete_it": "An organizational sociologist with access to budget, hiring, and grant records across several laboratories, or a comparison case where DNA work was contracted out so no internal DNA unit existed to envy."
+    },
+    {
+      "reading_id": "R3",
+      "wager": "Differences in how the pattern disciplines responded are explained by how far each body of knowledge could be formalized, not by how hard DNA-based evaluation hit them. Latent prints, with a named method, automated search databases, and emerging error-rate studies, moved toward quantification; firearms and toolmark examiners defended experiential judgment; trace evidence contracted. DNA set the vocabulary, but the fault line was the epistemic structure of each craft, whether it had a population-level reference to compute against. The spillover reorganized a standing craft-versus-science divide rather than creating new pressure.",
+      "evidence": [
+        {"page": "p. ~612-613", "job": "The theory's reference to occupational knowledge and abstraction; in this reading that becomes the primary variable."},
+        {"page": "p. ~617-619", "job": "Description of comparison work as side-by-side visual judgment learned by apprenticeship; read as the baseline that determines what can be formalized."},
+        {"page": "p. ~624-627", "job": "Examiners' arguments that statistics do not fit their evidence and that experience is the ground of a conclusion; read as an epistemic stance, not mere resistance."},
+        {"page": "p. ~628-631", "job": "Uneven uptake of verification and probabilistic language across units; read as tracking formalizability rather than exposure."}
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "An ordering of the disciplines by formalizability (database availability, existence of validation studies) shown to predict response better than courtroom exposure; in particular, whether firearms examiners who faced identical challenges changed less because they lacked a reference population. The paper reports differences among units but not, as I recall, a systematic ordering of this kind.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {"page": "p. ~620-623", "why": "The evidence that the same demands reached all units at once and that examiners describe them as new; a standing divide would not need a trigger."},
+        {"page": "p. ~634-636", "why": "The discussion insists on timing after DNA's adoption; this reading has to treat timing as coincidence with the maturation of each discipline's internal literature."}
+      ],
+      "who_could_complete_it": "A historian or philosopher of forensic science comparing the disciplines' validation literatures and database infrastructures over the same years, or a multi-lab survey of examiners in each discipline."
+    },
+    {
+      "reading_id": "R4",
+      "wager": "The documentation, verification, and reporting changes diffused through accreditation and quality management (ASCLD/LAB and ISO/IEC 17025 regimes, and the FBI's quality standards for DNA tied to database access), carried by quality managers and lab directors. DNA's quality regime became the lab-wide template because it was the one federally mandated one; the pattern units' new routines are regulatory isomorphism administered from the top, and 'DNA envy' is the shop-floor name for a management-driven change. The mechanism is organizational diffusion of rules, not courtroom evaluation of expertise.",
+      "evidence": [
+        {"page": "p. ~615-616", "job": "The lab description, including accreditation and quality assurance; read as the channel through which routines arrived."},
+        {"page": "p. ~618-620", "job": "DNA work portrayed as protocol-driven and standardized; read as the template that quality systems copy outward."},
+        {"page": "p. ~627-630", "job": "New verification and documentation steps and standardized report wording; read as manual-driven rules rather than examiner choices."},
+        {"page": "p. ~631-633", "job": "Examiners' complaints about paperwork imposed on them; read as evidence the changes came from above."}
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Whether the new routines were written into lab-wide quality manuals on dates tied to accreditation audits, whether quality managers rather than examiners authored them, and whether labs without an aggressive defense bar adopted the same routines on the same schedule. The paper may mention accreditation but does not, as I recall, trace authorship or timing of rules.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {"page": "p. ~621-625", "why": "Examiners locate the changes in courtroom experience and attribute them to lawyers; and testimony hedging is not an accreditation requirement."},
+        {"page": "p. ~626-629", "why": "Attempts to produce statistics and to engage error-rate studies are not quality-system rules; they respond to an evaluative demand, not an audit checklist."}
+      ],
+      "who_could_complete_it": "A quality manager or accreditation assessor with audit records and manual revision histories, or a comparative study across laboratories that differ in accreditation timing."
+    },
+    {
+      "reading_id": "R5",
+      "wager": "The spillover produced ceremonial, front-stage change while bench practice stayed as it was. Hedged testimony, new report phrases, and verification sign-offs satisfied lawyers and management, but examiners kept reaching conclusions the way they always had. What the paper reads as changed occupational practice is a decoupled layer of accountability work; the craft persisted beneath it, and the envy was managed rather than resolved.",
+      "evidence": [
+        {"page": "p. ~614-616", "job": "Methods based on observation in one period; read as unable to capture a before-and-after at the bench, so what is visible is the accountability layer."},
+        {"page": "p. ~624-627", "job": "Examiners' private conviction that their judgments are sound and that statistics are irrelevant; read as the backstage stance that survives the changes."},
+        {"page": "p. ~628-632", "job": "Changes concentrated in the language of reports and testimony; read as impression management toward audiences."},
+        {"page": "p. ~629-631", "job": "Verification described as a second signature on a conclusion; read as sign-off rather than independent re-analysis."}
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Paired observation of bench comparison before and after the changes, or a documented gap between written procedure and observed casework; in particular, whether verification ever reversed a conclusion or whether examiners actually reported more inconclusives. The paper does not print a before-and-after of bench work.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {"page": "p. ~629-633", "why": "If, as I recall, the paper documents examiners becoming more cautious in calling identifications and treating verification as blind, those are substantive changes to interpretation, not ceremony."},
+        {"page": "p. ~634-638", "why": "The discussion claims that interpretive practice, not only presentation, shifted; and bench observation is the ethnography's strength, so the author was positioned to see continuity if it existed."}
+      ],
+      "who_could_complete_it": "A methodologist running proficiency or outcome comparisons in the same unit across the change, or an auditor comparing written operating procedures with observed casework."
+    }
+  ]
+}

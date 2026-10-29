@@ -1,0 +1,59 @@
+{
+  "paper": "Michael G. Pratt, 2000",
+  "readings": [
+    {
+      "reading_id": "S1",
+      "claim": "C02",
+      "wager": "Read for what distributors did rather than what they believed, the paper supports a plainer account of positive identification: it is the residue of freely chosen, costly, public action. Dream building and positive programming produce it together because each is an occasion for enactment—trying on suits before one's upline, paying for tapes and functions, approaching relatives first and then withdrawing from them. Freely taken acts bind the actor, and cognition reorganizes to justify them. Identification thus tracks the dose of enactment, is indifferent to financial return, and fails where the committing act was coerced. The meaning void comes afterward, as the committed person's story of why she committed.",
+      "evidence": [
+        {
+          "page": "p. 463",
+          "job": "Removes payoff as the explanation: identification bore no relation to financial success, nobody could state a net profit, and average gross income was trivial — what one expects if attachment grows from money and effort already spent rather than from returns."
+        },
+        {
+          "page": "p. 469",
+          "job": "Provides the paper's own aside that as distributors spent more time pursuing dreams, more of their lives became bound up with the distributor identity, which the paper itself labels behavioral commitment; the reading moves this aside to the center of the account."
+        },
+        {
+          "page": "p. 474",
+          "job": "States the process in the paper's own terms — enacting positive programming involves choice, freely chosen behavior is highly committing, and behaving as a distributor leads to thinking of oneself as one — and documents the bridge-burning of approaching relatives first and then withdrawing from them, acts hard to reverse that foreclose exits."
+        },
+        {
+          "page": "p. 476",
+          "job": "Anchors the outcome and its wording: positive identification appeared when both practices succeeded, is described as continuously enacted and reenacted, and best characterized active distributors; the reading takes the word enacted literally."
+        },
+        {
+          "page": "p. 479",
+          "job": "Marks the boundary condition: the former distributor who disidentified recalls being sold under intense social pressure and paying as the easiest way out of an awkward room, then feeling humiliated — an act without volition, which on this reading cannot bind and instead breeds resentment."
+        }
+      ]
+    },
+    {
+      "reading_id": "S2",
+      "claim": "C13",
+      "wager": "On a reading centered on engineered wanting, Amway first works on who a distributor is through dream building, before any mentor enters. Newcomers are taught to name a house, a child's lessons, or life without a boss as their own, so that what they lack becomes part of them. The present self, measured against that ideal, is found short—a loser's comfort zone—and the shortfall moves people to act. The push is kept from fading: an attained dream is traded for a larger one, and the most successful are shown starting over. Distributors' discontent is installed, not discovered, and dream building is the chief instrument unsettling the self.",
+      "evidence": [
+        {
+          "page": "p. 464",
+          "job": "Anchors the reading: the paper proposes that Amway manufactures a nonreligious seekership, a discontent about who one is, and names dream building as the primary practice opening that gap — by binding the self to possessions, generating drives from the distance between current and ideal selves, and keeping those drives going."
+        },
+        {
+          "page": "pp. 464–465",
+          "job": "Shows the installation step: possessions extend the self-concept, a needs analysis asks what one wants badly enough to do almost anything for, and Table 1 lists the concrete wants — a vast house, swimming lessons for a daughter, no boss — that newcomers learn to claim as their own."
+        },
+        {
+          "page": "p. 467",
+          "job": "Delivers the shortfall: a hoped-for possession, once part of the self, reminds its holder of what she lacks and is not; the present self becomes a comfort zone or rut whose occupant is a loser, and the distance between that self and the dream is what drives action."
+        },
+        {
+          "page": "p. 468",
+          "job": "Supplies the renewal step: dream building does not end when a dream is reached — stopping is likened to a house left to decay, distributors are told to swap a realized dream for a bigger one and to keep climbing without peaking, and dreams drift toward larger, more abstract aims."
+        },
+        {
+          "page": "p. 469",
+          "job": "Confirms the renewal in distributors' own accounts: constant dream building kept members perpetually seeking self-validation, seekers treated dreams as standing motivators, and even the top distributor is described as starting anew all the time."
+        }
+      ]
+    }
+  ]
+}

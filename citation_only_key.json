@@ -1,0 +1,365 @@
+{
+ "what": "the key to citation_matching_sheet.xlsx: for nobody, and not for the PI until the PI's sheet is sent",
+ "seed": 20261020,
+ "sources": {
+  "58": {
+   "file": "reply_58_bechky_citation_fable.json",
+   "sha256": "4bd2224eaf7bb5b85d0c96024b5cac678e7891ccfcd17b6ab09140e046c3979a",
+   "paper": "bechky",
+   "model": "Fable 5.1 at max",
+   "readings": 5
+  },
+  "59": {
+   "file": "reply_59_bechky_citation_astra.json",
+   "sha256": "14ae4ba36051446b93f292cd0a0332f60c780a75dee2c79076df46954a5ce3cb",
+   "paper": "bechky",
+   "model": "GPT 6 Astra at max",
+   "readings": 5
+  },
+  "60": {
+   "file": "reply_60_pratt_citation_fable.json",
+   "sha256": "afea28837a3b5e5f8588f85995cf8a51693a1387d4961dc2c2a31c585766afac",
+   "paper": "pratt",
+   "model": "Fable 5.1 at max",
+   "readings": 5
+  },
+  "61": {
+   "file": "reply_61_pratt_citation_astra.json",
+   "sha256": "281145b140c64e7107c0ad2bf55c2a2578a0ab97ca779cfc5046881036f8416c",
+   "paper": "pratt",
+   "model": "GPT 6 Astra at max",
+   "readings": 4
+  }
+ },
+ "inputs": {
+  "READINGS_matching.md": "7014672fe6a5b8c5e0b5a24f0e3d47faa164a344aa67ded6dae777f103452048",
+  "matching_key.json": "faaba978f4d0842a7a98c810b84eb7f2e535a769347efbb353f6a837a23031a1",
+  "grouping_sheet_filled.xlsx": "b7f5d8ba181857ddc4de8fa96a0bb0a5d0b6f2cd84dda72013f906a5acdd6220",
+  "matching_results.json": "6f50b1fca696db8c177bde93c6a3d9b4af384d51235f98e10f5652ab268c7785",
+  "stage2/markers/READINGS_pratt.md": "389d68820e56cb8bcc9856fa66f063b3950f161e0b7ebef71eb041d432e59570",
+  "stage2/markers/KEY.json": "b8874a82770a5157ed43febe7f18deccea4ba41741bd89fe586d8ddd25e1a76a",
+  "bechky_2020_v1.json": "6f83d744cd1dd68326cce29568a4aff461580d852d1222c4f1d096cb6922ced0",
+  "pratt_2000_v1.json": "a4810cc03d9a439220b2c8781acf494c62d5ac63f7f53f359157238739147c99"
+ },
+ "builder_sha256": "33d294c3ea7f7dea9652dc9289d852ad7cf9e5fd6f62e92e4af7262206f0b391",
+ "citations": {
+  "bechky": "Bechky, B. A. 2020. Evaluative spillovers from technological change: The effects of \"DNA envy\" on occupational practices in forensic science. Administrative Science Quarterly, 65(3): 606–643.",
+  "pratt": "Pratt, M. G. 2000. The good, the bad, and the ambivalent: Managing identification among Amway distributors. Administrative Science Quarterly, 45(3): 456–493."
+ },
+ "groups": [
+  {
+   "label": "Verifiability",
+   "readings": [
+    "M01",
+    "M17"
+   ]
+  },
+  {
+   "label": "Capacity",
+   "readings": [
+    "M02",
+    "M06",
+    "M13",
+    "M16",
+    "M18",
+    "M26"
+   ]
+  },
+  {
+   "label": "DNA Subjective",
+   "readings": [
+    "M03"
+   ]
+  },
+  {
+   "label": "firearms already changed",
+   "readings": [
+    "M04",
+    "M19",
+    "M21"
+   ]
+  },
+  {
+   "label": "Different Demands",
+   "readings": [
+    "M05",
+    "M14"
+   ]
+  },
+  {
+   "label": "Local Challenge",
+   "readings": [
+    "M07",
+    "M25"
+   ]
+  },
+  {
+   "label": "Power Competition",
+   "readings": [
+    "M08"
+   ]
+  },
+  {
+   "label": "Staff Sorting",
+   "readings": [
+    "M09",
+    "M11",
+    "M20",
+    "M27"
+   ]
+  },
+  {
+   "label": "Accreditation",
+   "readings": [
+    "M10",
+    "M15",
+    "M22",
+    "M23",
+    "M24",
+    "M28"
+   ]
+  },
+  {
+   "label": "Status",
+   "readings": [
+    "M12"
+   ]
+  }
+ ],
+ "pratt_readings": [
+  {
+   "reading": "P01",
+   "arm": "plain"
+  },
+  {
+   "reading": "P02",
+   "arm": "middle"
+  },
+  {
+   "reading": "P03",
+   "arm": "plain"
+  },
+  {
+   "reading": "P04",
+   "arm": "system"
+  },
+  {
+   "reading": "P05",
+   "arm": "plain"
+  },
+  {
+   "reading": "P06",
+   "arm": "middle"
+  },
+  {
+   "reading": "P07",
+   "arm": "middle"
+  },
+  {
+   "reading": "P08",
+   "arm": "middle"
+  },
+  {
+   "reading": "P09",
+   "arm": "system"
+  },
+  {
+   "reading": "P10",
+   "arm": "system"
+  },
+  {
+   "reading": "P11",
+   "arm": "system"
+  },
+  {
+   "reading": "P12",
+   "arm": "plain"
+  },
+  {
+   "reading": "P13",
+   "arm": "system"
+  },
+  {
+   "reading": "P14",
+   "arm": "plain"
+  },
+  {
+   "reading": "P15",
+   "arm": "middle"
+  }
+ ],
+ "readings": [
+  {
+   "x": "X01",
+   "paper": "bechky",
+   "chat": "58",
+   "model": "Fable 5.1 at max",
+   "place": 2,
+   "reading_id": "R2",
+   "wager": "'DNA envy' is literally envy: a story of status and resources inside the laboratory. Federal backlog money, hires with graduate degrees, new space, and management attention flowed to DNA, while apprenticeship-trained pattern examiners experienced relative decline. The practice changes are status-repair projects (science talk, certification, verification rituals) aimed at recovering standing with lab leadership, peers, and funders; the courtroom is a secondary stage. The evaluative standard is the vehicle, but the process is stratification within one organization."
+  },
+  {
+   "x": "X02",
+   "paper": "bechky",
+   "chat": "58",
+   "model": "Fable 5.1 at max",
+   "place": 3,
+   "reading_id": "R3",
+   "wager": "Differences in how the pattern disciplines responded are explained by how far each body of knowledge could be formalized, not by how hard DNA-based evaluation hit them. Latent prints, with a named method, automated search databases, and emerging error-rate studies, moved toward quantification; firearms and toolmark examiners defended experiential judgment; trace evidence contracted. DNA set the vocabulary, but the fault line was the epistemic structure of each craft, whether it had a population-level reference to compute against. The spillover reorganized a standing craft-versus-science divide rather than creating new pressure."
+  },
+  {
+   "x": "X03",
+   "paper": "bechky",
+   "chat": "58",
+   "model": "Fable 5.1 at max",
+   "place": 5,
+   "reading_id": "R5",
+   "wager": "The spillover produced ceremonial, front-stage change while bench practice stayed as it was. Hedged testimony, new report phrases, and verification sign-offs satisfied lawyers and management, but examiners kept reaching conclusions the way they always had. What the paper reads as changed occupational practice is a decoupled layer of accountability work; the craft persisted beneath it, and the envy was managed rather than resolved."
+  },
+  {
+   "x": "X04",
+   "paper": "bechky",
+   "chat": "59",
+   "model": "GPT 6 Astra at max",
+   "place": 4,
+   "reading_id": "R4",
+   "wager": "So-called envy could conceal genuine epistemic reform. The contrast with DNA might prompt practitioners in other forensic fields to revisit error, uncertainty, and the limits of expert judgment. The alternative story is not one of status imitation but of learning from a technology that exposes weaknesses in established occupational habits; losing prestige could make better science possible."
+  },
+  {
+   "x": "X05",
+   "paper": "bechky",
+   "chat": "59",
+   "model": "GPT 6 Astra at max",
+   "place": 2,
+   "reading_id": "R2",
+   "wager": "The spillover may travel mainly through courtroom expectations rather than through admiration among scientists. Once DNA establishes a powerful image of forensic certainty, prosecutors, defense attorneys, and judges may demand that unrelated forensic techniques be reported and defended in comparable terms. The occupation's changed practice would then be an adaptation to a new legal audience, not simply a change in its own beliefs about good science."
+  },
+  {
+   "x": "X06",
+   "paper": "bechky",
+   "chat": "58",
+   "model": "Fable 5.1 at max",
+   "place": 1,
+   "reading_id": "R1",
+   "wager": "The practice changes track the activation of a legal audience, not DNA technology as such. Post-conviction exonerations, the 2009 National Academy of Sciences report, Daubert-style admissibility fights, and the 2009 Melendez-Diaz ruling forcing analysts onto the stand all intensified adversarial scrutiny of forensic testimony in the same years. DNA supplied lawyers with an idiom (error rates, match probabilities), but the cause was the courtroom's changed demands. Had the same scrutiny arrived with a different emblem, the same hedging, documentation, and verification would have followed, and the spillover runs from the legal field to the lab, with the technology as vocabulary rather than trigger."
+  },
+  {
+   "x": "X07",
+   "paper": "bechky",
+   "chat": "59",
+   "model": "GPT 6 Astra at max",
+   "place": 5,
+   "reading_id": "R5",
+   "wager": "The deeper story might be an internal struggle over occupational jurisdiction. DNA's ascent could unsettle who gets to define a forensic conclusion, which specialists control a case, and how technicians, analysts, and investigators divide expertise. Apparent changes in technique may be moves in negotiations over authority and task ownership rather than direct spillovers of one technology's evaluative standard."
+  },
+  {
+   "x": "X08",
+   "paper": "bechky",
+   "chat": "58",
+   "model": "Fable 5.1 at max",
+   "place": 4,
+   "reading_id": "R4",
+   "wager": "The documentation, verification, and reporting changes diffused through accreditation and quality management (ASCLD/LAB and ISO/IEC 17025 regimes, and the FBI's quality standards for DNA tied to database access), carried by quality managers and lab directors. DNA's quality regime became the lab-wide template because it was the one federally mandated one; the pattern units' new routines are regulatory isomorphism administered from the top, and 'DNA envy' is the shop-floor name for a management-driven change. The mechanism is organizational diffusion of rules, not courtroom evaluation of expertise."
+  },
+  {
+   "x": "X09",
+   "paper": "bechky",
+   "chat": "59",
+   "model": "GPT 6 Astra at max",
+   "place": 1,
+   "reading_id": "R1",
+   "wager": "What looks like occupational emulation of DNA might instead be competition over scarce organizational resources. Forensic specialists may adopt DNA-like routines because supervisors, funders, or investigators channel staff, equipment, and desirable cases toward practices they regard as modern and reliable. On this reading, changes in practice are strategic bids for institutional support, with epistemic improvement a possible by-product rather than the original motive."
+  },
+  {
+   "x": "X10",
+   "paper": "bechky",
+   "chat": "59",
+   "model": "GPT 6 Astra at max",
+   "place": 3,
+   "reading_id": "R3",
+   "wager": "The consequential change may be in how forensic knowledge is made legible, not primarily in how material traces are examined. DNA's apparent clarity could encourage other specialties to adopt standardized reports, calibrated claims, or numerical presentations, making unlike kinds of evidence look comparable. That would be a story of commensuration: the presentation format becomes an authority-producing technology in its own right, even where the underlying inferences remain different."
+  },
+  {
+   "x": "X11",
+   "paper": "pratt",
+   "chat": "61",
+   "model": "GPT 6 Astra at max",
+   "place": 4,
+   "reading_id": "R4",
+   "wager": "The contradictory identifications may reside less in enduring inner attitudes than in the different explanations distributors must give to different audiences. One account of membership is persuasive among recruits or fellow distributors; another is needed with skeptical relatives or friends. Ambivalence would then be something accomplished in conversations to sustain credibility across incompatible audiences."
+  },
+  {
+   "x": "X12",
+   "paper": "pratt",
+   "chat": "60",
+   "model": "Fable 5.1 at max",
+   "place": 5,
+   "reading_id": "R5",
+   "wager": "The organization teaches a transferable technique: dismantle a taken-for-granted identity (the job, the broke friend, the negative relative) by setting it beside a dream and naming the gap. The technique is not organization-specific, and disidentifiers are not people in whom sensegiving failed but people who learned sensebreaking well and turned it on the system itself, with the tools business as the real business and the upline as the real customer. Their exit narratives mirror the plan, inverted. Ambivalents are those who have half-applied the technique and cannot settle which object to break. Encapsulation and the policing of anything negative are the organization's own acknowledgment that what it teaches is reversible."
+  },
+  {
+   "x": "X13",
+   "paper": "pratt",
+   "chat": "60",
+   "model": "Fable 5.1 at max",
+   "place": 3,
+   "reading_id": "R3",
+   "wager": "The object of identification in the data is a line of sponsorship and a mentor, not Amway. The corporation is a distant licensor; the upline organization runs the meetings, sells the tools, and does the counseling. On this reading the three valences are not three attitudes toward one object but splits across objects: people identify with their upline and the community while disliking the corporation's products or prices; or embrace the products and the free-enterprise ideal while rejecting the tools business. Ambivalence is the residue produced when a multi-target structure is pushed through a single-target typology, and disidentification is often loyalty to one target expressed as rejection of another."
+  },
+  {
+   "x": "X14",
+   "paper": "pratt",
+   "chat": "61",
+   "model": "GPT 6 Astra at max",
+   "place": 2,
+   "reading_id": "R2",
+   "wager": "Distributors' mixed identification may be a sensible way to manage an uncertain economic commitment. Expressing belief in the opportunity sustains selling and recruitment, while maintaining doubts preserves a story about oneself that can survive disappointment or departure. Ambivalence then functions as a practical hedge, not simply an uncomfortable identity state to be resolved."
+  },
+  {
+   "x": "X15",
+   "paper": "pratt",
+   "chat": "61",
+   "model": "GPT 6 Astra at max",
+   "place": 3,
+   "reading_id": "R3",
+   "wager": "Negative public judgments of Amway may not merely threaten distributors' identification; they may help produce its intensity. Being treated as outsiders can give members a shared grievance and a reason to trust insiders more than nonmembers. On this reading, the apparent opposition between attraction and aversion is part of a boundary-making cycle through which criticism from outside strengthens commitment inside."
+  },
+  {
+   "x": "X16",
+   "paper": "pratt",
+   "chat": "60",
+   "model": "Fable 5.1 at max",
+   "place": 2,
+   "reading_id": "R2",
+   "wager": "The three outcomes are an economic exposure map. The system of tapes, books, functions and counseling is itself a business sold to distributors by their uplines, so a distributor's attitude to Amway tracks their net position in two markets at once. Identification is found among those whose position is positive or visibly improving (a Diamond upline, growing legs); ambivalence is the state of people who have sunk real money and time without return and cannot yet write it off; disidentification is the response of those who conclude that they, not the soap, were the product. What Pratt calls the meaning void is dissonance over unrecouped investment, and what he calls sensegiving works mainly by raising the cost of exit."
+  },
+  {
+   "x": "X17",
+   "paper": "pratt",
+   "chat": "60",
+   "model": "Fable 5.1 at max",
+   "place": 1,
+   "reading_id": "R1",
+   "wager": "The void Pratt attributes to dream building is largely imported. The sample is skewed toward people who were already discontented (the paper's own seekers) or who were susceptible to a pitch promising a different life, and the organization's work is less to break sense than to recognize an existing fracture and hand it a vocabulary. On this reading the three outcomes track pre-entry condition rather than organizational practice: entrants with a sharp, specific grievance against their job identify; those with a diffuse unease become ambivalent; those brought in by a spouse or friend, with no void of their own, disidentify or drift out. Sensebreaking is a sorting device that reveals who arrived broken, not a treatment that breaks."
+  },
+  {
+   "x": "X18",
+   "paper": "pratt",
+   "chat": "60",
+   "model": "Fable 5.1 at max",
+   "place": 4,
+   "reading_id": "R4",
+   "wager": "The outcomes are stages of one career rather than types of member. Nearly everyone is identified in the months after sensegiving; ambivalence sets in as results lag behind the dream while the system's demands continue; disidentification, or a quiet fading out, follows at or after exit. Cross-sectional sampling of current members at different tenures, together with retrospective ex-members, freezes a sequence into a taxonomy. On this reading the organization's practices explain the first stage well and the others hardly at all; time in grade does the rest, and the repeated weekly and quarterly sensegiving is best understood as a machine for re-identifying people who are drifting down the sequence."
+  },
+  {
+   "x": "X19",
+   "paper": "pratt",
+   "chat": "61",
+   "model": "GPT 6 Astra at max",
+   "place": 1,
+   "reading_id": "R1",
+   "wager": "What looks like ambivalence toward one organization may be a mismatch between the organizations a distributor has in mind. A person can feel loyal to a sponsor, immediate distributor group, or imagined entrepreneurial community while mistrusting Amway as a corporate name. On this reading, the central process is switching among identification targets, rather than managing two opposing feelings about a single target."
+  }
+ ],
+ "sheet_sha256": "e1028686088a4e1c214a1238f577f155597b912929896b763600e5bdfd3f7635"
+}

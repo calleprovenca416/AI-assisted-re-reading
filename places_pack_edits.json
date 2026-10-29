@@ -1,0 +1,20 @@
+{
+ "what": "the words changed in the readings of chats 45 and 46 before build_places_packs.py put them in READINGS_places.md and the worth sheet: for nobody until the PI's worth sheet is back",
+ "rule": "Words that refer to a reading's place as the request framed it ('this place', 'the place', 'the summary given for this place'), and not to the paper, are replaced with a plain reference to the paper or to its passage; where they point to a text that came with the request and not from the paper, they are dropped. The same rule for both chats' readings. Nothing else of any reading is changed.",
+ "why": "Such words would show which chat wrote a reading, on a sheet that is to be rated without knowing it, and the markers could not check them against the paper.",
+ "when": "13 Oct 2026, after both replies were read and before the packs were built.",
+ "edits": [
+  {"chat": "45", "reading_id": "R1", "field": "wager",
+   "before": "a narrower claim than the one at this place:",
+   "after": "a narrower claim than the paper's:"},
+  {"chat": "45", "reading_id": "R2", "field": "wager",
+   "before": "a different limit on the claim at this place:",
+   "after": "a different limit on the paper's claim:"},
+  {"chat": "45", "reading_id": "R3", "field": "evidence 1",
+   "before": "though Table 2 (p. 633) and the summary given for this place speak of direct challenge or exposure.",
+   "after": "though Table 2 (p. 633) speaks of direct challenge or exposure."},
+  {"chat": "46", "reading_id": "R3", "field": "evidence 6",
+   "before": "This is the coding the place unsettles.",
+   "after": "This is the coding the passage unsettles."}
+ ]
+}

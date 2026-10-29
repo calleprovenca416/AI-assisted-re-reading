@@ -1,0 +1,78 @@
+{
+  "card_id": "pratt_2000_counterfactual_ending_C56_01",
+  "verdicts": [
+    {
+      "mode": "B_import",
+      "killed": true,
+      "citations": ["F123", "F43", "F44", "F45", "F72", "F125", "F97"],
+      "drift": [],
+      "note": "KILL. The statement asserts: \"None of the leavers in print had been offered meetings or any other help by an upline before they left.\" No fragment carries this universal negative. F123 establishes interviewees' tenure, not what they were offered. F125 gives the author's account of weak reasons to seek advice and weak bonds; it does not report that uplines offered no meetings or help. F97 actually records a former distributor blaming his upline for relying mainly on more meetings. The related assertions that departures \"come before the practices have run\" and that \"identification was not secured because they had gone\" also add an unprinted exposure history and causal sequence. F43, F44, F45 and F72 carry repetition and development over time, but none establishes a minimum duration exceeding these leavers' tenure or shows that repeated work had not occurred before their departure. Calling the reading provisional does not supply these asserted facts. This is import, not author-account drift; the card explicitly attributes F72 to the author.",
+      "considered_not_fired": [
+        {
+          "item": "F123: every interviewed former distributor left within a year",
+          "why": "The stub directly reports membership ending less than a year after joining. Both the statement's sample-specific clause and this fragment's assigned job are supported. The unsupported step is treating short tenure as proof of nonexposure."
+        },
+        {
+          "item": "F90, F91 and F92: fading appeal, a satisfying regular job, and an experience that did not suit",
+          "why": "Each statement clause and fragment job paraphrases its corresponding stub. F91 itself connects the satisfying job with little desire for meetings or sales work, so that local connection is not imported."
+        },
+        {
+          "item": "F98: buying in to escape embarrassment rather than taking up a dream at entry",
+          "why": "The stub explicitly says social pressure and dependence on transportation led the participant to buy in simply to escape an embarrassing situation. The assigned job is supported as a characterization of this reported reason for joining; it does not establish his entire subsequent exposure history."
+        },
+        {
+          "item": "F124 and F24: common leaving and widespread inactivity",
+          "why": "F124 carries the attributed secondary-source annual range, and F24 carries the company publication's fewer-than-half-active count. Describing leaving as common and recorded inactivity as widespread is ordinary paraphrase. F101 and F103 independently show inactivity within continuing membership. These figures do not establish when individuals encountered the practices or why they left."
+        },
+        {
+          "item": "F43, F44 and F45: renewed aspirations and change over time",
+          "why": "F43 carries replacing an achieved dream with a larger one; F44 carries continuing to strive without a final peak; F45 carries successful distributors' shifting aspirations. Their assigned jobs legitimately identify repetition and temporal development, without supplying a first-year exclusion."
+        },
+        {
+          "item": "F72: encapsulation growing with time among distributors",
+          "why": "The card expressly identifies this as the author's account, matching the stub's qualification. It is printed argument, not an imported fact or an unattributed conversion of interpretation into an event."
+        },
+        {
+          "item": "F22 and F110: high-sales quitters and changes in identification without detailed departure histories",
+          "why": "F22 reports high sales before quitting but supplies neither tenure nor participant testimony. F110 reports changes in identification without identifying departures or presenting an individual case. Their fragment jobs and the stated limits of these records are supported; neither establishes departure after long, active membership."
+        },
+        {
+          "item": "Reversal of C56 and the proposed observation of long-active leavers",
+          "why": "Disagreement with the incumbent's causal account and specifying evidence that could test an alternative are not themselves imports. The kill concerns the categorical factual premises used to assert that alternative, especially the absence of all offers of help and the asserted nonapplication before departure. No separate kill is assigned merely for proposing a counterfactual ending."
+        }
+      ]
+    },
+    {
+      "mode": "E_contradiction",
+      "killed": true,
+      "citations": ["F97"],
+      "note": "KILL. F97's stub says: \"One former distributor blamed his upline for failing to recognize his prior sales ability and for relying mainly on more meetings rather than finding a way to motivate him.\" This cannot be accommodated by the statement that \"None of the leavers in print had been offered meetings or any other help by an upline before they left.\" Reliance on more meetings is a reported upline response, even if the participant found it inadequate. F97 is neither a seed nor listed under strains_against. Its appearance in reach.same_outcome does not declare strain or exempt it from this test. The contradiction does not require inferring attendance, effective mentoring, or a completed course of practices. F97's notes contain no qualification that removes this counterexample, and none of the absence-register entries makes this printed testimony unavailable.",
+      "considered_not_fired": [
+        {
+          "item": "F93, F94, F95, F96 and F89",
+          "why": "These are expressly declared strains. Exposure to upline authority, attraction to a successful member's home, persistence logic, troubled upline ties, and the author's account of dissatisfaction lapsing cannot independently fire E under the stated exclusions. Their declaration does not also exempt F97."
+        },
+        {
+          "item": "F22, F90, F91, F92, F98, F110, F123, F124 and F24",
+          "why": "All are seeds and therefore excluded from E. Additionally, high sales in F22 do not establish long tenure, and changing identification in F110 does not establish departure. Neither supplies an unprinted long-active leaver's history."
+        },
+        {
+          "item": "F10, F37 and F58: training newer members, dream building with prospects, and instruction at entry",
+          "why": "These stubs show that practices can reach people early. They do not identify the interviewed leavers or establish each leaver's exposure. They therefore are not additional direct counterexamples to the narrower claim about these leavers' histories."
+        },
+        {
+          "item": "F101 and F103: inactive members, recurring attempts to restart, and continuing sponsor support",
+          "why": "These describe inactive distributors, not people identified as having left. Continuing support during inactivity can coexist with a distinction between inactivity and departure; it does not independently refute the leaver-specific assertion."
+        },
+        {
+          "item": "F19, F21, F27, F88, F99, F108 and F125; C27, C28, C42, C52, C53 and C56",
+          "why": "The relevant fragment clauses are explicitly the author's accounts of how identification processes work, and the C entries are theoretical claims. Disagreement with their explanations, including failed sensegiving and the importance of early socialization, is not an event-level contradiction. No E kill is based on these theoretical disagreements."
+        },
+        {
+          "item": "DG03 and absence register A01-A03",
+          "why": "DG03 limits analysis of transitions; the absence entries concern profit figures, refused-recruit testimony, and an official turnover rate. Missing transition histories or unprinted exposure records cannot establish a contradiction. Conversely, those gaps do not negate F97's affirmative report about meetings."
+        }
+      ]
+    }
+  ]
+}

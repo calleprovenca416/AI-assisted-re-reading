@@ -1,0 +1,151 @@
+{
+  "card_id": "bechky_2020_focalization_shift_forensic_biology_DNA_01",
+  "paper_id": "bechky_2020",
+  "move": "focalization_shift",
+  "claim": "C14",
+  "mechanical_checks": [
+    {
+      "mode": "record",
+      "killed": false,
+      "missing_fields": []
+    },
+    {
+      "mode": "A_provenance",
+      "killed": false,
+      "cited_fragments": 28,
+      "unknown_fragments": [],
+      "unknown_claims": []
+    },
+    {
+      "mode": "C_role_vacuity",
+      "killed": false,
+      "vacuous_jobs": [],
+      "fragments_without_a_job": []
+    },
+    {
+      "mode": "F_discrimination",
+      "killed": false,
+      "observation_named": true,
+      "printed": false,
+      "fragments": [],
+      "note": "names an absence with a basis"
+    },
+    {
+      "mode": "G_grounding",
+      "killed": false,
+      "grounds_accepted": [
+        "Did the forensic biology analysts, anywhere in print, speak ",
+        "Were the technical and administrative review (F45) and the p",
+        "F48, F148"
+      ],
+      "grounds_rejected": []
+    }
+  ],
+  "killed_by": [],
+  "restatement": {
+    "measure": "restatement",
+    "failed": false,
+    "new_uses": [
+      [
+        "F07",
+        "orphan in the corpus, given a job here"
+      ],
+      [
+        "F09",
+        "orphan in the corpus, given a job here"
+      ],
+      [
+        "F110",
+        "the incumbent files it under C20, not C14"
+      ],
+      [
+        "F13",
+        "orphan in the corpus, given a job here"
+      ],
+      [
+        "F145",
+        "the incumbent files it under C04,C13,C16,C20, not C14"
+      ],
+      [
+        "F146",
+        "the incumbent files it under C04,C13,C17,C20, not C14"
+      ],
+      [
+        "F147",
+        "the incumbent files it under C04,C13,C18,C20, not C14"
+      ],
+      [
+        "F148",
+        "the incumbent files it under C05,C13,C16,C20, not C14"
+      ],
+      [
+        "F17",
+        "orphan in the corpus, given a job here"
+      ],
+      [
+        "F21",
+        "orphan in the corpus, given a job here"
+      ],
+      [
+        "F28",
+        "orphan in the corpus, given a job here"
+      ],
+      [
+        "F36",
+        "the incumbent files it under C03, not C14"
+      ],
+      [
+        "F43",
+        "orphan in the corpus, given a job here"
+      ],
+      [
+        "F54",
+        "the incumbent files it under C15, not C14"
+      ],
+      [
+        "F55",
+        "the incumbent files it under C15, not C14"
+      ],
+      [
+        "F60",
+        "the incumbent files it under C02, not C14"
+      ],
+      [
+        "F68",
+        "orphan in the corpus, given a job here"
+      ],
+      [
+        "F69",
+        "the incumbent files it under C20, not C14"
+      ],
+      [
+        "F86",
+        "the incumbent files it under C04,C05,C16, not C14"
+      ],
+      [
+        "F92",
+        "the incumbent files it under C17,C20, not C14"
+      ]
+    ],
+    "used_as_incumbent_does": [
+      "F45",
+      "F46",
+      "F47",
+      "F48",
+      "F49",
+      "F50",
+      "F51",
+      "F52"
+    ],
+    "share_new": 0.714
+  },
+  "admissibility": {
+    "applies": false
+  },
+  "not_run_here": [
+    "B_import",
+    "E_contradiction"
+  ],
+  "why_not_run": "model-judged; they require a session that has never seen the reasoning that produced this reading",
+  "register": "not opened"
+}

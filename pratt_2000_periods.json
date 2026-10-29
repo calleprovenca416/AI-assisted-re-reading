@@ -1,0 +1,4 @@
+{
+  "P1": "The whole of the paper's account, as one period.",
+  "_note": "28 Sep 2026. Passed to build_cold_pack.py with --periods when Pratt's Stage B is built. The extraction log describes P1 as an ongoing process rather than a bounded chronological story, which states the first coder's answer to section 6 (the story does not close), so the builder refuses it. This neutral line replaces it in coder 2's workbook only; the log is unchanged."
+}

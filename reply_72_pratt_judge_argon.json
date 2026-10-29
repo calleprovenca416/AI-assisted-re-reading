@@ -1,0 +1,183 @@
+{
+  "pairs": [
+    ["A01", "B02"],
+    ["A02", "B05"],
+    ["A03", "B06"],
+    ["A04", "B07"],
+    ["A05", "B08"],
+    ["A06", "B09"],
+    ["A08", "B11"],
+    ["A09", "B13"],
+    ["A10", "B14"],
+    ["A11", "B15"],
+    ["A12", "B17"],
+    ["A14", "B19"]
+  ],
+  "verdicts": {
+    "A01": {
+      "verdict": "not_in_brief",
+      "ids": ["F09", "F10", "F11"],
+      "reason": "The third full paragraph on p. 459 provides general industry background from secondary literature on the worldwide size of network marketing and Amway's similarity to peer firms rather than study evidence or an explanatory claim."
+    },
+    "A02": {
+      "verdict": "not_in_brief",
+      "ids": ["C46", "C47", "C48"],
+      "reason": "Footnote 6 on p. 460 cites prior socialization literature only to explain why fieldwork lasted at least six months before being guided by theoretical saturation and resource limits, which belongs to methods scope rather than fragments or claims."
+    },
+    "A03": {
+      "verdict": "evidence",
+      "ids": ["F26"],
+      "reason": "Although the interview counts on p. 461 are summarized in the sheet's fieldwork note, the second full paragraph on p. 461 also prints unrecorded evidence on how distributors defined active and inactive status, labeled prospects who refused to join, and varied in tenure and informant demographics."
+    },
+    "A04": {
+      "verdict": "covered",
+      "ids": ["F28", "F29", "C13"],
+      "reason": "The paragraph running across pp. 464–465 is already recorded in F28 on the needs-analysis exercise linking desired possessions to the self, F29 on the content-analysis percentages of dream categories in success stories, and C13 on dream building as sensebreaking."
+    },
+    "A05": {
+      "verdict": "covered",
+      "ids": ["C14", "F39", "C13"],
+      "reason": "The second full paragraph on p. 466 (with its field-journal excerpt running onto p. 467) is already captured by C14 on how choice, familiarity, and emotion aid incorporation of dreams into the self and by F39 on the researcher's excitement over his personal-freedom dream."
+    },
+    "A06": {
+      "verdict": "assertion",
+      "ids": ["C13", "C15"],
+      "reason": "Footnote 11 on p. 467 asserts in the author's own voice that dream building motivates through specific, difficult, self-chosen goals and that tying goals to the self-concept explains why goals motivate, which no claim on the sheet records."
+    },
+    "A07": {
+      "verdict": "covered",
+      "ids": ["C21", "F61", "F62"],
+      "reason": "The first full paragraph on p. 471 is fully covered by C21 on strong mentor-protege bonds, F61 on the upline distributor who could rely on about a hundred downline members, and F62 (with its gloss) on the distributor seeking Pearl rank to join upline golf trips."
+    },
+    "A08": {
+      "verdict": "covered",
+      "ids": ["F70", "C22"],
+      "reason": "Footnote 13 on p. 473 is directly recorded in F70, which paraphrases the author's account of how Amway's insider-outsider boundary remained permeable for interested outsiders, straying members, and unsupportive spouses."
+    },
+    "A09": {
+      "verdict": "covered",
+      "ids": ["C03", "C07", "F88"],
+      "reason": "What the brief records from the first full paragraph on p. 477 is already on the sheet in C03, C07, and F88 on how breakdowns in sensebreaking or sensegiving explain nonpositive identification states (while the lack of a published Amway turnover rate is noted in absence A03 and the turnover figure is cited to secondary literature)."
+    },
+    "A10": {
+      "verdict": "covered",
+      "ids": ["F93", "C03", "C27"],
+      "reason": "The first full paragraph on p. 478 is covered by F93, which records the former distributor's interview account of growing uncomfortable with members treating Diamond uplines as unquestionable authorities, alongside C03 and C27 on failed sensebreaking and deidentification."
+    },
+    "A11": {
+      "verdict": "covered",
+      "ids": ["F96", "F97", "F98", "C28"],
+      "reason": "The first full paragraph on p. 479 is thoroughly covered by F96 on distant or angry upline relations among disidentified members, F97 on the former seller who felt his upline failed to motivate him, F98 on the high-pressure recruiting episode, and C28."
+    },
+    "A12": {
+      "verdict": "assertion",
+      "ids": ["C01", "C30", "F109"],
+      "reason": "The paragraph running across pp. 481–482 asserts in the paper's voice that practices such as divestiture, mortification, hazing, and public confessions act as sensebreaking tactics that induce seekership by invalidating the current self against a group standard and that personal and group standards blur during sensegiving, which no claim on the sheet states."
+    },
+    "A13": {
+      "verdict": "covered",
+      "ids": ["F109", "C01", "C30"],
+      "reason": "Figure 2 on p. 482 is already recorded in F109 as the generalized process model linking sensebreaking, selection, seekership, sensegiving, and encapsulated sensemaking to identification outcomes, as well as in C01 and C30."
+    },
+    "A14": {
+      "verdict": "covered",
+      "ids": ["C39"],
+      "reason": "The paragraph running across pp. 486–487 is covered by C39, which records the paper's claim that professional socialization builds strong identification by pairing self-unsettling practices with encapsulating relationships and time demands."
+    },
+    "B01": {
+      "verdict": "covered",
+      "ids": ["F07", "F08", "F06"],
+      "reason": "The second full paragraph on p. 458 is covered by F07 on Amway's international reach, distributor count, and retail sales, and by F08 (with F06 for attached footnote 3) on Dexter Yager's statement illustrating the belief that anyone can succeed in Amway."
+    },
+    "B02": {
+      "verdict": "not_in_brief",
+      "ids": ["F09", "F10", "F11"],
+      "reason": "The third full paragraph on p. 459 provides general industry background from secondary literature on the worldwide size of network marketing and Amway's similarity to peer firms rather than study evidence or an explanatory claim."
+    },
+    "B03": {
+      "verdict": "covered",
+      "ids": ["C47", "C48"],
+      "reason": "The second full paragraph on p. 460 is covered by C47 and C48, which record the author's methodological claims that working alongside informants builds coworker trust and that a semiovert role permits asking unusual questions."
+    },
+    "B04": {
+      "verdict": "covered",
+      "ids": ["F15", "F16"],
+      "reason": "Footnote 5 on p. 460 is covered by F15 on the sponsorship-network member who invoked religion to urge distributing over academia and F16 on upline members tolerating the researcher's interviewing while he sold and recruited (alongside declared gap DG02)."
+    },
+    "B05": {
+      "verdict": "not_in_brief",
+      "ids": ["C46", "C47", "C48"],
+      "reason": "Footnote 6 on p. 460 cites prior socialization literature only to explain why fieldwork lasted at least six months before being guided by theoretical saturation and resource limits, which belongs to methods scope rather than fragments or claims."
+    },
+    "B06": {
+      "verdict": "evidence",
+      "ids": ["F26"],
+      "reason": "Although the interview counts on p. 461 are summarized in the sheet's fieldwork note, the second full paragraph on p. 461 also prints unrecorded evidence on how distributors defined active and inactive status, labeled prospects who refused to join, and varied in tenure and informant demographics."
+    },
+    "B07": {
+      "verdict": "covered",
+      "ids": ["F28", "F29", "C13"],
+      "reason": "The paragraph running across pp. 464–465 is already recorded in F28 on the needs-analysis exercise linking desired possessions to the self, F29 on the content-analysis percentages of dream categories in success stories, and C13 on dream building as sensebreaking."
+    },
+    "B08": {
+      "verdict": "covered",
+      "ids": ["C14", "F39", "C13"],
+      "reason": "The second full paragraph on p. 466 (with its field-journal excerpt running onto p. 467) is already captured by C14 on how choice, familiarity, and emotion aid incorporation of dreams into the self and by F39 on the researcher's excitement over his personal-freedom dream."
+    },
+    "B09": {
+      "verdict": "assertion",
+      "ids": ["C13", "C15"],
+      "reason": "Footnote 11 on p. 467 asserts in the author's own voice that dream building motivates through specific, difficult, self-chosen goals and that tying goals to the self-concept explains why goals motivate, which no claim on the sheet records."
+    },
+    "B10": {
+      "verdict": "covered",
+      "ids": ["C19", "C20", "F53"],
+      "reason": "The paragraph running across pp. 469–470 is covered by C19 on seekership prompting a search for self-meaning and by C20 and F53 on positive programming channeling members toward supportive upline mentors and away from harmful relationships."
+    },
+    "B11": {
+      "verdict": "covered",
+      "ids": ["F70", "C22"],
+      "reason": "Footnote 13 on p. 473 is directly recorded in F70, which paraphrases the author's account of how Amway's insider-outsider boundary remained permeable for interested outsiders, straying members, and unsupportive spouses."
+    },
+    "B12": {
+      "verdict": "covered",
+      "ids": ["F74", "F75", "F76", "C20", "C22"],
+      "reason": "The first full paragraph on p. 474 is covered by F74 on harsh reactions from friends and family in the opening months, F75 on non-members avoiding distributors over perceived commercial exploitation of friendships, F76 on mutual avoidance, and C20 and C22."
+    },
+    "B13": {
+      "verdict": "covered",
+      "ids": ["C03", "C07", "F88"],
+      "reason": "What the brief records from the first full paragraph on p. 477 is already on the sheet in C03, C07, and F88 on how breakdowns in sensebreaking or sensegiving explain nonpositive identification states (while the lack of a published Amway turnover rate is noted in absence A03 and the turnover figure is cited to secondary literature)."
+    },
+    "B14": {
+      "verdict": "covered",
+      "ids": ["F93", "C03", "C27"],
+      "reason": "The first full paragraph on p. 478 is covered by F93, which records the former distributor's interview account of growing uncomfortable with members treating Diamond uplines as unquestionable authorities, alongside C03 and C27 on failed sensebreaking and deidentification."
+    },
+    "B15": {
+      "verdict": "covered",
+      "ids": ["F96", "F97", "F98", "C28"],
+      "reason": "The first full paragraph on p. 479 is thoroughly covered by F96 on distant or angry upline relations among disidentified members, F97 on the former seller who felt his upline failed to motivate him, F98 on the high-pressure recruiting episode, and C28."
+    },
+    "B16": {
+      "verdict": "covered",
+      "ids": ["F105", "F107", "C29", "F106"],
+      "reason": "The paragraph running across pp. 480–481 is covered by F105 on recruiting more distant acquaintances after losing a friend, F107 and C29 on ambivalent distributors retaining both upline and non-member ties, and F106 for attached footnote 16."
+    },
+    "B17": {
+      "verdict": "assertion",
+      "ids": ["C01", "C30", "F109"],
+      "reason": "The paragraph running across pp. 481–482 asserts in the paper's voice that practices such as divestiture, mortification, hazing, and public confessions act as sensebreaking tactics that induce seekership by invalidating the current self against a group standard and that personal and group standards blur during sensegiving, which no claim on the sheet states."
+    },
+    "B18": {
+      "verdict": "covered",
+      "ids": ["C04", "C44", "C01", "C11"],
+      "reason": "The first full paragraph on p. 486 restates the claims already recorded in C04 and C44 (and C01 and C11) that reduced direct supervision from dispersed work and broader spans of control, together with weaker loyalty from declining job security, lead organizations to coordinate members through shared values and sensemaking."
+    },
+    "B19": {
+      "verdict": "covered",
+      "ids": ["C39"],
+      "reason": "The paragraph running across pp. 486–487 is covered by C39, which records the paper's claim that professional socialization builds strong identification by pairing self-unsettling practices with encapsulating relationships and time demands."
+    }
+  }
+}

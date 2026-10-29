@@ -1,0 +1,954 @@
+{
+  "paper": "Beth A. Bechky (2020)",
+  "pairs": [
+    {
+      "pair": "P001",
+      "claim": "C03",
+      "base": "C02",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F32, F39, F42, F56; DNA benchmark and mediated scrutiny",
+      "page": "pp. 616–617, 634–635",
+      "reason": "The institutional routes can transmit consequential comparisons only because the elevation of DNA first generates the scrutiny of other specialties described by C02."
+    },
+    {
+      "pair": "P002",
+      "claim": "C04",
+      "base": "C03",
+      "rests_on": false,
+      "reason": "The paper assesses technical fit from methods and DNA outputs independently of whether court or professional pressure travels through a particular institutional route (pp. 624–633)."
+    },
+    {
+      "pair": "P003",
+      "claim": "C05",
+      "base": "C01",
+      "rests_on": true,
+      "type": "significance",
+      "strength": "necessary",
+      "basis": "F39, F56, F166; the indirect-work-change contribution",
+      "page": "pp. 607–608, 634, 637",
+      "reason": "The occupational-values pattern remains visible in the cases but loses its purpose as an explanation of technology-induced change among nonadopters if C01 is set aside."
+    },
+    {
+      "pair": "P004",
+      "claim": "C05",
+      "base": "C03",
+      "rests_on": false,
+      "reason": "The urgency of an institutional route and the consonance of an occupation’s values are presented as parallel influences, not one as evidence or a necessary step for the other (pp. 633–637)."
+    },
+    {
+      "pair": "P005",
+      "claim": "C01",
+      "base": "C18",
+      "rests_on": false,
+      "reason": "C18 records narcotics resistance and retention of existing practice, not an instance of the changed local work through which C01 establishes its possibility (pp. 632–634)."
+    },
+    {
+      "pair": "P006",
+      "claim": "C04",
+      "base": "C11",
+      "rests_on": false,
+      "reason": "The technical similarities and incompatibilities in C04 come from detailed analytical procedures rather than the general prior claim that people interpret institutional demands (pp. 620–633)."
+    },
+    {
+      "pair": "P007",
+      "claim": "C13",
+      "base": "C23",
+      "rests_on": false,
+      "reason": "C23 is a prospective conjecture about digital technologies beyond the studied field, not support for the observed variation in readings of DNA (pp. 634, 638)."
+    },
+    {
+      "pair": "P008",
+      "claim": "C03",
+      "base": "C08",
+      "rests_on": false,
+      "reason": "C08 concerns professional authority in direct technology adoption, whereas C03 is grounded in differing routes of evaluation in the forensic field (pp. 608–609, 634–636)."
+    },
+    {
+      "pair": "P009",
+      "claim": "C01",
+      "base": "C23",
+      "rests_on": false,
+      "reason": "The paper’s prediction of future cross-industry diffusion depends on its forensic finding rather than supplying evidence for that finding (pp. 634, 638)."
+    },
+    {
+      "pair": "P010",
+      "claim": "C04",
+      "base": "C23",
+      "rests_on": false,
+      "reason": "Speculation about future digital diffusion provides neither technical-comparison evidence nor a prerequisite for the forensic units’ compatibility assessments (pp. 633, 638)."
+    },
+    {
+      "pair": "P011",
+      "claim": "C20",
+      "base": "C11",
+      "rests_on": false,
+      "reason": "C20 is supported by work practices and values observed in the units, not by the preexisting general proposition about making sense of institutional pressures (pp. 611, 637)."
+    },
+    {
+      "pair": "P012",
+      "claim": "C13",
+      "base": "C05",
+      "rests_on": false,
+      "reason": "Different readings of DNA are observed even without using the further claim that alignment or conflict of values predicts change or resistance (pp. 633–634)."
+    },
+    {
+      "pair": "P013",
+      "claim": "C20",
+      "base": "C17",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F92–F100, F103, F149, F167; toxicology method and error-avoidance values",
+      "page": "pp. 626–628, 633, 637",
+      "reason": "Toxicology shows error-avoidance values emerging from a repetitive instrumented workflow, one of several concrete instances offered for the entwinement in C20."
+    },
+    {
+      "pair": "P014",
+      "claim": "C01",
+      "base": "C02",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F32, F39, F52, F56, F156; benchmark-based scrutiny",
+      "page": "pp. 615–619, 634",
+      "reason": "The change attributed to evaluative spillovers depends on a highly legitimate DNA benchmark first generating comparisons and scrutiny of non-DNA occupations."
+    },
+    {
+      "pair": "P015",
+      "claim": "C20",
+      "base": "C05",
+      "rests_on": false,
+      "reason": "The paper derives C20 from how methods give rise to occupational commitments, not from the separate proposition that commitments predict adaptation or resistance (p. 637)."
+    },
+    {
+      "pair": "P016",
+      "claim": "C04",
+      "base": "C17",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F91, F93, F98–F101, F146; toxicology fit and adaptation",
+      "page": "pp. 625–628, 633",
+      "reason": "The toxicology reporting change offers an instance of technically feasible adaptation, alongside contrasting firearms and narcotics techniques."
+    },
+    {
+      "pair": "P017",
+      "claim": "C01",
+      "base": "C22",
+      "rests_on": false,
+      "reason": "The possible resistance of ethnographers is an application of the already developed argument, not evidence for the original indirect-change finding (pp. 634, 638)."
+    },
+    {
+      "pair": "P018",
+      "claim": "C03",
+      "base": "C18",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F105, F129, F132, F153, F162; nonurgent professional debate and resistance",
+      "page": "pp. 628, 632–635",
+      "reason": "The internal narcotics debate and continued crystal testing provide one of the contrasting routes through which C03 links urgency to local change."
+    },
+    {
+      "pair": "P019",
+      "claim": "C05",
+      "base": "C17",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F94–F100, F149, F152; toxicology values fit and changed reporting",
+      "page": "pp. 626–628, 633",
+      "reason": "Toxicologists adopted more detailed uncertainty reporting in accord with their error-avoidance commitments, supporting the values-response relation alongside the resistant units."
+    },
+    {
+      "pair": "P020",
+      "claim": "C04",
+      "base": "C01",
+      "rests_on": true,
+      "type": "significance",
+      "strength": "necessary",
+      "basis": "F56, F145–F150, F166; local responses to indirect technological influence",
+      "page": "pp. 608, 633–637",
+      "reason": "The compatibility finding retains its local case comparisons but loses its reason for explaining indirect technological effects if the general evaluative-spillover claim fails."
+    },
+    {
+      "pair": "P021",
+      "claim": "C13",
+      "base": "C11",
+      "rests_on": false,
+      "reason": "The prior theory of interpreting institutional demands supplies framing but does not establish the distinctive statistical, error-focused, and instrumental comparisons recorded in C13 (pp. 611, 633–634)."
+    },
+    {
+      "pair": "P022",
+      "claim": "C20",
+      "base": "C04",
+      "rests_on": false,
+      "reason": "That a method is more or less compatible with DNA is different from the finding that occupational values arise within methods, which has its own observed basis (pp. 633, 637)."
+    },
+    {
+      "pair": "P023",
+      "claim": "C01",
+      "base": "C14",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "F45–F52, F32, F156; credible DNA presentations underlie benchmark standing",
+      "page": "pp. 618–619, 634",
+      "reason": "The credibility produced by DNA reporting practices helps create the legitimate comparator that drives C01, although court acceptance and the NAS evaluation also establish that benchmark."
+    },
+    {
+      "pair": "P024",
+      "claim": "C20",
+      "base": "C18",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F107–F109, F111, F126–F129, F150, F167; narcotics craft and technique",
+      "page": "pp. 629–632, 633, 637",
+      "reason": "The refusal to abandon crystal testing makes visible how technical practice and prized craft autonomy go together, supplementing the other two occupations."
+    },
+    {
+      "pair": "P025",
+      "claim": "C13",
+      "base": "C17",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F89–F100, F146, F149, F157; error measurement singled out",
+      "page": "pp. 625–628, 633–634",
+      "reason": "Toxicologists singled out error measurement rather than DNA identification as the pertinent comparison, one of the three selective interpretations."
+    },
+    {
+      "pair": "P026",
+      "claim": "C05",
+      "base": "C23",
+      "rests_on": false,
+      "reason": "The prediction about wider future spillovers does not demonstrate how values influenced the three MCCL occupations’ observed responses (pp. 633–638)."
+    },
+    {
+      "pair": "P027",
+      "claim": "C20",
+      "base": "C02",
+      "rests_on": false,
+      "reason": "DNA’s prior legitimacy generates scrutiny, but that fact does not establish that the focal groups’ techniques and occupational commitments are intertwined (pp. 619, 637)."
+    },
+    {
+      "pair": "P028",
+      "claim": "C03",
+      "base": "C23",
+      "rests_on": false,
+      "reason": "Possible future diffusion across industries is neither a local instance nor a causal premise of different institutional pathways at MCCL (pp. 634–638)."
+    },
+    {
+      "pair": "P029",
+      "claim": "C13",
+      "base": "C06",
+      "rests_on": false,
+      "reason": "C06 describes changes from occupations directly adopting new technologies, not the variable interpretations of a benchmark none of the three focal groups could adopt (pp. 608–609, 617)."
+    },
+    {
+      "pair": "P030",
+      "claim": "C20",
+      "base": "C10",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F27, F58, F70, F97, F111; distinct work-generated cultures",
+      "page": "pp. 614, 620, 637",
+      "reason": "The paper links differing kinds of forensic work to different occupational values and cultures, which lends background support to C20 beyond the detailed practice episodes."
+    },
+    {
+      "pair": "P031",
+      "claim": "C20",
+      "base": "C12",
+      "rests_on": false,
+      "reason": "The methodological rationale for ethnography is not the substantive evidence for the observed connection between occupational values and technique (pp. 613, 637)."
+    },
+    {
+      "pair": "P032",
+      "claim": "C01",
+      "base": "C04",
+      "rests_on": false,
+      "reason": "Technical fit helps explain why some groups can respond, but indirect occupational work change is demonstrated even without asserting technical fit as its general determinant (pp. 627–628, 634)."
+    },
+    {
+      "pair": "P033",
+      "claim": "C05",
+      "base": "C11",
+      "rests_on": false,
+      "reason": "The paper’s general account of meaning making contextualizes rather than supplies the observed value congruence and resistance across the three occupational groups (pp. 611, 633–637)."
+    },
+    {
+      "pair": "P034",
+      "claim": "C05",
+      "base": "C12",
+      "rests_on": false,
+      "reason": "Ethnography’s ability to reveal interpretation is a methodological premise for observing the cases, not an argumentative base for the value-response relationship itself (pp. 613, 633–637)."
+    },
+    {
+      "pair": "P035",
+      "claim": "C05",
+      "base": "C13",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F100, F106, F148–F150, F157; selective benchmarks linked to values",
+      "page": "pp. 627–628, 633–634",
+      "reason": "Differences in what groups took DNA to demand form part of the paper’s account of which occupational values were supported or threatened, while their actual responses supply further evidence."
+    },
+    {
+      "pair": "P036",
+      "claim": "C21",
+      "base": "C18",
+      "rests_on": true,
+      "type": "comparative",
+      "strength": "contributing",
+      "basis": "F147, F150, F153, F166, F168; compatible method yet value-driven resistance",
+      "page": "pp. 632–633, 637",
+      "reason": "Narcotics contributes a work-and-values explanation of resistance that the final account weighs more heavily than relative status or power, alongside the other occupations."
+    },
+    {
+      "pair": "P037",
+      "claim": "C21",
+      "base": "C10",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F27, F58, F154; distinct work and cultures across units",
+      "page": "pp. 614–615, 620, 637",
+      "reason": "The description of distinct cultures rooted in specialist work establishes part of the work-based difference that C21 ultimately compares with status and power."
+    },
+    {
+      "pair": "P038",
+      "claim": "C04",
+      "base": "C20",
+      "rests_on": false,
+      "reason": "The technique-compatibility assessment can be stated from each method’s properties even if the relation between technique and occupational values were otherwise (pp. 633, 637)."
+    },
+    {
+      "pair": "P039",
+      "claim": "C01",
+      "base": "C17",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "necessary",
+      "basis": "F88, F98, F102, F103, F152, F161; actual non-DNA reporting change",
+      "page": "pp. 625, 627–628, 633–635",
+      "reason": "Toxicology provides the paper’s documented instance of a neighboring nonadopting unit actually changing its local reporting practice because of the comparison."
+    },
+    {
+      "pair": "P040",
+      "claim": "C05",
+      "base": "C18",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F111, F126–F129, F150, F153, F166; craft-value conflict and resistance",
+      "page": "pp. 630–633, 637",
+      "reason": "Narcotics retained its favored method when standardization conflicted with craft, variety, and autonomy, complementing the firearms and toxicology responses."
+    },
+    {
+      "pair": "P041",
+      "claim": "C01",
+      "base": "C11",
+      "rests_on": false,
+      "reason": "C11 concerns a broad theoretical process, while the actual nonadopting unit’s reporting change and its evaluative source establish C01 without that process being true (pp. 611, 627–628)."
+    },
+    {
+      "pair": "P042",
+      "claim": "C20",
+      "base": "C13",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F145–F150, F154, F157, F166; method-sensitive interpretations",
+      "page": "pp. 633–634, 637",
+      "reason": "The occupations’ differing interpretations of relevant DNA properties support the account of work-derived values being intertwined with techniques, alongside direct observations of practice."
+    },
+    {
+      "pair": "P043",
+      "claim": "C03",
+      "base": "C05",
+      "rests_on": false,
+      "reason": "The three types of institutional pathway and their differential urgency are evidenced separately from whether values align or conflict with proposed reforms (pp. 633–636)."
+    },
+    {
+      "pair": "P044",
+      "claim": "C20",
+      "base": "C06",
+      "rests_on": false,
+      "reason": "Earlier research on structural consequences of direct adoption provides contrast to C20 but no evidence for the observed roots of values in forensic techniques (pp. 608–609, 637)."
+    },
+    {
+      "pair": "P045",
+      "claim": "C04",
+      "base": "C10",
+      "rests_on": false,
+      "reason": "Different occupational cultures help describe the units but technical fit is demonstrated by the methods themselves rather than by the claim that work generates different cultures (pp. 620, 633)."
+    },
+    {
+      "pair": "P046",
+      "claim": "C21",
+      "base": "C15",
+      "rests_on": false,
+      "reason": "DNA envy is resentment over DNA’s legitimacy and resources, not an explanation attributing the three non-DNA units’ contrasting decisions to their relative status or power (pp. 619, 637)."
+    },
+    {
+      "pair": "P047",
+      "claim": "C05",
+      "base": "C10",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "F27, F58, F70, F94–F97, F111, F154; differentiated occupational cultures",
+      "page": "pp. 614, 620, 626, 630, 633",
+      "reason": "Work-generated differences in occupational cultures provide the varying value commitments that C05 uses to explain divergent responses, though each unit’s practices independently show them."
+    },
+    {
+      "pair": "P048",
+      "claim": "C04",
+      "base": "C16",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F64, F85–F87, F145, F151; firearms method incompatibility",
+      "page": "pp. 621, 624–625, 633",
+      "reason": "Firearms’ inability to translate DNA population statistics into microscopic-mark comparison is one instance of how technical mismatch limits feasible local adaptation."
+    },
+    {
+      "pair": "P049",
+      "claim": "C03",
+      "base": "C04",
+      "rests_on": false,
+      "reason": "Technical compatibility does not create the proximity of legal pressure or professional debate, which C03 treats as a separate institutional dimension (pp. 633–636)."
+    },
+    {
+      "pair": "P050",
+      "claim": "C13",
+      "base": "C19",
+      "rests_on": false,
+      "reason": "C19 ventures a future boundary criterion for neighboring occupations, whereas the varied selection of DNA features is observed directly within this shared field (pp. 634, 636)."
+    },
+    {
+      "pair": "P051",
+      "claim": "C03",
+      "base": "C17",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F88, F90, F98, F104, F131, F152, F161; direct local challenge",
+      "page": "pp. 625, 627–628, 633–635",
+      "reason": "A prospective local court challenge and prompt toxicology reporting change are a principal case supporting the pathway-urgency relation, with other cases providing contrasts."
+    },
+    {
+      "pair": "P052",
+      "claim": "C03",
+      "base": "C01",
+      "rests_on": true,
+      "type": "significance",
+      "strength": "necessary",
+      "basis": "F39–F42, F155, F163; locating indirect technology effects",
+      "page": "pp. 607–608, 616–617, 633–636",
+      "reason": "C03’s evidence about differently routed pressure remains, but its theoretical significance as a channel for indirect technological work change depends on C01."
+    },
+    {
+      "pair": "P053",
+      "claim": "C05",
+      "base": "C20",
+      "rests_on": false,
+      "reason": "C05 shows that values affect response regardless of the additional claim about how those values originate in technical practice (pp. 632–633, 637)."
+    },
+    {
+      "pair": "P054",
+      "claim": "C04",
+      "base": "C18",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "necessary",
+      "basis": "F106, F108–F109, F126–F129, F147, F150, F153; compatible option without adoption",
+      "page": "pp. 628–629, 632–633, 637",
+      "reason": "Narcotics is the decisive case showing that the availability of a DNA-compatible instrumented method does not by itself produce local adaptation."
+    },
+    {
+      "pair": "P055",
+      "claim": "C03",
+      "base": "C22",
+      "rests_on": false,
+      "reason": "The hypothesized ethnographer reaction is not an instance from the studied forensic pathways and supplies no support for their local effects (pp. 634–638)."
+    },
+    {
+      "pair": "P056",
+      "claim": "C21",
+      "base": "C17",
+      "rests_on": true,
+      "type": "comparative",
+      "strength": "contributing",
+      "basis": "F93–F100, F146, F149, F152, F166, F168; aligned instrumented work",
+      "page": "pp. 626–628, 633, 637",
+      "reason": "The toxicology explanation in C17 is a work-based account of change that C21 favors over status and power, supported also by the two resistant cases."
+    },
+    {
+      "pair": "P057",
+      "claim": "C20",
+      "base": "C07",
+      "rests_on": false,
+      "reason": "C07 concerns how the same adopted technology yields different local social structures, not how expertise and values grow together in three nonadopting forensic units (pp. 608–609, 637)."
+    },
+    {
+      "pair": "P058",
+      "claim": "C01",
+      "base": "C16",
+      "rests_on": false,
+      "reason": "Firearms examiners’ explicitly unchanged local practices do not supply the paper’s affirmative example of nonadopters changing work in response to DNA comparison (pp. 624–625, 633–634)."
+    },
+    {
+      "pair": "P059",
+      "claim": "C01",
+      "base": "C05",
+      "rests_on": false,
+      "reason": "C01’s observed indirect change does not require the further explanation that particular occupational values encourage or obstruct adaptation (pp. 627–628, 634)."
+    },
+    {
+      "pair": "P060",
+      "claim": "C13",
+      "base": "C14",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F45–F52, F85, F100, F106, F157; distinct DNA attributes available",
+      "page": "pp. 617–619, 634",
+      "reason": "DNA’s statistical and reviewable representations establish several salient aspects that other units could emphasize differently, although the units’ own comparisons show the selection more directly."
+    },
+    {
+      "pair": "P061",
+      "claim": "C21",
+      "base": "C03",
+      "rests_on": false,
+      "reason": "The final ranking compares values and techniques with status and power, not with pathways of evaluation, so C03 is not an explanation ranked there (pp. 635–637)."
+    },
+    {
+      "pair": "P062",
+      "claim": "C05",
+      "base": "C04",
+      "rests_on": false,
+      "reason": "The paper separates feasibility of technical adaptation from value congruence and expressly uses narcotics to show their effects need not coincide (pp. 632–633, 637)."
+    },
+    {
+      "pair": "P063",
+      "claim": "C13",
+      "base": "C18",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F106, F121–F129, F147, F150, F157; instrument output foregrounded",
+      "page": "pp. 628, 631–634",
+      "reason": "Narcotics emphasized instrument output and retrospective verifiability, a distinct reading of DNA alongside firearms’ statistics and toxicology’s measurement error."
+    },
+    {
+      "pair": "P064",
+      "claim": "C20",
+      "base": "C16",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F64, F69–F77, F86–F87, F148, F166; trained visual judgment",
+      "page": "pp. 621–625, 633, 637",
+      "reason": "Firearms’ microscopical judgments and commitment to holistic expertise are a concrete instance of technical activity and occupational values being intertwined."
+    },
+    {
+      "pair": "P065",
+      "claim": "C03",
+      "base": "C16",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F84, F87, F130, F139, F151, F160; distant scrutiny and unchanged method",
+      "page": "pp. 624–625, 633–635",
+      "reason": "Remote admissibility criticism and continued MCCL firearms routines support C03’s pathway comparison, although toxicology and narcotics supply other cases."
+    },
+    {
+      "pair": "P066",
+      "claim": "C01",
+      "base": "C19",
+      "rests_on": false,
+      "reason": "C19 proposes limits on how far spillover can travel, but C01’s indirect influence is established within the already observed cluster of neighboring occupations (pp. 634, 636)."
+    },
+    {
+      "pair": "P067",
+      "claim": "C04",
+      "base": "C13",
+      "rests_on": false,
+      "reason": "Specific technique comparisons still establish relative compatibility without depending on a separate generalization that occupations select different aspects of the benchmark (pp. 624–625, 633–634)."
+    },
+    {
+      "pair": "P068",
+      "claim": "C21",
+      "base": "C19",
+      "rests_on": false,
+      "reason": "The proposed boundary based on overlapping audiences is not the status-versus-work explanation ranked for the three observed occupational outcomes (pp. 636–637)."
+    },
+    {
+      "pair": "P069",
+      "claim": "C04",
+      "base": "C22",
+      "rests_on": false,
+      "reason": "An anticipated debate over academic masking practices neither causes nor supports the technical feasibility findings for the forensic units (pp. 633, 638)."
+    },
+    {
+      "pair": "P070",
+      "claim": "C13",
+      "base": "C16",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F85–F87, F145, F148, F157; statistical features selected",
+      "page": "pp. 624–625, 633–634",
+      "reason": "Firearms examiners interpreted DNA principally through statistical objectivity, contributing one of the three specific interpretations underpinning C13."
+    },
+    {
+      "pair": "P071",
+      "claim": "C04",
+      "base": "C05",
+      "rests_on": false,
+      "reason": "Narcotics has a compatible instrumented alternative but resists it on value grounds, illustrating that technical fit in C04 is not derived from congruent values (pp. 632–633, 637)."
+    },
+    {
+      "pair": "P072",
+      "claim": "C20",
+      "base": "C03",
+      "rests_on": false,
+      "reason": "Variation in the transmission of evaluations does not establish the internal relation between values and techniques that the paper attributes to the tasks themselves (pp. 635–637)."
+    },
+    {
+      "pair": "P073",
+      "claim": "C13",
+      "base": "C04",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F85, F100, F106, F145–F147, F157; differing assessments of technical fit",
+      "page": "pp. 624, 627–628, 633–634",
+      "reason": "The distinctive technical comparisons used to judge what DNA-like adaptation would entail help document C13’s selective interpretations, together with explicit accounts of each group’s concerns."
+    },
+    {
+      "pair": "P074",
+      "claim": "C13",
+      "base": "C02",
+      "rests_on": true,
+      "type": "significance",
+      "strength": "necessary",
+      "basis": "F39, F52, F56, F156–F157; shared legitimate DNA comparator",
+      "page": "pp. 616–619, 634",
+      "reason": "The finding of selective readings of DNA can stand descriptively, but without DNA being a legitimacy benchmark that attracts cross-occupational comparison it loses its role in explaining evaluative spillovers."
+    },
+    {
+      "pair": "P075",
+      "claim": "C01",
+      "base": "C03",
+      "rests_on": false,
+      "reason": "The mere occurrence of changed work in a neighboring nonadopting occupation does not require C03’s further account of why some institutional routes are more urgent than others (pp. 627–628, 634–635)."
+    },
+    {
+      "pair": "P076",
+      "claim": "C21",
+      "base": "C16",
+      "rests_on": true,
+      "type": "comparative",
+      "strength": "contributing",
+      "basis": "F84–F87, F145, F148, F151, F166, F168; method and value-based resistance",
+      "page": "pp. 624–625, 633, 637",
+      "reason": "The firearms account offers a technique-and-values explanation of resistance for C21 to favor over status or power, while the other two cases also inform that comparison."
+    },
+    {
+      "pair": "P077",
+      "claim": "C13",
+      "base": "C20",
+      "rests_on": false,
+      "reason": "A group can stress different features of DNA without its own values necessarily being generated by its techniques, so C13 has separate comparative evidence (pp. 633–634, 637)."
+    },
+    {
+      "pair": "P078",
+      "claim": "C03",
+      "base": "C12",
+      "rests_on": false,
+      "reason": "The methodological advantage of ethnography does not provide the contrasts in immediacy and workplace responses that support C03 (pp. 613, 633–636)."
+    },
+    {
+      "pair": "P079",
+      "claim": "C04",
+      "base": "C21",
+      "rests_on": false,
+      "reason": "C21 is the later synthesis ranking work against power, and C04’s earlier technical-feasibility explanation is shown by the detailed methods and responses without that synthesis (pp. 633, 637)."
+    },
+    {
+      "pair": "P080",
+      "claim": "C05",
+      "base": "C16",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F70, F77, F85–F87, F148, F151; value conflict and resistance",
+      "page": "pp. 622–625, 633",
+      "reason": "Firearms’ resistance to externally favored numerical objectivity is an instance of the value-incompatibility response that C05 explains across the units."
+    }
+  ],
+  "further_edges": [
+    {
+      "claim": "C21",
+      "base": "C04",
+      "type": "comparative",
+      "strength": "contributing",
+      "basis": "F145–F147, F166, F168; technical fit rather than status",
+      "page": "pp. 633, 637",
+      "reason": "C21 explicitly gives greater explanatory weight to the nature of the work, including C04’s technique-compatibility explanation, than to relative status or power, while retaining the values explanation as another work-based term."
+    },
+    {
+      "claim": "C21",
+      "base": "C05",
+      "type": "comparative",
+      "strength": "contributing",
+      "basis": "F148–F150, F166, F168; value fit rather than status",
+      "page": "pp. 633, 637",
+      "reason": "The final comparison prioritizes the occupational-values explanation of adaptation and resistance in C05 over status or power, while technique also supports the work-based side of its ranking."
+    },
+    {
+      "claim": "C21",
+      "base": "C08",
+      "type": "comparative",
+      "strength": "contributing",
+      "basis": "High-authority resistance in direct-adoption literature contrasted with work-based responses",
+      "page": "pp. 608–609, 636–637",
+      "reason": "The paper explicitly weighs its work-and-values account against prior power-based accounts of resistance such as C08, although it also gives other status-related literature as contrast."
+    },
+    {
+      "claim": "C05",
+      "base": "C02",
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F39, F56, F87, F100, F129; legitimacy comparison reaching occupational values",
+      "page": "pp. 616–619, 624–632",
+      "reason": "The values-based response process requires some evaluative challenge from the legitimized DNA comparator to encounter and filter, which C02 supplies before differences in occupational values shape responses."
+    },
+    {
+      "claim": "C13",
+      "base": "C10",
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F27, F58, F154, F157; occupational cultures condition different readings",
+      "page": "pp. 614–615, 620, 633–634",
+      "reason": "The documentation of distinct cultures and work practices helps support the interpretation that different occupational communities selected different parts of DNA, alongside their explicit comparisons."
+    }
+  ],
+  "registry": [
+    {
+      "canonical": "occupational practices",
+      "names": [
+        "occupational practices",
+        "work practices"
+      ]
+    },
+    {
+      "canonical": "occupational legitimacy",
+      "names": [
+        "legitimacy",
+        "occupational legitimacy",
+        "symbolic legitimacy"
+      ]
+    },
+    {
+      "canonical": "meaning making",
+      "names": [
+        "meaning making",
+        "occupational interpretation"
+      ]
+    },
+    {
+      "canonical": "power",
+      "names": [
+        "power",
+        "professional power"
+      ]
+    }
+  ],
+  "factors": [
+    {
+      "id": "X1",
+      "name": "institutional pathway and local immediacy",
+      "claim": "C03"
+    },
+    {
+      "id": "X2",
+      "name": "technical compatibility with the DNA comparison",
+      "claim": "C04"
+    },
+    {
+      "id": "X3",
+      "name": "congruence with occupational values",
+      "claim": "C05"
+    }
+  ],
+  "units": [
+    {
+      "unit": "forensic biology (DNA)",
+      "outcome": "?",
+      "values": {
+        "X1": "?",
+        "X2": "?",
+        "X3": "?"
+      },
+      "ids": [
+        "C14",
+        "F07",
+        "F43",
+        "F45",
+        "F47",
+        "F48",
+        "F52"
+      ]
+    },
+    {
+      "unit": "firearms",
+      "outcome": "-",
+      "values": {
+        "X1": "-",
+        "X2": "-",
+        "X3": "-"
+      },
+      "ids": [
+        "C03",
+        "C04",
+        "C05",
+        "C16",
+        "F59",
+        "F84",
+        "F85",
+        "F86",
+        "F87",
+        "F130",
+        "F139",
+        "F145",
+        "F148",
+        "F151",
+        "F160"
+      ]
+    },
+    {
+      "unit": "toxicology",
+      "outcome": "+",
+      "values": {
+        "X1": "+",
+        "X2": "+",
+        "X3": "+"
+      },
+      "ids": [
+        "C03",
+        "C04",
+        "C05",
+        "C17",
+        "F88",
+        "F90",
+        "F93",
+        "F98",
+        "F100",
+        "F103",
+        "F104",
+        "F131",
+        "F143",
+        "F146",
+        "F149",
+        "F152",
+        "F161"
+      ]
+    },
+    {
+      "unit": "controlled substances (narcotics)",
+      "outcome": "-",
+      "values": {
+        "X1": "-",
+        "X2": "+",
+        "X3": "-"
+      },
+      "ids": [
+        "C03",
+        "C04",
+        "C05",
+        "C18",
+        "F105",
+        "F106",
+        "F108",
+        "F126",
+        "F128",
+        "F129",
+        "F132",
+        "F144",
+        "F147",
+        "F150",
+        "F153",
+        "F162"
+      ]
+    }
+  ],
+  "contrasts": [
+    {
+      "contrast": "CP01",
+      "controls": {
+        "X1": "varies",
+        "X2": "varies",
+        "X3": "varies"
+      },
+      "ids": [
+        "C03",
+        "C04",
+        "C05",
+        "C16",
+        "C17",
+        "F84",
+        "F87",
+        "F88",
+        "F98",
+        "F139",
+        "F140",
+        "F145",
+        "F146",
+        "F148",
+        "F149",
+        "F151",
+        "F152",
+        "F160",
+        "F161",
+        "F164"
+      ]
+    },
+    {
+      "contrast": "CP02",
+      "controls": {
+        "X1": "varies",
+        "X2": "held",
+        "X3": "varies"
+      },
+      "ids": [
+        "C03",
+        "C04",
+        "C05",
+        "C17",
+        "C18",
+        "F98",
+        "F105",
+        "F129",
+        "F143",
+        "F144",
+        "F146",
+        "F147",
+        "F149",
+        "F150",
+        "F152",
+        "F153",
+        "F161",
+        "F162",
+        "F166"
+      ]
+    }
+  ]
+}

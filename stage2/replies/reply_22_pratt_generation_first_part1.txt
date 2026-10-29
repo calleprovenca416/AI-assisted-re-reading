@@ -1,0 +1,22 @@
+{
+  "paper_id": "pratt_2000",
+  "cards": [
+    {
+      "card_id": "pratt_2000_construct_inversion_CP01_01",
+      "paper_id": "pratt_2000",
+      "move": "construct_inversion",
+      "trigger": "from_pair CP01",
+      "claim": "C28",
+      "incumbent_reading": "The paper holds that one leaver ended detached because her dissatisfaction lapsed, while the other ended in opposition because he kept the aspiration, lost the guidance of his upline, and took his reading of Amway from its critics.",
+      "wager": {
+        "statement": "The pair says the opposed leaver kept the wish for change and the detached one lost it. The stubs on the opposed side do not line up that way. One former distributor was drawn by a successful member's large home because he lacked such possessions (F94) and describes becoming a lawyer as a dream worth hard work (F95): the wish is printed for him, and nothing about his upline is. The former distributor in F97 blames his upline for not recognizing the sales ability he came with and for relying on more meetings instead of finding a way to motivate him: no wish he was pursuing is printed, only a man who by his own telling still needed motivating. A third, whom the author files under the same opposed outcome, says he bought in only to get out of an embarrassing situation at a high-pressure presentation (F98); no stub gives him a dream. No stub says that the man of F94 and F95 is the man of F97. The upline tie does not separate the two sides either. By the author's account the detached formed no strong bonds with distributors (F125), and those who came to disidentify are reported with sparse and distant upline relationships (F96). The paper puts that weak tie after the loss of desire on the one side (F125) and before the opposition on the other (F99, the author's account); this reading puts it after on both. What F97 and F98 print, and F91 does not, is a wrong: something done to the speaker by the people who brought him in or stood above him. F91 has no Amway person in it; what changed was her regular job. The wager is that a leaver ends opposed when he carries such a wrong out with him, whether or not the wish for change survived, and ends detached when he carries none.",
+        "seed_fragments": ["F91", "F94", "F95", "F96", "F97", "F98", "F125"],
+        "what_it_would_take_to_cohere": {
+          "observation": "One opposed leaver's account taken whole: whether a wish for change was still alive in him when he turned against Amway, and whether he holds a specific wrong against the people who recruited or sponsored him. The reading holds if opposed leavers carry the wrong with or without the wish, and no detached leaver carries one.",
+          "printed": false,
+          "printed_fragments": [],
+          "basis": "Absent. No former distributor has both things in print. F94 and F95 give the wish and nothing on the upline; F97 gives the wrong and a man who needed motivating; F98 gives the wrong and no dream. Nothing says whether the speaker of F94 and F95 is the speaker of F97; F98 is introduced as another person. F96 is a statement across cases, and F21 and F99 are the author's account. I read every former-distributor fragment (F90 to F100, F123, F125)."
+        },
+        "strains_against": [
+          "F99 -- the author's account is that former members recast upline warmth as self-serving; if so, the wrongs told in F97 and F98 could be products of the turn against Amway and not what occasioned it.",
+          "F95 -- the one opposed leaver with a printed wish does keep it,

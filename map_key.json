@@ -1,0 +1,1673 @@
+{
+ "builder": "build_map_test.py",
+ "builder_sha256": "70c9012fdfcdfb61d905bc8cc18bcd4d0609e8b6c034621c39864025fc7be953",
+ "inputs": {
+  "bechky_2020_v1.json": "6f83d744cd1dd68326cce29568a4aff461580d852d1222c4f1d096cb6922ced0",
+  "pratt_2000_v1.json": "a4810cc03d9a439220b2c8781acf494c62d5ac63f7f53f359157238739147c99"
+ },
+ "papers": {
+  "bechky": {
+   "applies": {
+    "contrasts": [
+     "CP01",
+     "CP02"
+    ],
+    "factors": true,
+    "table": true,
+    "units": [
+     {
+      "claim": "C14",
+      "unit": "forensic biology (DNA)"
+     },
+     {
+      "claim": "C16",
+      "unit": "firearms"
+     },
+     {
+      "claim": "C17",
+      "unit": "toxicology"
+     },
+     {
+      "claim": "C18",
+      "unit": "controlled substances (narcotics)"
+     }
+    ]
+   },
+   "candidates": 55,
+   "core": [
+    "C01",
+    "C03",
+    "C04",
+    "C05",
+    "C13",
+    "C20",
+    "C21"
+   ],
+   "index": "bechky_2020_v1.json",
+   "order": [
+    {
+     "base": "C02",
+     "claim": "C03",
+     "id": "P001",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C03",
+     "claim": "C04",
+     "id": "P002",
+     "rules": [
+      "stated tie"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C01",
+     "claim": "C05",
+     "id": "P003",
+     "rules": [
+      "stated tie"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C03",
+     "claim": "C05",
+     "id": "P004",
+     "rules": [
+      "shared passages",
+      "stated tie"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C18",
+     "claim": "C01",
+     "id": "P005",
+     "rules": [
+      "level"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C11",
+     "claim": "C04",
+     "id": "P006",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C23",
+     "claim": "C13",
+     "id": "P007",
+     "rules": [
+      "chaining"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C08",
+     "claim": "C03",
+     "id": "P008",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C23",
+     "claim": "C01",
+     "id": "P009",
+     "rules": [
+      "chaining"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C23",
+     "claim": "C04",
+     "id": "P010",
+     "rules": [
+      "chaining"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C11",
+     "claim": "C20",
+     "id": "P011",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C05",
+     "claim": "C13",
+     "id": "P012",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C17",
+     "claim": "C20",
+     "id": "P013",
+     "rules": [
+      "level",
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C02",
+     "claim": "C01",
+     "id": "P014",
+     "rules": [
+      "chaining",
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C05",
+     "claim": "C20",
+     "id": "P015",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C17",
+     "claim": "C04",
+     "id": "P016",
+     "rules": [
+      "level",
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C22",
+     "claim": "C01",
+     "id": "P017",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C18",
+     "claim": "C03",
+     "id": "P018",
+     "rules": [
+      "level",
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C17",
+     "claim": "C05",
+     "id": "P019",
+     "rules": [
+      "level",
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C01",
+     "claim": "C04",
+     "id": "P020",
+     "rules": [
+      "stated tie"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C11",
+     "claim": "C13",
+     "id": "P021",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C04",
+     "claim": "C20",
+     "id": "P022",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C14",
+     "claim": "C01",
+     "id": "P023",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C18",
+     "claim": "C20",
+     "id": "P024",
+     "rules": [
+      "level",
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C17",
+     "claim": "C13",
+     "id": "P025",
+     "rules": [
+      "level",
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C23",
+     "claim": "C05",
+     "id": "P026",
+     "rules": [
+      "chaining"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C02",
+     "claim": "C20",
+     "id": "P027",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C23",
+     "claim": "C03",
+     "id": "P028",
+     "rules": [
+      "chaining"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C06",
+     "claim": "C13",
+     "id": "P029",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C10",
+     "claim": "C20",
+     "id": "P030",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C12",
+     "claim": "C20",
+     "id": "P031",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C04",
+     "claim": "C01",
+     "id": "P032",
+     "rules": [
+      "stated tie"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C11",
+     "claim": "C05",
+     "id": "P033",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C12",
+     "claim": "C05",
+     "id": "P034",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C13",
+     "claim": "C05",
+     "id": "P035",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C18",
+     "claim": "C21",
+     "id": "P036",
+     "rules": [
+      "level"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C10",
+     "claim": "C21",
+     "id": "P037",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C20",
+     "claim": "C04",
+     "id": "P038",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C17",
+     "claim": "C01",
+     "id": "P039",
+     "rules": [
+      "level"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C18",
+     "claim": "C05",
+     "id": "P040",
+     "rules": [
+      "level",
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C11",
+     "claim": "C01",
+     "id": "P041",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C13",
+     "claim": "C20",
+     "id": "P042",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C05",
+     "claim": "C03",
+     "id": "P043",
+     "rules": [
+      "shared passages",
+      "stated tie"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C06",
+     "claim": "C20",
+     "id": "P044",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C10",
+     "claim": "C04",
+     "id": "P045",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C15",
+     "claim": "C21",
+     "id": "P046",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C10",
+     "claim": "C05",
+     "id": "P047",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C16",
+     "claim": "C04",
+     "id": "P048",
+     "rules": [
+      "level",
+      "shared passages",
+      "stated tie"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C04",
+     "claim": "C03",
+     "id": "P049",
+     "rules": [
+      "stated tie"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C19",
+     "claim": "C13",
+     "id": "P050",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C17",
+     "claim": "C03",
+     "id": "P051",
+     "rules": [
+      "level",
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C01",
+     "claim": "C03",
+     "id": "P052",
+     "rules": [
+      "shared passages",
+      "stated tie"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C20",
+     "claim": "C05",
+     "id": "P053",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C18",
+     "claim": "C04",
+     "id": "P054",
+     "rules": [
+      "level",
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C22",
+     "claim": "C03",
+     "id": "P055",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C17",
+     "claim": "C21",
+     "id": "P056",
+     "rules": [
+      "level"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C07",
+     "claim": "C20",
+     "id": "P057",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C16",
+     "claim": "C01",
+     "id": "P058",
+     "rules": [
+      "level",
+      "stated tie"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C05",
+     "claim": "C01",
+     "id": "P059",
+     "rules": [
+      "stated tie"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C14",
+     "claim": "C13",
+     "id": "P060",
+     "rules": [
+      "level"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C03",
+     "claim": "C21",
+     "id": "P061",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C04",
+     "claim": "C05",
+     "id": "P062",
+     "rules": [
+      "shared passages",
+      "stated tie"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C18",
+     "claim": "C13",
+     "id": "P063",
+     "rules": [
+      "level",
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C16",
+     "claim": "C20",
+     "id": "P064",
+     "rules": [
+      "level",
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C16",
+     "claim": "C03",
+     "id": "P065",
+     "rules": [
+      "level",
+      "shared passages",
+      "stated tie"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C19",
+     "claim": "C01",
+     "id": "P066",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C13",
+     "claim": "C04",
+     "id": "P067",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C19",
+     "claim": "C21",
+     "id": "P068",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C22",
+     "claim": "C04",
+     "id": "P069",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C16",
+     "claim": "C13",
+     "id": "P070",
+     "rules": [
+      "level",
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C05",
+     "claim": "C04",
+     "id": "P071",
+     "rules": [
+      "shared passages",
+      "stated tie"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C03",
+     "claim": "C20",
+     "id": "P072",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C04",
+     "claim": "C13",
+     "id": "P073",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C02",
+     "claim": "C13",
+     "id": "P074",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C03",
+     "claim": "C01",
+     "id": "P075",
+     "rules": [
+      "shared passages",
+      "stated tie"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C16",
+     "claim": "C21",
+     "id": "P076",
+     "rules": [
+      "level"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C20",
+     "claim": "C13",
+     "id": "P077",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C12",
+     "claim": "C03",
+     "id": "P078",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C21",
+     "claim": "C04",
+     "id": "P079",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C16",
+     "claim": "C05",
+     "id": "P080",
+     "rules": [
+      "level",
+      "shared passages",
+      "stated tie"
+     ],
+     "source": "candidate"
+    }
+   ],
+   "others": 99,
+   "pairs_with_core_claim": 154,
+   "sample": 25,
+   "sheet": "MAP_SHEET_bechky.md",
+   "sheet_sha256": "cddf2f23230af93e8acb57d05d5574b303093ba8094baae7f07575fea1e32cf9",
+   "unit_claims": {
+    "C14": "forensic biology (DNA)",
+    "C16": "firearms",
+    "C17": "toxicology",
+    "C18": "controlled substances (narcotics)"
+   }
+  },
+  "pratt": {
+   "applies": {
+    "contrasts": [
+     "CP01",
+     "CP02",
+     "CP03"
+    ],
+    "factors": true,
+    "table": false,
+    "units": []
+   },
+   "candidates": 62,
+   "core": [
+    "C01",
+    "C02",
+    "C11",
+    "C12",
+    "C13",
+    "C20",
+    "C27",
+    "C28",
+    "C29",
+    "C34"
+   ],
+   "index": "pratt_2000_v1.json",
+   "order": [
+    {
+     "base": "C29",
+     "claim": "C01",
+     "id": "P001",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C35",
+     "claim": "C01",
+     "id": "P002",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C12",
+     "claim": "C01",
+     "id": "P003",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C07",
+     "claim": "C28",
+     "id": "P004",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C56",
+     "claim": "C27",
+     "id": "P005",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C23",
+     "claim": "C01",
+     "id": "P006",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C38",
+     "claim": "C01",
+     "id": "P007",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C52",
+     "claim": "C01",
+     "id": "P008",
+     "rules": [
+      "chaining"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C13",
+     "claim": "C11",
+     "id": "P009",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C34",
+     "claim": "C01",
+     "id": "P010",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C43",
+     "claim": "C01",
+     "id": "P011",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C31",
+     "claim": "C01",
+     "id": "P012",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C14",
+     "claim": "C01",
+     "id": "P013",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C42",
+     "claim": "C27",
+     "id": "P014",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C56",
+     "claim": "C11",
+     "id": "P015",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C54",
+     "claim": "C01",
+     "id": "P016",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C07",
+     "claim": "C01",
+     "id": "P017",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C17",
+     "claim": "C01",
+     "id": "P018",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C05",
+     "claim": "C20",
+     "id": "P019",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C54",
+     "claim": "C20",
+     "id": "P020",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C28",
+     "claim": "C01",
+     "id": "P021",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C47",
+     "claim": "C02",
+     "id": "P022",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C21",
+     "claim": "C01",
+     "id": "P023",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C01",
+     "claim": "C12",
+     "id": "P024",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C40",
+     "claim": "C01",
+     "id": "P025",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C01",
+     "claim": "C27",
+     "id": "P026",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C37",
+     "claim": "C01",
+     "id": "P027",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C17",
+     "claim": "C11",
+     "id": "P028",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C36",
+     "claim": "C11",
+     "id": "P029",
+     "rules": [
+      "chaining"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C26",
+     "claim": "C34",
+     "id": "P030",
+     "rules": [
+      "chaining"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C27",
+     "claim": "C12",
+     "id": "P031",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C36",
+     "claim": "C02",
+     "id": "P032",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C55",
+     "claim": "C28",
+     "id": "P033",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C06",
+     "claim": "C01",
+     "id": "P034",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C13",
+     "claim": "C01",
+     "id": "P035",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C60",
+     "claim": "C20",
+     "id": "P036",
+     "rules": [
+      "chaining"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C04",
+     "claim": "C12",
+     "id": "P037",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C25",
+     "claim": "C01",
+     "id": "P038",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C18",
+     "claim": "C01",
+     "id": "P039",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C54",
+     "claim": "C13",
+     "id": "P040",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C01",
+     "claim": "C20",
+     "id": "P041",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C01",
+     "claim": "C13",
+     "id": "P042",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C15",
+     "claim": "C28",
+     "id": "P043",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C06",
+     "claim": "C20",
+     "id": "P044",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C42",
+     "claim": "C01",
+     "id": "P045",
+     "rules": [
+      "chaining",
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C20",
+     "claim": "C01",
+     "id": "P046",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C42",
+     "claim": "C28",
+     "id": "P047",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C23",
+     "claim": "C20",
+     "id": "P048",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C39",
+     "claim": "C12",
+     "id": "P049",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C36",
+     "claim": "C01",
+     "id": "P050",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C01",
+     "claim": "C29",
+     "id": "P051",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C37",
+     "claim": "C20",
+     "id": "P052",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C01",
+     "claim": "C28",
+     "id": "P053",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C28",
+     "claim": "C20",
+     "id": "P054",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C56",
+     "claim": "C01",
+     "id": "P055",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C01",
+     "claim": "C02",
+     "id": "P056",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C28",
+     "claim": "C11",
+     "id": "P057",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C22",
+     "claim": "C20",
+     "id": "P058",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C30",
+     "claim": "C34",
+     "id": "P059",
+     "rules": [
+      "chaining"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C60",
+     "claim": "C28",
+     "id": "P060",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C08",
+     "claim": "C28",
+     "id": "P061",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C01",
+     "claim": "C34",
+     "id": "P062",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C52",
+     "claim": "C34",
+     "id": "P063",
+     "rules": [
+      "chaining"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C42",
+     "claim": "C34",
+     "id": "P064",
+     "rules": [
+      "chaining"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C15",
+     "claim": "C13",
+     "id": "P065",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C02",
+     "claim": "C01",
+     "id": "P066",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C01",
+     "claim": "C11",
+     "id": "P067",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C33",
+     "claim": "C34",
+     "id": "P068",
+     "rules": [
+      "chaining"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C33",
+     "claim": "C01",
+     "id": "P069",
+     "rules": [
+      "chaining"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C37",
+     "claim": "C28",
+     "id": "P070",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C03",
+     "claim": "C01",
+     "id": "P071",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C50",
+     "claim": "C11",
+     "id": "P072",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C55",
+     "claim": "C01",
+     "id": "P073",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C32",
+     "claim": "C02",
+     "id": "P074",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C30",
+     "claim": "C01",
+     "id": "P075",
+     "rules": [
+      "chaining"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C22",
+     "claim": "C01",
+     "id": "P076",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C33",
+     "claim": "C29",
+     "id": "P077",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C55",
+     "claim": "C12",
+     "id": "P078",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C21",
+     "claim": "C20",
+     "id": "P079",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C28",
+     "claim": "C27",
+     "id": "P080",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C58",
+     "claim": "C20",
+     "id": "P081",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C44",
+     "claim": "C20",
+     "id": "P082",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C20",
+     "claim": "C28",
+     "id": "P083",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C15",
+     "claim": "C01",
+     "id": "P084",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C26",
+     "claim": "C01",
+     "id": "P085",
+     "rules": [
+      "chaining"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C14",
+     "claim": "C13",
+     "id": "P086",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C24",
+     "claim": "C01",
+     "id": "P087",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C27",
+     "claim": "C01",
+     "id": "P088",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C48",
+     "claim": "C12",
+     "id": "P089",
+     "rules": [],
+     "source": "sample"
+    },
+    {
+     "base": "C37",
+     "claim": "C29",
+     "id": "P090",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C11",
+     "claim": "C01",
+     "id": "P091",
+     "rules": [
+      "shared passages"
+     ],
+     "source": "candidate"
+    },
+    {
+     "base": "C40",
+     "claim": "C02",
+     "id": "P092",
+     "rules": [],
+     "source": "sample"
+    }
+   ],
+   "others": 528,
+   "pairs_with_core_claim": 590,
+   "sample": 30,
+   "sheet": "MAP_SHEET_pratt.md",
+   "sheet_sha256": "ff6dcbb63bfa6080108d51a3d09b50991f7890a0b786bbf9a77da060480c9c89",
+   "unit_claims": {}
+  }
+ },
+ "procedure": [
+  "pairs: every ordered pair (base, claim) of two different claims with the claim core (core is true); sorted by the number in the base's id, then in the claim's",
+  "unit claim: at least unit_min_links linked passages, and at least unit_share of them from one unit",
+  "level: the base is a unit claim, the claim is not, and their constructs share a string",
+  "shared passages: at least shared_min passages linked to both, counting only passages linked to at most shared_cap claims",
+  "chaining: the base's outcome is not empty and not 'none', and its content words and the content words of the claim's constructs joined by spaces share at least chain_min; content words: the runs of a-z in the lower-cased text, 3 letters or more, not in stop",
+  "stated tie: a passage linked to both whose stub, a space and its gloss (if any), lower-cased, contain a phrase",
+  "draw: one random.Random(seed); for bechky then pratt, rng.sample(others, sample[paper]), others being the sorted pairs that are not candidates; then, for bechky then pratt, rng.shuffle of the paper's candidates and sample together, sorted as the pairs are; numbered P001 onward in the shuffled order",
+  "table applies when the unit claims with an outcome come from at least two units; its units are those units, in the order of their claims, each with its first such claim; contrasts apply when the index has contrast pairs; factors when either applies"
+ ],
+ "rules": {
+  "chain_min": 2,
+  "phrases": [
+   "combined with",
+   "led to",
+   "leads to",
+   "builds on",
+   "rests on",
+   "depends on",
+   "drawing on"
+  ],
+  "shared_cap": 6,
+  "shared_min": 3,
+  "stop": [
+   "a",
+   "about",
+   "across",
+   "after",
+   "against",
+   "all",
+   "also",
+   "among",
+   "an",
+   "and",
+   "any",
+   "are",
+   "as",
+   "at",
+   "be",
+   "been",
+   "before",
+   "being",
+   "between",
+   "both",
+   "but",
+   "by",
+   "can",
+   "could",
+   "did",
+   "do",
+   "does",
+   "during",
+   "each",
+   "for",
+   "from",
+   "had",
+   "has",
+   "have",
+   "how",
+   "in",
+   "into",
+   "is",
+   "its",
+   "less",
+   "may",
+   "might",
+   "more",
+   "no",
+   "nor",
+   "not",
+   "of",
+   "on",
+   "or",
+   "other",
+   "over",
+   "own",
+   "same",
+   "shall",
+   "should",
+   "some",
+   "such",
+   "than",
+   "that",
+   "the",
+   "their",
+   "these",
+   "this",
+   "those",
+   "through",
+   "to",
+   "under",
+   "very",
+   "was",
+   "were",
+   "what",
+   "which",
+   "who",
+   "whom",
+   "will",
+   "with",
+   "within",
+   "would"
+  ],
+  "unit_min_links": 5,
+  "unit_share": 0.8
+ },
+ "sample": {
+  "bechky": 25,
+  "pratt": 30
+ },
+ "seed": 20261025,
+ "what": "The key of the map test's round 1 (T39, MAP_TEST_PLAN.md, part A): every pair with its source and rules, the order, and what applies. Not for any chat."
+}

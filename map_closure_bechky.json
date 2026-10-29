@@ -1,0 +1,2671 @@
+{
+ "builder_sha256": "3dd00b533f75fb69330aee9f28176f6d88b0bc3c183fc16ae55985b2304c5bb4",
+ "core": [
+  "C01",
+  "C03",
+  "C04",
+  "C05",
+  "C13",
+  "C20",
+  "C21"
+ ],
+ "inputs": {
+  "results": "5dff925eb5d23484ae44642628f29fd12e28366ef4db1e5fc907c4ad97a1fc47",
+  "settled": "01b7fc1b3045c294af9593573cf9b5ba0f059da901bfd62b1b25998db605380b"
+ },
+ "paper": "bechky",
+ "readings": [
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C18",
+      "C05",
+      "C17"
+     ],
+     "labels": {
+      "C01": "unsupported",
+      "C03": "unsupported",
+      "C04": "unsupported",
+      "C05": "contested",
+      "C13": "weakened",
+      "C17": "contested",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C18",
+     "main_type": "other_mechanism"
+    },
+    "gemini": {
+     "hits": [
+      "C18",
+      "C05",
+      "C04"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "contested",
+      "C05": "contested",
+      "C13": "weakened",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C18",
+     "main_type": "other_mechanism"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C01",
+     "coders": [
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C03",
+     "coders": [
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R01"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C04",
+      "C18"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "contested",
+      "C05": "weakened",
+      "C13": "weakened",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C04",
+     "main_type": "challenges_premise"
+    },
+    "gemini": {
+     "hits": [
+      "C04",
+      "C18"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "contested",
+      "C05": "weakened",
+      "C13": "weakened",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C04",
+     "main_type": "challenges_premise"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R02"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C05",
+      "C17",
+      "C18"
+     ],
+     "labels": {
+      "C01": "unsupported",
+      "C03": "unsupported",
+      "C04": "unsupported",
+      "C05": "contested",
+      "C13": "weakened",
+      "C17": "contested",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C05",
+     "main_type": "other_mechanism"
+    },
+    "gemini": {
+     "hits": [
+      "C05",
+      "C18",
+      "C17"
+     ],
+     "labels": {
+      "C01": "unsupported",
+      "C03": "unsupported",
+      "C04": "unsupported",
+      "C05": "contested",
+      "C13": "weakened",
+      "C17": "contested",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C05",
+     "main_type": "other_mechanism"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C01",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R03"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [],
+     "labels": {},
+     "main_claim": "C10",
+     "main_type": "complements"
+    },
+    "gemini": {
+     "hits": [
+      "C10",
+      "C20",
+      "C18"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "unsupported",
+      "C05": "weakened",
+      "C10": "contested",
+      "C13": "weakened",
+      "C18": "contested",
+      "C20": "contested",
+      "C21": "weakened"
+     },
+     "main_claim": "C10",
+     "main_type": "other_mechanism"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R04"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C05",
+      "C17",
+      "C18"
+     ],
+     "labels": {
+      "C01": "unsupported",
+      "C03": "unsupported",
+      "C04": "unsupported",
+      "C05": "contested",
+      "C13": "weakened",
+      "C17": "contested",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C05",
+     "main_type": "other_mechanism"
+    },
+    "gemini": {
+     "hits": [
+      "C18",
+      "C05",
+      "C17"
+     ],
+     "labels": {
+      "C01": "unsupported",
+      "C03": "unsupported",
+      "C04": "unsupported",
+      "C05": "contested",
+      "C13": "weakened",
+      "C17": "contested",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C18",
+     "main_type": "other_mechanism"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C01",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R05"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C16"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "weakened",
+      "C05": "weakened",
+      "C13": "weakened",
+      "C16": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C16",
+     "main_type": "rereads_evidence"
+    },
+    "gemini": {
+     "hits": [
+      "C16"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "weakened",
+      "C05": "weakened",
+      "C13": "weakened",
+      "C16": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C16",
+     "main_type": "rereads_evidence"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R06"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C03",
+      "C16"
+     ],
+     "labels": {
+      "C03": "contested",
+      "C04": "weakened",
+      "C05": "weakened",
+      "C13": "weakened",
+      "C16": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C03",
+     "main_type": "other_mechanism"
+    },
+    "gemini": {
+     "hits": [
+      "C03",
+      "C17"
+     ],
+     "labels": {
+      "C01": "unsupported",
+      "C03": "contested",
+      "C04": "weakened",
+      "C05": "weakened",
+      "C13": "weakened",
+      "C17": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C03",
+     "main_type": "other_mechanism"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C01",
+     "coders": [
+      "gemini"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R07"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C04"
+     ],
+     "labels": {
+      "C04": "contested",
+      "C20": "idle",
+      "C21": "restated"
+     },
+     "main_claim": "C04",
+     "main_type": "challenges_premise"
+    },
+    "gemini": {
+     "hits": [
+      "C04",
+      "C05"
+     ],
+     "labels": {
+      "C04": "contested",
+      "C05": "contested",
+      "C20": "idle",
+      "C21": "restated"
+     },
+     "main_claim": "C04",
+     "main_type": "challenges_premise"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "idle"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "restated"
+    }
+   ],
+   "reading": "R08"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C16"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "weakened",
+      "C05": "weakened",
+      "C13": "weakened",
+      "C16": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C16",
+     "main_type": "rereads_evidence"
+    },
+    "gemini": {
+     "hits": [
+      "C05",
+      "C16",
+      "C17"
+     ],
+     "labels": {
+      "C01": "unsupported",
+      "C03": "unsupported",
+      "C04": "weakened",
+      "C05": "contested",
+      "C13": "weakened",
+      "C16": "contested",
+      "C17": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C05",
+     "main_type": "challenges_premise"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C01",
+     "coders": [
+      "gemini"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C03",
+     "coders": [
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R09"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C10",
+      "C20"
+     ],
+     "labels": {
+      "C10": "contested",
+      "C20": "contested"
+     },
+     "main_claim": "C10",
+     "main_type": "inverts"
+    },
+    "gemini": {
+     "hits": [
+      "C20",
+      "C10",
+      "C18"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "unsupported",
+      "C05": "weakened",
+      "C10": "contested",
+      "C13": "weakened",
+      "C18": "contested",
+      "C20": "contested",
+      "C21": "weakened"
+     },
+     "main_claim": "C20",
+     "main_type": "inverts"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R10"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [],
+     "labels": {},
+     "main_claim": "C10",
+     "main_type": "complements"
+    },
+    "gemini": {
+     "hits": [
+      "C10",
+      "C20",
+      "C19"
+     ],
+     "labels": {
+      "C10": "contested",
+      "C19": "contested",
+      "C20": "contested"
+     },
+     "main_claim": "C10",
+     "main_type": "other_mechanism"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini"
+     ],
+     "label": "contested"
+    }
+   ],
+   "reading": "R11"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C02",
+      "C17",
+      "C18"
+     ],
+     "labels": {
+      "C01": "unsupported",
+      "C02": "contested",
+      "C03": "unsupported",
+      "C04": "unsupported",
+      "C05": "unsupported",
+      "C13": "unsupported",
+      "C17": "contested",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C02",
+     "main_type": "rereads_evidence"
+    },
+    "gemini": {
+     "hits": [
+      "C02",
+      "C13",
+      "C17"
+     ],
+     "labels": {
+      "C01": "unsupported",
+      "C02": "contested",
+      "C03": "unsupported",
+      "C04": "unsupported",
+      "C05": "unsupported",
+      "C13": "contested",
+      "C17": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C02",
+     "main_type": "rereads_evidence"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C01",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R12"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C05",
+      "C17",
+      "C18"
+     ],
+     "labels": {
+      "C01": "unsupported",
+      "C03": "unsupported",
+      "C04": "unsupported",
+      "C05": "contested",
+      "C13": "weakened",
+      "C17": "contested",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C05",
+     "main_type": "inverts"
+    },
+    "gemini": {
+     "hits": [
+      "C05",
+      "C17",
+      "C18"
+     ],
+     "labels": {
+      "C01": "unsupported",
+      "C03": "unsupported",
+      "C04": "unsupported",
+      "C05": "contested",
+      "C13": "weakened",
+      "C17": "contested",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C05",
+     "main_type": "inverts"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C01",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R13"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [],
+     "labels": {},
+     "main_claim": "C10",
+     "main_type": "complements"
+    },
+    "gemini": {
+     "hits": [
+      "C10",
+      "C20",
+      "C05"
+     ],
+     "labels": {
+      "C05": "contested",
+      "C10": "contested",
+      "C20": "contested",
+      "C21": "restated"
+     },
+     "main_claim": "C10",
+     "main_type": "other_mechanism"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini"
+     ],
+     "label": "restated"
+    }
+   ],
+   "reading": "R14"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [],
+     "labels": {},
+     "main_claim": "C17",
+     "main_type": "complements"
+    },
+    "gemini": {
+     "hits": [
+      "C17",
+      "C01"
+     ],
+     "labels": {
+      "C01": "contested",
+      "C03": "unsupported",
+      "C04": "weakened",
+      "C05": "weakened",
+      "C13": "weakened",
+      "C17": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C17",
+     "main_type": "other_mechanism"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C01",
+     "coders": [
+      "gemini"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R15"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [],
+     "labels": {},
+     "main_claim": "C14",
+     "main_type": "complements"
+    },
+    "gemini": {
+     "hits": [
+      "C05",
+      "C18"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "unsupported",
+      "C05": "contested",
+      "C13": "weakened",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C05",
+     "main_type": "other_mechanism"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R16"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C05",
+      "C16"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "weakened",
+      "C05": "contested",
+      "C13": "weakened",
+      "C16": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C05",
+     "main_type": "other_mechanism"
+    },
+    "gemini": {
+     "hits": [
+      "C05",
+      "C16"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "weakened",
+      "C05": "contested",
+      "C13": "weakened",
+      "C16": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C05",
+     "main_type": "other_mechanism"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R17"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C05",
+      "C16"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "weakened",
+      "C05": "contested",
+      "C13": "weakened",
+      "C16": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C05",
+     "main_type": "other_mechanism"
+    },
+    "gemini": {
+     "hits": [
+      "C05",
+      "C16",
+      "C18"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "unsupported",
+      "C05": "contested",
+      "C13": "weakened",
+      "C16": "contested",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C05",
+     "main_type": "other_mechanism"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R18"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C19",
+      "C01",
+      "C17"
+     ],
+     "labels": {
+      "C01": "contested",
+      "C03": "unsupported",
+      "C04": "weakened",
+      "C05": "weakened",
+      "C13": "weakened",
+      "C17": "contested",
+      "C19": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C19",
+     "main_type": "rereads_evidence"
+    },
+    "gemini": {
+     "hits": [
+      "C19",
+      "C01",
+      "C17"
+     ],
+     "labels": {
+      "C01": "contested",
+      "C03": "unsupported",
+      "C04": "weakened",
+      "C05": "weakened",
+      "C13": "weakened",
+      "C17": "contested",
+      "C19": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C19",
+     "main_type": "challenges_premise"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C01",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R19"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C18",
+      "C04",
+      "C05"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "contested",
+      "C05": "contested",
+      "C13": "weakened",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C18",
+     "main_type": "other_mechanism"
+    },
+    "gemini": {
+     "hits": [
+      "C18",
+      "C04",
+      "C05"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "contested",
+      "C05": "contested",
+      "C13": "weakened",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C18",
+     "main_type": "other_mechanism"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R20"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C16"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "weakened",
+      "C05": "weakened",
+      "C13": "weakened",
+      "C16": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C14",
+     "main_type": "complements"
+    },
+    "gemini": {
+     "hits": [
+      "C05",
+      "C16"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "weakened",
+      "C05": "contested",
+      "C13": "weakened",
+      "C16": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C05",
+     "main_type": "other_mechanism"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R21"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C17",
+      "C01",
+      "C02"
+     ],
+     "labels": {
+      "C01": "contested",
+      "C02": "contested",
+      "C03": "unsupported",
+      "C04": "unsupported",
+      "C05": "unsupported",
+      "C13": "unsupported",
+      "C17": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C17",
+     "main_type": "other_mechanism"
+    },
+    "gemini": {
+     "hits": [
+      "C17",
+      "C01",
+      "C02"
+     ],
+     "labels": {
+      "C01": "contested",
+      "C02": "contested",
+      "C03": "unsupported",
+      "C04": "unsupported",
+      "C05": "unsupported",
+      "C13": "unsupported",
+      "C17": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C17",
+     "main_type": "other_mechanism"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C01",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R22"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C17",
+      "C01",
+      "C02"
+     ],
+     "labels": {
+      "C01": "contested",
+      "C02": "contested",
+      "C03": "unsupported",
+      "C04": "unsupported",
+      "C05": "unsupported",
+      "C13": "unsupported",
+      "C17": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C17",
+     "main_type": "other_mechanism"
+    },
+    "gemini": {
+     "hits": [
+      "C17",
+      "C02",
+      "C01"
+     ],
+     "labels": {
+      "C01": "contested",
+      "C02": "contested",
+      "C03": "unsupported",
+      "C04": "unsupported",
+      "C05": "unsupported",
+      "C13": "unsupported",
+      "C17": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C17",
+     "main_type": "other_mechanism"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C01",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R23"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C21",
+      "C18"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "unsupported",
+      "C05": "weakened",
+      "C13": "weakened",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "contested"
+     },
+     "main_claim": "C21",
+     "main_type": "other_mechanism"
+    },
+    "gemini": {
+     "hits": [
+      "C18",
+      "C21"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "unsupported",
+      "C05": "weakened",
+      "C13": "weakened",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "contested"
+     },
+     "main_claim": "C18",
+     "main_type": "other_mechanism"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    }
+   ],
+   "reading": "R24"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C18",
+      "C03",
+      "C04"
+     ],
+     "labels": {
+      "C03": "contested",
+      "C04": "contested",
+      "C05": "weakened",
+      "C13": "weakened",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C18",
+     "main_type": "other_mechanism"
+    },
+    "gemini": {
+     "hits": [
+      "C18",
+      "C03",
+      "C05"
+     ],
+     "labels": {
+      "C03": "contested",
+      "C04": "unsupported",
+      "C05": "contested",
+      "C13": "weakened",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C18",
+     "main_type": "other_mechanism"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R25"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C18",
+      "C03",
+      "C05"
+     ],
+     "labels": {
+      "C03": "contested",
+      "C04": "unsupported",
+      "C05": "contested",
+      "C13": "weakened",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C18",
+     "main_type": "rereads_evidence"
+    },
+    "gemini": {
+     "hits": [
+      "C18",
+      "C03",
+      "C05"
+     ],
+     "labels": {
+      "C03": "contested",
+      "C04": "unsupported",
+      "C05": "contested",
+      "C13": "weakened",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C18",
+     "main_type": "rereads_evidence"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R26"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C03"
+     ],
+     "labels": {
+      "C03": "contested"
+     },
+     "main_claim": "C03",
+     "main_type": "other_mechanism"
+    },
+    "gemini": {
+     "hits": [
+      "C17",
+      "C03"
+     ],
+     "labels": {
+      "C01": "unsupported",
+      "C03": "contested",
+      "C04": "weakened",
+      "C05": "weakened",
+      "C13": "weakened",
+      "C17": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C17",
+     "main_type": "other_mechanism"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C01",
+     "coders": [
+      "gemini"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R27"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C16",
+      "C18"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "unsupported",
+      "C05": "weakened",
+      "C13": "weakened",
+      "C16": "contested",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C16",
+     "main_type": "rereads_evidence"
+    },
+    "gemini": {
+     "hits": [
+      "C16",
+      "C05",
+      "C18"
+     ],
+     "labels": {
+      "C03": "weakened",
+      "C04": "unsupported",
+      "C05": "contested",
+      "C13": "weakened",
+      "C16": "contested",
+      "C18": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C16",
+     "main_type": "rereads_evidence"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R28"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [
+      "C21",
+      "C05"
+     ],
+     "labels": {
+      "C05": "contested",
+      "C20": "idle",
+      "C21": "contested"
+     },
+     "main_claim": "C21",
+     "main_type": "other_mechanism"
+    },
+    "gemini": {
+     "hits": [
+      "C21",
+      "C05"
+     ],
+     "labels": {
+      "C05": "contested",
+      "C20": "idle",
+      "C21": "contested"
+     },
+     "main_claim": "C21",
+     "main_type": "inverts"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "idle"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini",
+      "astra"
+     ],
+     "label": "contested"
+    }
+   ],
+   "reading": "R29"
+  },
+  {
+   "coders": {
+    "astra": {
+     "hits": [],
+     "labels": {},
+     "main_claim": "C17",
+     "main_type": "complements"
+    },
+    "gemini": {
+     "hits": [
+      "C17",
+      "C01"
+     ],
+     "labels": {
+      "C01": "contested",
+      "C03": "unsupported",
+      "C04": "weakened",
+      "C05": "weakened",
+      "C13": "weakened",
+      "C17": "contested",
+      "C20": "weakened",
+      "C21": "weakened"
+     },
+     "main_claim": "C17",
+     "main_type": "other_mechanism"
+    }
+   },
+   "core_effects": [
+    {
+     "claim": "C01",
+     "coders": [
+      "gemini"
+     ],
+     "label": "contested"
+    },
+    {
+     "claim": "C03",
+     "coders": [
+      "gemini"
+     ],
+     "label": "unsupported"
+    },
+    {
+     "claim": "C04",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C05",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C13",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C20",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    },
+    {
+     "claim": "C21",
+     "coders": [
+      "gemini"
+     ],
+     "label": "weakened"
+    }
+   ],
+   "reading": "R30"
+  }
+ ],
+ "what": "the closure of T37's codes through the settled map of bechky (T39, part D, as the plan's foot reads it from 18 Oct)"
+}

@@ -1,0 +1,491 @@
+{
+  "paper": "Beth A. Bechky, 2020",
+  "codes": [
+    {
+      "reading": "R01",
+      "main_claim": "C18",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {
+          "claim": "C05",
+          "type": "other_mechanism"
+        },
+        {
+          "claim": "C17",
+          "type": "other_mechanism"
+        }
+      ],
+      "reason": "The reading retains narcotics analysts' continued use of crystal tests but attributes it primarily to equipment capacity and legal turnaround requirements, with occupational preferences reinforcing rather than producing the outcome.",
+      "page": "p. 632"
+    },
+    {
+      "reading": "R02",
+      "main_claim": "C04",
+      "main_type": "challenges_premise",
+      "other_claims": [
+        {
+          "claim": "C13",
+          "type": "complements"
+        },
+        {
+          "claim": "C18",
+          "type": "other_mechanism"
+        }
+      ],
+      "reason": "The reading questions treating compatibility as a property of analytic methods by making it depend on the particular benchmark feature selected and the laboratory's capacity to meet it within resource and legal constraints.",
+      "page": "p. 633"
+    },
+    {
+      "reading": "R03",
+      "main_claim": "C05",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {
+          "claim": "C17",
+          "type": "other_mechanism"
+        },
+        {
+          "claim": "C18",
+          "type": "other_mechanism"
+        }
+      ],
+      "reason": "The reading preserves the three response outcomes but substitutes the costs of changing equipment, processing time, and data infrastructure for occupational values as their explanation.",
+      "page": "p. 632"
+    },
+    {
+      "reading": "R04",
+      "main_claim": "C10",
+      "main_type": "complements",
+      "other_claims": [
+        {
+          "claim": "C20",
+          "type": "complements"
+        }
+      ],
+      "reason": "The reading adds preference-driven movement between units as a source of occupational culture alongside the paper's account of values learned through doing the work.",
+      "page": "p. 630"
+    },
+    {
+      "reading": "R05",
+      "main_claim": "C05",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {
+          "claim": "C17",
+          "type": "other_mechanism"
+        },
+        {
+          "claim": "C18",
+          "type": "other_mechanism"
+        }
+      ],
+      "reason": "The reading explains toxicology's adaptation and narcotics' retention of existing methods through unequal disruption and capacity costs, replacing the paper's causal emphasis on alignment with occupational values.",
+      "page": "p. 632"
+    },
+    {
+      "reading": "R06",
+      "main_claim": "C16",
+      "main_type": "rereads_evidence",
+      "other_claims": [
+        {
+          "claim": "C13",
+          "type": "complements"
+        },
+        {
+          "claim": "C14",
+          "type": "restates"
+        }
+      ],
+      "reason": "The reading interprets firearms examiners' documented shift to images and signed reviews as prior accommodation of a DNA-like demand, making those passages qualify their characterization as resisting practice change.",
+      "page": "p. 622"
+    },
+    {
+      "reading": "R07",
+      "main_claim": "C03",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {
+          "claim": "C17",
+          "type": "complements"
+        },
+        {
+          "claim": "C16",
+          "type": "other_mechanism"
+        }
+      ],
+      "reason": "The reading attributes the difference between toxicology and firearms to the presence of a standing accreditation requirement and prepared reform, assigning local immediacy an effect on timing rather than on whether change occurs.",
+      "page": "p. 635"
+    },
+    {
+      "reading": "R08",
+      "main_claim": "C04",
+      "main_type": "challenges_premise",
+      "other_claims": [
+        {
+          "claim": "C13",
+          "type": "complements"
+        },
+        {
+          "claim": "C14",
+          "type": "restates"
+        }
+      ],
+      "reason": "The reading questions the basis of the compatibility comparison by placing DNA among the judgment-dependent occupations and distinguishing its outward evidence products from the work that produces them.",
+      "page": "p. 619"
+    },
+    {
+      "reading": "R09",
+      "main_claim": "C16",
+      "main_type": "rereads_evidence",
+      "other_claims": [
+        {
+          "claim": "C04",
+          "type": "complements"
+        },
+        {
+          "claim": "C05",
+          "type": "complements"
+        }
+      ],
+      "reason": "The reading treats the firearms documentation passages as evidence of an accomplished reporting change, so the apparent resistance depends on combining changes to evidentiary presentation with changes to identification itself.",
+      "page": "p. 622"
+    },
+    {
+      "reading": "R10",
+      "main_claim": "C10",
+      "main_type": "inverts",
+      "other_claims": [
+        {
+          "claim": "C20",
+          "type": "inverts"
+        },
+        {
+          "claim": "C05",
+          "type": "complements"
+        }
+      ],
+      "reason": "The reading reverses the direction from occupational work producing shared preferences to existing preferences influencing which work people seek and remain in.",
+      "page": "p. 630"
+    },
+    {
+      "reading": "R11",
+      "main_claim": "C10",
+      "main_type": "complements",
+      "other_claims": [
+        {
+          "claim": "C20",
+          "type": "complements"
+        },
+        {
+          "claim": "C05",
+          "type": "complements"
+        }
+      ],
+      "reason": "The reading adds hiring, reassignment, and preference-driven transfers to the production of local occupational cultures while retaining work-based learning as part of the explanation.",
+      "page": "p. 630"
+    },
+    {
+      "reading": "R12",
+      "main_claim": "C02",
+      "main_type": "rereads_evidence",
+      "other_claims": [
+        {
+          "claim": "C17",
+          "type": "rereads_evidence"
+        },
+        {
+          "claim": "C18",
+          "type": "rereads_evidence"
+        }
+      ],
+      "reason": "The reading separates explicit comparisons with DNA from participants' accounts of other demands, thereby reading the toxicology and narcotics passages as insufficient to establish DNA's benchmark role in their own evaluations.",
+      "page": "p. 627"
+    },
+    {
+      "reading": "R13",
+      "main_claim": "C05",
+      "main_type": "inverts",
+      "other_claims": [
+        {
+          "claim": "C17",
+          "type": "other_mechanism"
+        },
+        {
+          "claim": "C18",
+          "type": "other_mechanism"
+        }
+      ],
+      "reason": "The reading reverses the proposed sequence by making value statements retrospective accounts of responses already determined by exposure and feasibility rather than filters that produce those responses.",
+      "page": "p. 637"
+    },
+    {
+      "reading": "R14",
+      "main_claim": "C10",
+      "main_type": "complements",
+      "other_claims": [
+        {
+          "claim": "C20",
+          "type": "complements"
+        }
+      ],
+      "reason": "The reading adds accumulated staffing and transfer decisions to work-based socialization as a source of the units' distinctive values and preferred practices.",
+      "page": "p. 630"
+    },
+    {
+      "reading": "R15",
+      "main_claim": "C17",
+      "main_type": "complements",
+      "other_claims": [
+        {
+          "claim": "C01",
+          "type": "complements"
+        }
+      ],
+      "reason": "The reading retains the paper's account of an imminent court challenge accelerating an existing accreditation plan while distinguishing that effect on timing from the prior source of the reform's content and commitment.",
+      "page": "p. 627"
+    },
+    {
+      "reading": "R16",
+      "main_claim": "C14",
+      "main_type": "complements",
+      "other_claims": [
+        {
+          "claim": "C13",
+          "type": "complements"
+        }
+      ],
+      "reason": "The reading adds a consequence of reviewable evidence—redistributing who can revisit and question expert conclusions—to the paper's account of how such records make judgment-dependent work credible.",
+      "page": "p. 619"
+    },
+    {
+      "reading": "R17",
+      "main_claim": "C05",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {
+          "claim": "C03",
+          "type": "restates"
+        },
+        {
+          "claim": "C16",
+          "type": "other_mechanism"
+        }
+      ],
+      "reason": "The reading preserves the pattern of adaptation and resistance but assigns its determination to anticipated personal exposure in local court, denying occupational values an independent explanatory role.",
+      "page": "p. 635"
+    },
+    {
+      "reading": "R18",
+      "main_claim": "C05",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {
+          "claim": "C03",
+          "type": "complements"
+        },
+        {
+          "claim": "C16",
+          "type": "other_mechanism"
+        }
+      ],
+      "reason": "The reading makes the expected consequences of a credible local challenge determine whether adjustment occurs, leaving values to shape its expression and form rather than the adoption-or-resistance outcome.",
+      "page": "p. 635"
+    },
+    {
+      "reading": "R19",
+      "main_claim": "C19",
+      "main_type": "rereads_evidence",
+      "other_claims": [
+        {
+          "claim": "C01",
+          "type": "rereads_evidence"
+        },
+        {
+          "claim": "C17",
+          "type": "other_mechanism"
+        }
+      ],
+      "reason": "The reading reinterprets the three-unit comparison as potentially placing toxicology outside the spillover's reach despite shared audiences and activities, unsettling the paper's proposed basis for locating that reach.",
+      "page": "p. 636"
+    },
+    {
+      "reading": "R20",
+      "main_claim": "C18",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {
+          "claim": "C04",
+          "type": "challenges_premise"
+        },
+        {
+          "claim": "C05",
+          "type": "other_mechanism"
+        }
+      ],
+      "reason": "The reading explains continued crystal testing through insufficient capacity to meet binding turnaround requirements with GC/MS, making craft values supportive but unnecessary to the outcome.",
+      "page": "p. 632"
+    },
+    {
+      "reading": "R21",
+      "main_claim": "C14",
+      "main_type": "complements",
+      "other_claims": [
+        {
+          "claim": "C16",
+          "type": "rereads_evidence"
+        },
+        {
+          "claim": "C18",
+          "type": "complements"
+        }
+      ],
+      "reason": "The reading extends the paper's account of credible, reviewable DNA outputs by interpreting their authority as a redistribution of opportunities for later scrutiny while expert judgment remains involved.",
+      "page": "p. 619"
+    },
+    {
+      "reading": "R22",
+      "main_claim": "C17",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {
+          "claim": "C01",
+          "type": "rereads_evidence"
+        },
+        {
+          "claim": "C02",
+          "type": "rereads_evidence"
+        }
+      ],
+      "reason": "The reading preserves toxicology's accelerated reporting change but replaces response to a DNA comparison with an independently established accreditation project brought forward by DUI litigation.",
+      "page": "p. 627"
+    },
+    {
+      "reading": "R23",
+      "main_claim": "C17",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {
+          "claim": "C01",
+          "type": "rereads_evidence"
+        },
+        {
+          "claim": "C02",
+          "type": "rereads_evidence"
+        }
+      ],
+      "reason": "The reading attributes toxicology's reporting change to ISO-based obligations and an approaching court challenge while expressly denying that a comparison with DNA caused the unit's response.",
+      "page": "p. 627"
+    },
+    {
+      "reading": "R24",
+      "main_claim": "C21",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {
+          "claim": "C18",
+          "type": "other_mechanism"
+        },
+        {
+          "claim": "C02",
+          "type": "complements"
+        }
+      ],
+      "reason": "The reading assigns narcotics' dispute and resistance primarily to unequal access to standard-setting authority, giving occupational power the explanatory role the paper gives chiefly to the nature of the work.",
+      "page": "p. 637"
+    },
+    {
+      "reading": "R25",
+      "main_claim": "C18",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {
+          "claim": "C03",
+          "type": "rereads_evidence"
+        },
+        {
+          "claim": "C04",
+          "type": "challenges_premise"
+        }
+      ],
+      "reason": "The reading retains the unit's use of crystal tests but explains it through statutory timing and limited instrument capacity rather than protection by an internal debate or a primary commitment to craft.",
+      "page": "p. 632"
+    },
+    {
+      "reading": "R26",
+      "main_claim": "C18",
+      "main_type": "rereads_evidence",
+      "other_claims": [
+        {
+          "claim": "C03",
+          "type": "rereads_evidence"
+        },
+        {
+          "claim": "C05",
+          "type": "rereads_evidence"
+        }
+      ],
+      "reason": "The reading interprets the ongoing debate, anticipated compliance, and consideration of cameras as an unresolved position at fieldwork's end rather than evidence of a settled refusal driven by occupational values.",
+      "page": "p. 632"
+    },
+    {
+      "reading": "R27",
+      "main_claim": "C03",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {
+          "claim": "C17",
+          "type": "complements"
+        }
+      ],
+      "reason": "The reading makes an already scheduled accreditation reform explain the difference between units, reducing the nearness of the court challenge to an explanation of the implementation date.",
+      "page": "p. 635"
+    },
+    {
+      "reading": "R28",
+      "main_claim": "C16",
+      "main_type": "rereads_evidence",
+      "other_claims": [
+        {
+          "claim": "C13",
+          "type": "complements"
+        },
+        {
+          "claim": "C18",
+          "type": "rereads_evidence"
+        }
+      ],
+      "reason": "The reading uses firearms examiners' earlier adoption of systematic images and signed reviews to recast the purported resistance case as selective change toward reviewable documentation.",
+      "page": "p. 622"
+    },
+    {
+      "reading": "R29",
+      "main_claim": "C21",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {
+          "claim": "C05",
+          "type": "other_mechanism"
+        },
+        {
+          "claim": "C15",
+          "type": "restates"
+        }
+      ],
+      "reason": "The reading preserves the units' observed responses but explains them as efforts to protect standing and irreplaceability, replacing the paper's priority for work-related values and technique with status and power.",
+      "page": "p. 637"
+    },
+    {
+      "reading": "R30",
+      "main_claim": "C17",
+      "main_type": "complements",
+      "other_claims": [
+        {
+          "claim": "C01",
+          "type": "complements"
+        }
+      ],
+      "reason": "The reading retains litigation-driven acceleration of a prepared reporting reform while limiting the DNA comparison's causal contribution to its timetable rather than its content or eventual adoption.",
+      "page": "p. 627"
+    }
+  ]
+}

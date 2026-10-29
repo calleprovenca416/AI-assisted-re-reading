@@ -1,0 +1,94 @@
+{
+  "card_id": "bechky_2020_focalization_shift_forensic_biology_DNA_01",
+  "verdicts": [
+    {
+      "mode": "B_import",
+      "killed": false,
+      "citations": ["F07", "F09", "F13", "F17", "F21", "F28", "F36", "F43", "F45", "F46", "F47", "F48", "F49", "F50", "F51", "F52", "F54", "F55", "F60", "F68", "F69", "F86", "F92", "F110", "F145", "F146", "F147", "F148"],
+      "drift": [],
+      "note": "CLEAR. The factual clauses in the statement and fragment_jobs have carrying fragments. The card has no separating feature to assess because split is null. Its proposed placement of DNA among the cases and its interpretation of the comparison as directed at outgoing evidence are arguments from the printed material, not reports of additional events, motives, or historical changes. In particular, it expressly withholds the causal claim that earlier evaluation produced the review procedures or frequency calculation. No imported factual assertion was identified. No author-to-participant drift was identified: the card distinguishes the author's accounts from analysts' speech and from the paper's workflow descriptions.",
+      "considered_not_fired": [
+        {
+          "item": "The fourteen-fragment count and the assertion that none prints a DNA analyst speaking about the 2009 report, benchmark standing, or the other units.",
+          "why": "The corpus assigns exactly F07, F09, F13, F17, F21, F28, F43, F45, F46, F47, F48, F49, F50, and F51 to forensic biology. Inspection supports the bounded absence claim. F07 describes size, work, and CODIS; F09, F13, F17, and F21 are descriptive table cells. F28 prints the supervisors' first-day joke, without explaining its meaning. F51 concerns help with report writing, not a statement about the unit's comparative standing. The claim is about what is printed, not proof that analysts never discussed these matters."
+        },
+        {
+          "item": "The connective 'because' in the account of judgment-laden, untidy profiling, and the contamination example.",
+          "why": "F48 itself connects the analysts' view to instrument artifacts and dirty, degraded, or contaminated samples. F49 carries Terri's saliva-control problem, its disappearance after repeated amplification, and Carly's statement about persistent unexplained contamination. The card adds no cause for the contamination or explanation for why repetition worked."
+        },
+        {
+          "item": "Repeated interpretation, analyst-reviewer discussion, wider laboratory participation, and the outgoing profile and report.",
+          "why": "F50 carries repeated interpretation and discussion with a reviewer, sometimes involving additional members. F51 carries Terri's remark about wider participation in report writing. F45 carries profile assembly and technical and administrative review before release. F46 carries the contributor conclusion paired with population frequency. These are paraphrases of the stubs."
+        },
+        {
+          "item": "The occupation's earlier history of evaluation and the suggestion that present procedures might be its residue.",
+          "why": "F43 carries the roughly twenty-five-year establishment of forensic DNA profiling after technical advances, court challenges, and favorable Academy assessments in the 1990s; its notes identify cited historical sources. Calling this a history of being evaluated does not invent a local MCCL event. The card explicitly says that whether review and statistical reporting resulted from those evaluations is unprinted and unasserted."
+        },
+        {
+          "item": "Review by someone else in every unit and the F50-F69 comparison.",
+          "why": "F45 and F50 carry DNA review; F68 carries second-examiner firearms review; F92 carries toxicology technical and supervisory review; F110 carries narcotics supervisory report review and two different crystal tests. F69 carries two examiners debating sufficient agreement. Calling F69 the nearest counterpart is the card's comparison, not a claim that all review procedures or evidential problems are identical. F110 is not made to say that a second analyst performed the second test."
+        },
+        {
+          "item": "The population-frequency figure as a feature printed for DNA alone.",
+          "why": "F46 prints that particular type of figure. The other numerical practices in the corpus, including firearms CMS thresholds in F171 and toxicology confidence and uncertainty estimates in F101-F103, are not population-frequency estimates for contributor attribution. The card does not need the broader, unsupported proposition that only DNA uses numbers or statistics."
+        },
+        {
+          "item": "The 'If so' inference that the neighbors are compared with what leaves the DNA unit.",
+          "why": "The outward-facing evidence has a printed basis in F45-F47 and the author's account of outside reception in F52. F85 prints firearms examiners' concern with numerical conclusions, and F122 prints concern about persistent output for later review in narcotics. F145-F148 supply the table characterizations the card explicitly reinterprets. The sentence proposes an interpretation of these comparisons; it does not introduce an unprinted act of comparison by a DNA analyst or assert that shared review caused benchmark standing."
+        },
+        {
+          "item": "Attribution of the objectivity account and the table's compatibility judgments.",
+          "why": "The jobs for F47 and F52 identify the author's account, and the statement explicitly labels F145-F148 as the author's account. F48 independently carries the analysts' view that DNA work involves judgment. Agreeing with C14 and contrasting that view with the table does not put the author's explanation into an analyst's mouth."
+        },
+        {
+          "item": "The remaining jobs concerning management, resource complaints, and declared strains.",
+          "why": "F36 carries management's distribution and reading instruction without a DNA-unit reaction; F54 carries non-DNA members' resource complaints; F55 carries trace examiners' association and flyer. F60 carries the NAS comparison of erroneous results with DNA evidence, and F86 carries the firearms examiners' objection to a DNA-like statistical population. The card does not invent a DNA response to these statements and explicitly treats the last two as strains."
+        }
+      ]
+    },
+    {
+      "mode": "E_contradiction",
+      "killed": false,
+      "citations": ["F01", "F32", "F36", "F44", "F52", "F54", "F55", "F67", "F68", "F69", "F82", "F85", "F92", "F98", "F101", "F102", "F103", "F110", "F122", "F124", "F125", "F127", "F128", "F145", "F146", "F147", "F148", "F171"],
+      "note": "CLEAR. All 172 fragments were scanned, with the eight seeds and the two additional declared-strain fragments, F60 and F86, excluded as kill grounds. No remaining stub requires an event, utterance, or practice to have been different for this focalization to hold. The claim of 'no event' is bounded by the following sentence to the absence of a printed DNA-unit response to the report or comparison; it does not deny the report's occurrence or the unit's everyday incidents. The proposed relocation of DNA within the analysis does not erase its documented external privilege. Disagreement with the author's benchmark and compatibility account is not a contradiction of an event. The absence register and fragment notes were also checked.",
+      "considered_not_fired": [
+        {
+          "item": "F01, F32, F36, and F44: DNA's exemption, the report's circulation, and published advocacy of DNA as a model.",
+          "why": "These are real printed acts of external evaluation or management communication. They do not print a DNA analyst's reaction. The card expressly asks about the report that exempted DNA and acknowledges benchmark treatment, so placing the unit among historically evaluated occupations does not require denying these acts."
+        },
+        {
+          "item": "F52, F54, and F55: external benchmark treatment and resource privilege.",
+          "why": "F52 is explicitly the author's account, which the card acknowledges. F54 and F55 print other groups' complaints and organizational activity. Those events can coexist with DNA analysts describing judgment-heavy work and with no printed DNA reply. They do not establish that the unit itself asserted or disowned benchmark standing."
+        },
+        {
+          "item": "F145-F148 and the broader benchmark interpretations in F39-F42 and F154-F158.",
+          "why": "The relevant statements characterize the author's explanation of comparison, compatibility, and occupational interpretation. The card identifies this account and proposes another focal position. Disagreement with those characterizations cannot by itself fire E; the card does not deny that the table or explanation was printed."
+        },
+        {
+          "item": "F82 and F85: firearms examiners rejecting equivalence to DNA and discussing statistics and objectivity.",
+          "why": "Shared review and judgment do not entail interchangeable techniques, equal numerical resources, or agreement among examiners that firearms resembles DNA. F85's focus on numerical conclusions is also compatible with the proposed attention to outgoing evidence. The related objection to a statistical population is explicitly declared at F86."
+        },
+        {
+          "item": "F67-F69, F92, F110, and F124: distinct review and documentation practices.",
+          "why": "The card claims that review by another person is printed for all units, not that every unit repeats the same analysis or preserves the same evidence. In particular, F124's contemplated independent visual confirmation of crystals is compatible with F110's existing supervisory review of reports and two-test requirement. The proposal need not already have been implemented for the card's review comparison to hold."
+        },
+        {
+          "item": "F98 and F101-F103, together with F171: statistics and numerical rules outside DNA.",
+          "why": "Toxicology's existing and expanded uncertainty reporting and firearms' numerical matching thresholds do not contradict the narrower statement that a contributor population-frequency figure is printed for DNA alone. The reading also does not assert that the NAS report initiated every reporting change; F98 and F102 can stand as printed."
+        },
+        {
+          "item": "F122, F125, F127, and F128: narcotics analysts' concerns about retained output, equipment, training, and monotonous instrument work.",
+          "why": "F122 and F125 connect the debate to preserving reviewable evidence. F127 and F128 show that changing the method would also affect expertise and work variety. Those consequences can coexist with an outward-facing comparison standard: the card does not assert that changing outputs leaves work unchanged, or that shared judgment eliminates occupational values and technique differences."
+        },
+        {
+          "item": "F60, F86, and the remaining declared strains and seeds.",
+          "why": "DNA evidence as a check on erroneous findings in F60 and the evidence-specific statistical difficulty in F86 are substantial pressure on the reading, but both are declared strains. F28, F43, F46, and F49 are also declared strains and seeds; F45, F48, F50, and F51 are the other seeds. None is eligible to supply an undeclared-contradiction kill under E."
+        },
+        {
+          "item": "Missing DNA responses and procedural history; A01 and DG03.",
+          "why": "The corpus supplies neither a DNA-unit response to the benchmark comparison nor a chronology linking its review and statistical reporting to earlier challenges. These omissions are identified as missing evidence in the card, not contradicted by a printed event. A01 and DG03 concern uncollected local actions of externally challenged firearms examiners; they provide no contrary DNA history and cannot supply a contradiction by inference."
+        }
+      ]
+    }
+  ]
+}

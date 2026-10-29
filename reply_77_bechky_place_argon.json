@@ -1,0 +1,1963 @@
+{
+ "paper": "Beth A. Bechky, 2020",
+ "placements": [
+  {
+   "reading": "R01",
+   "bears_on": [
+    {
+     "element": "C18",
+     "how": "Replaces threat to craft, autonomy, and variety with caseload throughput constraints under short legal turnaround deadlines and a two-instrument bottleneck as the primary reason narcotics retained crystal testing (pp. 629, 631–632)."
+    },
+    {
+     "element": "C05",
+     "how": "Treats occupational preferences in narcotics as reinforcing rather than causing resistance once production capacity and statutory turnaround limits set what the unit can handle (pp. 629, 632)."
+    },
+    {
+     "element": "C04",
+     "how": "Distinguishes method-level technical compatibility from caseload-scale feasibility, arguing that using GC/MS on exceptional unknowns does not make it workable for the entire narcotics workload (pp. 629, 632)."
+    },
+    {
+     "element": "C17",
+     "how": "Attributes toxicology's readiness to revise its reports to the low disruption of adding statistical calculations atop existing equipment, methods, and accumulated data (p. 628)."
+    },
+    {
+     "element": "CP02",
+     "how": "Recasts the toxicology–narcotics contrast as a difference in the scale and capacity cost of the requested changes rather than a contrast in occupational value alignment (pp. 628–629, 632)."
+    },
+    {
+     "element": "E12",
+     "how": "Weakens the evidential support narcotics provides for technical compatibility by showing that GC/MS was not feasible at full caseload scale (pp. 629, 632)."
+    },
+    {
+     "element": "E16",
+     "how": "Weakens the evidential link from the narcotics case to value-driven resistance by making throughput capacity and statutory deadlines the primary cause of retaining crystal tests (pp. 629, 632)."
+    },
+    {
+     "element": "X2",
+     "how": "Questions coding narcotics as technically compatible by separating the availability of an instrument method from the capacity to run the full caseload on it (pp. 629, 632)."
+    },
+    {
+     "element": "X3",
+     "how": "Demotes compatibility with occupational values from the primary cause of the narcotics–toxicology divergence to a secondary reinforcement (pp. 628–632)."
+    },
+    {
+     "element": "U3",
+     "how": "Frames toxicology's adaptation as an additive calculation built on existing instrument capacity and historical records rather than workflow replacement (p. 628)."
+    },
+    {
+     "element": "U4",
+     "how": "Frames the narcotics unit's retention of crystal testing as defense of a workable production system under two slow instruments and short legal deadlines (pp. 629, 632)."
+    }
+   ],
+   "evidence": [
+    "F102",
+    "F109",
+    "F119",
+    "F123",
+    "F124",
+    "F125"
+   ],
+   "off_map": "Caseload throughput capacity and the material scale of workflow displacement under equipment bottlenecks and statutory turnaround deadlines, as distinct from method-level compatibility and occupational values.",
+   "opening": [
+    {
+     "sentence": "If narcotics kept crystal tests because two slow instruments could not clear its caseload under statutory deadlines, the contrast with toxicology reflects unequal capacity and displacement costs rather than opposing occupational values.",
+     "tie": "CP02"
+    },
+    {
+     "sentence": "Comparing narcotics units in laboratories with ample chromatography instruments or looser statutory turnaround times would show whether analysts still defend crystal testing when throughput constraints are removed.",
+     "tie": "C18"
+    }
+   ]
+  },
+  {
+   "reading": "R02",
+   "bears_on": [
+    {
+     "element": "C04",
+     "how": "Challenges the premise that technical compatibility is an occupation-wide relation between a method and DNA profiling, redefining feasibility as whether local equipment, records, budgets, and statutory clocks can meet the specific facet a pathway selects (pp. 621–622, 627–629, 632–634)."
+    },
+    {
+     "element": "C13",
+     "how": "Extends the claim that each occupation selects a different feature of DNA by treating the institutional pathway as picking the specific facet against which local laboratory capacity is tested (p. 634)."
+    },
+    {
+     "element": "C16",
+     "how": "Reads firearms examiners' digital image packets as prior compliance with an earlier objectifying demand, making their work incompatible only on the statistical facet critics emphasized (pp. 621–622, 634)."
+    },
+    {
+     "element": "C17",
+     "how": "Grounds toxicology's compatibility and adaptation in prior laboratory infrastructure—an ISO plan, traceability logs, mandated confidence intervals, and five years of quality-control data—that had already absorbed the cost of the uncertainty facet (pp. 627–628)."
+    },
+    {
+     "element": "C18",
+     "how": "Attributes narcotics' retention of crystal testing and interest in microscope cameras to local instrument counts, budgets, and statutory charging clocks rather than method-level compatibility or values alone (pp. 628–629, 632)."
+    },
+    {
+     "element": "X2",
+     "how": "Redefines technical compatibility from a fixed property of an analytic method to an interaction between a pathway-selected benchmark facet and a laboratory's local budget, equipment stock, records, and legal deadlines (pp. 627–629, 632–634)."
+    },
+    {
+     "element": "K31",
+     "how": "Reframes technique so that its adaptability cannot be separated from laboratory-level material infrastructure, archival compliance data, budgets, and statutory turnaround clocks (pp. 627–629, 632)."
+    },
+    {
+     "element": "U2",
+     "how": "Reclassifies firearms at MCCL as incompatible only on the statistical facet while already adapted on the imaging documentation facet (pp. 621–622)."
+    },
+    {
+     "element": "U3",
+     "how": "Explains toxicology's compatibility as a stock of prior mandates, logs, and quality-control records that had already paid for the uncertainty calculation (pp. 627–628)."
+    },
+    {
+     "element": "U4",
+     "how": "Reclassifies narcotics as possessing a compatible method that is locally blocked on routine cases by two instruments, long runs, and a statutory charging clock (pp. 628–629, 632)."
+    }
+   ],
+   "evidence": [
+    "F65",
+    "F66",
+    "F67",
+    "F98",
+    "F101",
+    "F102",
+    "F106",
+    "F109",
+    "F123",
+    "F124",
+    "F125",
+    "F157"
+   ],
+   "off_map": "Facet-specific local organizational capacity—the interaction between the single benchmark feature selected by a pathway and a specific laboratory's instrument count, budget, prior compliance records, and statutory deadlines.",
+   "opening": [
+    {
+     "sentence": "Treating compatibility as a match between a pathway-selected facet of the benchmark and a laboratory's local equipment, records, and legal deadlines shifts the explanation from occupation-wide methods to local organizational capacity.",
+     "tie": "C04"
+    },
+    {
+     "sentence": "Comparing laboratories that practice the same forensic specialty under different instrument budgets, archival records, and statutory turnaround rules would test whether adaptation varies across laboratories within one occupation.",
+     "tie": "off-map"
+    }
+   ]
+  },
+  {
+   "reading": "R03",
+   "bears_on": [
+    {
+     "element": "C05",
+     "how": "Replaces occupational values with the material costs of changing instruments, staff time, data infrastructure, and legal deadlines as the driver of unit responses, treating values as the language expressing those costs (pp. 624, 627–632)."
+    },
+    {
+     "element": "C16",
+     "how": "Explains firearms examiners' non-change through the prohibitive cost of building a population-statistics database for a four-person unit rather than through commitment to holistic judgment (pp. 613–614, 624)."
+    },
+    {
+     "element": "C17",
+     "how": "Explains toxicology's adoption of uncertainty reporting as a nearly free change that reused five years of existing quality-control data on the same instrument and method (pp. 627–628)."
+    },
+    {
+     "element": "C18",
+     "how": "Explains narcotics analysts' retention of crystal testing through binding statutory turnaround requirements, two slow instruments, and the time and equipment costs of alternatives (pp. 629, 631–632)."
+    },
+    {
+     "element": "C15",
+     "how": "Rereads non-DNA units' remarks about equipment, funding, grants, and staff flowing to forensic biology as evidence that the material resources needed to emulate DNA sat elsewhere (p. 619)."
+    },
+    {
+     "element": "C21",
+     "how": "Contests the claim that occupational values and the nature of the work mattered more than material resource distribution across units (pp. 619, 627–632, 637)."
+    },
+    {
+     "element": "E14",
+     "how": "Weakens the evidential link from firearms to C05 by attributing non-change to missing statistical data infrastructure rather than subjective values (p. 624)."
+    },
+    {
+     "element": "E15",
+     "how": "Weakens the evidential link from toxicology to C05 by attributing change to zero-cost reuse of existing data and methods rather than error-free values (pp. 627–628)."
+    },
+    {
+     "element": "E16",
+     "how": "Weakens the evidential link from narcotics to C05 by attributing resistance to statutory turnaround constraints and instrument bottlenecks rather than craft values (pp. 629, 631–632)."
+    },
+    {
+     "element": "X3",
+     "how": "Treats compatibility with occupational values as a rhetorical expression of compliance and capacity costs rather than an independent causal factor (pp. 627–632)."
+    },
+    {
+     "element": "K22",
+     "how": "Reframes occupational values as the vocabulary through which units express material constraints in instruments, time, and data (pp. 624, 627–632)."
+    },
+    {
+     "element": "K27",
+     "how": "Elevates resources—equipment, funding, staff time, and prior data—from a topic of DNA envy to the determinant of whether units can adapt (pp. 619, 627–632)."
+    },
+    {
+     "element": "CP02",
+     "how": "Explains the divergence between toxicology and narcotics by contrasting a nearly costless calculation on existing data with an unaffordable shift to two slow instruments under tight legal deadlines (pp. 627–632)."
+    }
+   ],
+   "evidence": [
+    "F10",
+    "F26",
+    "F54",
+    "F85",
+    "F98",
+    "F102",
+    "F109",
+    "F118",
+    "F119",
+    "F122",
+    "F123",
+    "F124",
+    "F125"
+   ],
+   "off_map": "The material cost of practice change—in capital equipment, staff processing time, legal turnaround compliance, and statistical data infrastructure—as the primary cause of unit outcomes, with value talk expressing those costs.",
+   "opening": [
+    {
+     "sentence": "If each unit's response tracks what adaptation costs in instruments, staff time, data infrastructure, and legal deadlines, then occupational values express material constraints rather than independently filtering evaluative pressure.",
+     "tie": "C05"
+    },
+    {
+     "sentence": "Examining whether units revise their value talk and adopt instrumented or statistical practices when given extra instruments, funding, or relaxed turnaround deadlines would test whether resource costs drive the outcomes.",
+     "tie": "off-map"
+    }
+   ]
+  },
+  {
+   "reading": "R04",
+   "bears_on": [
+    {
+     "element": "C10",
+     "how": "Complements and partially re-explains how distinct unit cultures arise by adding employee self-sorting and transfers out of disliked routine work alongside occupational socialization (pp. 613, 619–620, 630, 632)."
+    },
+    {
+     "element": "C20",
+     "how": "Partially inverts the link between technique and values by showing that preexisting personal preferences led analysts to leave toxicology's routine work for narcotics rather than adopting toxicology's values (pp. 630, 632)."
+    },
+    {
+     "element": "C18",
+     "how": "Attributes narcotics analysts' resistance to instrumentation partly to the selected preferences of a local membership that had migrated away from repetitive instrument work in toxicology (pp. 630, 632)."
+    },
+    {
+     "element": "C05",
+     "how": "Qualifies the filtering role of occupational values by making local unit values partly a product of internal personnel sorting across benches (pp. 613, 630, 632)."
+    },
+    {
+     "element": "E24",
+     "how": "Complicates the evidential link from C10 to C20 by showing that cultural differences across units reflect internal transfers of similar recruits as well as work-derived values (pp. 613, 619–620, 630)."
+    },
+    {
+     "element": "E27",
+     "how": "Weakens the support C18 provides for C20 by tracing narcotics' preference for varied chemical work partly to selective departures from toxicology (pp. 630, 632)."
+    },
+    {
+     "element": "K19",
+     "how": "Reframes unit occupational cultures at MCCL as partly produced by organizational staffing assignments and preference-driven internal transfers (pp. 613, 619, 630)."
+    },
+    {
+     "element": "K22",
+     "how": "Treats occupational values as partly expressing preexisting individual preferences aggregated by worker movement across units (pp. 630, 632)."
+    }
+   ],
+   "evidence": [
+    "F06",
+    "F57",
+    "F113",
+    "F114",
+    "F128"
+   ],
+   "off_map": "Preexisting individual task preferences and intra-laboratory job mobility—initial vacancy placement and employee-initiated transfers between units—as a mechanism generating distinct unit cultures.",
+   "opening": [
+    {
+     "sentence": "If analysts who dislike routine instrument work transfer out of toxicology into narcotics, the units' contrasting cultures reflect internal personnel sorting as much as values learned from performing each task.",
+     "tie": "C10"
+    },
+    {
+     "sentence": "Tracing analysts' task preferences from initial hiring through unit assignments and transfer requests would establish how much of each unit's culture comes from selection versus on-the-job socialization.",
+     "tie": "C20"
+    }
+   ]
+  },
+  {
+   "reading": "R05",
+   "bears_on": [
+    {
+     "element": "CP02",
+     "how": "Challenges the comparability of the toxicology–narcotics contrast pair by showing that toxicology added a calculation to its routine instrument workflow while narcotics faced replacing its fast routine bench method with an exceptional instrument method on two slow machines (pp. 625, 627–629, 631–633)."
+    },
+    {
+     "element": "C18",
+     "how": "Replaces value conflict over variety, autonomy, and craft judgment with routine workflow displacement and equipment and time costs against the caseload as the primary cause of narcotics' resistance (pp. 628–629, 631–632)."
+    },
+    {
+     "element": "C17",
+     "how": "Rereads toxicology's adaptation as a low-disruption reporting calculation using existing quality-control data without altering sample preparation or instrument runs, rather than an effect of error-avoidance values (pp. 625–628, 633)."
+    },
+    {
+     "element": "C05",
+     "how": "Questions the causal role of occupational values by noting that the fit between sample-handling vigilance and statistical uncertainty in toxicology, and the priority of craft values over time and cost in narcotics, rest on authorial commentary rather than demonstrated causal ordering in participant passages (pp. 626–628, 631–633)."
+    },
+    {
+     "element": "C04",
+     "how": "Challenges treating toxicology and narcotics as equivalently compatible in technique when instrumentation was already routine in toxicology but only an exception incapable of handling routine volume in narcotics (pp. 625, 629, 632–633)."
+    },
+    {
+     "element": "E15",
+     "how": "Weakens the evidential support C17 provides for C05 by reading toxicology's participant passages as showing routine error checking and post-change pride rather than value-driven adoption (pp. 626–628)."
+    },
+    {
+     "element": "E16",
+     "how": "Weakens the evidential support C18 provides for C05 by separating participant complaints about time, instruments, and caseload from authorial emphasis on autonomy and variety (pp. 631–632)."
+    },
+    {
+     "element": "X2",
+     "how": "Contests holding technical compatibility constant across CP02 because narcotics' instrument option could not cover routine caseloads with two machines (pp. 629, 632–633)."
+    },
+    {
+     "element": "X3",
+     "how": "Treats compatibility with occupational values as accompanying the outcomes in toxicology and narcotics without being shown to produce them (pp. 626–628, 631–633)."
+    }
+   ],
+   "evidence": [
+    "F90",
+    "F91",
+    "F94",
+    "F95",
+    "F96",
+    "F98",
+    "F100",
+    "F101",
+    "F102",
+    "F103",
+    "F109",
+    "F111",
+    "F120",
+    "F121",
+    "F122",
+    "F123",
+    "F124",
+    "F125",
+    "F126",
+    "F127",
+    "F128",
+    "F129",
+    "F149",
+    "F150",
+    "F166"
+   ],
+   "off_map": "The proportion of a unit's daily routine workflow displaced by a proposed reform and its capacity cost in instruments and run time against the caseload.",
+   "opening": [
+    {
+     "sentence": "Because toxicology only added a calculation to its routine instrument output while narcotics faced replacing its fast everyday bench method on two slow instruments, the pair's divergence can be explained by workflow displacement and capacity cost rather than occupational values.",
+     "tie": "CP02"
+    },
+    {
+     "sentence": "Comparing how toxicology and narcotics respond when both face either a purely additive reporting change or a full replacement of routine bench methods would isolate value fit from the scale of workflow disruption.",
+     "tie": "C05"
+    }
+   ]
+  },
+  {
+   "reading": "R06",
+   "bears_on": [
+    {
+     "element": "C16",
+     "how": "Rereads firearms examiners' shift from sight-based recognition claims to digital image note packets and second-examiner signatures as a completed prior adaptation to the reviewable-record part of the DNA model, leaving only statistical matching refused (pp. 621–623)."
+    },
+    {
+     "element": "C14",
+     "how": "Uses the pairing of messy, colleague-settled DNA benchwork with reviewable court records to identify judgment made reviewable for legal outsiders as the portable core of the DNA model (pp. 618–619)."
+    },
+    {
+     "element": "C13",
+     "how": "Extends the multi-faceted character of the DNA benchmark by arguing that units differed in which piece of the DNA model—reviewable records, error measurement, or statistics—each could adopt and when (pp. 618–619, 621–622, 627, 631–632)."
+    },
+    {
+     "element": "C03",
+     "how": "Reinterprets the absence of local courtroom challenges to MCCL firearms work as the consequence of its earlier documentary adaptation rather than mere pathway remoteness (pp. 621–622, 635)."
+    },
+    {
+     "element": "C04",
+     "how": "Revises firearms' technical compatibility by showing that comparison microscopy had already accommodated DNA-like reviewable documentation and signed peer review while declining statistical quantification (pp. 621–623, 633)."
+    },
+    {
+     "element": "E06",
+     "how": "Weakens the evidential role of C16 as a pure non-change case supporting C03 by treating firearms' lack of local challenges as the payoff of earlier documentary reform (pp. 621–622)."
+    },
+    {
+     "element": "E10",
+     "how": "Qualifies the evidential role of C16 in C04 by treating firearms as compatible with and already adapted to the reviewable-record facet of the benchmark (pp. 621–622, 633)."
+    },
+    {
+     "element": "U2",
+     "how": "Reclassifies the firearms unit from simple resistance and incompatibility to prior adoption of reviewable visual documentation paired with refusal of statistical matching (pp. 621–623, 633)."
+    },
+    {
+     "element": "CP01",
+     "how": "Complicates the firearms–toxicology contrast by arguing that firearms had already met an earlier courtroom credibility demand through image packets and signed reviews, leaving it unchallenged locally (pp. 621–622, 627, 635)."
+    }
+   ],
+   "evidence": [
+    "F47",
+    "F48",
+    "F50",
+    "F51",
+    "F65",
+    "F66",
+    "F67",
+    "F68",
+    "F71",
+    "F73",
+    "F80",
+    "F100",
+    "F122",
+    "F124",
+    "F125"
+   ],
+   "off_map": "Prior historical adaptation by the firearms unit—replacing personal recognition claims with digital image packets and signed second-examiner reviews—as an earlier uptake of the reviewable-record facet of the DNA model that deterred local court challenges.",
+   "opening": [
+    {
+     "sentence": "Counting firearms examiners' earlier shift to mandatory digital images and signed peer reviews as an adaptation to the reviewable-record part of the benchmark turns firearms from a case of pure resistance into one of selective, earlier accommodation.",
+     "tie": "C16"
+    },
+    {
+     "sentence": "Tracing when and why MCCL firearms examiners introduced image packets and signed technical reviews—and whether defense attorneys declined to challenge them because of those records—would test whether prior adaptation explains the absence of local court challenges.",
+     "tie": "CP01"
+    }
+   ]
+  },
+  {
+   "reading": "R07",
+   "bears_on": [
+    {
+     "element": "C03",
+     "how": "Replaces the immediacy of the local courtroom pathway with a standing multi-year accreditation requirement (ISO 17025 and ASCLD) as the cause of whether practice changed, limiting courtroom immediacy to explaining when toxicology's scheduled change took effect (pp. 627–628, 633–636)."
+    },
+    {
+     "element": "CP01",
+     "how": "Reinterprets the firearms–toxicology contrast pair as setting a unit with a pre-existing accreditation mandate and multi-year plan beside a unit with no comparable mandate or plan in print, rather than isolating immediate versus remote court pathways (pp. 616, 623, 627–628, 633, 635)."
+    },
+    {
+     "element": "C17",
+     "how": "Elevates ongoing ISO 17025 and ASCLD accreditation requirements from a facilitating background condition to the primary cause of toxicology's reporting change, with the imminent DUI challenge merely accelerating the schedule (pp. 627–628, 635)."
+    },
+    {
+     "element": "C16",
+     "how": "Points out that no passage records a comparable accreditor mandate or ISO plan for firearms—only AFTE rebuttals and committee study pledges—explaining why firearms had no scheduled change to accelerate (pp. 616, 621, 623, 633)."
+    },
+    {
+     "element": "E07",
+     "how": "Weakens the necessary evidential support C17 provides for C03 by arguing that the slower, multi-year accreditation route rather than the immediate courtroom route produced toxicology's reform (pp. 627–628, 635)."
+    },
+    {
+     "element": "X1",
+     "how": "Restricts the causal effect of pathway immediacy to the timing of implementation rather than whether change occurs, noting that a multi-year accreditation plan is a slow route rather than a locally immediate one (pp. 627–628, 633–636)."
+    }
+   ],
+   "evidence": [
+    "F35",
+    "F66",
+    "F78",
+    "F98",
+    "F101",
+    "F102",
+    "F142",
+    "F143",
+    "F161"
+   ],
+   "off_map": "Standing multi-year accreditation mandates (ISO 17025 and ASCLD) as the primary cause of whether a unit changes practice—distinct from courtroom immediacy, which only shifts timing—along with the unprinted question of what MCCL's ISO 17025 adaptation required of the firearms unit.",
+   "opening": [
+    {
+     "sentence": "If toxicology changed because an accreditation mandate had already scheduled the uncertainty calculation whereas firearms faced no comparable mandate, then the immediate local court challenge explains only the date of toxicology's reform rather than why one unit changed and the other did not.",
+     "tie": "CP01"
+    },
+    {
+     "sentence": "Checking what laboratory-wide accreditation standards required of firearms and whether toxicology units without a local court threat still implemented uncertainty reporting on their three-year accreditation schedule would separate accreditor mandates from courtroom immediacy.",
+     "tie": "C03"
+    }
+   ]
+  },
+  {
+   "reading": "R08",
+   "bears_on": [
+    {
+     "element": "C04",
+     "how": "Challenges the premise of technical compatibility with DNA profiling by showing that DNA benchwork involves the same untidy, colleague-reviewed judgment as the other units and differs in print only in the population-frequency figure on its outgoing report (pp. 617–619, 622, 625–626, 629–630, 633)."
+    },
+    {
+     "element": "C13",
+     "how": "Clarifies that neighboring occupations are compared against the neatened documentary output leaving the DNA unit rather than forensic biology's actual judgment-heavy bench work (pp. 617–619, 634)."
+    },
+    {
+     "element": "C14",
+     "how": "Restates and extends the finding that DNA benchwork relies on messy collective judgment behind objective-looking reports, using this to place forensic biology among the evaluated occupations rather than above them (pp. 617–619)."
+    },
+    {
+     "element": "C05",
+     "how": "Questions Table 2's contrast between DNA objectivity and occupational values of trained judgment by noting that DNA analysts also resolve artifacts and contamination through shared judgment with reviewers (pp. 619, 622, 633)."
+    },
+    {
+     "element": "C16",
+     "how": "Parallels firearms examiners' collaborative technical review on p. 622 directly with DNA analysts' collective interpretation and review on p. 619, undercutting the opposition between DNA work and firearms judgment (pp. 619, 622, 633)."
+    },
+    {
+     "element": "U1",
+     "how": "Repositions forensic biology from an external benchmark above the comparative table to a fourth case of peer-reviewed judgment work that underwent earlier court challenges and National Academy assessments (pp. 615, 617–619)."
+    },
+    {
+     "element": "K03",
+     "how": "Separates DNA profiling's outgoing evidentiary report (with its population-frequency statistic) from its internal benchwork, which shares the judgment-laden character of neighboring specialties (pp. 617–619)."
+    },
+    {
+     "element": "K15",
+     "how": "Locates the objectivity attributed to DNA in the outgoing population-frequency report rather than in the bench process, which relies on interpretive judgment like the other units (pp. 618–619, 633)."
+    }
+   ],
+   "evidence": [
+    "F28",
+    "F43",
+    "F45",
+    "F46",
+    "F48",
+    "F49",
+    "F50",
+    "F51",
+    "F68",
+    "F69",
+    "F92",
+    "F110",
+    "F145",
+    "F146",
+    "F147",
+    "F148"
+   ],
+   "off_map": "Whether forensic biology's multi-step review routines and population-frequency reporting format were themselves historical adaptations left behind by earlier 1990s court challenges and National Academy assessments.",
+   "opening": [
+    {
+     "sentence": "Placing forensic biology alongside the other units as a judgment-heavy practice that previously underwent courtroom and scientific scrutiny means neighboring specialties are being measured against an outgoing report format rather than a fundamentally different kind of bench work.",
+     "tie": "C04"
+    },
+    {
+     "sentence": "Historical inquiry into how forensic biology standardized its review procedures and statistical reporting during earlier court challenges and Academy reviews would show whether the benchmark unit traveled the same pathway of adaptation now confronting its neighbors.",
+     "tie": "U1"
+    }
+   ]
+  },
+  {
+   "reading": "R09",
+   "bears_on": [
+    {
+     "element": "C05",
+     "how": "Challenges the unitary category of practice change by splitting it into additive recording/reporting changes (type X) and replacements of bench judgment (type Y), arguing that embrace versus resistance tracks which type of change a unit faced (pp. 621–624, 627–628, 631–633)."
+    },
+    {
+     "element": "C01",
+     "how": "Refines the outcome of evaluative spillovers by showing that all three non-DNA units adopted or considered additive reporting/documentation changes while none replaced bench-level identification judgment (pp. 621–624, 627–628, 631–632)."
+    },
+    {
+     "element": "C03",
+     "how": "Qualifies how institutional pathways produce local practice change by noting that toxicology was only asked for an additive reporting change whereas firearms and narcotics resisted demands to replace bench judgment (pp. 621–624, 627–628, 631–632)."
+    },
+    {
+     "element": "C16",
+     "how": "Rereads firearms examiners' shift from sight-based claims to image note packets and second-examiner page signatures as an already adopted additive reporting change, restricting their resistance to numerical striae counting (pp. 621–624)."
+    },
+    {
+     "element": "C17",
+     "how": "Characterizes toxicology's uncertainty range as an additive reporting modification on an unchanged instrument and method, noting that toxicology was not asked to replace analyst judgment (pp. 627–628)."
+    },
+    {
+     "element": "C18",
+     "how": "Separates narcotics analysts' consideration of microscope cameras (an additive recording change) from their resistance to replacing crystal bench judgment with GC/MS instrumentation (pp. 631–632)."
+    },
+    {
+     "element": "K17",
+     "how": "Disaggregates occupational change into additive evidentiary documentation versus replacement of the practitioner's core diagnostic judgment (pp. 621–624, 627–628, 631–632)."
+    },
+    {
+     "element": "K21",
+     "how": "Distinguishes recording and reporting practices from the bench judgment practices by which identifications are reached (pp. 621–624, 627–628, 631–632)."
+    },
+    {
+     "element": "U2",
+     "how": "Recodes firearms as having already adopted an additive documentation change while rejecting a replacement of holistic visual judgment (pp. 621–624)."
+    },
+    {
+     "element": "U3",
+     "how": "Recodes toxicology as adopting an additive reporting calculation without being asked to replace bench judgment (pp. 627–628)."
+    },
+    {
+     "element": "U4",
+     "how": "Recodes narcotics as entertaining an additive recording change (microscope cameras) while refusing to replace crystal testing with GC/MS (pp. 631–632)."
+    }
+   ],
+   "evidence": [
+    "F65",
+    "F66",
+    "F67",
+    "F68",
+    "F71",
+    "F85",
+    "F98",
+    "F102",
+    "F103",
+    "F121",
+    "F122",
+    "F125",
+    "F126",
+    "F128",
+    "F129"
+   ],
+   "off_map": "The distinction between additive documentation or reporting changes that preserve how an identification is reached and substantive changes that replace the analyst's own looking and judging at the bench.",
+   "opening": [
+    {
+     "sentence": "Splitting practice change into additive reporting documentation versus replacing bench judgment makes the three units look consistent—all accepted or considered additive documentation while none accepted replacing how analysts reach conclusions, and toxicology was only asked for an additive change.",
+     "tie": "C05"
+    },
+    {
+     "sentence": "Examining how toxicologists respond when asked to replace an established analytic judgment and how narcotics analysts respond when asked only to attach camera images to crystal tests would test whether the type of change demanded explains the outcome.",
+     "tie": "off-map"
+    }
+   ]
+  },
+  {
+   "reading": "R10",
+   "bears_on": [
+    {
+     "element": "C20",
+     "how": "Inverts the causal direction between technique and occupational values, arguing that performing toxicology's technique did not instill error-focused values in everyone; instead, preexisting personal preferences selected who stayed in toxicology and who transferred to narcotics (pp. 626, 630, 632, 637)."
+    },
+    {
+     "element": "C10",
+     "how": "Replaces work-based socialization with selective hiring placement, retention, and departure across units as the generator of distinct unit values at MCCL (pp. 613, 626, 630, 632)."
+    },
+    {
+     "element": "C18",
+     "how": "Explains narcotics analysts' aversion to standardized instrument work as a disposition brought into the unit by analysts who had left toxicology because they disliked repetitive work (pp. 630, 632)."
+    },
+    {
+     "element": "C17",
+     "how": "Suggests toxicology's shared compulsive culture reflects who remained after less-compulsive or variety-seeking analysts annoyed coworkers or transferred out (pp. 626, 630)."
+    },
+    {
+     "element": "C05",
+     "how": "Makes the filtering effect of occupational values track who sorted into and remained in each unit rather than values generated by the technique itself (pp. 613, 626, 630, 632)."
+    },
+    {
+     "element": "E24",
+     "how": "Weakens the evidential link from C10 to C20 by attributing unit cultural differences to selective sorting and turnover rather than work requirements (pp. 613, 626, 630)."
+    },
+    {
+     "element": "E26",
+     "how": "Weakens the evidential support C17 gives to C20 by noting that toxicology's technique alienated several analysts who later moved to narcotics (pp. 626, 630)."
+    },
+    {
+     "element": "E27",
+     "how": "Weakens the evidential support C18 gives to C20 by tracing narcotics analysts' preference for varied chemical work to personal dispositions that preceded their arrival in the unit (pp. 630, 632)."
+    },
+    {
+     "element": "K22",
+     "how": "Reframes a unit's occupational values as a record of who entered, stayed, and left across benches rather than norms instilled in everyone performing the technique (pp. 613, 626, 630, 632)."
+    }
+   ],
+   "evidence": [
+    "F06",
+    "F95",
+    "F113",
+    "F114",
+    "F128"
+   ],
+   "off_map": "Selective retention and turnover across laboratory units driven by preexisting individual preferences for routine versus varied work, reversing the causal arrow from technique to occupational values.",
+   "opening": [
+    {
+     "sentence": "If performing toxicology's routine drove variety-seeking analysts out into narcotics rather than instilling a shared love of error-free repetition, then unit values record who stayed and who left rather than what the technique teaches.",
+     "tie": "C20"
+    },
+    {
+     "sentence": "Comparing the attitudes of newly hired analysts before unit training with those of long-serving analysts and transferees would show whether techniques instill values or filter people who already hold them.",
+     "tie": "C10"
+    }
+   ]
+  },
+  {
+   "reading": "R11",
+   "bears_on": [
+    {
+     "element": "C10",
+     "how": "Explains differences in unit values and cultures at MCCL partly through vacancy-based initial placement, managerial reassignments, and self-selected transfers of similarly degreed recruits inside one laboratory rather than socialization into separate occupations (pp. 613, 619–620, 630)."
+    },
+    {
+     "element": "C20",
+     "how": "Challenges the claim that performing a unit's technique instills its values by arguing that toxicology's routine drove dissatisfied analysts to lobby for retraining into narcotics, so unit values reflect who ended up at each bench (pp. 626, 630, 632)."
+    },
+    {
+     "element": "C05",
+     "how": "Adds transfer requests as a third workplace response alongside embrace and resistance when a method change is forced, and treats unit values as partly the product of internal personnel sorting (pp. 613, 619–620, 630, 632)."
+    },
+    {
+     "element": "C17",
+     "how": "Attributes toxicologists' comfort with error figures and routine work partly to selective retention after less-compulsive coworkers annoyed the unit or transferred out (pp. 626, 630)."
+    },
+    {
+     "element": "C18",
+     "how": "Attributes narcotics analysts' aversion to instrument-first testing partly to the presence of former toxicologists who had transferred out of routine instrument work (pp. 630, 632)."
+    },
+    {
+     "element": "C19",
+     "how": "Questions the premise that the MCCL units are distinct neighboring occupations rather than interchangeable postings within a single laboratory organization (pp. 613, 619–620, 636)."
+    },
+    {
+     "element": "DG02",
+     "how": "Uses the open question of how neighboring occupations are bounded to ask whether the MCCL units are distinct occupations or internal laboratory postings (pp. 619–620, 636)."
+    },
+    {
+     "element": "E24",
+     "how": "Weakens the evidential link from C10 to C20 by attributing cultural differentiation across units partly to internal vacancy placement and transfer sorting (pp. 613, 619–620, 630)."
+    },
+    {
+     "element": "K14",
+     "how": "Questions treating the MCCL units as neighboring occupations when recruits share degrees, management treats staff as interchangeable, and workers transfer across benches (pp. 613, 619–620, 636)."
+    },
+    {
+     "element": "K17",
+     "how": "Expands occupational change outcomes beyond the embrace-or-resist binary to include employee requests for transfer or retraining when work routines change (pp. 619–620, 630)."
+    },
+    {
+     "element": "K22",
+     "how": "Reframes occupational values at MCCL as partly the residue of internal recruitment placement and preference-driven transfers across units (pp. 613, 626, 630, 632)."
+    }
+   ],
+   "evidence": [
+    "F06",
+    "F57",
+    "F95",
+    "F113",
+    "F114",
+    "F128",
+    "F165"
+   ],
+   "off_map": "Intra-laboratory personnel sorting across postings—entry by vacancy, managerial swaps, and employee transfer requests as a third response alongside embrace and resistance—plus the unindexed career-history interview data on p. 614.",
+   "opening": [
+    {
+     "sentence": "If unit cultures reflect who was placed in or transferred between benches inside one laboratory, then the paper's contrast across neighboring occupations may capture internal staffing sorting across job postings rather than distinct occupational traditions.",
+     "tie": "C10"
+    },
+    {
+     "sentence": "Examining the full set of career-history interviews and transfer records across the laboratory would show how much unit value differences stem from selective mobility and whether forced method changes trigger transfer requests.",
+     "tie": "off-map"
+    }
+   ]
+  },
+  {
+   "reading": "R12",
+   "bears_on": [
+    {
+     "element": "C02",
+     "how": "Rereads the participant passages to argue that only firearms faced an explicit comparison with DNA, whereas toxicology and narcotics participants attributed the demands on their own work to ISO/NIST standards, East Coast practice, and Daubert hearings rather than DNA (pp. 620, 624, 627–628, 631–632)."
+    },
+    {
+     "element": "C13",
+     "how": "Challenges the premise that all three units were interpreting one DNA benchmark by arguing that toxicology and narcotics faced distinct regulatory, regional, and legal demands that only the author's commentary tied to DNA (pp. 627–628, 631–632, 634)."
+    },
+    {
+     "element": "C17",
+     "how": "Rereads toxicology's passages to show that speakers attributed measurement-uncertainty reporting to ISO and NIST documents and general scientific practice while explicitly denying that the NAS report spurred it (pp. 627–628)."
+    },
+    {
+     "element": "C18",
+     "how": "Rereads narcotics' passages to show that analysts attributed pressure on crystal testing to East Coast GC/MS routines, general attacks on forensics, and a Daubert hearing rather than to DNA (pp. 628, 631–632)."
+    },
+    {
+     "element": "C01",
+     "how": "Calls into question whether evaluative spillovers from DNA reshaped neighboring work when neither the unit that changed (toxicology) nor narcotics attributed the demands on its own work to DNA in printed quotes (pp. 627–628, 631–632)."
+    },
+    {
+     "element": "E01",
+     "how": "Weakens the mechanistic link from C02 to C01 if the pressures acting on toxicology and narcotics came from non-DNA standards and regional practices rather than the DNA benchmark (pp. 627–628, 631–632)."
+    },
+    {
+     "element": "E17",
+     "how": "Weakens the link from C02 to C13 by arguing that the three units were answering different demands from different sources rather than interpreting different facets of DNA (pp. 627–628, 631–632)."
+    },
+    {
+     "element": "E20",
+     "how": "Challenges the evidential support C17 provides for C13 because the tie between toxicology's uncertainty calculation and DNA is stated only in the author's voice (pp. 627–628)."
+    },
+    {
+     "element": "E21",
+     "how": "Challenges the evidential support C18 provides for C13 because narcotics analysts link the DNA comparison to firearms on p. 624 but cite East Coast practice and Daubert challenges for their own unit (pp. 624, 631–632)."
+    },
+    {
+     "element": "K06",
+     "how": "Separates participant-voiced comparisons with DNA in firearms from observer-supplied attributions of DNA spillover in toxicology and narcotics (pp. 620, 624, 627–628, 631–632)."
+    }
+   ],
+   "evidence": [
+    "F60",
+    "F82",
+    "F83",
+    "F85",
+    "F99",
+    "F100",
+    "F102",
+    "F105",
+    "F106",
+    "F122",
+    "F123",
+    "F127",
+    "F128",
+    "F129"
+   ],
+   "off_map": "The separation between participant-voiced comparisons with DNA and observer-supplied ties to DNA where speakers themselves attribute demands to ISO/NIST standards, East Coast regional practice, or method-specific Daubert challenges.",
+   "opening": [
+    {
+     "sentence": "If only firearms participants explicitly compared their work with DNA while toxicologists and narcotics analysts cited accreditation standards, regional practices, and method-specific hearings, then the three units were responding to different external demands rather than one benchmark.",
+     "tie": "C02"
+    },
+    {
+     "sentence": "Inspecting courtroom transcripts, defense motions, and working-group debates in toxicology and narcotics to see whether attorneys and board members explicitly invoked DNA profiling would settle whether DNA drove those demands.",
+     "tie": "C13"
+    }
+   ]
+  },
+  {
+   "reading": "R13",
+   "bears_on": [
+    {
+     "element": "C05",
+     "how": "Inverts the causal sequence between occupational values and unit responses, arguing that courtroom exposure and material feasibility settled what each unit did first and values were articulated afterward to narrate the outcome (pp. 623–624, 627–628, 631–632, 635–637)."
+    },
+    {
+     "element": "C20",
+     "how": "Uses the paper's claim that values derive from daily practice to argue that value statements are the retrospective sediment of what exposure and feasibility forced a group to do rather than a prior filter (pp. 635–637)."
+    },
+    {
+     "element": "C16",
+     "how": "Contrasts locally unchallenged MCCL firearms examiners, who praised holistic judgment, with externally challenged firearms examiners, who urged examining bias, to argue that exposure rather than shared occupational values determined stance toward change (pp. 623–624, 635–636)."
+    },
+    {
+     "element": "C17",
+     "how": "Argues that toxicologists enacted an existing ISO plan when a court date loomed and afterward framed accuracy as a long-standing unit value before criminal-justice audiences (pp. 627–628)."
+    },
+    {
+     "element": "C18",
+     "how": "Argues that narcotics analysts could not switch to GC/MS given two instruments, long runs, and statutory turnaround clocks, and layered talk of boredom and craft over that material infeasibility (pp. 631–632)."
+    },
+    {
+     "element": "C03",
+     "how": "Reinforces institutional pathways as occasions for meaning-making while making courtroom exposure and practical feasibility prior to the articulation of occupational values (pp. 635–636)."
+    },
+    {
+     "element": "E14",
+     "how": "Reverses the evidential link from C16 to C05 by treating MCCL firearms examiners' invocation of holism as a consequence of remaining unchallenged locally (pp. 623–624, 635–636)."
+    },
+    {
+     "element": "E15",
+     "how": "Reverses the evidential link from C17 to C05 by treating toxicologists' pride in error-free work as retrospective narration of a change already fixed by the court date and accreditation plan (pp. 627–628)."
+    },
+    {
+     "element": "E16",
+     "how": "Reverses the evidential link from C18 to C05 by treating narcotics analysts' craft rhetoric as a post-hoc rationale for capacity and turnaround limits (pp. 631–632)."
+    },
+    {
+     "element": "X3",
+     "how": "Recasts compatibility with occupational values from an ex ante explanatory factor to an ex post narrative rationalization of actions settled by exposure and feasibility (pp. 627–628, 631–632, 635–637)."
+    },
+    {
+     "element": "K22",
+     "how": "Redefines occupational values as retrospective meaning-making that justifies what a group has had to do under courtroom and capacity constraints (pp. 635–637)."
+    }
+   ],
+   "evidence": [
+    "F80",
+    "F98",
+    "F102",
+    "F103",
+    "F122",
+    "F123",
+    "F126",
+    "F127",
+    "F128",
+    "F163",
+    "F164",
+    "F167"
+   ],
+   "off_map": "Ex post value rationalization—the process by which occupational groups compose value accounts afterward to narrate responses already determined by courtroom exposure and material feasibility.",
+   "opening": [
+    {
+     "sentence": "If courtroom exposure and material feasibility settled what each unit could do before analysts narrated those actions in the language of occupational values, then values are a consequence of each unit's response rather than its filter.",
+     "tie": "C05"
+    },
+    {
+     "sentence": "Tracking a single unit's value talk before and after it encounters a local courtroom challenge or receives new instrument capacity would show whether value claims precede or follow changes in practice.",
+     "tie": "C20"
+    }
+   ]
+  },
+  {
+   "reading": "R14",
+   "bears_on": [
+    {
+     "element": "C10",
+     "how": "Complements and partially re-explains how distinct unit cultures arise by adding organizational hiring placement, managerial transfer arrangements, and worker self-sorting alongside work-based socialization (pp. 613, 619, 626, 630)."
+    },
+    {
+     "element": "C20",
+     "how": "Qualifies the claim that values grow out of doing the work by showing that employees who disliked repetitive processing sought transfers out of toxicology rather than adopting its values (pp. 626, 630)."
+    },
+    {
+     "element": "C05",
+     "how": "Attributes unit responses to proposed changes partly to accumulated staffing and transfer choices that concentrated workers with matching task preferences in each unit (pp. 613, 619, 626, 630)."
+    },
+    {
+     "element": "C17",
+     "how": "Notes that toxicologists policed coworkers who did not share their compulsive organizational habits as irritating exceptions, reinforcing homogeneity within the unit (p. 626)."
+    },
+    {
+     "element": "C18",
+     "how": "Links narcotics analysts' preference for varied benchwork to colleagues who had transferred out of toxicology because they disliked its routine paperwork and instrument work (p. 630)."
+    },
+    {
+     "element": "CP02",
+     "how": "Explains the cultural contrast between toxicology and narcotics partly through worker sorting and transfers between those two units within MCCL (pp. 626, 630, 633)."
+    },
+    {
+     "element": "E24",
+     "how": "Qualifies the evidential link from C10 to C20 by showing that unit cultural differences reflect organizational assignment and transfer routes as well as task socialization (pp. 613, 619, 630)."
+    },
+    {
+     "element": "K19",
+     "how": "Treats distinct occupational cultures at MCCL as co-produced by managerial staffing arrangements and preference-driven employee transfers (pp. 613, 619, 626, 630)."
+    },
+    {
+     "element": "K22",
+     "how": "Reframes unit occupational values as reflecting both work-based learning and the selective sorting of employees into tasks they already prefer (pp. 626, 630)."
+    }
+   ],
+   "evidence": [
+    "F06",
+    "F57",
+    "F95",
+    "F113",
+    "F114"
+   ],
+   "off_map": "Organizational hiring placement and internal transfer arrangements through which employees self-sort out of disliked routines into preferred units, co-producing unit cultures alongside task socialization.",
+   "opening": [
+    {
+     "sentence": "If employees who dislike repetitive instrument processing transfer out of toxicology into narcotics while compulsive organizers remain, the cultural contrast between the two units reflects accumulated staffing and transfer choices as well as on-the-job socialization.",
+     "tie": "CP02"
+    },
+    {
+     "sentence": "Comparing laboratories that permit internal transfers across units with laboratories that lock analysts into fixed occupational tracks would show how much internal mobility shapes unit cultures and responses to change.",
+     "tie": "C10"
+    }
+   ]
+  },
+  {
+   "reading": "R15",
+   "bears_on": [
+    {
+     "element": "C17",
+     "how": "Separates the origin and content of toxicology's uncertainty reporting—set by a pre-existing ISO accreditation plan and five years of quality-control data—from its accelerated timing under an impending DUI court challenge, reducing DNA comparison to a persuasive courtroom reference (pp. 625, 627–628)."
+    },
+    {
+     "element": "C01",
+     "how": "Qualifies the claim that evaluative spillovers from a neighboring technology reshape work practices by arguing that in toxicology, DNA comparison altered when an established accreditation obligation became urgent rather than initiating the reform or its content (pp. 625, 627–628)."
+    },
+    {
+     "element": "C02",
+     "how": "Limits the benchmark role of DNA in toxicology to a persuasive courtroom comparison while locating the trigger in an organized DUI litigation strategy and the content in ISO and NIST standards (pp. 625, 627)."
+    },
+    {
+     "element": "C03",
+     "how": "Clarifies that the immediate local courtroom pathway supplied a deadline that accelerated an already committed three-year accreditation plan rather than generating the practice change (pp. 625, 627–628)."
+    },
+    {
+     "element": "E04",
+     "how": "Weakens the necessary evidential support C17 provides for C01 by attributing the content and planned adoption of toxicology's reform to prior ISO accreditation rather than DNA spillover (pp. 625, 627–628)."
+    },
+    {
+     "element": "E07",
+     "how": "Refines the necessary evidential support C17 provides for C03 by restricting the courtroom pathway's effect to accelerating an existing accreditation timetable (pp. 625, 627)."
+    },
+    {
+     "element": "X1",
+     "how": "Restricts the immediacy of the institutional pathway in toxicology to explaining the timing of implementation rather than the origin or substance of the change (pp. 625, 627)."
+    },
+    {
+     "element": "U3",
+     "how": "Reframes toxicology's outcome as the accelerated completion of a pre-existing ISO accreditation commitment using unchanged instruments and methods (pp. 625, 627–628)."
+    }
+   ],
+   "evidence": [
+    "F88",
+    "F89",
+    "F90",
+    "F98",
+    "F102"
+   ],
+   "off_map": "The analytical distinction between the prior accreditation mandate that determined a reform's content and eventual adoption and the litigation deadline that accelerated its timetable.",
+   "opening": [
+    {
+     "sentence": "If toxicology already held the data, procedures, and three-year accreditation plan for uncertainty reporting before the courtroom challenge arrived, then the comparison with DNA accelerated an existing schedule rather than causing the reform.",
+     "tie": "C17"
+    },
+    {
+     "sentence": "Examining whether crime laboratories that faced no local DUI courtroom challenge still implemented the same uncertainty reporting at the end of their three-year accreditation cycle would separate timing acceleration from adoption.",
+     "tie": "C01"
+    }
+   ]
+  },
+  {
+   "reading": "R16",
+   "bears_on": [
+    {
+     "element": "C14",
+     "how": "Extends the account of DNA's perceived objectivity by arguing that durable records confer authority because they allow absent reviewers and legal parties to revisit and check parts of an expert's judgment-laden work afterward (p. 619)."
+    },
+    {
+     "element": "C05",
+     "how": "Replaces or supplements internal occupational values of good science with control over subsequent scrutiny—how much of an analyst's work can be reopened by reviewers and legal audiences—as the organizing issue across units (pp. 619, 621–622, 631–632)."
+    },
+    {
+     "element": "C13",
+     "how": "Identifies post-hoc inspectability through durable images, instrument outputs, and uncertainty calculations as the overarching feature of the DNA benchmark at stake across the units (pp. 619, 621–622, 631–632)."
+    },
+    {
+     "element": "C16",
+     "how": "Rereads firearms examiners' historical move to image-backed documentation and collaborative selection of persuasive views as actively constructing and controlling what outside reviewers and courts can later inspect (pp. 621–622)."
+    },
+    {
+     "element": "C17",
+     "how": "Frames explicit uncertainty calculations as making analytical steps inspectable to outside audiences who were absent from the original bench run (pp. 625, 627–628)."
+    },
+    {
+     "element": "C18",
+     "how": "Frames narcotics analysts' concern over crystal testing's lack of a persistent output and proposals for a second viewer or microscope cameras as disputes over who can inspect the result and when, without changing the underlying chemistry (pp. 631–632)."
+    },
+    {
+     "element": "C21",
+     "how": "Re-centers professional authority and control over external scrutiny in an account that downplays power and authority relative to internal work values (pp. 619, 621–622, 631–632, 637)."
+    },
+    {
+     "element": "K15",
+     "how": "Reframes objectivity in forensic evidence as post-hoc inspectability by absent audiences through durable records rather than the elimination of expert bench judgment (pp. 619, 621–622)."
+    },
+    {
+     "element": "K26",
+     "how": "Treats evidentiary representations—electropherograms, striae photos, chromatograms, and uncertainty figures—as vehicles that redistribute the ability to check expert conclusions (pp. 618–619, 621–622, 631–632)."
+    }
+   ],
+   "evidence": [
+    "F47",
+    "F48",
+    "F49",
+    "F50",
+    "F51",
+    "F65",
+    "F66",
+    "F67",
+    "F68",
+    "F69",
+    "F122",
+    "F124",
+    "F125"
+   ],
+   "off_map": "The redistribution of post-hoc inspection rights—how durable records shift who can revisit, check, and question an expert's conclusion after the bench analysis is finished.",
+   "opening": [
+    {
+     "sentence": "Reframing the comparison with DNA around who can revisit and check an analyst's work afterward turns the units' disputes from clashes over internal scientific values into struggles over external scrutiny by supervisors and legal audiences.",
+     "tie": "C05"
+    },
+    {
+     "sentence": "Comparing how analysts respond to reforms that keep review inside the peer unit versus reforms that hand raw records to defense attorneys and outside experts would test whether control over external scrutiny drives resistance.",
+     "tie": "off-map"
+    }
+   ]
+  },
+  {
+   "reading": "R17",
+   "bears_on": [
+    {
+     "element": "C05",
+     "how": "Denies occupational values an independent explanatory role, arguing that whether an analyst expected to be personally challenged in local court fully accounts for all three outcomes while values merely describe how units talked afterward (pp. 624–625, 632, 635)."
+    },
+    {
+     "element": "C03",
+     "how": "Makes an impending personal challenge in the local court the single sufficient condition explaining why toxicology changed and firearms and narcotics did not (pp. 624–625, 632, 635)."
+    },
+    {
+     "element": "C04",
+     "how": "Argues that technical compatibility adds nothing to local courtroom exposure at MCCL because neither locally unchallenged unit changed regardless of compatibility coding (pp. 624–625, 632–633)."
+    },
+    {
+     "element": "C16",
+     "how": "Explains MCCL firearms examiners' non-change solely by the absence of a local court challenge, noting that firearms examiners from other jurisdictions who faced admissibility hearings favored changing practice (pp. 623–624, 635)."
+    },
+    {
+     "element": "C17",
+     "how": "Explains toxicology's reporting change solely by its being the only unit facing an imminent personal challenge in a named local court case with an outside expert (p. 625)."
+    },
+    {
+     "element": "C18",
+     "how": "Explains narcotics' retention of crystal testing solely by the absence of a local court challenge at MCCL, noting that the Daubert challenge to crystal testing occurred elsewhere (p. 632)."
+    },
+    {
+     "element": "CP01",
+     "how": "Points out that because the single-laboratory study observes each occupation under only one local exposure condition, the firearms–toxicology pair cannot separate occupational values from local courtroom exposure (pp. 624–625, 633, 635)."
+    },
+    {
+     "element": "CP02",
+     "how": "Points out that the toxicology–narcotics pair also confounds value alignment with local courtroom exposure because toxicology had a local court date and narcotics did not (pp. 625, 632–633)."
+    },
+    {
+     "element": "E14",
+     "how": "Breaks the evidential link from C16 to C05 by attributing firearms' resistance entirely to the absence of a local courtroom challenge (pp. 624, 635)."
+    },
+    {
+     "element": "E15",
+     "how": "Breaks the evidential link from C17 to C05 by attributing toxicology's change entirely to facing a named local court challenge (p. 625)."
+    },
+    {
+     "element": "E16",
+     "how": "Breaks the evidential link from C18 to C05 by attributing narcotics' non-change entirely to facing no immediate local court challenge (p. 632)."
+    },
+    {
+     "element": "DG01",
+     "how": "Extends the single-laboratory scope limit by showing that observing one laboratory where each occupation appears in only one exposure condition makes occupational values collinear with local court exposure (pp. 614, 634–635)."
+    },
+    {
+     "element": "DG03",
+     "how": "Uses the report that externally challenged firearms examiners seemed motivated to change practice to argue that courtroom exposure overrides shared occupational values (p. 635)."
+    },
+    {
+     "element": "A01",
+     "how": "Highlights the uncollected local actions of externally challenged firearms examiners as the missing within-occupation variation needed to separate exposure from values (p. 635)."
+    },
+    {
+     "element": "X1",
+     "how": "Elevates immediacy of the local courtroom pathway to the sole factor needed to predict all three unit outcomes at MCCL (pp. 624–625, 632–633, 635)."
+    },
+    {
+     "element": "X3",
+     "how": "Treats compatibility with occupational values as confounded with X1 in the single-lab design and therefore causally redundant (pp. 624–625, 632–633, 635)."
+    }
+   ],
+   "evidence": [
+    "F80",
+    "F84",
+    "F88",
+    "F90",
+    "F104",
+    "F123",
+    "F129",
+    "F164"
+   ],
+   "off_map": "Design-level collinearity between local courtroom exposure and occupational values in a single-laboratory study where each occupation is observed under only one exposure condition and at staggered three-to-six-month intervals after the February 2009 report (pp. 612, 614).",
+   "opening": [
+    {
+     "sentence": "Because each occupation at the laboratory was observed under only one local court exposure condition, whether an analyst faced an impending local court date suffices to predict all three outcomes and cannot be separated from occupational values.",
+     "tie": "C05"
+    },
+    {
+     "sentence": "Observing firearms and narcotics units in jurisdictions where they face immediate local admissibility challenges alongside toxicology units that face none would break the collinearity between courtroom exposure and occupational values.",
+     "tie": "A01"
+    }
+   ]
+  },
+  {
+   "reading": "R18",
+   "bears_on": [
+    {
+     "element": "C05",
+     "how": "Replaces enduring differences in occupational values with a shared practical rule across units—revise established work when a credible local challenge threatens the ability to testify and defend it otherwise—leaving values to shape only the form and language of adjustment (pp. 622, 624, 627, 632)."
+    },
+    {
+     "element": "C03",
+     "how": "Reframes institutional pathways as positions along a sequence of exposure to costly local consequences for courtroom testimony (pp. 624, 627, 632, 635)."
+    },
+    {
+     "element": "C16",
+     "how": "Explains MCCL firearms examiners' defense of existing practice through the absence of local courtroom penalties while citing their earlier shift to image documentation and externally challenged examiners' openness to reform as evidence that firearms adapts when testimony is threatened (pp. 622, 624, 635)."
+    },
+    {
+     "element": "C17",
+     "how": "Reads toxicology's shift from a multi-year plan to immediate implementation as a response to the cost of losing credibility in an upcoming local court case (p. 627)."
+    },
+    {
+     "element": "C18",
+     "how": "Reads narcotics analysts' continued use of crystal testing as a provisional stance maintained while the working-group debate had not yet imposed an immediate requirement or penalty (p. 632)."
+    },
+    {
+     "element": "E14",
+     "how": "Weakens the evidential support C16 provides for C05 by showing that firearms examiners accommodate external expectations when testimony requires it, both in prior imaging reforms and among peers questioned in court (pp. 622, 624)."
+    },
+    {
+     "element": "E16",
+     "how": "Weakens the evidential support C18 provides for C05 by treating narcotics' resistance as contingent on the disputed rule remaining unsettled (p. 632)."
+    },
+    {
+     "element": "X1",
+     "how": "Interprets pathway immediacy as the stage a unit occupies in a sequence of credible local threats to courtroom testimony (pp. 624, 627, 632)."
+    },
+    {
+     "element": "X3",
+     "how": "Restricts occupational values to supplying the acceptable form and language of adjustment once local testimony consequences decide whether adjustment occurs (pp. 622, 624, 627, 632)."
+    },
+    {
+     "element": "DG03",
+     "how": "Uses the presentation by an externally challenged firearms examiner to show that courtroom questioning prompts willingness to revise practice within the same occupational culture (pp. 624, 635)."
+    }
+   ],
+   "evidence": [
+    "F67",
+    "F80",
+    "F84",
+    "F98",
+    "F99",
+    "F129"
+   ],
+   "off_map": "A uniform cross-unit practical decision rule under which analysts defend existing work until a credible local threat to courtroom testimony makes continuing costly, and then adjust in forms shaped by their values.",
+   "opening": [
+    {
+     "sentence": "If all three units follow the same practical rule of defending existing routines until a local threat to courtroom testimony makes continuing costly, then adoption versus resistance reflects when each unit meets consequential exposure rather than different willingness to change.",
+     "tie": "C05"
+    },
+    {
+     "sentence": "Following the narcotics and firearms units over time after a binding working-group rule or a local admissibility challenge arrives would show whether they adopt adjustments once continuing their current practice threatens testimony.",
+     "tie": "C03"
+    }
+   ]
+  },
+  {
+   "reading": "R19",
+   "bears_on": [
+    {
+     "element": "C19",
+     "how": "Challenges both the premise that all three MCCL units sit inside the reach of DNA evaluative spillover and the ventured sorter of shared audiences and overlapping work, arguing that the boundary runs inside MCCL with toxicology on the outside despite sharing the same laboratory, director, and audiences (pp. 619–620, 625, 627–628, 634, 636)."
+    },
+    {
+     "element": "DG02",
+     "how": "Reframes the declared gap on the outer boundary of neighboring occupations by arguing that the near edge of DNA spillover runs between the MCCL units—excluding toxicology—while the far edge is unfixed because trace examiners only protested lost resources and attention (pp. 619, 625, 627–628, 636)."
+    },
+    {
+     "element": "C01",
+     "how": "Rereads the paper's evidence so that the two units reached by DNA comparison in participant accounts (firearms and narcotics) made no local practice change, while the one unit that changed (toxicology) responded to ISO/ASCLD rules and DUI litigation tied to DNA only in the author's voice (pp. 625, 627–628, 633)."
+    },
+    {
+     "element": "C17",
+     "how": "Rereads the toxicology passages to show that neither toxicologists nor the defense attorney named DNA, placing toxicology's reform under pre-existing accreditation standards and DUI litigation rather than DNA spillover (pp. 625, 627–628, 633–634)."
+    },
+    {
+     "element": "C02",
+     "how": "Qualifies the reach of DNA's benchmark scrutiny by showing that printed participant links to DNA are strong in firearms, limited to one general remark in narcotics (p. 617), absent in toxicology, and limited to resource resentment in trace evidence (pp. 617, 619–621, 624–625, 627–628, 631)."
+    },
+    {
+     "element": "C15",
+     "how": "Separates trace examiners' resentment over disproportionate DNA attention and resources (p. 619) from evaluative spillover against an occupation's analytic methods."
+    },
+    {
+     "element": "E04",
+     "how": "Undercuts the necessary evidential link from C17 to C01 by placing toxicology outside the DNA comparison, leaving zero cases where DNA evaluative spillover changed local practice at MCCL (pp. 625, 627–628, 633)."
+    },
+    {
+     "element": "E07",
+     "how": "Undercuts the necessary evidential link from C17 to C03 by arguing that toxicology's local court challenge was not a pathway carrying a DNA comparison (pp. 625, 627–628, 633)."
+    },
+    {
+     "element": "U3",
+     "how": "Reclassifies toxicology as lying outside the reach of DNA evaluative spillover, responding instead to ISO/NIST/ASCLD requirements and DUI uncertainty litigation (pp. 625, 627–628, 633)."
+    },
+    {
+     "element": "K05",
+     "how": "Shows that sharing evaluating audiences (courts, criminal-justice actors, and lab management) did not place toxicology inside the same participant-recognized DNA comparison as firearms (pp. 619–620, 625, 627–628, 636)."
+    },
+    {
+     "element": "K14",
+     "how": "Questions defining neighboring occupations susceptible to spillover by shared audiences and overlapping commitments when units inside the same laboratory sit on opposite sides of the comparison's reach (pp. 619–620, 636)."
+    }
+   ],
+   "evidence": [
+    "F41",
+    "F55",
+    "F57",
+    "F60",
+    "F62",
+    "F82",
+    "F89",
+    "F90",
+    "F98",
+    "F99",
+    "F101",
+    "F102",
+    "F122",
+    "F131",
+    "F151",
+    "F152",
+    "F153",
+    "F157",
+    "F165"
+   ],
+   "off_map": "An internal boundary of evaluative spillover running between the studied units at MCCL—leaving toxicology outside the DNA comparison and leaving the paper with no case in which a participant-recognized DNA comparison changed local practice.",
+   "opening": [
+    {
+     "sentence": "If the boundary of the DNA comparison runs inside the laboratory so that toxicology lies outside it, then shared audiences do not bound the spillover and the two units that actually met the DNA comparison both resisted changing their local practice.",
+     "tie": "C19"
+    },
+    {
+     "sentence": "Examining whether DUI defense attorneys, accreditors, or toxicologists in the local case ever invoked DNA profiling—and whether trace examiners faced method comparisons beyond resource envy—would locate both the near and far edges of the spillover.",
+     "tie": "DG02"
+    }
+   ]
+  },
+  {
+   "reading": "R20",
+   "bears_on": [
+    {
+     "element": "C18",
+     "how": "Explains narcotics analysts' retention of crystal testing as the defense of a workable service under binding statutory turnaround deadlines and a two-instrument bottleneck, treating craft values as supportive but unnecessary to sustain refusal (pp. 629, 631–632)."
+    },
+    {
+     "element": "C04",
+     "how": "Challenges the premise that knowing how to perform GC/MS makes the method technically compatible for routine adaptation when the unit lacks the instrument capacity to run its full caseload (pp. 629, 632–633)."
+    },
+    {
+     "element": "C05",
+     "how": "Demotes occupational craft values in narcotics from the primary cause of resistance to a compelling rationale for a position already forced by insufficient throughput capacity (pp. 629, 631–632)."
+    },
+    {
+     "element": "E12",
+     "how": "Weakens the necessary evidential link from C18 to C04 by arguing that the mismatch in narcotics is between knowing a method and having the capacity to use it at scale rather than between technical compatibility and occupational values (pp. 629, 632–633)."
+    },
+    {
+     "element": "E16",
+     "how": "Weakens the evidential support C18 provides for C05 by making equipment and turnaround constraints sufficient to sustain crystal testing without relying on craft values (pp. 629, 631–632)."
+    },
+    {
+     "element": "X2",
+     "how": "Distinguishes technical competence to run an instrument on exceptional cases from organizational capacity to process the whole workload on that instrument under legal deadlines (pp. 629, 632–633)."
+    },
+    {
+     "element": "X3",
+     "how": "Treats incompatibility with occupational values as reinforcing but causally unnecessary to explain narcotics' retention of crystal testing (pp. 629, 632)."
+    },
+    {
+     "element": "U4",
+     "how": "Reinterprets the narcotics unit's mix of rapid crystal tests for routine cases and GC/MS for unknowns as a practical allocation of limited processing time across two machines (pp. 629, 632)."
+    },
+    {
+     "element": "CP02",
+     "how": "Challenges holding technical compatibility constant across toxicology and narcotics because narcotics could not process its routine workload on its two GC/MS instruments (pp. 629, 632–633)."
+    }
+   ],
+   "evidence": [
+    "F109",
+    "F119",
+    "F123",
+    "F124",
+    "F125"
+   ],
+   "off_map": "The distinction between technical competence to perform an instrumented method on isolated cases and organizational throughput capacity to process an entire caseload with that method under binding turnaround clocks and limited equipment.",
+   "opening": [
+    {
+     "sentence": "If knowing how to run an instrument on exceptional cases does not mean two machines can clear the routine drug caseload under legal charging deadlines, then narcotics' refusal reflects a capacity bottleneck rather than technical compatibility overridden by craft values.",
+     "tie": "C04"
+    },
+    {
+     "sentence": "Testing whether narcotics analysts shift routine cases to instrumentation when given enough machines to meet statutory turnaround times would separate capacity constraints from craft values.",
+     "tie": "C18"
+    }
+   ]
+  },
+  {
+   "reading": "R21",
+   "bears_on": [
+    {
+     "element": "C14",
+     "how": "Extends the account of DNA's credibility by treating reviewable records as opportunities for later questioning while expert judgment remains involved (pp. 618–619)."
+    },
+    {
+     "element": "C16",
+     "how": "Reads firearms imaging as possible prior accommodation of documentary demands, qualifying resistance to change as refusal of statistical matching (pp. 621–624)."
+    },
+    {
+     "element": "C18",
+     "how": "Treats cameras and additional review as possible responses to scrutiny that preserve crystal chemistry rather than replace it (pp. 631–632)."
+    },
+    {
+     "element": "C13",
+     "how": "Separates inspectable documentation from statistical matching as distinct features of the DNA benchmark that occupations can accommodate differently (pp. 619, 621–622, 631–632)."
+    },
+    {
+     "element": "C05",
+     "how": "Adds control over subsequent scrutiny to what is at stake in occupational responses without claiming that values cease to matter (pp. 621–622, 631–632)."
+    },
+    {
+     "element": "K15",
+     "how": "Distinguishes evidence that others can inspect from evidence produced without discretionary judgment (p. 619)."
+    },
+    {
+     "element": "K26",
+     "how": "Makes representation a means of redistributing access to expert conclusions after the original analysis (pp. 619, 621–622, 631–632)."
+    },
+    {
+     "element": "U2",
+     "how": "Questions the scope of the unchanged-practice outcome by including the unit's earlier transition to documented images (pp. 621–622)."
+    }
+   ],
+   "evidence": [
+    "F47",
+    "F48",
+    "F49",
+    "F50",
+    "F65",
+    "F66",
+    "F67",
+    "F68",
+    "F69",
+    "F122",
+    "F124",
+    "F125"
+   ],
+   "off_map": "The map lacks a claim that durable records redistribute the ability to reopen and challenge expert conclusions after the original analysis.",
+   "opening": [
+    {
+     "sentence": "Firearms may have accommodated demands for inspectable evidence while continuing to reject statistical matching.",
+     "tie": "C16"
+    },
+    {
+     "sentence": "Following records through later reviews and court challenges would show who gains opportunities to question conclusions and whether those opportunities drive documentation changes.",
+     "tie": "off-map"
+    }
+   ]
+  },
+  {
+   "reading": "R22",
+   "bears_on": [
+    {
+     "element": "C17",
+     "how": "Assigns the reform's content and adoption to prior accreditation obligations and its acceleration to DUI litigation, replacing DNA comparison as the cause (pp. 625, 627–628, 635)."
+    },
+    {
+     "element": "C02",
+     "how": "Questions whether DNA's benchmark status generated toxicology's pressure when the reported litigation tactic and participant account name other sources (pp. 625, 627–628)."
+    },
+    {
+     "element": "C01",
+     "how": "Reinterprets the sole changing case as standards compliance, removing its role as an example of a neighboring technology changing work (pp. 627–628)."
+    },
+    {
+     "element": "E04",
+     "how": "If toxicology changed independently of DNA comparison, its reporting reform no longer supplies this necessary evidential support for technological spillover (pp. 625, 627–628)."
+    },
+    {
+     "element": "C03",
+     "how": "Retains the local court threat as an accelerator but attributes the reform itself to an established accreditation route (pp. 616, 627, 635)."
+    },
+    {
+     "element": "E07",
+     "how": "Recasts toxicology's contribution as evidence of litigation accelerating compliance rather than of an immediate pathway transmitting DNA evaluation (pp. 625, 627–628)."
+    },
+    {
+     "element": "K06",
+     "how": "Distinguishes comparison-induced change from compliance whose requirements and materials were already established independently (pp. 627–628)."
+    },
+    {
+     "element": "U3",
+     "how": "Keeps toxicology's changed outcome but contests its classification as the positive case of response to DNA spillover (pp. 627–628)."
+    }
+   ],
+   "evidence": [
+    "F34",
+    "F89",
+    "F90",
+    "F98",
+    "F99",
+    "F102",
+    "F103",
+    "F161"
+   ],
+   "off_map": "Although accreditation preparation is mapped, an independent causal route in which standards determine toxicology's reform and DUI litigation advances it without a DNA comparison is absent.",
+   "opening": [
+    {
+     "sentence": "If toxicology changed through accreditation and litigation alone, the changing case no longer demonstrates technological spillover.",
+     "tie": "C01"
+    },
+    {
+     "sentence": "Reconstructing the accreditation plan, litigation strategy and decision timeline would establish whether comparison with DNA contributed beyond the obligations already in place.",
+     "tie": "C17"
+    }
+   ]
+  },
+  {
+   "reading": "R23",
+   "bears_on": [
+    {
+     "element": "C17",
+     "how": "Replaces spillover with an existing accreditation project accelerated by a court challenge, distinguishing earlier preparation from the later reporting change (pp. 625, 627–628)."
+    },
+    {
+     "element": "C02",
+     "how": "Contests the extension of DNA-driven evaluation to toxicology by contrasting the author's attribution with the reported demands and toxicologist's account (pp. 625, 627–628)."
+    },
+    {
+     "element": "C01",
+     "how": "Divides the cases into two DNA comparisons and one independent compliance episode, questioning what the observed change demonstrates about technological influence (pp. 625, 627–628)."
+    },
+    {
+     "element": "E04",
+     "how": "Removing toxicology from the spillover cases withdraws the changing case on which this evidential connection depends (pp. 627–628)."
+    },
+    {
+     "element": "C03",
+     "how": "Preserves courtroom immediacy as an explanation of implementation timing while disputing that this route conveyed a DNA comparison (pp. 625, 627, 635)."
+    },
+    {
+     "element": "E07",
+     "how": "Toxicology would illustrate acceleration by a local court date without establishing how evaluative spillovers travel through institutional pathways (pp. 625, 627–628)."
+    },
+    {
+     "element": "K06",
+     "how": "Challenges counting a reporting reform as spillover when its proposed cause is compliance with independently established standards (pp. 627–628)."
+    },
+    {
+     "element": "U3",
+     "how": "Retains the observed change but relocates the unit outside the proposed set of DNA-spillover cases (pp. 627–628)."
+    }
+   ],
+   "evidence": [
+    "F89",
+    "F90",
+    "F98",
+    "F99",
+    "F102",
+    "F161"
+   ],
+   "off_map": "The map lacks an autonomous accreditation-to-reporting-change link in which litigation determines timing without comparison to a neighboring technology.",
+   "opening": [
+    {
+     "sentence": "The toxicology episode may belong to standards compliance rather than the set of changes caused by comparisons with DNA.",
+     "tie": "K06"
+    },
+    {
+     "sentence": "Tracing the local attorney's intended argument and the unit's reasons for implementation would distinguish a DNA comparison from enforcement of an existing uncertainty requirement.",
+     "tie": "C17"
+    }
+   ]
+  },
+  {
+   "reading": "R24",
+   "bears_on": [
+    {
+     "element": "C18",
+     "how": "Retells the narcotics dispute as resistance to the possible imposition of a regional coalition's methods through national standards (pp. 628, 630–632)."
+    },
+    {
+     "element": "C21",
+     "how": "Reopens the ranking of values above power by making access to rule-making authority central to narcotics' response (pp. 631–632, 637)."
+    },
+    {
+     "element": "E33",
+     "how": "Reassigning narcotics resistance to unequal standard-setting influence changes what this case contributes to the comparison of power with work-based explanations (pp. 631–632, 637)."
+    },
+    {
+     "element": "C03",
+     "how": "Adds the capacity to impose working requirements to the professional association's role in carrying and interpreting evaluation (pp. 630–631)."
+    },
+    {
+     "element": "C02",
+     "how": "Treats DNA's prestige as a resource that could favor one already accepted method over another within an occupation (p. 628)."
+    },
+    {
+     "element": "C05",
+     "how": "Retains values as shaping the methods each side defends while shifting explanatory weight to whose preferences could become compulsory (pp. 628, 631–632)."
+    },
+    {
+     "element": "K23",
+     "how": "Locates power within an occupation's standard-setting process, using analysts' perceptions of board influence rather than established board composition (p. 631)."
+    },
+    {
+     "element": "K11",
+     "how": "Reads internal professional debate as a possible route to binding requirements, as illustrated by existing crystal-test rules (pp. 630–631)."
+    }
+   ],
+   "evidence": [
+    "F106",
+    "F110",
+    "F121",
+    "F123"
+   ],
+   "off_map": "The map lacks a causal link from regional control of standard-setting bodies to imposing one coalition's established methods and shifting adaptation costs to other laboratories.",
+   "opening": [
+    {
+     "sentence": "The narcotics dispute may make power over standards part of the explanation for resistance even when both methods are scientifically accepted.",
+     "tie": "C21"
+    },
+    {
+     "sentence": "Examining board representation, proposed rules and deliberations would establish whether regional influence shaped which methods became compulsory.",
+     "tie": "off-map"
+    }
+   ]
+  },
+  {
+   "reading": "R25",
+   "bears_on": [
+    {
+     "element": "C18",
+     "how": "Explains retained crystal testing through legal deadlines and instrument capacity, reading anticipated compliance and proposed remedies as openness to change (pp. 629, 631–632)."
+    },
+    {
+     "element": "C04",
+     "how": "Distinguishes knowing and using GC/MS for some cases from having capacity to make it the routine method (pp. 629, 632)."
+    },
+    {
+     "element": "X2",
+     "how": "Questions treating narcotics' technical compatibility as sufficient evidence of feasible adaptation across its caseload (pp. 629, 632–633)."
+    },
+    {
+     "element": "E12",
+     "how": "If routine-scale instrumentation is infeasible, narcotics no longer supplies the same example of compatible technique being available yet declined (pp. 629, 632)."
+    },
+    {
+     "element": "C05",
+     "how": "Moves capacity ahead of craft preferences as the reason for retention and restores speed to the values considered in the comparison (pp. 630–633)."
+    },
+    {
+     "element": "E16",
+     "how": "The capacity explanation redirects the narcotics case away from supporting threatened autonomy and variety as the cause of resistance (pp. 631–632)."
+    },
+    {
+     "element": "C03",
+     "how": "Questions the separation of professional debate from court pressure by comparing narcotics' hearing workshop with firearms' professionally relayed distant challenges (pp. 621, 632–635)."
+    },
+    {
+     "element": "E08",
+     "how": "Reopens what narcotics' unchanged practice demonstrates about institutional pathways when legal pressure and capacity constraints enter the account (pp. 632–635)."
+    },
+    {
+     "element": "K11",
+     "how": "Allows a professional event to relay a court challenge without treating that report as proof of an imminent local case (pp. 621, 632–633)."
+    },
+    {
+     "element": "U4",
+     "how": "Separates continued crystal testing from unwillingness to adapt, pointing to expected instrument use and consideration of documentary remedies (pp. 631–633)."
+    }
+   ],
+   "evidence": [
+    "F62",
+    "F109",
+    "F111",
+    "F118",
+    "F119",
+    "F120",
+    "F122",
+    "F123",
+    "F124",
+    "F125",
+    "F139",
+    "F141",
+    "F150",
+    "F162"
+   ],
+   "off_map": "The map lacks workload capacity and legal turnaround as a causal factor and a direct firearms–narcotics contrast for classifying court challenges relayed through professional events.",
+   "opening": [
+    {
+     "sentence": "Continued crystal testing may reflect a binding production constraint while the unit anticipates compliance and considers ways to preserve reviewable evidence.",
+     "tie": "C18"
+    },
+    {
+     "sentence": "Following the unit's decisions when equipment capacity or turnaround requirements change would show whether those constraints determine continued crystal testing despite craft preferences.",
+     "tie": "off-map"
+    }
+   ]
+  },
+  {
+   "reading": "R26",
+   "bears_on": [
+    {
+     "element": "C18",
+     "how": "Reads continued crystal testing as an unfinished response at the fieldwork endpoint, with anticipated compliance and possible remedies still under discussion (pp. 612, 615, 631–632)."
+    },
+    {
+     "element": "U4",
+     "how": "Keeps the observed absence of change but questions treating it as settled resistance when no instruction and refusal are printed (pp. 631–633)."
+    },
+    {
+     "element": "C05",
+     "how": "Assigns values a role in expressing preferences while treating pending requirements and capacity as possible determinants of subsequent action (pp. 629, 631–632)."
+    },
+    {
+     "element": "E16",
+     "how": "Reinterpreting narcotics' position as unresolved changes its evidential role in the claim that threatened values cause resistance (pp. 631–632)."
+    },
+    {
+     "element": "C03",
+     "how": "Questions the classification of narcotics pressure as solely professional debate by comparing its hearing workshop with firearms' professionally relayed court challenges (pp. 621, 632–635)."
+    },
+    {
+     "element": "K11",
+     "how": "Treats professional meetings as possible carriers of pressure originating in court, making professional and legal routes overlap (pp. 621, 632–633)."
+    },
+    {
+     "element": "X1",
+     "how": "Retains the absence of an immediate requirement as relevant to nonchange without treating a reported hearing elsewhere as an imminent local demand (p. 632)."
+    },
+    {
+     "element": "E08",
+     "how": "Makes narcotics a provisional case for assessing pathway effects because its response precedes a settled requirement and faces capacity constraints (pp. 629, 631–632)."
+    }
+   ],
+   "evidence": [
+    "F30",
+    "F62",
+    "F109",
+    "F122",
+    "F123",
+    "F124",
+    "F125",
+    "F129",
+    "F139",
+    "F141",
+    "F153",
+    "F162"
+   ],
+   "off_map": "The map lacks the fieldwork endpoint as an evidential limit and a sequence distinguishing pending requirements, capacity-constrained delay and refusal.",
+   "opening": [
+    {
+     "sentence": "Narcotics' continued crystal testing may mark an unresolved stage before a requirement was settled rather than a completed refusal to change.",
+     "tie": "C18"
+    },
+    {
+     "sentence": "Following subsequent rulings and the unit's actions alongside its equipment and workload would distinguish compliance, delay and refusal.",
+     "tie": "off-map"
+    }
+   ]
+  },
+  {
+   "reading": "R27",
+   "bears_on": [
+    {
+     "element": "C17",
+     "how": "Elevates the prepared accreditation reform from facilitator to explanation of adoption, assigning the court threat an effect on timing (pp. 627–628, 635)."
+    },
+    {
+     "element": "C03",
+     "how": "Reattributes the difference between firearms and toxicology to a previously scheduled response rather than courtroom proximity (pp. 627–628, 635)."
+    },
+    {
+     "element": "C16",
+     "how": "Retains firearms' nonchange but identifies the lack of a comparable printed reform schedule as an alternative to explaining it through distance alone (pp. 627, 635)."
+    },
+    {
+     "element": "CP01",
+     "how": "Introduces prior obligation and preparation as another difference between the units, changing what their contrast can attribute to immediacy (pp. 627–628, 633, 635)."
+    },
+    {
+     "element": "X1",
+     "how": "Limits immediacy's proposed effect to the implementation date rather than whether the reporting reform would occur (p. 627)."
+    },
+    {
+     "element": "E07",
+     "how": "Narrows toxicology's support for the pathway claim to acceleration of a scheduled project rather than generation of the change (pp. 627–628, 635)."
+    }
+   ],
+   "evidence": [
+    "F98",
+    "F101",
+    "F102",
+    "F143",
+    "F161"
+   ],
+   "off_map": "Although accreditation preparation appears in the toxicology claim, the map lacks a separate factor comparing the units' prior obligations and scheduled responses.",
+   "opening": [
+    {
+     "sentence": "The firearms–toxicology contrast may turn on whether a reform was already required and prepared, with court proximity determining its implementation date.",
+     "tie": "CP01"
+    },
+    {
+     "sentence": "Comparing the units' accreditation obligations, scheduled changes and preparation before the court threat would establish whether prior commitments explain their different responses.",
+     "tie": "off-map"
+    }
+   ]
+  },
+  {
+   "reading": "R28",
+   "bears_on": [
+    {
+     "element": "C16",
+     "how": "Counts firearms' earlier adoption of images and signed reviews as change while preserving its refusal of routine numerical matching (pp. 621–623)."
+    },
+    {
+     "element": "C18",
+     "how": "Reads proposed cameras and additional review as movement toward adaptation, alongside existing compliance with crystal-test verification rules (pp. 630–632)."
+    },
+    {
+     "element": "C14",
+     "how": "Uses DNA's reviewable records as the common model of credibility toward which documentary changes can move (pp. 618–619)."
+    },
+    {
+     "element": "C13",
+     "how": "Develops the distinction among benchmark features into an account of selective uptake, emphasizing later inspectability across occupations (pp. 618–623, 631–632)."
+    },
+    {
+     "element": "C04",
+     "how": "Limits firearms' incompatibility to the statistical demand by treating documentary adaptation as already accomplished (pp. 621–623)."
+    },
+    {
+     "element": "C05",
+     "how": "Questions interpreting threatened craft values as general resistance when analysts preserve judgment while adopting or considering review procedures (pp. 621–623, 630–632)."
+    },
+    {
+     "element": "K17",
+     "how": "Distinguishes change in evidentiary documentation from replacement of identification methods, making the response depend on which practice is counted (pp. 621–623, 631–632)."
+    },
+    {
+     "element": "U2",
+     "how": "Reclassifies firearms as showing selective change when its historical transition to documented comparisons is included (pp. 621–622, 633)."
+    },
+    {
+     "element": "U4",
+     "how": "Qualifies the resistance outcome through existing verification requirements and contemplated documentation changes without treating cameras as already adopted (pp. 630–633)."
+    }
+   ],
+   "evidence": [
+    "F47",
+    "F65",
+    "F66",
+    "F67",
+    "F68",
+    "F69",
+    "F71",
+    "F110",
+    "F122",
+    "F124",
+    "F125",
+    "F151",
+    "F153"
+   ],
+   "off_map": "The map lacks a shared trajectory toward later inspectability that distinguishes documentary changes from changes to identification and tracks completed versus contemplated adjustments.",
+   "opening": [
+    {
+     "sentence": "Firearms becomes a case of selective documentary adaptation when its earlier imaging changes are counted alongside its refusal of routine quantification.",
+     "tie": "C16"
+    },
+    {
+     "sentence": "Dating changes and tracing why units adopted or rejected new review procedures would establish whether a common demand for inspectable evidence connects their responses.",
+     "tie": "off-map"
+    }
+   ]
+  },
+  {
+   "reading": "R29",
+   "bears_on": [
+    {
+     "element": "C21",
+     "how": "Reverses the explanatory ranking by treating protection or improvement of standing as the organizing motive behind all three responses (pp. 619–620, 623, 628, 630, 632–633, 637)."
+    },
+    {
+     "element": "C05",
+     "how": "Reinterprets valued craft and accuracy as means of defending distinctiveness or gaining standing rather than independent explanations of adaptation (pp. 623, 628, 630, 632–633)."
+    },
+    {
+     "element": "C16",
+     "how": "Reads firearms' defense of trained judgment as protecting specialized expertise against interchangeability and competing claims to objectivity (pp. 619–620, 623)."
+    },
+    {
+     "element": "C18",
+     "how": "Makes resistance to routine instrumentation a defense against being replaceable by workers without specialized crystal-testing skills (pp. 630, 632)."
+    },
+    {
+     "element": "C17",
+     "how": "Reads toxicologists' reporting innovation and displayed pride as an attempt to improve the unit's standing (pp. 628, 633)."
+    },
+    {
+     "element": "C15",
+     "how": "Uses resource envy and trace examiners' organizing as a precedent for interpreting the other units' responses through standing and resources (p. 619)."
+    },
+    {
+     "element": "E29",
+     "how": "If the values invoked express status interests, the values account no longer supplies the same independent basis for ranking work above status (pp. 623, 628, 630, 632–633, 637)."
+    },
+    {
+     "element": "K23",
+     "how": "Locates power in management's ability to redeploy analysts and in workers' proposed defense of specialized competence (pp. 619–620, 632)."
+    },
+    {
+     "element": "K29",
+     "how": "Connects rank among laboratory units, claims to objectivity within firearms and toxicology's claimed lead over other laboratories (pp. 623, 628, 630, 633)."
+    }
+   ],
+   "evidence": [
+    "F54",
+    "F55",
+    "F57",
+    "F58",
+    "F74",
+    "F103",
+    "F113",
+    "F114",
+    "F127",
+    "F149"
+   ],
+   "off_map": "The map lacks worker irreplaceability under managerial reassignment as a mechanism linking craft defenses and reporting innovation to occupational standing.",
+   "opening": [
+    {
+     "sentence": "The three responses may protect or improve occupational standing, making valued work practices vehicles of status competition.",
+     "tie": "C21"
+    },
+    {
+     "sentence": "Comparing reassignment decisions and workers' stated expectations before each response would show whether avoiding replacement or improving standing drove their choices.",
+     "tie": "off-map"
+    }
+   ]
+  },
+  {
+   "reading": "R30",
+   "bears_on": [
+    {
+     "element": "C17",
+     "how": "Separates the reform's prior rationale, materials and commitment from its accelerated implementation, retaining DNA comparison as a contributing courtroom reference (pp. 627–628)."
+    },
+    {
+     "element": "C01",
+     "how": "Limits this example's technological influence to advancing an established reporting reform rather than initiating its content or eventual adoption (pp. 627–628)."
+    },
+    {
+     "element": "E04",
+     "how": "Retains toxicology as evidence of spillover affecting implementation while narrowing what the case establishes about spillover originating reform (pp. 627–628)."
+    },
+    {
+     "element": "C03",
+     "how": "Preserves the immediate court route as an accelerator within a reform already organized through accreditation (p. 627)."
+    },
+    {
+     "element": "X1",
+     "how": "Assigns immediacy an effect on the timetable rather than on the reform's substantive requirements or prior commitment (p. 627)."
+    },
+    {
+     "element": "E07",
+     "how": "Reads toxicology's contribution to the pathway claim specifically as faster implementation of an existing project (pp. 627–628)."
+    },
+    {
+     "element": "K21",
+     "how": "Locates the observed practice change in uncertainty calculation and reporting while the instrument and analytic method remain continuous (pp. 627–628)."
+    }
+   ],
+   "evidence": [
+    "F98",
+    "F99",
+    "F102"
+   ],
+   "off_map": "The map lacks an independent link from accreditation commitments to eventual adoption, separated from the spillover's effect on implementation timing.",
+   "opening": [
+    {
+     "sentence": "Evaluative spillover may change when an established reform is implemented without explaining its content or eventual adoption.",
+     "tie": "C01"
+    },
+    {
+     "sentence": "Comparing the original accreditation schedule with subsequent decisions and courtroom arguments would identify what the DNA comparison changed.",
+     "tie": "C17"
+    }
+   ]
+  }
+ ]
+}

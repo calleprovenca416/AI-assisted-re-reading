@@ -1,0 +1,170 @@
+{
+  "card_id": "pratt_2000_construct_inversion_CP03_01",
+  "paper_id": "pratt_2000",
+  "move": "construct_inversion",
+  "trigger": "from_pair CP03 (analyst-constructed pair, a weaker licence than one the authors drew)",
+  "claim": "C23",
+  "incumbent_reading": "The paper files the first response under a member's reliance on upline sources for reading outsiders, and the second under an ambivalent member's embarrassment at Amway's reputation, so that each response follows from the state the distributor was already in.",
+  "wager": {
+    "statement": "The pair is the analyst's, a weaker footing than one the paper drew. As printed, each stub has a before and an after, and in each the before runs against the state the episode is filed under. The distributor in F85 had ignored her upline's advice in that recruiting attempt; the conclusion that the upline and the recordings had foreseen her friends' reaction came after. The distributor in F104 had Amway merchandise on display at work; the denial came after a coworker tied Amway to Nazis. The paper's account gives the first a reliance on upline sources (F79, the author's account) and the second a standing embarrassment (F104's gloss, the author's). The stubs print people being moved by an event, the direction C36 leaves open: the episode first, the stance after. The two responses are also not the same kind of thing. F104 prints what a distributor did at once, on the remark. F85 prints what a distributor concluded afterwards and told the researcher. Two other fragments filed with F85 are of the second kind: a confrontation retold in celebration at a dinner (F83), and friends' avoidance retold as a lesson about those friends (F84). In the two places where the corpus prints the moment of facing an outsider's doubt about Amway, it prints giving way: the denial in F104, and the researcher's enthusiasm weakening among skeptical colleagues, whom he then avoided (F106). The wager is that the pair shows two moments of one sequence and not two kinds of member. In front of the outsider the member gives ground; afterwards, away from the outsider, the organization's account turns the same blow into a point in its favor. What the paper files as a mixed state would be the first moment, and what it files as reliance on upline sources the second. The second moment is close to what the paper itself claims in C23; the difference is that the paper sorts members and this reading sorts moments.",
+    "seed_fragments": [
+      "F85",
+      "F104",
+      "F106"
+    ],
+    "what_it_would_take_to_cohere": {
+      "observation": "The other moment of each episode: what the distributor in F85 did in front of her friends when they reacted, and what the distributor in F104 later made of the coworker's remark.",
+      "printed": false,
+      "printed_fragments": [],
+      "basis": "Absent. F85 gives only the later conclusion and F104 only the immediate denial. F104's gloss, which is the author's, says involvement continued, so there was an afterwards, but no stub prints what was made of the remark in it. No other fragment follows either distributor; I checked F79 to F85, F101 to F107, and F110, which says some distributors changed state over time without saying who."
+    },
+    "strains_against": [
+      "F104 -- the episode reached the researcher in an interview, itself a later telling, and its gloss, the author's, reads that telling as embarrassment despite continuing involvement; nothing printed has the distributor turning the remark into a point for Amway.",
+      "F105 -- an account given afterwards, away from the friend he lost, that does not come round to the organization's side: he now recruits among distant acquaintances to protect the relationships he counts as important.",
+      "F83 -- in the boss's presence Ken confronted him; if that confrontation was over Amway, the first moment is not always a giving way.",
+      "F74 -- a distributor speaking afterwards still tells the harsh reactions of friends and relatives as what made the first months hard, not as a point for the organization.",
+      "F107 -- the author's account is that ambivalent distributors kept important non-member ties and heard both sides, a standing difference between kinds of member that would explain F104 without any sequence."
+    ],
+    "who_could_complete_it": "Either distributor's fuller account of the same episode, or a field observation that catches one member both in front of a critic and afterwards among distributors."
+  },
+  "fragment_jobs": {
+    "F85": "prints the later conclusion of a distributor who had not followed her upline in the attempt, so that reliance on the upline appears after the event.",
+    "F104": "prints the immediate act of a distributor who until then had the merchandise on show at work, so that the distancing appears after the event.",
+    "F79": "is the author's account of the state F85 is filed under, with heavy reliance on upline sources as one of its marks; the reading sets the ignored advice in F85 against it.",
+    "F83": "prints an after-the-fact telling among distributors in which an event made the organization's label for bosses newly meaningful to the teller.",
+    "F84": "prints another after-the-fact telling, in which friends' avoidance becomes a lesson about those friends.",
+    "F106": "prints one person both giving way in front of skeptical colleagues and then keeping away from them; it does not print him turning their doubt into a point for Amway."
+  },
+  "grounded_in": [
+    {
+      "kind": "divergence",
+      "items": [
+        "F85",
+        "F79"
+      ],
+      "how": "F85 prints a distributor who ignored her upline's advice in the attempt; F79, the author's account of the state F85 is filed under, makes heavy reliance on upline sources part of that state. The reliance is printed as following the event."
+    },
+    {
+      "kind": "divergence",
+      "items": [
+        "F104",
+        "F104 gloss"
+      ],
+      "how": "The stub prints a change: merchandise on display at work, then a denial once the coworker spoke. The gloss, the author's, describes a standing condition, embarrassment alongside continuing involvement."
+    },
+    {
+      "kind": "missing_fact",
+      "question": "How did the distributor in F104 later account for the coworker's remark?",
+      "bears_on": "C29",
+      "if_one_way": "If the distributor later put the remark down to the coworker, as the speaker in F84 did with her friends, C29 would lose this episode: the denial would be the first moment of the sequence C23 describes, and the difference from F85 one of timing.",
+      "if_the_other": "If the distributor went on treating the remark as damaging to Amway or to the distributor, C29 would read as written and the two episodes would be two outcomes."
+    },
+    {
+      "kind": "missing_fact",
+      "question": "Was the distributor in F104 already inactive when the coworker spoke?",
+      "bears_on": "C29",
+      "if_one_way": "If the distributor was active and showing the merchandise until the remark and went quiet after it, the mixed state in C29 would read as something the remark set off.",
+      "if_the_other": "If the distributor was already inactive and wavering, C29 would read as written: the denial expresses a state that was there before."
+    }
+  ],
+  "reach": {
+    "same_construct": [
+      "F83",
+      "F84"
+    ],
+    "same_outcome": [
+      "F105"
+    ],
+    "feature_elsewhere": [
+      "F74"
+    ],
+    "orphans_used": []
+  },
+  "rival": "The paper's filing: these were two different kinds of member before anything happened. One already took her reading of people from her upline, and one ignored piece of advice does not change that; the other was an inactive distributor with outside ties pulling the other way (F107, the author's account), and the merchandise at work was a remnant. Each response follows from the state, the pair shows two outcomes, and no sequence is needed.",
+  "split": null,
+  "naming": {
+    "register_version": null,
+    "outcome": "register not opened"
+  },
+  "status": "killed",
+  "attack": {
+    "killed_by": [
+      "B_import"
+    ],
+    "verdicts": [
+      {
+        "mode": "B_import",
+        "killed": true,
+        "citations": [
+          "F83",
+          "F106"
+        ],
+        "drift": [],
+        "note": "KILL. Two factual additions supply the audience and encounter settings on which the proposed sequence depends. First, fragment_jobs.F83 says it 'prints an after-the-fact telling among distributors'. F83 carries a dinner scene, Ken's celebration of a confrontation, and his statement that Amway's label for bosses became newly meaningful. It does not identify the dinner audience as distributors. The unit field identifies the subject category, not everyone present at dinner; no other fragment supplies that audience for this episode. Second, fragment_jobs.F106 says it 'prints one person both giving way in front of skeptical colleagues and then keeping away from them'; the statement likewise counts F106 among places printing 'the moment of facing an outsider's doubt'. F106 carries colleagues weakening the researcher's enthusiasm during an intensive fieldwork period, his consequent avoidance, and role strain. It does not locate the weakening in a particular face-to-face encounter or establish that it happened in the colleagues' presence. 'Giving way' can paraphrase weakened enthusiasm, but 'in front of' adds an unprinted setting. These additions turn retrospective or period-level reports into evidence for a contrast between responses before outsiders and subsequent accounts among insiders. The citations identify the fragments being enlarged; neither added setting has a carrying fragment. No author-account-to-event drift is separately identified: the card explicitly attributes F79 and F104's gloss to the author.",
+        "considered_not_fired": [
+          {
+            "item": "F85 chronology in the statement and fragment job",
+            "why": "F85 explicitly carries ignored upline advice during a recruiting attempt followed by the conclusion that the upline and recordings had anticipated the friends' reaction. Its interview data type carries the subsequent report. Calling this a later conclusion is ordinary paraphrase. The fragment does not prove an absence of all prior reliance, but the card's contrast with F79 is an interpretive argument rather than a separately supplied biographical fact."
+          },
+          {
+            "item": "F104 chronology in the statement and fragment job",
+            "why": "F104 carries prior display of merchandise at work, the coworker's Nazi association, and immediate denial of involvement. The card's description of distancing after the remark is supported. The card separately leaves the distributor's prior activity status and later interpretation unresolved."
+          },
+          {
+            "item": "F79 and F104's author gloss",
+            "why": "F79 expressly reports the author's account of heavy reliance on upline sources. F104's gloss expressly characterizes embarrassment despite continuing involvement. The card identifies both as the author's account. Its characterization of this as a standing state is an interpretation of that account, not participant testimony establishing when embarrassment began."
+          },
+          {
+            "item": "Supported portions of F83 and F84's fragment jobs",
+            "why": "F83 carries a confrontation subsequently celebrated at dinner and the newly meaningful organizational label. F84 carries friends' avoidance after learning of membership, refusal to hear the plan, and the distributor's interpretation of this as a lesson about those relationships. Their retrospective character and interpretive content are printed; the unsupported dinner audience is treated separately in the kill."
+          },
+          {
+            "item": "Supported portions of F106's fragment job",
+            "why": "F106 carries weakened enthusiasm, avoidance of skeptical colleagues, and strain between roles. It does not print a later reinterpretation favoring Amway, as the card correctly acknowledges. These clauses add no cause or consequence beyond the stub."
+          },
+          {
+            "item": "CP03, C23, C36, and the proposed two-moment sequence",
+            "why": "CP03 explicitly identifies the pair as not drawn by the authors. C23 prints the theory about organizational sources reducing outside influence, and C36 allows identification to emerge from sensemaking as well as shape it. They are theoretical or corpus-construction context, not event evidence. The card expressly wagers on the unobserved complementary moments and declares what would be needed to establish them; their absence alone is not an additional factual import. No separating feature requires checking because split is null."
+          }
+        ]
+      },
+      {
+        "mode": "E_contradiction",
+        "killed": false,
+        "citations": [],
+        "note": "CLEAR. All 125 fragment stubs were scanned, together with their notes, the declared gaps, and the absence register. No fragment outside the seeds and declared strains supplies an incompatible response within the outsider-encounter/afterwards sequence proposed for this pair. The missing complementary moments do not establish that the sequence occurred, but they also cannot serve as contrary observations. This clearance does not reverse the factual-import kill under B.",
+        "considered_not_fired": [
+          {
+            "item": "F83, F105, and F74",
+            "why": "Ken's confrontation, the later decision to protect important friendships, and the retrospective account of harsh reactions as hardship are serious pressure on the proposed pattern. Each is expressly listed under strains_against, including the possibility that Ken resisted an Amway-related challenge in the boss's presence. They therefore cannot fire an undeclared-contradiction kill."
+          },
+          {
+            "item": "F104, F106, and F85",
+            "why": "All three are seeds and excluded from this mode. F104 is also declared as a strain. Their partial temporal coverage is a limitation, not an eligible counterfragment."
+          },
+          {
+            "item": "F67, F68, F71, F75, and F76",
+            "why": "F67 prints refusal of a wedding role over a scheduling conflict, but not a response to an outsider's expressed doubt about Amway. F68 and F71 print advice about unsupportive relationships, not observed compliance during a critical encounter. F75 and F76 print avoidance and mutual distancing without the immediate-response and later-interpretation sequence needed to contradict the wager."
+          },
+          {
+            "item": "F87 and F101-F103",
+            "why": "These stubs report intense conviction, recurring confusion and inactivity, aspirations, and valued sponsor support despite weak participation. They make the author's member-state interpretation plausible, but do not show how either focal distributor responded across the two moments at issue. In particular, F101 does not identify an outsider criticism or a subsequent organizational reinterpretation. Recurrence over months is not itself evidence that the proposed sequence cannot occur."
+          },
+          {
+            "item": "F90-F100, F123, and F124",
+            "why": "Declining interest, departure, rejection of upline authority, resentment toward uplines, pressured recruitment, and an anti-Amway website establish other trajectories. None prints a focal outsider challenge followed by a response that the pair's proposed sequence requires to be different. The card does not claim that every former member eventually returns to positive identification. F99 explicitly conveys the author's explanation; disagreement with that explanation cannot substitute for contrary event evidence."
+          },
+          {
+            "item": "F79, F107, F88, F109, C23, and C29",
+            "why": "The typology and causal explanations are the incumbent's account. The card may disagree with their interpretation without contradicting an observed event. F107 is additionally an explicit declared strain."
+          },
+          {
+            "item": "F110, DG03, and absences A01-A03",
+            "why": "F110 reports transitions between identification states but does not identify the focal distributors or the encounter sequences. DG03 says transitions were not analyzed in detail. A01-A03 concern profit figures, refused-recruit testimony, and turnover rates; none supplies the missing moments. The lack of those moments remains absence rather than contradiction."
+          }
+        ]
+      }
+    ],
+    "kept": "A killed reading is retained, marked. Deleting it removes the evidence that the pass functions."
+  }
+}

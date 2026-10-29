@@ -1,0 +1,154 @@
+{
+  "pairs": [
+    ["A01", "B01"],
+    ["A03", "B02"],
+    ["A04", "B03"],
+    ["A08", "B04"],
+    ["A09", "B05"],
+    ["A10", "B09"],
+    ["A12", "B12"],
+    ["A14", "B13"]
+  ],
+  "verdicts": {
+    "A01": {
+      "verdict": "assertion",
+      "ids": ["C06"],
+      "reason": "While C06 covers how adopting technology alters workplace social structures and status hierarchies, this paragraph on pp. 606–607 also asserts in the paper's own voice that new technologies can create new occupations or displace existing ones, which no claim on the sheet states."
+    },
+    "A02": {
+      "verdict": "assertion",
+      "ids": ["C01", "C09", "C23"],
+      "reason": "This paragraph on p. 607 asserts in the author's voice that technological job replacement and task shifts have ancillary effects on remaining non-using workers and that pervasive digital technology makes technology use a yardstick of occupational effectiveness, neither of which is stated by C01, C09, or C23."
+    },
+    "A03": {
+      "verdict": "assertion",
+      "ids": ["C06"],
+      "reason": "The first full paragraph on p. 608 asserts in the paper's own voice that technological change causes occupational systems to expand, shift, and contract by spawning new occupations, eroding existing jurisdictions, or reviving occupations with new tasks and identities, which C06 does not state."
+    },
+    "A04": {
+      "verdict": "assertion",
+      "ids": ["C01", "C06", "C09"],
+      "reason": "The third full paragraph on p. 609 asserts in the author's voice that one occupation's adoption of a novel technology affects the status, standing, and behavior of other occupations in the same field and that legitimation operates through standard setting and evaluations of appropriateness, which C01, C06, and C09 do not state."
+    },
+    "A05": {
+      "verdict": "assertion",
+      "ids": ["C03", "C09", "C11"],
+      "reason": "This paragraph on p. 610 asserts in the paper's own voice that workers' responses to a new workplace technology depend not only on direct interaction with it but also on colleagues' beliefs, media reports, professional-association positions, and managerial reactions, which is not stated by C03, C09, or C11."
+    },
+    "A06": {
+      "verdict": "assertion",
+      "ids": ["C10", "C11"],
+      "reason": "The run-over paragraph on pp. 610–611 asserts in the author's voice that workplace occupational communities frame worker interactions for institutional meaning-making and [6 words of Bechky (2020), p. 610] professional associations where members exchange knowledge and pursue professionalization projects, which C10 and C11 do not state."
+    },
+    "A07": {
+      "verdict": "assertion",
+      "ids": ["C05", "C10", "C11"],
+      "reason": "Beyond the occupational-culture formation covered by C10, the first full paragraph on p. 611 asserts in the paper's voice that occupational values underpin legitimating actions and jurisdictional exclusion, inhibit cross-occupational workplace collaboration when values clash, and guide direct technology adoption, which C05, C10, and C11 do not state."
+    },
+    "A08": {
+      "verdict": "covered",
+      "ids": ["F01", "F03", "F32", "F37", "F39", "C02"],
+      "reason": "What this paragraph on pp. 611–612 reports about forensic scientists analyzing material evidence for the legal system under scientific and legal constraints and facing public scrutiny after the NAS report exempted DNA profiling is already recorded on the sheet in F01, F03, F32, F37, F39, and C02."
+    },
+    "A09": {
+      "verdict": "evidence",
+      "ids": ["F02"],
+      "reason": "Footnote 1 on p. 612 reports the empirical fact that small private forensic laboratories also exist in some states, which supplements F02 on public laboratories but is not recorded in any fragment on the sheet."
+    },
+    "A10": {
+      "verdict": "not_in_brief",
+      "ids": ["F62"],
+      "reason": "Footnote 4 on p. 621 provides a background legal definition of the Daubert admissibility standard and its five criteria from a legal reference website to explain the term mentioned in F62, holding neither study evidence nor an authorial claim under the brief."
+    },
+    "A11": {
+      "verdict": "covered",
+      "ids": ["F71", "F72"],
+      "reason": "The empirical content of the paragraph running across pp. 622–623 regarding the CMS striae-counting rules, the MCCL examiners' preference for their own more conservative holistic judgment, and Tom's remark on why outsiders like numerical rules is already recorded on p. 623 in F71 and F72."
+    },
+    "A12": {
+      "verdict": "evidence",
+      "ids": ["F149"],
+      "reason": "Although F149 records the authorial summary in the Toxicology Values cell of Table 2 on p. 633, the cell also prints an unrecorded quotation stating that Metropolitan County was [6 words of Bechky (2020), p. 633]."
+    },
+    "A13": {
+      "verdict": "assertion",
+      "ids": ["C04", "C05", "C08", "C20", "C21"],
+      "reason": "While its opening and closing claims about values, technique, status, and power are covered by C04, C05, C20, and C21, the third full paragraph on p. 636 also asserts in the paper's voice that workers creatively resist deskilling and that high-status occupations can use power during technology adoption to mandate changes detrimental to lower-status groups, which C08 does not state."
+    },
+    "A14": {
+      "verdict": "covered",
+      "ids": ["C01", "C22"],
+      "reason": "The run-over paragraph on pp. 637–638 applying the evaluative-spillover framework to social-science replication debates and predicting that sociological ethnographers will resist pressure to alter masking practices is already recorded on the sheet in C01 and C22."
+    },
+    "A15": {
+      "verdict": "covered",
+      "ids": ["C01", "C03", "C04", "C05", "C11", "C23"],
+      "reason": "The first full paragraph on p. 638 predicting wider evaluative spillovers from workplace digital technologies and restating that indirect technological evaluations are filtered through [6 words of Bechky (2020), p. 638] pathways is already recorded in C01, C03, C04, C05, C11, and C23."
+    },
+    "B01": {
+      "verdict": "assertion",
+      "ids": ["C06"],
+      "reason": "While C06 covers how adopting technology alters workplace social structures and status hierarchies, this paragraph on pp. 606–607 also asserts in the paper's own voice that new technologies can create new occupations or displace existing ones, which no claim on the sheet states."
+    },
+    "B02": {
+      "verdict": "assertion",
+      "ids": ["C06"],
+      "reason": "The first full paragraph on p. 608 asserts in the paper's own voice that technological change causes occupational systems to expand, shift, and contract by spawning new occupations, eroding existing jurisdictions, or reviving occupations with new tasks and identities, which C06 does not state."
+    },
+    "B03": {
+      "verdict": "assertion",
+      "ids": ["C01", "C06", "C09"],
+      "reason": "The third full paragraph on p. 609 asserts in the author's voice that one occupation's adoption of a novel technology affects the status, standing, and behavior of other occupations in the same field and that legitimation operates through standard setting and evaluations of appropriateness, which C01, C06, and C09 do not state."
+    },
+    "B04": {
+      "verdict": "covered",
+      "ids": ["F01", "F03", "F32", "F37", "F39", "C02"],
+      "reason": "What this paragraph on pp. 611–612 reports about forensic scientists analyzing material evidence for the legal system under scientific and legal constraints and facing public scrutiny after the NAS report exempted DNA profiling is already recorded on the sheet in F01, F03, F32, F37, F39, and C02."
+    },
+    "B05": {
+      "verdict": "evidence",
+      "ids": ["F02"],
+      "reason": "Footnote 1 on p. 612 reports the empirical fact that small private forensic laboratories also exist in some states, which supplements F02 on public laboratories but is not recorded in any fragment on the sheet."
+    },
+    "B06": {
+      "verdict": "not_in_brief",
+      "ids": ["F45", "F47"],
+      "reason": "Figure 1 on p. 618 is a third-party sample electropherogram image from an external website illustrating the peak graph already described in F45 and F47, rather than empirical study data or an authorial claim under the brief."
+    },
+    "B07": {
+      "verdict": "not_in_brief",
+      "ids": ["F45", "F47"],
+      "reason": "Figure 2 on p. 618 is a third-party table of alleles reprinted from a published book to illustrate the sixteen-loci profile table described in F45 and F47, holding no empirical data from the study or authorial claim under the brief."
+    },
+    "B08": {
+      "verdict": "not_in_brief",
+      "ids": ["F64", "F65"],
+      "reason": "Figure 3 on p. 621 is a third-party image from an FBI publication illustrating the microscopic cartridge-case striae comparisons described in F64 and F65, rather than study evidence or an authorial claim under the brief."
+    },
+    "B09": {
+      "verdict": "not_in_brief",
+      "ids": ["F62"],
+      "reason": "Footnote 4 on p. 621 provides a background legal definition of the Daubert admissibility standard and its five criteria from a legal reference website to explain the term mentioned in F62, holding neither study evidence nor an authorial claim under the brief."
+    },
+    "B10": {
+      "verdict": "not_in_brief",
+      "ids": ["F107"],
+      "reason": "Figure 4 on p. 629 is a third-party micrograph reprinted from a reference work to illustrate the dagger-shaped cocaine crystals described in F107, rather than study evidence or an authorial claim under the brief."
+    },
+    "B11": {
+      "verdict": "not_in_brief",
+      "ids": ["F108"],
+      "reason": "Figure 5 on p. 630 is a third-party chromatogram reprinted from a journal article to illustrate the instrument output graph described in F108, rather than study evidence or an authorial claim under the brief."
+    },
+    "B12": {
+      "verdict": "evidence",
+      "ids": ["F149"],
+      "reason": "Although F149 records the authorial summary in the Toxicology Values cell of Table 2 on p. 633, the cell also prints an unrecorded quotation stating that Metropolitan County was [6 words of Bechky (2020), p. 633]."
+    },
+    "B13": {
+      "verdict": "covered",
+      "ids": ["C01", "C22"],
+      "reason": "The run-over paragraph on pp. 637–638 applying the evaluative-spillover framework to social-science replication debates and predicting that sociological ethnographers will resist pressure to alter masking practices is already recorded on the sheet in C01 and C22."
+    }
+  }
+}

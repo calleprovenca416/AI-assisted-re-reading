@@ -1,0 +1,84 @@
+{
+  "paper": "Beth A. Bechky, 2020",
+  "read_to": "p. 643",
+  "passages": [
+    {
+      "n": 1,
+      "where": "pp. 606–607, the paragraph that runs over the page",
+      "test": "assertion",
+      "reason": "In its own voice, the paper says that new technologies bring about field-level change by creating some occupations and displacing others; no claim covers occupations coming into or going out of existence, since C06 is limited to task boundaries, resources, relations and status."
+    },
+    {
+      "n": 2,
+      "where": "p. 608, first full paragraph",
+      "test": "assertion",
+      "reason": "The paper asserts that occupational systems grow, shift and shrink as technology changes, and that technologies can give rise to, erode or revive occupations; none of the claims records this relation."
+    },
+    {
+      "n": 3,
+      "where": "p. 609, third full paragraph",
+      "test": "assertion",
+      "reason": "Building on Strauss, the paper holds that legitimation is a central process of social ordering among occupations, at work in boundary claiming, standard setting and judgments of authenticity; no claim gives this general account of legitimation."
+    },
+    {
+      "n": 4,
+      "where": "pp. 611–612, the paragraph that runs over the page",
+      "test": "evidence",
+      "reason": "The paper describes the setting: forensic practitioners must produce evidence that works in both science and law, under both domains' constraints. The fragments on field structure (F02–F04) do not record this double constraint."
+    },
+    {
+      "n": 5,
+      "where": "p. 612, footnote 1",
+      "test": "evidence",
+      "reason": "The footnote adds a fact about the field, that small private forensic laboratories exist in some states; F02 covers only public laboratories, and no fragment takes this up."
+    },
+    {
+      "n": 6,
+      "where": "p. 618, Figure 1",
+      "test": "evidence",
+      "reason": "The figure reproduces a sample electropherogram, an exhibit of the instrument output on which DNA's appearance of objectivity rests; no fragment records it, although the comparable sample report text is recorded as F46."
+    },
+    {
+      "n": 7,
+      "where": "p. 618, Figure 2",
+      "test": "evidence",
+      "reason": "The figure prints a table of allele values at sixteen loci for an evidence stain and several named people, a data exhibit of the tabular DNA profile form; no fragment records the figure or its cells."
+    },
+    {
+      "n": 8,
+      "where": "p. 621, Figure 3",
+      "test": "evidence",
+      "reason": "The figure shows [7 words of Bechky (2020), p. 621], the kind of documented image firearms examiners rely on to back their judgments; no fragment records it."
+    },
+    {
+      "n": 9,
+      "where": "p. 621, footnote 4",
+      "test": "evidence",
+      "reason": "The footnote sets out the Daubert standard's criteria for scientific testimony, including testing, peer review and known error rate. This archival legal material underpins the court pathway, and no fragment covers it."
+    },
+    {
+      "n": 10,
+      "where": "p. 629, Figure 4",
+      "test": "evidence",
+      "reason": "The figure shows the crystalline form of cocaine under the microscope, and its caption gives the shape name analysts use; no fragment records this exhibit of crystal-test output."
+    },
+    {
+      "n": 11,
+      "where": "p. 630, Figure 5",
+      "test": "evidence",
+      "reason": "The figure reproduces a chromatogram of a cocaine sample, an exhibit of the graphical instrument output that made GC/MS look DNA-compatible; no fragment records it."
+    },
+    {
+      "n": 12,
+      "where": "p. 633, Table 2, Values row, Toxicology column",
+      "test": "evidence",
+      "reason": "The cell prints a quotation, not given anywhere else in the paper, saying that Metropolitan County led the state in error measurement. F149 records only the cell's compatibility judgment, and the brief treats each printed quotation in a table as its own fragment."
+    },
+    {
+      "n": 13,
+      "where": "pp. 637–638, the paragraph that runs over the page",
+      "test": "evidence",
+      "reason": "The paragraph reports an episode outside the case: the psychology replication debate spilled into other social sciences, and ethnographers answered with a blog post in Contexts, quoted here, urging them to reconsider masking. C22 covers only the prediction drawn from it, and no fragment records the episode or the quoted blog."
+    }
+  ]
+}

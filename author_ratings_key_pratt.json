@@ -1,0 +1,119 @@
+{
+ "what": "the key to readings_of_pratt_2000.docx (T34, AUTHOR_RATINGS_PLAN.md, its change of 15 Oct); it goes to nobody",
+ "seed": 20261017,
+ "sources": {
+  "stage2/markers/KEY.json": "b8874a82770a5157ed43febe7f18deccea4ba41741bd89fe586d8ddd25e1a76a",
+  "stage2/worth/worth_sheet.xlsx": "60fe67427a85e0d396516299c8a2ad04cb7954e036ab55519e0dafc20d5af1fa",
+  "pratt_2000_v1.json": "a4810cc03d9a439220b2c8781acf494c62d5ac63f7f53f359157238739147c99"
+ },
+ "file": {
+  "readings_of_pratt_2000.docx": "0992427b2167f3dd36cfd073511248515f6d1d64b7bda286ac91f6045320d742"
+ },
+ "readings": [
+  {
+   "number": 1,
+   "reading": "P09",
+   "arm": "system",
+   "chat": "22",
+   "text_sha256": "f62cb00d9385257ddde4ec72bbaa78103b135eba4b6530d4de4726d07a8b4d17"
+  },
+  {
+   "number": 2,
+   "reading": "P14",
+   "arm": "plain",
+   "chat": "25",
+   "text_sha256": "33a85e837beb5530cfeb2a0d5efd231b9d7b7ba737980b0eb01df725b7842478"
+  },
+  {
+   "number": 3,
+   "reading": "P12",
+   "arm": "plain",
+   "chat": "25",
+   "text_sha256": "f6f9fb6126ee70eb93eb6f0ef7a08d858d3b159ae9a395aa3f5471572a861940"
+  },
+  {
+   "number": 4,
+   "reading": "P07",
+   "arm": "middle",
+   "chat": "24",
+   "text_sha256": "81bfc87a2e747ea2dd8a57750eafe9d5a58a8564e895e606f7f13375a4db0490"
+  },
+  {
+   "number": 5,
+   "reading": "P04",
+   "arm": "system",
+   "chat": "22",
+   "text_sha256": "6e56a9a3e930f3450d6afa37857bc76cb993b18c9b02102f7d2060776521c588"
+  },
+  {
+   "number": 6,
+   "reading": "P10",
+   "arm": "system",
+   "chat": "22",
+   "text_sha256": "3db9b9a48a777e9da794dca061aeaa19da40a70c7a47776e8682b975021d33f0"
+  },
+  {
+   "number": 7,
+   "reading": "P15",
+   "arm": "middle",
+   "chat": "24",
+   "text_sha256": "0d92fd9a5a11c38a7f34e1a59bee103b17cae616fbed09124229ded033594983"
+  },
+  {
+   "number": 8,
+   "reading": "P06",
+   "arm": "middle",
+   "chat": "24",
+   "text_sha256": "2dcd07384507311deb18ba4d981e959ebc9cb7b5c7022281a427c1724f771fdb"
+  },
+  {
+   "number": 9,
+   "reading": "P13",
+   "arm": "system",
+   "chat": "22",
+   "text_sha256": "18958027be89a8e0fbfbf889a80d8df4b5e2004434afd386a432eeb25c74ddc2"
+  },
+  {
+   "number": 10,
+   "reading": "P02",
+   "arm": "middle",
+   "chat": "24",
+   "text_sha256": "32b26279b2c92fb15d28f16f9d83c1d59ec6b276eaba9e0e644096457c9fc46a"
+  },
+  {
+   "number": 11,
+   "reading": "P11",
+   "arm": "system",
+   "chat": "22",
+   "text_sha256": "c9f6e0d83ecbdbd56641366a74c790d6d27b55e13fb6334f3547dcbcc8418f25"
+  },
+  {
+   "number": 12,
+   "reading": "P03",
+   "arm": "plain",
+   "chat": "25",
+   "text_sha256": "890763daa518a213b1b6565295672e668d411516297b5b3fc05d7304acb8b788"
+  },
+  {
+   "number": 13,
+   "reading": "P08",
+   "arm": "middle",
+   "chat": "24",
+   "text_sha256": "46db27cb16c3b258e481a1980aaa690937c8fac13952731e480779a3f0cb400f"
+  },
+  {
+   "number": 14,
+   "reading": "P01",
+   "arm": "plain",
+   "chat": "25",
+   "text_sha256": "528ec6002875990a0802bb9f794000b1c1edd91718949eb40ccd0b56e9b13835"
+  },
+  {
+   "number": 15,
+   "reading": "P05",
+   "arm": "plain",
+   "chat": "25",
+   "text_sha256": "fb7b50bd2862e9d136577b62873dd9eb40b06c5ca3834882d8ffb2677f1c34d3"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+  "paper": "Beth A. Bechky, 2020",
+  "readings": [
+    {
+      "reading_id": "S1",
+      "claim": "C05",
+      "wager": "Read this way, values did not sort the DNA comparison into welcome or threat in advance; they were the language in which a response settled by exposure and feasibility was narrated afterward. Toxicologists changed because a court challenge loomed and a plan existed, then presented accuracy as what they had always prized. Narcotics analysts could not shift to instrumentation with two machines and a statutory turnaround clock; the praise of craft followed. Firearms examiners unchallenged at home called holism a virtue, while those who had faced admissibility hearings elsewhere urged examining bias. Values are the sediment of what a group has had to do, not a sieve.",
+      "evidence": [
+        {
+          "page": "p. 637",
+          "job": "Values are said to be rooted in the work itself, with toxicologists prizing accuracy because they have seen what lapses in technique produce. The author's own account derives values from practice, which licenses reading them as consequences of what a group has done rather than the gate on what it will do."
+        },
+        {
+          "page": "pp. 635–636",
+          "job": "Locally unchallenged MCCL examiners stood pat while [8 words of Bechky (2020), p. 635] admissibility hearings seemed moved to change, and the paper adds that the pathway created the occasion for meaning-making. With values held constant, exposure did the sorting, and the articulation of values belongs to the meaning-making that followed."
+        },
+        {
+          "page": "pp. 627–628",
+          "job": "Toxicologists already held an ISO plan for uncertainty of measurement, enacted it at once when the challenge appeared, and Jason then told the criminal justice community the lab had been doing this all along. The decision was made by the court date and the accreditation calendar; the fit with error-free values was composed afterwards for an audience."
+        },
+        {
+          "page": "pp. 631–632",
+          "job": "Jodi and Robin explain the trouble with GC/MS as longer runs, two instruments and a caseload the lab could not keep up with, before the complaints about boredom and lost craft. The infeasibility is spelled out in capacity and time, and the values language is layered over that constraint."
+        },
+        {
+          "page": "pp. 623–624",
+          "job": "An examiner who had faced defense challenges argued the critics were working from examiners' own testimony and called the attacks a useful motivator, while others called for scrutiny of bias. Examiners sharing the same craft advocated change once they had been on the stand; the direction of response tracked exposure, not a difference in values."
+        }
+      ]
+    },
+    {
+      "reading_id": "S2",
+      "claim": "C04",
+      "wager": "Compatibility is settled inside one laboratory, one facet at a time, not between a method and DNA profiling. The pathway picks the facet—error measurement, instrument output, population statistics—and the lab's instruments, records, protocols and statutes decide whether it can be met at scale. Toxicology adapted because its quality-control history, traceability log and mandated confidence interval had already paid for the change. Narcotics held a compatible method, but two instruments, long runs and a statutory charging clock kept it off routine cases. Firearms, already imaging their striae, were incompatible only on the facet the critics chose. Feasibility is where a method meets a budget and a clock.",
+      "evidence": [
+        {
+          "page": "p. 634",
+          "job": "DNA profiling meant something different to each group: an overarching statistical practice for firearms, error measurement for toxicology, the certainty of instrument output for narcotics. Compatibility was tested not against the whole benchmark but against the facet each pathway made salient, which is the hinge of the reading."
+        },
+        {
+          "page": "pp. 628–629",
+          "job": "GC/MS's logs and graphs were seen in the narcotics community as matching DNA standards, yet at MCCL crystal tests carried most cases because the jurisdiction's law demanded rapid turnaround for charging and methamphetamine could be confirmed by crystals in minutes. Establishes both the compatible method and the statutory clock under which it had to perform."
+        },
+        {
+          "page": "p. 632",
+          "job": "Robin says the lab could not keep up with its caseload without crystals, having two instruments with long runs; the unit notes a second-analyst review would double analysis time and weighs microscope cameras as far cheaper than more GC/MS instruments. Instrument count, caseload and budget are the decisive terms, and the unit pursued adaptation along the facet it could afford."
+        },
+        {
+          "page": "pp. 627–628",
+          "job": "Toxicology already had an ISO plan for uncertainty of measurement, a protocol logging instruments and standards, a state-mandated confidence interval, and five years of quality-control data from an unchanged instrument, from which Jason assembled the new figure. Its compatibility was a stock of prior mandates, routines and records that had absorbed most of the cost before the challenge arrived."
+        },
+        {
+          "page": "pp. 621–622",
+          "job": "Examiners build note packets of digital images over several days and recount that sight-based identification is no longer acceptable now that images are required. Firearms had already met an earlier objectifying demand once imaging equipment and documentation norms were in place; their incompatibility is specific to the statistical facet the critics selected."
+        }
+      ]
+    }
+  ]
+}

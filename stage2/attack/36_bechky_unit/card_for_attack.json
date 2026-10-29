@@ -1,0 +1,119 @@
+{
+  "card_id": "bechky_2020_focalization_shift_forensic_biology_DNA_01",
+  "paper_id": "bechky_2020",
+  "move": "focalization_shift",
+  "trigger": "units: forensic biology (DNA)",
+  "claim": "C14",
+  "incumbent_reading": "The paper uses the forensic biology unit as the benchmark: statistical conventions, review and reviewable outputs make a messy, judgment-heavy process look objective to outsiders (C14), and that standing is what the other units are compared against (C02).",
+  "wager": {
+    "statement": "Retold from the forensic biology unit's own fragments, the paper's episode has no event in it. None of the unit's fourteen fragments has a DNA analyst speak of the 2009 report, of being the standard, or of the other units; the nearest is the supervisors introducing themselves, as a joke, on the author's first day, as the 'DNA princesses' (F28). What the fragments do carry is the unit's account of its own work and one line of history.\n\nAt the bench the analysts regard profiling as judgment-laden and untidy, because instrument output can contain artifacts and samples can be dirty, degraded or contaminated (F48). Terri describes a contaminated saliva control that cleared when she repeated the amplification, and Carly says contamination can persist with no identifiable cause (F49). In the paper's description, conclusions often took repeated interpretation and discussion between analyst and reviewer, sometimes with others brought in (F50), and Terri remarks that writing a report could take the wider laboratory (F51). What goes out is a profile released after technical and administrative review (F45) and a report that pairs a contributor conclusion with a population-frequency figure (F46). And the method became established over roughly twenty-five years, after technical advances, court challenges and favorable National Academy assessments in the 1990s (F43, which the paper draws from cited sources).\n\nThe wager from this side: the forensic biology unit is not the fixed point the other three are measured from but one more unit whose work is judgment talked through with a reviewer, and whose occupation was itself under court challenge and Academy assessment first. The firearms review in F69, two examiners debating how much agreement is enough, is the nearest printed counterpart to F50. Review of an analyst's work by someone else is printed for every unit (F45 with F50, F68, F92, F110); what is printed for forensic biology alone is the population-frequency figure (F46). If so, what each neighbor is compared with (C13) and found compatible or incompatible with (C04; F145, F146, F147, author's account) is what leaves the DNA unit, and the judgment that the paper's table sets against the objectivity associated with DNA (F148, author's account) is present on the DNA side as well (F48).\n\nThis agrees with the paper on the substance of C14, untidy work and outputs that look objective, and uses the same fragments. It differs in where it puts the unit: among the cases, with a history of being evaluated, and not above them. Whether the review steps and the figure are what that earlier evaluation left behind is not printed, and the reading does not assert it.",
+    "seed_fragments": [
+      "F48",
+      "F49",
+      "F50",
+      "F51",
+      "F45",
+      "F46",
+      "F43",
+      "F28"
+    ],
+    "what_it_would_take_to_cohere": {
+      "observation": "What the forensic biology analysts said or did about being the standard, to the other units, to legal audiences, or about the report that exempted their work; and whether the review steps and the frequency figure were in place before the court challenges and assessments that F43 records or were taken on in their course.",
+      "printed": false,
+      "printed_fragments": [],
+      "basis": "Not in the record. Of the unit's fourteen fragments (F07, F09, F13, F17, F21, F28, F43, F45, F46, F47, F48, F49, F50, F51) only F28 has DNA staff refer to themselves as a group, and it is a joke on the author's first day. F43 gives the sequence of advances, challenges and assessments without saying what the occupation or the unit changed along the way. F36 has management instruct staff to read the report and prints no reaction from this unit. F54 and F55 print what others say about DNA's resources, not what the DNA unit says back."
+    },
+    "strains_against": [
+      "F60 -- the report states that techniques such as toolmark comparison had produced some erroneous results when compared with DNA evidence in the same cases; there DNA evidence is what the others are found wrong against, a standing above the other cases that the analysts' view of their own bench work (F48) does not remove.",
+      "F49 -- the incident involves a control sample and an amplification that was repeated, after which the problem was gone; the judgment here is exercised over a step that can be run again, and no counterpart to that is printed in the firearms review of F69, so the two kinds of work may be less alike than the reading needs.",
+      "F46 -- the population-frequency calculation is a step of the work as well as a feature of the report, as is assigning alleles across sixteen loci in F45; the line between the bench and what leaves the unit is the reading's, and these two stubs sit across it.",
+      "F86 -- the MCCL firearms examiners held that a DNA-like statistical population made little sense for firearm marks; they treat the figure as something their evidence cannot have, which makes the difference one of the evidence and not only of what is handed outward.",
+      "F43 -- the same stub lists technical advances and favorable assessments; the standing may have been earned by the technique, as the paper's account has it, with nothing left behind by the challenges.",
+      "F28 -- a joke on a first day may carry no view of the unit's standing; the stub prints no explanation, and the reading cannot lean on it."
+    ],
+    "who_could_complete_it": "Analysts and supervisors of the forensic biology unit speaking about the comparison; the unit's own procedural history, meaning when its review steps and its statistical reporting were introduced."
+  },
+  "fragment_jobs": {
+    "F07": "Is one of the unit's descriptive fragments (size, tasks, CODIS) and is counted among the fourteen that carry no word on the comparison.",
+    "F09": "Is a Table 1 cell for the unit, counted among the fourteen and silent on the comparison.",
+    "F13": "Is a Table 1 cell for the unit, counted among the fourteen and silent on the comparison.",
+    "F17": "Is a Table 1 cell for the unit, counted among the fourteen and silent on the comparison.",
+    "F21": "Is a Table 1 cell for the unit, counted among the fourteen and silent on the comparison.",
+    "F28": "Is the only fragment in which DNA staff refer to themselves as a group, and it is a joke whose meaning is not printed; declared as a strain.",
+    "F43": "Gives the unit's occupation a history of court challenge and Academy assessment before the 2009 report, which is what lets the unit be placed among the evaluated.",
+    "F45": "Prints the workflow and the technical and administrative review that precede release, which is one part of what leaves the unit.",
+    "F46": "Prints the population-frequency figure in the report, the one feature printed for this unit alone; its being part of the work is declared as a strain.",
+    "F47": "Is the author's account of why DNA outputs look objective, the reading of these fragments that the retelling starts from and agrees with.",
+    "F48": "Carries the analysts' own view of profiling as judgment-laden and untidy, which the reading sets against the table's compatibility cells.",
+    "F49": "Shows two analysts treating contamination as something that can clear on repetition or persist unexplained; its control and repeated step are declared as a strain.",
+    "F50": "Is the paper's description of conclusions reached through repeated interpretation and discussion with a reviewer, the practice the reading compares with F69.",
+    "F51": "Has an analyst say that writing the report could take the wider laboratory, which places shared effort at the document that goes out.",
+    "F69": "Is the firearms review episode, two examiners debating how much agreement is enough, used as the nearest printed counterpart to F50.",
+    "F68": "Shows review by a second examiner in firearms, part of the showing that review is printed for every unit.",
+    "F92": "Shows toxicology results routed through technical and supervisory review, part of the same showing.",
+    "F110": "Shows supervisory review and a second crystal test in narcotics, part of the same showing.",
+    "F145": "Is the table's cell calling firearms technique incompatible for want of a counterpart to DNA's instrument and statistical analyses; the reading takes the comparison there to be with what leaves the DNA unit.",
+    "F146": "Is the table's cell calling toxicology technique compatible, read the same way.",
+    "F147": "Is the table's cell calling narcotics' GC/MS option compatible, read the same way.",
+    "F148": "Is the table's cell setting the objectivity associated with DNA against trained subjective judgment, which F48 sits against.",
+    "F52": "Is where the author's account itself marks the gap between the analysts' view and outside treatment ('nevertheless'), and where the rival rests.",
+    "F60": "Declared strain: the report using DNA evidence as the check against which other techniques' results are found erroneous.",
+    "F86": "Declared strain: firearms examiners treating the statistical basis as a difference in the evidence itself.",
+    "F36": "Shows the report put before all staff with no reaction from this unit printed, cited for where the reading looked.",
+    "F54": "Prints what non-DNA units say about forensic biology's resources, cited to show the unit is spoken about and does not answer in print.",
+    "F55": "Prints trace examiners' concern over DNA's attention and resources, cited for the same purpose."
+  },
+  "grounded_in": [
+    {
+      "kind": "missing_fact",
+      "question": "Did the forensic biology analysts, anywhere in print, speak about being the standard, either putting it forward before neighbors or legal audiences or disowning it?",
+      "bears_on": "C13",
+      "if_one_way": "If they are printed putting it forward, C13 would read with the benchmark partly kept up by the benchmark unit itself, and the features the neighbors select would be features DNA analysts advance.",
+      "if_the_other": "If they are printed disowning it, as F48 leans, C13 would read with the neighbors selecting features of what leaves the DNA unit that its own analysts do not claim for the work."
+    },
+    {
+      "kind": "missing_fact",
+      "question": "Were the technical and administrative review (F45) and the population-frequency figure (F46) in place before the court challenges and Academy assessments of F43, or adopted in their course?",
+      "bears_on": "C02",
+      "if_one_way": "If in place before, C02 would read as stated: a technique whose own features carried it to benchmark standing, after which evaluation turned on the neighbors.",
+      "if_the_other": "If adopted in their course, C02 would read with DNA as an earlier recipient of the same evaluation, and the benchmark as what that evaluation left in one occupation's practice."
+    },
+    {
+      "kind": "divergence",
+      "items": [
+        "F48",
+        "F148"
+      ],
+      "how": "F48 has the DNA analysts regard their own profiling as judgment-laden and untidy; F148, in the author's voice, sets the objectivity associated with DNA against firearms' commitment to trained subjective judgment. The first puts judgment inside DNA work; the second places DNA across the line from judgment. The paper marks the same gap itself at F52; the reading uses it against the table's compatibility cells and not only under C14."
+    }
+  ],
+  "reach": {
+    "same_construct": [
+      "C02",
+      "C09",
+      "C13",
+      "C15"
+    ],
+    "same_outcome": [
+      "C09"
+    ],
+    "feature_elsewhere": [
+      "F68",
+      "F69",
+      "F92",
+      "F110"
+    ],
+    "orphans_used": [
+      "F07",
+      "F09",
+      "F13",
+      "F17",
+      "F21",
+      "F28",
+      "F43",
+      "F68"
+    ]
+  },
+  "split": null,
+  "for_attack": true
+}

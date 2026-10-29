@@ -1,0 +1,1825 @@
+{
+ "seed": 20261011,
+ "papers": {
+  "pratt": [
+   {
+    "reading": "P01",
+    "arm": "plain",
+    "source": "stage2/baseline_replies/reply_25_pratt_plain.json",
+    "source_id": "R3",
+    "units": [
+     {
+      "unit": "P01-01",
+      "text": "The outcome is decided outside Amway, by how a member's existing circle responds when approached."
+     },
+     {
+      "unit": "P01-02",
+      "text": "Where family and friends join or at least tolerate the venture, the member's world fills with supporters and looks encapsulated."
+     },
+     {
+      "unit": "P01-03",
+      "text": "Where valued others recoil and the member is unwilling to lose them, the member hedges, hides and stalls."
+     },
+     {
+      "unit": "P01-04",
+      "text": "Where the member's confidants are hostile, the member turns against the organisation."
+     },
+     {
+      "unit": "P01-05",
+      "text": "Encapsulation is then something outsiders do to distributors as much as something positive programming does to members."
+     },
+     {
+      "unit": "P01-06",
+      "text": "Non-members told the author they avoid distributor friends and relatives, and a distributor calls the first months the hardest because of how intimates react (p. 474)."
+     },
+     {
+      "unit": "P01-07",
+      "text": "The barrier is built from both sides."
+     },
+     {
+      "unit": "P01-08",
+      "text": "Bringing family and friends in is said to secure [6 words of Pratt (2000), p. 473] (p. 473)."
+     },
+     {
+      "unit": "P01-09",
+      "text": "Who says yes determines the member's surroundings."
+     },
+     {
+      "unit": "P01-10",
+      "text": "A friend schedules his wedding against an Amway event, and unsupportive spouses are a named category needing continued persuasion (p. 472)."
+     },
+     {
+      "unit": "P01-11",
+      "text": "Outsiders are active parties."
+     },
+     {
+      "unit": "P01-12",
+      "text": "One ambivalent distributor [6 words of Pratt (2000), p. 480] (p. 480)."
+     },
+     {
+      "unit": "P01-13",
+      "text": "Another disowns Amway on the spot when a co-worker repeats a slur about it."
+     },
+     {
+      "unit": "P01-14",
+      "text": "The stalling follows an outsider's reaction."
+     },
+     {
+      "unit": "P01-15",
+      "text": "Ambivalent members restrict their calls to acquaintances outside daily life and agonise about exploiting close ties (p. 481)."
+     },
+     {
+      "unit": "P01-16",
+      "text": "Footnote 16 has the author's own enthusiasm sagging around critical colleagues."
+     },
+     {
+      "unit": "P01-17",
+      "text": "Disidentified former members made sense of their experience with confidants who were firmly negative (p. 479)."
+     },
+     {
+      "unit": "P01-18",
+      "text": "The valence of the outcome matches the valence of the audience."
+     }
+    ]
+   },
+   {
+    "reading": "P02",
+    "arm": "middle",
+    "source": "stage2/baseline_replies/reply_24_pratt_reading.json",
+    "source_id": "boundary_shift_01",
+    "units": [
+     {
+      "unit": "P02-01",
+      "text": "Start the episode at the recruitment meeting and the second disidentified informant's story is complete before the paper's episode opens."
+     },
+     {
+      "unit": "P02-02",
+      "text": "He describes how his sponsor got him in: a sales talk, people around him saying positive things, a slide show, being there in someone else's car, strong social pressure, and paying about $120 as the easiest way out; he says he felt humiliated and likens it to a torture session (p. 479)."
+     },
+     {
+      "unit": "P02-03",
+      "text": "In that passage the unfavourable reading of the sponsor is already in place at the moment of joining, and joining is described as an exit from the room, not as the pursuit of anything wanted."
+     },
+     {
+      "unit": "P02-04",
+      "text": "Nothing printed for him shows a dream, an upline relationship that then went wrong, or a confidant."
+     },
+     {
+      "unit": "P02-05",
+      "text": "The recruitment meeting is also not empty of the practices the paper studies: an Emerald distributor addresses a group of prospects at a meeting that is also a dream-building session (p. 466), and the first disidentified informant locates what attracted him at the outset, in the look of his recruiter's home (p. 478)."
+     },
+     {
+      "unit": "P02-06",
+      "text": "On this reading recruitment is where an identification in opposition can be set, and 'successfully recruited' covers both a prospect who was drawn in (p. 478) and one who paid to get out (p. 479)."
+     }
+    ]
+   },
+   {
+    "reading": "P03",
+    "arm": "plain",
+    "source": "stage2/baseline_replies/reply_25_pratt_plain.json",
+    "source_id": "R1",
+    "units": [
+     {
+      "unit": "P03-01",
+      "text": "Seekership is brought to Amway, not made by it."
+     },
+     {
+      "unit": "P03-02",
+      "text": "Members who identify, for or against, arrive already discontented with their job, money or family situation."
+     },
+     {
+      "unit": "P03-03",
+      "text": "Dream building gives that discontent a vocabulary rather than breaking a settled sense of self."
+     },
+     {
+      "unit": "P03-04",
+      "text": "Those who drift away are those whose outside lives were, or became, satisfactory."
+     },
+     {
+      "unit": "P03-05",
+      "text": "On this reading the first branch of the model sorts people by prior circumstance, not by whether a practice succeeded."
+     },
+     {
+      "unit": "P03-06",
+      "text": "The paper says identity deficits bite hardest on people in crisis or unhappy with who they are (p. 467)."
+     },
+     {
+      "unit": "P03-07",
+      "text": "This concedes that prior state conditions the effect."
+     },
+     {
+      "unit": "P03-08",
+      "text": "The success-story distributor credits her upline with carrying her through a divorce (p. 470)."
+     },
+     {
+      "unit": "P03-09",
+      "text": "The trouble predates the bond."
+     },
+     {
+      "unit": "P03-10",
+      "text": "Testimonies of an upline helping one member off drugs and feeding a couple in need (p. 471)."
+     },
+     {
+      "unit": "P03-11",
+      "text": "Again need precedes attachment."
+     },
+     {
+      "unit": "P03-12",
+      "text": "In Table 1 the family dream is voiced by a man whose wife is worn out by her job and whose child is in day care all week (p. 465)."
+     },
+     {
+      "unit": "P03-13",
+      "text": "The dream reads as a description of an existing strain."
+     },
+     {
+      "unit": "P03-14",
+      "text": "An ambivalent distributor frames his dream as escaping a job where others control whether he works (p. 480)."
+     },
+     {
+      "unit": "P03-15",
+      "text": "This is a grievance about present employment."
+     },
+     {
+      "unit": "P03-16",
+      "text": "The non-renewer explains leaving by saying her job is now going well and she likes it (pp. 477–478)."
+     },
+     {
+      "unit": "P03-17",
+      "text": "Deidentification here follows outside contentment."
+     },
+     {
+      "unit": "P03-18",
+      "text": "The general model adds a selection box and allows that some people are predisposed to seek, through dissatisfaction or disposition (p. 482)."
+     },
+     {
+      "unit": "P03-19",
+      "text": "The paper thus names this route itself but does not test it on its own informants."
+     },
+     {
+      "unit": "P03-20",
+      "text": "Footnote 9 admits individual differences cannot be ruled out (p. 463)."
+     },
+     {
+      "unit": "P03-21",
+      "text": "The design did not collect what would rule them out."
+     }
+    ]
+   },
+   {
+    "reading": "P04",
+    "arm": "system",
+    "source": "stage2/pratt_2000_cards/pratt_2000_construct_inversion_CP03_01.json",
+    "source_id": "pratt_2000_construct_inversion_CP03_01",
+    "units": [
+     {
+      "unit": "P04-01",
+      "text": "The pair is the analyst's, a weaker footing than one the paper drew."
+     },
+     {
+      "unit": "P04-02",
+      "text": "As printed, each passage has a before and an after, and in each the before runs against the state the episode is filed under."
+     },
+     {
+      "unit": "P04-03",
+      "text": "The distributor in the passage on p. 476 had ignored her upline's advice in that recruiting attempt; the conclusion that the upline and the recordings had foreseen her friends' reaction came after."
+     },
+     {
+      "unit": "P04-04",
+      "text": "The distributor in the passage on p. 480 had Amway merchandise on display at work; the denial came after a coworker tied Amway to Nazis."
+     },
+     {
+      "unit": "P04-05",
+      "text": "The paper's account gives the first a reliance on upline sources (p. 475, the author's account) and the second a standing embarrassment (the author's characterisation on p. 480)."
+     },
+     {
+      "unit": "P04-06",
+      "text": "The passages print people being moved by an event, the direction the paper's claim (p. 484) leaves open: the episode first, the stance after."
+     },
+     {
+      "unit": "P04-07",
+      "text": "The two responses are also not the same kind of thing."
+     },
+     {
+      "unit": "P04-08",
+      "text": "The passage on p. 480 prints what a distributor did at once, on the remark."
+     },
+     {
+      "unit": "P04-09",
+      "text": "The passage on p. 476 prints what a distributor concluded afterwards and told the researcher."
+     },
+     {
+      "unit": "P04-10",
+      "text": "Two other passages filed with the passage on p. 476 are of the second kind: a confrontation retold in celebration at a dinner (p. 475), and friends' avoidance retold as a lesson about those friends (p. 475)."
+     },
+     {
+      "unit": "P04-11",
+      "text": "In the two places where the paper prints the moment of facing an outsider's doubt about Amway, it prints giving way: the denial in the passage on p. 480, and the researcher's enthusiasm weakening among skeptical colleagues, whom he then avoided (p. 481)."
+     },
+     {
+      "unit": "P04-12",
+      "text": "The wager is that the pair shows two moments of one sequence and not two kinds of member."
+     },
+     {
+      "unit": "P04-13",
+      "text": "In front of the outsider the member gives ground; afterwards, away from the outsider, the organization's account turns the same blow into a point in its favor."
+     },
+     {
+      "unit": "P04-14",
+      "text": "What the paper files as a mixed state would be the first moment, and what it files as reliance on upline sources the second."
+     },
+     {
+      "unit": "P04-15",
+      "text": "The second moment is close to what the paper itself claims (pp. 473–475, p. 487); the difference is that the paper sorts members and this reading sorts moments."
+     }
+    ]
+   },
+   {
+    "reading": "P05",
+    "arm": "plain",
+    "source": "stage2/baseline_replies/reply_25_pratt_plain.json",
+    "source_id": "R2",
+    "units": [
+     {
+      "unit": "P05-01",
+      "text": "There is one practice, not two."
+     },
+     {
+      "unit": "P05-02",
+      "text": "The upline relationship does all the work, and dream building is something done inside it."
+     },
+     {
+      "unit": "P05-03",
+      "text": "Dreams are supplied, shaped and kept alive by the mentor, so a 'successful' dream is evidence of a working bond and a faded dream is evidence of a bond that never formed or went sour."
+     },
+     {
+      "unit": "P05-04",
+      "text": "The paper's two-by-two logic then collapses into a single dimension, the quality of the tie to the upline, with ambivalence as its middle value."
+     },
+     {
+      "unit": "P05-05",
+      "text": "Members learn what to dream mainly by modelling [6 words of Pratt (2000), p. 465] people in their own line (p. 465)."
+     },
+     {
+      "unit": "P05-06",
+      "text": "The content of the dream comes from the upline."
+     },
+     {
+      "unit": "P05-07",
+      "text": "Upline and downline jointly craft the individual dream from a finite approved menu (p. 466)."
+     },
+     {
+      "unit": "P05-08",
+      "text": "Dream building is described as a relational activity."
+     },
+     {
+      "unit": "P05-09",
+      "text": "In the appendix the Emerald chooses the shops, the colours and the items, and the author likes almost nothing all day (pp. 492–493)."
+     },
+     {
+      "unit": "P05-10",
+      "text": "Meanwhile a joking father-son exchange occurs."
+     },
+     {
+      "unit": "P05-11",
+      "text": "The session produces a bond more visibly than a want."
+     },
+     {
+      "unit": "P05-12",
+      "text": "A distributor wants to reach Pearl in order to golf with his upline because he likes them (p. 471)."
+     },
+     {
+      "unit": "P05-13",
+      "text": "The dream's object is the relationship."
+     },
+     {
+      "unit": "P05-14",
+      "text": "An interviewee says those who stay active are those who keep [7 words of Pratt (2000), p. 475] (p. 475)."
+     },
+     {
+      "unit": "P05-15",
+      "text": "This is a member's own single-factor theory."
+     },
+     {
+      "unit": "P05-16",
+      "text": "The disidentified former distributor complains that his upline did not know how to excite him (p. 479)."
+     },
+     {
+      "unit": "P05-17",
+      "text": "Failure to kindle the dream and failure of the bond are the same event in his telling."
+     },
+     {
+      "unit": "P05-18",
+      "text": "The deidentified leaver describes growing distance from his sponsors and discomfort with reverence for Diamonds (p. 478)."
+     },
+     {
+      "unit": "P05-19",
+      "text": "The case filed under failed sensebreaking carries a relationship story."
+     },
+     {
+      "unit": "P05-20",
+      "text": "The paper acknowledges that the two kinds of tactic blur once sensegiving starts, as the ideal self comes under other distributors' influence (pp. 481–482)."
+     }
+    ]
+   },
+   {
+    "reading": "P06",
+    "arm": "middle",
+    "source": "stage2/baseline_replies/reply_24_pratt_reading.json",
+    "source_id": "construct_fission_01",
+    "units": [
+     {
+      "unit": "P06-01",
+      "text": "The concept is doing two jobs."
+     },
+     {
+      "unit": "P06-02",
+      "text": "X is a stated current dissatisfaction with one's own life; Y is excitement about a dream with no such dissatisfaction stated."
+     },
+     {
+      "unit": "P06-03",
+      "text": "The printed passages let them come apart."
+     },
+     {
+      "unit": "P06-04",
+      "text": "The author's own journal reports being caught up in a dream of personal freedom while also thinking the dreams foolish, and names nothing wrong with his present life (p. 466)."
+     },
+     {
+      "unit": "P06-05",
+      "text": "A former distributor says they were excited at the beginning about their own business and financial independence and then lost interest (p. 477): Y occurred and lapsed, and X is not reported."
+     },
+     {
+      "unit": "P06-06",
+      "text": "The distributor who did not renew gives her reason as a present life she likes, a job that has reached the point of little overtime (p. 477): X is absent, and nothing is said about dreams."
+     },
+     {
+      "unit": "P06-07",
+      "text": "Where X is printed, the speaker ties it to paid work or to things lacked: a wife burned out at her job, two working parents and [6 words of Pratt (2000), p. 465] (p. 465); not wanting to be at the mercy of people at work (p. 480); not having what the recruiter had (p. 478)."
+     },
+     {
+      "unit": "P06-08",
+      "text": "The wager is that X, not Y, is what goes with an identification of any kind forming, and that the printed passages show Y as what sessions, tapes and displays deliver while showing X in speakers' accounts of their jobs and households."
+     },
+     {
+      "unit": "P06-09",
+      "text": "If so, 'sensebreaking failed' on p. 477 covers two different things: excitement that was produced and faded, and a present life that was never, or no longer, found wanting."
+     }
+    ]
+   },
+   {
+    "reading": "P07",
+    "arm": "middle",
+    "source": "stage2/baseline_replies/reply_24_pratt_reading.json",
+    "source_id": "construct_inversion_01",
+    "units": [
+     {
+      "unit": "P07-01",
+      "text": "Read the other way round, not distributing comes first and the intact non-member ties are its result."
+     },
+     {
+      "unit": "P07-02",
+      "text": "No printed passage from an ambivalent distributor reports being advised against Amway by a non-member."
+     },
+     {
+      "unit": "P07-03",
+      "text": "The one informant who addresses the point says nobody tells him he cannot or should not do it, that everybody says it works, and that the not-starting is down to him (p. 480)."
+     },
+     {
+      "unit": "P07-04",
+      "text": "What the other passages print is abstention: one inactive distributor does not bring lists, does not sponsor and does not use the products consistently (p. 480); another now calls only people he does not see much of (p. 480)."
+     },
+     {
+      "unit": "P07-05",
+      "text": "On the author's own account, approaching family and friends is how a distributor finds out which relationships are negative (author's characterisation on p. 474; an active distributor describes the first months of approaching them as the hardest, p. 474)."
+     },
+     {
+      "unit": "P07-06",
+      "text": "A distributor who does not approach never runs that test, so nothing has happened that would lead to those ties being dropped."
+     },
+     {
+      "unit": "P07-07",
+      "text": "On this reading the ambivalence printed on p. 480 is between wanting to start and not starting, not between two sets of advisers, and the kept ties are a trace of the inactivity rather than its cause."
+     }
+    ]
+   },
+   {
+    "reading": "P08",
+    "arm": "middle",
+    "source": "stage2/baseline_replies/reply_24_pratt_reading.json",
+    "source_id": "counterfactual_ending_01",
+    "units": [
+     {
+      "unit": "P08-01",
+      "text": "Read the ruling-out as provisional."
+     },
+     {
+      "unit": "P08-02",
+      "text": "The paper prints that no current or former distributor interviewed gave a clear answer on net profit or loss (p. 463), and that informants disagreed on whether tapes, books and functions count as costs (p. 463)."
+     },
+     {
+      "unit": "P08-03",
+      "text": "The one financial marker it names for the people it calls successful is [6 words of Pratt (2000), p. 463] (p. 463)."
+     },
+     {
+      "unit": "P08-04",
+      "text": "What the two observations on p. 463 establish, then, is that identification type did not follow sales volume."
+     },
+     {
+      "unit": "P08-05",
+      "text": "Each informant's net position, and which way money moved between that informant and the people above them, is not observed for anyone."
+     },
+     {
+      "unit": "P08-06",
+      "text": "That unobserved quantity is what the printed disidentification material is about."
+     },
+     {
+      "unit": "P08-07",
+      "text": "One disidentified informant describes paying about $120 at his recruitment as the way out of a pressured sale (p. 479)."
+     },
+     {
+      "unit": "P08-08",
+      "text": "The author's own summary of how disidentified distributors re-read upline warmth is that upline were being pleasant in order to make money for themselves (author's characterisation on p. 479)."
+     },
+     {
+      "unit": "P08-09",
+      "text": "Members pay a fee of about $[7 words of Pratt (2000), p. 459] (p. 459)."
+     },
+     {
+      "unit": "P08-10",
+      "text": "An upline tells a salesperson in the author's hearing that the author will be rich soon or the upline is wasting his time (p. 493), and the author reports that those above him cared only that he was selling and trying to sponsor (p. 460 n. 5)."
+     },
+     {
+      "unit": "P08-11",
+      "text": "The wager is that the ending could go the other way on a narrower question: whether a member comes out as someone money flows from or someone money flows to may sort with the direction of their identification, and the comparison on p. 463 could not have detected it."
+     }
+    ]
+   },
+   {
+    "reading": "P09",
+    "arm": "system",
+    "source": "stage2/pratt_2000_cards/pratt_2000_counterfactual_ending_C56_01.json",
+    "source_id": "pratt_2000_counterfactual_ending_C56_01",
+    "units": [
+     {
+      "unit": "P09-01",
+      "text": "The paper's hedge makes leaving the end that the practices come to when they fail on a member."
+     },
+     {
+      "unit": "P09-02",
+      "text": "Read as provisional, the departures in print are not that end; they come before the practices have run."
+     },
+     {
+      "unit": "P09-03",
+      "text": "Every former distributor interviewed had [6 words of Pratt (2000), p. 461] (p. 461)."
+     },
+     {
+      "unit": "P09-04",
+      "text": "Their accounts are of an early appeal that faded (p. 477), of something tried that did not suit (p. 478), of a regular job that became satisfying (pp. 477–478), of buying in to get out of an embarrassing situation at a presentation (p. 479)."
+     },
+     {
+      "unit": "P09-05",
+      "text": "The printed figures agree that staying active is not the usual course: a secondary source puts yearly leaving between about two-fifths and nearly all of the membership (p. 477), and Amway's own publication counts fewer than half of recorded distributors as active (p. 463)."
+     },
+     {
+      "unit": "P09-06",
+      "text": "The practices, meanwhile, are printed as working by repetition and over time: an achieved dream is to be replaced by a larger one (p. 468), no achievement is to be taken as a final peak (p. 468), successful distributors' aspirations shifted over time (p. 468), and by the author's account encapsulation grew as members spent more time with other distributors (p. 473)."
+     },
+     {
+      "unit": "P09-07",
+      "text": "On this reading the order in the paper's claim (p. 477) turns over."
+     },
+     {
+      "unit": "P09-08",
+      "text": "The leavers did not go because identification failed to take; they went early, before the repeated work the paper describes had been done on them, and identification was not secured because they had gone."
+     },
+     {
+      "unit": "P09-09",
+      "text": "Leaving in the first year is then one thing and the failure of the practices another, and the leavers in print speak only to the first."
+     },
+     {
+      "unit": "P09-10",
+      "text": "Where the practices fail would show in people who left after long, active membership."
+     },
+     {
+      "unit": "P09-11",
+      "text": "The paper comes near such people twice and prints no account from either: distributors who reached high sales levels before quitting (p. 463), whose length of membership is not given, and distributors who moved away from positive identification (p. 485), of whom it is not said whether any left."
+     }
+    ]
+   },
+   {
+    "reading": "P10",
+    "arm": "system",
+    "source": "stage2/pratt_2000_cards/pratt_2000_construct_inversion_CP01_01.json",
+    "source_id": "pratt_2000_construct_inversion_CP01_01",
+    "units": [
+     {
+      "unit": "P10-01",
+      "text": "The pair says the opposed leaver kept the wish for change and the detached one lost it."
+     },
+     {
+      "unit": "P10-02",
+      "text": "The passages on the opposed side do not line up that way."
+     },
+     {
+      "unit": "P10-03",
+      "text": "One former distributor was drawn by a successful member's large home because he lacked such possessions (p. 478) and describes becoming a lawyer as a dream worth hard work (p. 478): the wish is printed for him, and nothing about his upline is."
+     },
+     {
+      "unit": "P10-04",
+      "text": "The former distributor in the passage on p. 479 blames his upline for not recognizing the sales ability he came with and for relying on more meetings instead of finding a way to motivate him: no wish he was pursuing is printed, only a man who by his own telling still needed motivating."
+     },
+     {
+      "unit": "P10-05",
+      "text": "A third, whom the author files under the same opposed outcome, says he bought in only to get out of an embarrassing situation at a high-pressure presentation (p. 479); no passage gives him a dream."
+     },
+     {
+      "unit": "P10-06",
+      "text": "No passage says that the man of the passages on p. 478 is the man of the passage on p. 479."
+     },
+     {
+      "unit": "P10-07",
+      "text": "The upline tie does not separate the two sides either."
+     },
+     {
+      "unit": "P10-08",
+      "text": "By the author's account the detached formed no strong bonds with distributors (p. 478), and those who came to disidentify are reported with sparse and distant upline relationships (p. 479)."
+     },
+     {
+      "unit": "P10-09",
+      "text": "The paper puts that weak tie after the loss of desire on the one side (p. 478) and before the opposition on the other (p. 479, the author's account); this reading puts it after on both."
+     },
+     {
+      "unit": "P10-10",
+      "text": "What the passages on p. 479 print, and the passage on pp. 477–478 does not, is a wrong: something done to the speaker by the people who brought him in or stood above him."
+     },
+     {
+      "unit": "P10-11",
+      "text": "The passage on pp. 477–478 has no Amway person in it; what changed was her regular job."
+     },
+     {
+      "unit": "P10-12",
+      "text": "The wager is that a leaver ends opposed when he carries such a wrong out with him, whether or not the wish for change survived, and ends detached when he carries none."
+     }
+    ]
+   },
+   {
+    "reading": "P11",
+    "arm": "system",
+    "source": "stage2/pratt_2000_cards/pratt_2000_focalization_shift_current_and_former_distributors_01.json",
+    "source_id": "pratt_2000_focalization_shift_current_and_former_distributors_01",
+    "units": [
+     {
+      "unit": "P11-01",
+      "text": "This group speaks in one passage, so the retelling is short."
+     },
+     {
+      "unit": "P11-02",
+      "text": "Asked for their net profit, current and former distributors did two things: they did not produce a clear figure, and they disagreed among themselves about which product margins and which training expenses belong in the sum (p. 463)."
+     },
+     {
+      "unit": "P11-03",
+      "text": "The paper takes this as a limit on what could be measured and goes on to conclude that money did not sort people (the paper's claim at p. 463)."
+     },
+     {
+      "unit": "P11-04",
+      "text": "Told from the distributors' side it is a report about them."
+     },
+     {
+      "unit": "P11-05",
+      "text": "Among the people doing this work, what the business earns is not a settled number; it depends on what one is prepared to call a cost."
+     },
+     {
+      "unit": "P11-06",
+      "text": "The cost in dispute is not a small one."
+     },
+     {
+      "unit": "P11-07",
+      "text": "Distributors paid for their training (p. 459), and the training is printed as a system of books, recordings, meetings, rallies and seminars (p. 459); books and tapes are also among the media through which members met model dreams (pp. 465–466)."
+     },
+     {
+      "unit": "P11-08",
+      "text": "Whoever leaves those expenses out has a business that nets more than whoever puts them in."
+     },
+     {
+      "unit": "P11-09",
+      "text": "The wager is that the disagreement in the passage on p. 463 ran between those who stood with [6 words of Pratt (2000), p. 462], and that counting the training as a cost of the business, or not counting it, is itself a way of standing toward the organization."
+     },
+     {
+      "unit": "P11-10",
+      "text": "If that is so, financial result cannot be laid beside identification as a separate measure, as the passage on p. 463 lays it, since a distributor's own figure already holds an answer to what the training is."
+     },
+     {
+      "unit": "P11-11",
+      "text": "This does not dispute that money failed to sort people; it disputes that money was a separate thing to sort them by."
+     },
+     {
+      "unit": "P11-12",
+      "text": "The passage does not say along what line the disagreement ran, and it leaves 'could not' and 'would not' unseparated."
+     }
+    ]
+   },
+   {
+    "reading": "P12",
+    "arm": "plain",
+    "source": "stage2/baseline_replies/reply_25_pratt_plain.json",
+    "source_id": "R4",
+    "units": [
+     {
+      "unit": "P12-01",
+      "text": "The paper sets money aside too quickly."
+     },
+     {
+      "unit": "P12-02",
+      "text": "What it shows is not that finances are irrelevant but that members cannot or will not reckon them, and that the unreckoned items are precisely what flows up the line: tapes, books, functions, fees."
+     },
+     {
+      "unit": "P12-03",
+      "text": "Read this way, positive identification is the state of not having done the sum."
+     },
+     {
+      "unit": "P12-04",
+      "text": "Disidentification is the state of having done it and concluded that the warmth was commercial."
+     },
+     {
+      "unit": "P12-05",
+      "text": "Inactivity is the cheap holding position of paying only the renewal."
+     },
+     {
+      "unit": "P12-06",
+      "text": "The identification types are stances toward a ledger."
+     },
+     {
+      "unit": "P12-07",
+      "text": "No current or former distributor could, or would, state net profit, and they disagreed on whether training materials count as costs (p. 463)."
+     },
+     {
+      "unit": "P12-08",
+      "text": "The paper reports this as a surprise and moves on."
+     },
+     {
+      "unit": "P12-09",
+      "text": "Here it is the central finding."
+     },
+     {
+      "unit": "P12-10",
+      "text": "The company's own figure for average monthly gross income of an active distributor is very low, and footnote 8 says nearly all actives fall short of high volume (p. 463)."
+     },
+     {
+      "unit": "P12-11",
+      "text": "Most members are spending, not earning."
+     },
+     {
+      "unit": "P12-12",
+      "text": "Members pay a joining fee and often pay for books and tapes (p. 459)."
+     },
+     {
+      "unit": "P12-13",
+      "text": "The costs are structural."
+     },
+     {
+      "unit": "P12-14",
+      "text": "Mentors direct which books to read and tapes to buy (p. 471)."
+     },
+     {
+      "unit": "P12-15",
+      "text": "The sensegiver is also the person steering purchases."
+     },
+     {
+      "unit": "P12-16",
+      "text": "Disidentified members reinterpret upline kindness as a means to the upline's own income and feel used (p. 479)."
+     },
+     {
+      "unit": "P12-17",
+      "text": "Their turn is an economic re-reading of the relationship."
+     },
+     {
+      "unit": "P12-18",
+      "text": "One former member recalls paying the entry sum as [6 words of Pratt (2000), p. 479] pressured pitch (p. 479)."
+     },
+     {
+      "unit": "P12-19",
+      "text": "His grievance begins with a payment."
+     },
+     {
+      "unit": "P12-20",
+      "text": "Inactive distributors are defined as those who renew annually but do little else (p. 461)."
+     },
+     {
+      "unit": "P12-21",
+      "text": "Every former distributor interviewed had left within a year, roughly when a first annual reckoning would fall due."
+     }
+    ]
+   },
+   {
+    "reading": "P13",
+    "arm": "system",
+    "source": "stage2/pratt_2000_cards/pratt_2000_construct_inversion_CP02_01.json",
+    "source_id": "pratt_2000_construct_inversion_CP02_01",
+    "units": [
+     {
+      "unit": "P13-01",
+      "text": "The paper sets the two men side by side as failed support and durable support."
+     },
+     {
+      "unit": "P13-02",
+      "text": "The passages print something narrower: what each upline did with a member the pair holds to have been less than fully active."
+     },
+     {
+      "unit": "P13-03",
+      "text": "In the passage on p. 479 what the upline offered came through the program: it relied mainly on more meetings."
+     },
+     {
+      "unit": "P13-04",
+      "text": "In the passage on p. 480 what the sponsor offered stood apart from the program: the support went on while he repeatedly failed to attend functions, prepare lists, recruit or use the products consistently, and the sponsor used a kinship term for him."
+     },
+     {
+      "unit": "P13-05",
+      "text": "Elsewhere what uplines give is printed as running through the work."
+     },
+     {
+      "unit": "P13-06",
+      "text": "The researcher's upline tolerated his interviewing so long as he kept selling and trying to recruit (p. 460), and one distributor wanted the Pearl level partly so that he could join golf trips with upline members he liked (p. 471)."
+     },
+     {
+      "unit": "P13-07",
+      "text": "Read this way, the pair differs in whether the upline's dealings with the member depended on the work, not in how much was given."
+     },
+     {
+      "unit": "P13-08",
+      "text": "Where they did, the member left and blames the upline (p. 479)."
+     },
+     {
+      "unit": "P13-09",
+      "text": "Where they did not, he stayed, values the sponsor, and still does not do the work (p. 480)."
+     },
+     {
+      "unit": "P13-10",
+      "text": "The second half is the inversion."
+     },
+     {
+      "unit": "P13-11",
+      "text": "The tie the paper counts as the strong one is printed beside none of the conduct a strong upline tie is supposed to bring about (the paper's claim at pp. 469–476)."
+     },
+     {
+      "unit": "P13-12",
+      "text": "On this reading that tie holds because it did not depend on the work; it is what an idle member is left holding, and not a cause of anything he does."
+     },
+     {
+      "unit": "P13-13",
+      "text": "The tie in the passage on p. 479 is the ordinary, work-bound one, meeting a man it did not move."
+     }
+    ]
+   },
+   {
+    "reading": "P14",
+    "arm": "plain",
+    "source": "stage2/baseline_replies/reply_25_pratt_plain.json",
+    "source_id": "R5",
+    "units": [
+     {
+      "unit": "P14-01",
+      "text": "The four identification types are stations on a membership career, not separate products of practices succeeding or failing."
+     },
+     {
+      "unit": "P14-02",
+      "text": "Entry brings a burst of enthusiasm."
+     },
+     {
+      "unit": "P14-03",
+      "text": "The first year brings a crisis in which many leave, indifferent or angry."
+     },
+     {
+      "unit": "P14-04",
+      "text": "Survivors either deepen or settle into a long, low-cost stall."
+     },
+     {
+      "unit": "P14-05",
+      "text": "The branching diagram is then a cross-section of people caught at different points on one time course, and 'success' and 'failure' of practices name where someone currently stands."
+     },
+     {
+      "unit": "P14-06",
+      "text": "All former distributors interviewed had left within a year, inactive ones had been members for at least a year and a half, and actives ranged up to two decades (p. 461)."
+     },
+     {
+      "unit": "P14-07",
+      "text": "Exit clusters early and inactivity appears only after the first year."
+     },
+     {
+      "unit": "P14-08",
+      "text": "A distributor singles out the first few months as the hardest (p. 474)."
+     },
+     {
+      "unit": "P14-09",
+      "text": "There is a recognised early trial."
+     },
+     {
+      "unit": "P14-10",
+      "text": "A former distributor describes initial excitement followed by fading interest (p. 477)."
+     },
+     {
+      "unit": "P14-11",
+      "text": "This is a sequence within one person, which the paper files as a type."
+     },
+     {
+      "unit": "P14-12",
+      "text": "Among the successful, dreams shift over time from lifestyle to family to saving the country (p. 468)."
+     },
+     {
+      "unit": "P14-13",
+      "text": "Positive identification itself has stages."
+     },
+     {
+      "unit": "P14-14",
+      "text": "Footnote 13 notes that members who stop selling are kept in the fold for a long time before being dropped (p. 473)."
+     },
+     {
+      "unit": "P14-15",
+      "text": "The organisation treats inactivity as a phase."
+     },
+     {
+      "unit": "P14-16",
+      "text": "Ambivalent members cycle between bursts of activity and long pauses (p. 481)."
+     },
+     {
+      "unit": "P14-17",
+      "text": "Their state is described as movement."
+     },
+     {
+      "unit": "P14-18",
+      "text": "The paper states that distributors moved between identification states in several directions but does not discuss this in detail (p. 485)."
+     },
+     {
+      "unit": "P14-19",
+      "text": "The trajectories exist in the data and are not printed."
+     }
+    ]
+   },
+   {
+    "reading": "P15",
+    "arm": "middle",
+    "source": "stage2/baseline_replies/reply_24_pratt_reading.json",
+    "source_id": "focalization_shift_01",
+    "units": [
+     {
+      "unit": "P15-01",
+      "text": "Followed through Mark, the session prints three things happening, and a wanted possession for the downline is the slightest of them."
+     },
+     {
+      "unit": "P15-02",
+      "text": "First, Mark pursues his own wants: he points out a leather jacket, says he is interested in it himself, and arranges for the clerk to phone the author so that the author can buy it for him when it is reduced (p. 492); he asks about boot shops and goes to one although he knows the author has no interest in boots, and says his wife gets angry when he does this on such outings (p. 493)."
+     },
+     {
+      "unit": "P15-03",
+      "text": "Second, Mark shows and coaches a manner: he takes control in the first shop, stumps a jeweller with knowledgeable questions (p. 492), tells the two downline that their ignorance of jewellery shows and that they should fake it, praises the author for walking straight in at the next shop, and says [6 words of Pratt (2000), p. 493] get treated well (p. 493)."
+     },
+     {
+      "unit": "P15-04",
+      "text": "Third, Mark works the relationship and the business: he offers to pick up cheaper shorts near his home (p. 492), buys the author a biscuit with a father-and-son joke that the author returns, tells a salesperson the author will soon be rich or else Mark is wasting his time, and begins prospecting that salesperson (p. 493)."
+     },
+     {
+      "unit": "P15-05",
+      "text": "Against this, the author records declining interest in men's jewellery (p. 492), little success in several clothing shops, being worn out (p. 493), and liking very few things all day, the jacket Mark had pointed out being one of them (p. 492)."
+     },
+     {
+      "unit": "P15-06",
+      "text": "Mark's own stated view is that most people do not know what they want and learn it from watching the upline want things (p. 493)."
+     },
+     {
+      "unit": "P15-07",
+      "text": "So in this exhibit what passes to the downline is mainly how Mark carries himself and a familial tie to Mark; the mentor relationship the paper places second is being built inside the practice it places first, and the standard set before the downline is the mentor more than any object."
+     },
+     {
+      "unit": "P15-08",
+      "text": "This sits close to what the author concedes on pp. 481–482, that the two kinds of practice blur as other distributors come to shape one's ideal self; it differs in holding that, in the one session printed, the blur is there from the first outing rather than arriving later."
+     }
+    ]
+   }
+  ],
+  "bechky": [
+   {
+    "reading": "B01",
+    "arm": "middle",
+    "source": "stage2/baseline_replies/reply_26_bechky_reading.json",
+    "source_id": "counterfactual_ending_01",
+    "units": [
+     {
+      "unit": "B01-01",
+      "text": "Read the narcotics outcome as where things stood when fieldwork ended in August 2010 (p. 612), not as an ending."
+     },
+     {
+      "unit": "B01-02",
+      "text": "Jodi expects the crystal test to be phased out and GC/MS to take its place (p. 631)."
+     },
+     {
+      "unit": "B01-03",
+      "text": "The working group is still debating a second analyst's check (p. 632)."
+     },
+     {
+      "unit": "B01-04",
+      "text": "The unit is weighing cameras against instruments on cost (p. 632)."
+     },
+     {
+      "unit": "B01-05",
+      "text": "Robin has attended a workshop on a recent Daubert hearing against crystal testing (p. 632)."
+     },
+     {
+      "unit": "B01-06",
+      "text": "What is printed as resistance is talk at benches and in meetings (p. 615) about preferences, time and cost; no instruction to change is printed, and no refusal of one."
+     },
+     {
+      "unit": "B01-07",
+      "text": "The objections that carry quantities are about capacity: two instruments and long runs (p. 632), and a legal requirement of short turnaround (p. 629)."
+     },
+     {
+      "unit": "B01-08",
+      "text": "If the working group ruled against the crystal test, the printed material would support reading the unit's holding on as a matter of nothing yet being required and of capacity, with values shaping how the prospect was talked about."
+     },
+     {
+      "unit": "B01-09",
+      "text": "Robin's hearing also gives narcotics a court challenge heard about at a professional event, the same shape as the one firearms examiners heard about at theirs (p. 621), where the author records none for narcotics (p. 635; p. 633)."
+     }
+    ]
+   },
+   {
+    "reading": "B02",
+    "arm": "plain",
+    "source": "stage2/baseline_replies/reply_27_bechky_plain.json",
+    "source_id": "R4",
+    "units": [
+     {
+      "unit": "B02-01",
+      "text": "One condition accounts for all three outcomes: whether an analyst in this lab expected to be personally challenged in the local court."
+     },
+     {
+      "unit": "B02-02",
+      "text": "Toxicology had such a date and changed."
+     },
+     {
+      "unit": "B02-03",
+      "text": "Firearms and narcotics did not and stayed as they were."
+     },
+     {
+      "unit": "B02-04",
+      "text": "Occupational values then add nothing to the explanation."
+     },
+     {
+      "unit": "B02-05",
+      "text": "They describe how each unit talked about a decision that local exposure had already made."
+     },
+     {
+      "unit": "B02-06",
+      "text": "Because the study has one lab, each occupation appears under only one exposure condition, so the paper cannot tell values from exposure."
+     },
+     {
+      "unit": "B02-07",
+      "text": "A named local case with an out-of-state expert was about to challenge toxicology results (p. 625)."
+     },
+     {
+      "unit": "B02-08",
+      "text": "This is the only unit with a local court date."
+     },
+     {
+      "unit": "B02-09",
+      "text": "Firearms [6 words of Bechky (2020), p. 624] the county's jurisdiction, and the examiners did not change in response to pressure from elsewhere (p. 624)."
+     },
+     {
+      "unit": "B02-10",
+      "text": "The paper notes that [6 words of Bechky (2020), p. 635] been through admissibility hearings seemed motivated to change practice (p. 635)."
+     },
+     {
+      "unit": "B02-11",
+      "text": "These are members of the same occupation, with different exposure and a different stance."
+     },
+     {
+      "unit": "B02-12",
+      "text": "An examiner from outside who had faced such questioning urges colleagues to treat the critics as a spur to do better (pp. 623–624)."
+     },
+     {
+      "unit": "B02-13",
+      "text": "This again links exposure to willingness."
+     },
+     {
+      "unit": "B02-14",
+      "text": "A narcotics analyst attended a workshop on an admissibility hearing that challenged crystal testing (p. 632)."
+     },
+     {
+      "unit": "B02-15",
+      "text": "Narcotics, like firearms, had a court challenge somewhere else and none at home."
+     },
+     {
+      "unit": "B02-16",
+      "text": "The paper's own summary says narcotics had [6 words of Bechky (2020), p. 632] change and therefore kept its practices (p. 632)."
+     },
+     {
+      "unit": "B02-17",
+      "text": "Fieldwork was three to six months per unit within eighteen months that began the month the report came out, so units were also seen at different distances from the report's release (p. 614)."
+     }
+    ]
+   },
+   {
+    "reading": "B03",
+    "arm": "middle",
+    "source": "stage2/baseline_replies/reply_26_bechky_reading.json",
+    "source_id": "construct_fission_01",
+    "units": [
+     {
+      "unit": "B03-01",
+      "text": "The construct does two jobs."
+     },
+     {
+      "unit": "B03-02",
+      "text": "In X passages the speaker or the quoted text itself holds other work up against DNA: the NAS excerpt sets toolmark-type tests beside [6 words of Bechky (2020), p. 620] (p. 620); an examiner at the statewide meeting says they cannot be like DNA (p. 624); a narcotics analyst voices the demand as one made of firearms (p. 624); Tom and Pete talk about statistics and numbers when the author asks what being like DNA means (p. 624)."
+     },
+     {
+      "unit": "B03-03",
+      "text": "In Y passages a demand is reported and the speaker names another source for it: Jason names ISO and NIST documents and scientific fields in general and denies that NAS spurred it (p. 627); Jodi names NAS 'and other attacks', East Coast practice and the lack of an output others can review (p. 631); Robin names a Daubert hearing on crystal testing (p. 632); Taylor and Billie name East Coast instrument routine (p. 632)."
+     },
+     {
+      "unit": "B03-04",
+      "text": "In the Y passages the tie to DNA is supplied by the author's characterisation (p. 627, p. 628, p. 632)."
+     },
+     {
+      "unit": "B03-05",
+      "text": "Read this way, the firearms unit met a comparison with DNA, while toxicology and narcotics met demands for a stated measurement uncertainty or a reviewable output that no printed toxicologist or narcotics analyst attributes to DNA in respect of their own work."
+     },
+     {
+      "unit": "B03-06",
+      "text": "The three-way difference in response would then be partly a difference in what was asked and by whom, not three answers to one question."
+     }
+    ]
+   },
+   {
+    "reading": "B04",
+    "arm": "system",
+    "source": "stage2/bechky_2020_cards/bechky_2020_counterfactual_ending_DG02_01.json",
+    "source_id": "bechky_2020_counterfactual_ending_DG02_01",
+    "units": [
+     {
+      "unit": "B04-01",
+      "text": "Read the ending as provisional at its near edge as well as its far one."
+     },
+     {
+      "unit": "B04-02",
+      "text": "The paper closes with three units inside the comparison's reach and the outer boundary unknown (p. 636, author's account)."
+     },
+     {
+      "unit": "B04-03",
+      "text": "In print the three do not sit inside it in the same way."
+     },
+     {
+      "unit": "B04-04",
+      "text": "Firearms: the NAS report says techniques such as toolmark comparison had not received stringent testing, lacked known error rates and had produced some erroneous results when compared with DNA evidence (p. 620); a SWG-GUN board member says attempts to exclude firearms evidence were becoming more common (p. 621); an examiner at the statewide meeting says firearms work could not simply be made equivalent to DNA analysis (p. 624)."
+     },
+     {
+      "unit": "B04-05",
+      "text": "Narcotics: an analyst describes the demand on non-DNA specialties as pressure to become more like DNA analysis (p. 617), and Jodi fears crystal testing could be phased out because it leaves no persistent instrument output for later review (p. 631); the participant link to DNA on this side is the passage on p. 617 alone, and it is stated for non-DNA specialties in general."
+     },
+     {
+      "unit": "B04-06",
+      "text": "Toxicology: the report did not criticize toxicology directly (p. 625); the uncertainty plan predates the report (p. 627); the requirements named are ISO, NIST, state law and ASCLD (p. 627, pp. 627–628); the courtroom attack is on reports that omit uncertainty estimates (p. 625); and Jason rejects the idea that the laboratory had only begun the work because of the report (pp. 627–628)."
+     },
+     {
+      "unit": "B04-07",
+      "text": "No toxicology passage has a toxicologist, or the attorney, naming DNA."
+     },
+     {
+      "unit": "B04-08",
+      "text": "That toxicologists encountered the DNA comparison through that case is the author's account (p. 627; Table 2, Institutional pathways of spillover — toxicology, p. 633; p. 634)."
+     },
+     {
+      "unit": "B04-09",
+      "text": "The wager: the edge that the paper's open question (p. 636) looks for beyond the three may run between them, with toxicology, the one unit recorded as changing its practice (Table 2, Response of group at MCCL — toxicology, p. 633, author's account), on the far side."
+     },
+     {
+      "unit": "B04-10",
+      "text": "If so, the sorter ventured in the paper's claim (p. 634, p. 636) does not find the edge, because the three units share a laboratory, a director who says all are criminalists who should be capable of working in any unit (pp. 619–620), and, on the paper's account, their audiences (p. 636)."
+     },
+     {
+      "unit": "B04-11",
+      "text": "The ending would also change shape: the comparison reached two units and, on the paper's own record, changed local practice in neither (Table 2, Response of group at MCCL — firearms, p. 633; Table 2, Response of group at MCCL — controlled substances (narcotics), p. 633, author's account), while the unit that changed did so under requirements and a courtroom strategy whose tie to DNA is printed only in the author's voice."
+     },
+     {
+      "unit": "B04-12",
+      "text": "The far edge is no better fixed."
+     },
+     {
+      "unit": "B04-13",
+      "text": "The only named forensic occupation in print beyond the three and DNA is the trace examiners, whose flyer said trace work had been pushed behind DNA work and whose printed concern is attention and resources (p. 619); no passage has their methods evaluated against DNA's."
+     }
+    ]
+   },
+   {
+    "reading": "B05",
+    "arm": "plain",
+    "source": "stage2/baseline_replies/reply_27_bechky_plain.json",
+    "source_id": "R1",
+    "units": [
+     {
+      "unit": "B05-01",
+      "text": "The toxicology case is not a spillover from DNA profiling."
+     },
+     {
+      "unit": "B05-02",
+      "text": "It is an accreditation project that was already under way and was brought forward by one court date."
+     },
+     {
+      "unit": "B05-03",
+      "text": "Read this way, the toxicologists changed their reports because ISO-based accreditation required uncertainty estimates and a defence attorney was about to ask for them."
+     },
+     {
+      "unit": "B05-04",
+      "text": "The comparison with DNA is something the analyst attaches to the episode, not something the toxicologists were responding to."
+     },
+     {
+      "unit": "B05-05",
+      "text": "The paper would then have two cases of DNA comparison (firearms, narcotics) and one case of ordinary standards compliance."
+     },
+     {
+      "unit": "B05-06",
+      "text": "The national report hardly mentions toxicology and does not criticise it, so the comparison with DNA has no direct textual route to this unit (p. 625)."
+     },
+     {
+      "unit": "B05-07",
+      "text": "The trigger is a defence attorney who had won DUI cases elsewhere on missing uncertainty estimates, and a specific local case planning the same challenge (p. 625)."
+     },
+     {
+      "unit": "B05-08",
+      "text": "The complaint is about measurement uncertainty, not about DNA."
+     },
+     {
+      "unit": "B05-09",
+      "text": "Before the report appeared, the lab was already revising protocols to an ISO standard that required a plan for estimating measurement uncertainty (p. 627)."
+     },
+     {
+      "unit": "B05-10",
+      "text": "The change predates the supposed cause."
+     },
+     {
+      "unit": "B05-11",
+      "text": "A toxicologist tells an outreach audience that it is untrue that labs added uncertainty because of the report, and that the lab was already doing it (p. 627)."
+     },
+     {
+      "unit": "B05-12",
+      "text": "The members' own account denies the spillover."
+     },
+     {
+      "unit": "B05-13",
+      "text": "The estimate is built from five years of quality-control data the lab had already collected with an unchanged method, which shows continuity of practice and no new comparison (p. 628)."
+     },
+     {
+      "unit": "B05-14",
+      "text": "The discussion itself concedes that changes already being made for accreditation made the response easier (p. 635)."
+     }
+    ]
+   },
+   {
+    "reading": "B06",
+    "arm": "plain",
+    "source": "stage2/baseline_replies/reply_27_bechky_plain.json",
+    "source_id": "R2",
+    "units": [
+     {
+      "unit": "B06-01",
+      "text": "The three responses follow what change would cost each unit in instruments, staff time and legal deadlines."
+     },
+     {
+      "unit": "B06-02",
+      "text": "Values are the language in which those costs are expressed."
+     },
+     {
+      "unit": "B06-03",
+      "text": "Toxicology changed because the change was nearly free: the data existed and the method stayed the same."
+     },
+     {
+      "unit": "B06-04",
+      "text": "Narcotics held on to crystal tests because the unit could not meet its statutory turnaround with two instruments."
+     },
+     {
+      "unit": "B06-05",
+      "text": "Firearms did nothing because nothing affordable was on offer: no population data exist for a four-person unit to report from."
+     },
+     {
+      "unit": "B06-06",
+      "text": "Local law required fast turnaround on drug cases, and the commonest drug could be confirmed by crystal test in ten to fifteen minutes (p. 629)."
+     },
+     {
+      "unit": "B06-07",
+      "text": "This sets a hard throughput constraint."
+     },
+     {
+      "unit": "B06-08",
+      "text": "An analyst says the unit could not keep up with its caseload without crystals because it has only two instruments and runs are long (p. 632)."
+     },
+     {
+      "unit": "B06-09",
+      "text": "The objection is stated as capacity, not preference."
+     },
+     {
+      "unit": "B06-10",
+      "text": "Second-analyst review would double analysis time, and cameras are discussed as costly but cheaper than more instruments (p. 632)."
+     },
+     {
+      "unit": "B06-11",
+      "text": "The unit is pricing alternatives, which is what a cost-driven actor does."
+     },
+     {
+      "unit": "B06-12",
+      "text": "The veteran analyst's objection to instrument testing is that it takes much longer and results would not come back at once (p. 631)."
+     },
+     {
+      "unit": "B06-13",
+      "text": "Speed leads her account."
+     },
+     {
+      "unit": "B06-14",
+      "text": "Analysts time themselves and fight a new data-entry system over a minute per case, which shows how tightly throughput governs the unit (p. 631)."
+     },
+     {
+      "unit": "B06-15",
+      "text": "Toxicology's new reporting reused existing historical data, the same instrument and the same method, so adoption required little new resource (pp. 627–628)."
+     },
+     {
+      "unit": "B06-16",
+      "text": "Other units remark that equipment, funding, grants and staff flow to the DNA unit (p. 619)."
+     },
+     {
+      "unit": "B06-17",
+      "text": "The resources that would make being like DNA possible sit elsewhere."
+     },
+     {
+      "unit": "B06-18",
+      "text": "Firearms examiners say statistics are impossible because not every bullet can be examined, which is a statement about missing data infrastructure (p. 624)."
+     }
+    ]
+   },
+   {
+    "reading": "B07",
+    "arm": "plain",
+    "source": "stage2/baseline_replies/reply_27_bechky_plain.json",
+    "source_id": "R5",
+    "units": [
+     {
+      "unit": "B07-01",
+      "text": "The responses are moves to protect or improve each unit's standing and its members' irreplaceability inside a lab whose director treats all analysts as interchangeable."
+     },
+     {
+      "unit": "B07-02",
+      "text": "Narcotics and firearms defend long craft training because it makes them hard to swap and keeps them above routine instrument work."
+     },
+     {
+      "unit": "B07-03",
+      "text": "Toxicology, which other units look down on as button-pressing, takes up uncertainty reporting because it raises the unit's standing."
+     },
+     {
+      "unit": "B07-04",
+      "text": "This reverses the paper's claim that status and power mattered much less [6 words of Bechky (2020), p. 637]."
+     },
+     {
+      "unit": "B07-05",
+      "text": "The envy the paper names is first described as envy of the DNA unit's equipment, money and staff, and trace examiners form a new association over lost attention (p. 619)."
+     },
+     {
+      "unit": "B07-06",
+      "text": "The comparison is experienced as a matter of standing and resources."
+     },
+     {
+      "unit": "B07-07",
+      "text": "The director, planning to swap analysts between narcotics and firearms, tells staff they should all [7 words of Bechky (2020), p. 620] (pp. 619–620)."
+     },
+     {
+      "unit": "B07-08",
+      "text": "Interchangeability is an active managerial position."
+     },
+     {
+      "unit": "B07-09",
+      "text": "Firearms examiners train for two years and DNA analysts for nine months before casework (p. 620)."
+     },
+     {
+      "unit": "B07-10",
+      "text": "Long training is the barrier against being swapped."
+     },
+     {
+      "unit": "B07-11",
+      "text": "Narcotics analysts describe toxicology work as mind-numbing and several had left that unit (p. 630)."
+     },
+     {
+      "unit": "B07-12",
+      "text": "This shows a ranking among units by the kind of work done."
+     },
+     {
+      "unit": "B07-13",
+      "text": "An analyst says anyone off the street could run the instrument method, whereas crystal testing needs validation and training (p. 632)."
+     },
+     {
+      "unit": "B07-14",
+      "text": "The objection is about who could replace them."
+     },
+     {
+      "unit": "B07-15",
+      "text": "A firearms examiner resents colleagues elsewhere who think counting makes them more objective than he is (p. 623)."
+     },
+     {
+      "unit": "B07-16",
+      "text": "This is a contest over standing within the occupation."
+     },
+     {
+      "unit": "B07-17",
+      "text": "Toxicologists are visibly proud when presenting their new error reporting to the criminal justice community (p. 628)."
+     },
+     {
+      "unit": "B07-18",
+      "text": "The table records toxicology's value response with a remark that the county is ahead of the rest of the state on error measurement, which is a claim to rank (p. 633)."
+     }
+    ]
+   },
+   {
+    "reading": "B08",
+    "arm": "middle",
+    "source": "stage2/baseline_replies/reply_26_bechky_reading.json",
+    "source_id": "construct_inversion_01",
+    "units": [
+     {
+      "unit": "B08-01",
+      "text": "Attribute the difference to what the paper treats as a facilitator."
+     },
+     {
+      "unit": "B08-02",
+      "text": "Before the NAS report the lab was already conforming to ISO 17025, and toxicology had a three-year plan to estimate uncertainty of measurement (p. 627)."
+     },
+     {
+      "unit": "B08-03",
+      "text": "Its protocol already required a log tracing instruments, reagents and standards, and state law already required a confidence interval (p. 627)."
+     },
+     {
+      "unit": "B08-04",
+      "text": "It had quality-control data from more than five years on an unchanged method (p. 628)."
+     },
+     {
+      "unit": "B08-05",
+      "text": "On hearing of the challenge the unit brought the plan forward (p. 627)."
+     },
+     {
+      "unit": "B08-06",
+      "text": "Jason tells a criminal-justice audience that labs were not scrambling on account of NAS and that the work was already being done (p. 627)."
+     },
+     {
+      "unit": "B08-07",
+      "text": "On this reading the two units differ in whether the answer to the challenge was already scheduled by the accreditor; the nearness of the court case accounts for the date, not for the change."
+     },
+     {
+      "unit": "B08-08",
+      "text": "No comparable scheduled item is printed for the firearms unit."
+     },
+     {
+      "unit": "B08-09",
+      "text": "The reading agrees with the paper that ASCLD's requirements mattered (p. 633, p. 635) and departs from it only in putting them first."
+     }
+    ]
+   },
+   {
+    "reading": "B09",
+    "arm": "system",
+    "source": "stage2/bechky_2020_cards/bechky_2020_construct_inversion_from_pair_CP02_01.json",
+    "source_id": "bechky_2020_construct_inversion_from_pair_CP02_01",
+    "units": [
+     {
+      "unit": "B09-01",
+      "text": "Re-attribute what separated the two units, from fit with what each values to how much of the unit's routine the change would displace and what that would cost."
+     },
+     {
+      "unit": "B09-02",
+      "text": "On the toxicology side the change in print is to the report and the calculation behind it."
+     },
+     {
+      "unit": "B09-03",
+      "text": "Toxicology as the paper observed it was high-volume instrument work (p. 625)."
+     },
+     {
+      "unit": "B09-04",
+      "text": "The protocol already logged instruments, reagents and standards, and the laboratory had been reporting at a 95% confidence level (p. 627)."
+     },
+     {
+      "unit": "B09-05",
+      "text": "The courtroom attack was on reports that omitted measurement-uncertainty estimates (p. 625); the unit prepared the statistical analysis on a plan it already had (p. 627), and the new calculation used several years of existing quality-control data (pp. 627–628)."
+     },
+     {
+      "unit": "B09-06",
+      "text": "No passage prints a change to how samples are prepared or run."
+     },
+     {
+      "unit": "B09-07",
+      "text": "On the narcotics side what the analysts feared losing was the routine bench method: they feared their working group might eventually prohibit crystal testing (p. 631)."
+     },
+     {
+      "unit": "B09-08",
+      "text": "Crystal tests handled many routine cases and often confirmed common methamphetamine in about ten to fifteen minutes, GC/MS was reserved for unknown or unconfirmed substances, and rapid legal turnaround made the faster method especially useful (p. 629)."
+     },
+     {
+      "unit": "B09-09",
+      "text": "Robin said the laboratory could not handle its caseload without crystals because it had only two relevant instruments and instrument runs took too long (p. 632)."
+     },
+     {
+      "unit": "B09-10",
+      "text": "Jodi expected a shift toward slower GC/MS if crystal testing were phased out (p. 631)."
+     },
+     {
+      "unit": "B09-11",
+      "text": "The analysts said a rule of independent visual confirmation would in effect require a fresh duplicate test and roughly double the work (p. 632), and they noted that microscope cameras would cost less than additional GC/MS instruments (p. 632)."
+     },
+     {
+      "unit": "B09-12",
+      "text": "So the two instrument-based routes the pair holds comparable are not the same size of thing."
+     },
+     {
+      "unit": "B09-13",
+      "text": "For toxicology the instrument method was the routine and the demand added a calculation to it."
+     },
+     {
+      "unit": "B09-14",
+      "text": "For narcotics the instrument method was the exception, and what the analysts feared would have put it in place of the routine."
+     },
+     {
+      "unit": "B09-15",
+      "text": "The wager is that this difference, in how much of the day's work is displaced and what that costs in instruments and time against the caseload, is what made the units come out differently, and that the values the paper credits accompany each outcome without being shown to produce it."
+     },
+     {
+      "unit": "B09-16",
+      "text": "Two things in print lean this way."
+     },
+     {
+      "unit": "B09-17",
+      "text": "The narcotics analysts' stated reasons divide: time, work and cost in the passages on p. 631 and p. 632; variety and what the work asks of the analyst in the passages on p. 632."
+     },
+     {
+      "unit": "B09-18",
+      "text": "That they were especially troubled by the second kind is the author's account (p. 632)."
+     },
+     {
+      "unit": "B09-19",
+      "text": "And on the toxicology side the participant passages show vigilance against sample-identity and pipetting mistakes (p. 626, pp. 626–627); the fit between that and estimating uncertainty across equipment, reagents and procedural steps (pp. 627–628) is made in the author's voice (p. 627; Table 2, Values — toxicology, p. 633), and the nearest participant-side item is pride shown when the new reports were presented (p. 628), which comes after the change."
+     },
+     {
+      "unit": "B09-20",
+      "text": "The reading is close to the paper in one respect: the paper's own account of narcotics values includes quick case completion (p. 630, p. 631, author's account), so speed is registered."
+     },
+     {
+      "unit": "B09-21",
+      "text": "It parts from the paper in treating instruments, run time and caseload as conditions of the laboratory, not as something the analysts value, and in crediting them for the outcome where the paper's claim (p. 628, p. 632, pp. 633–637) credits variety, autonomy and craft judgment."
+     }
+    ]
+   },
+   {
+    "reading": "B10",
+    "arm": "system",
+    "source": "stage2/bechky_2020_cards/bechky_2020_focalization_shift_forensic_biology_DNA_01.json",
+    "source_id": "bechky_2020_focalization_shift_forensic_biology_DNA_01",
+    "units": [
+     {
+      "unit": "B10-01",
+      "text": "Retold from the forensic biology unit's own passages, the paper's episode has no event in it."
+     },
+     {
+      "unit": "B10-02",
+      "text": "None of the unit's fourteen passages has a DNA analyst speak of the 2009 report, of being the standard, or of the other units; the nearest is the supervisors introducing themselves, as a joke, on the author's first day, as the 'DNA princesses' (p. 615)."
+     },
+     {
+      "unit": "B10-03",
+      "text": "What the passages do carry is the unit's account of its own work and one line of history."
+     },
+     {
+      "unit": "B10-04",
+      "text": "At the bench the analysts regard profiling as judgment-laden and untidy, because instrument output can contain artifacts and samples can be dirty, degraded or contaminated (p. 619)."
+     },
+     {
+      "unit": "B10-05",
+      "text": "Terri describes a contaminated saliva control that cleared when she repeated the amplification, and Carly says contamination can persist with no identifiable cause (p. 619)."
+     },
+     {
+      "unit": "B10-06",
+      "text": "In the paper's description, conclusions often took repeated interpretation and discussion between analyst and reviewer, sometimes with others brought in (p. 619), and Terri remarks that writing a report could take the wider laboratory (p. 619)."
+     },
+     {
+      "unit": "B10-07",
+      "text": "What goes out is a profile released after technical and administrative review (pp. 617–618) and a report that pairs a contributor conclusion with a population-frequency figure (p. 618)."
+     },
+     {
+      "unit": "B10-08",
+      "text": "And the method became established over roughly twenty-five years, after technical advances, court challenges and favorable National Academy assessments in the 1990s (p. 617, which the paper draws from cited sources)."
+     },
+     {
+      "unit": "B10-09",
+      "text": "The wager from this side: the forensic biology unit is not the fixed point the other three are measured from but one more unit whose work is judgment talked through with a reviewer, and whose occupation was itself under court challenge and Academy assessment first."
+     },
+     {
+      "unit": "B10-10",
+      "text": "The firearms review in the passage on p. 622, two examiners debating how much agreement is enough, is the nearest printed counterpart to the passage on p. 619."
+     },
+     {
+      "unit": "B10-11",
+      "text": "Review of an analyst's work by someone else is printed for every unit (pp. 617–618 with p. 619, p. 622, pp. 625–626, pp. 629–630); what is printed for forensic biology alone is the population-frequency figure (p. 618)."
+     },
+     {
+      "unit": "B10-12",
+      "text": "If so, what each neighbor is compared with (the paper's claim at p. 617, p. 634) and found compatible or incompatible with (the paper's claim at p. 606, p. 608, p. 617, p. 620, p. 625, pp. 627–628, p. 632, pp. 633–637; Table 2, Technique — firearms, p. 633; Table 2, Technique — toxicology, p. 633; Table 2, Technique — controlled substances (narcotics), p. 633, author's account) is what leaves the DNA unit, and the judgment that the paper's table sets against the objectivity associated with DNA (Table 2, Values — firearms, p. 633, author's account) is present on the DNA side as well (p. 619)."
+     },
+     {
+      "unit": "B10-13",
+      "text": "This agrees with the paper on the substance of the paper's claim (pp. 618–619), untidy work and outputs that look objective, and uses the same passages."
+     },
+     {
+      "unit": "B10-14",
+      "text": "It differs in where it puts the unit: among the cases, with a history of being evaluated, and not above them."
+     },
+     {
+      "unit": "B10-15",
+      "text": "Whether the review steps and the figure are what that earlier evaluation left behind is not printed, and the reading does not assert it."
+     }
+    ]
+   },
+   {
+    "reading": "B11",
+    "arm": "middle",
+    "source": "stage2/baseline_replies/reply_26_bechky_reading.json",
+    "source_id": "construct_inversion_02",
+    "units": [
+     {
+      "unit": "B11-01",
+      "text": "Read the direction the other way: what the paper calls a unit's values is partly a record of who came, who stayed and who left."
+     },
+     {
+      "unit": "B11-02",
+      "text": "Taylor took the toxicology job as the one that was open, did that work, wanted out, and persuaded management to train her elsewhere (p. 630); several narcotics analysts had worked in toxicology and been eager to move (p. 630)."
+     },
+     {
+      "unit": "B11-03",
+      "text": "Neha says a 'normal person' sometimes arrives in toxicology and irritates the rest (p. 626)."
+     },
+     {
+      "unit": "B11-04",
+      "text": "Billie ties her liking for crystal tests to being a chemist and to not wanting to repeat one task, and says other people would prefer the instrument (p. 632)."
+     },
+     {
+      "unit": "B11-05",
+      "text": "Analysts are hired into a specific unit (p. 613)."
+     },
+     {
+      "unit": "B11-06",
+      "text": "On this reading the same technique did not produce the same values in everyone who performed it, and the narcotics unit's dislike of standardised work would be something its members brought with them out of toxicology."
+     },
+     {
+      "unit": "B11-07",
+      "text": "The units' different responses would then track who is in them."
+     }
+    ]
+   },
+   {
+    "reading": "B12",
+    "arm": "plain",
+    "source": "stage2/baseline_replies/reply_27_bechky_plain.json",
+    "source_id": "R3",
+    "units": [
+     {
+      "unit": "B12-01",
+      "text": "The units did not embrace or resist being like DNA as a whole."
+     },
+     {
+      "unit": "B12-02",
+      "text": "Each took up the one feature of DNA evidence it could reach and declined the rest."
+     },
+     {
+      "unit": "B12-03",
+      "text": "The feature that matters across all three is a record that someone else can inspect afterwards."
+     },
+     {
+      "unit": "B12-04",
+      "text": "Firearms had already moved to it, with images of every comparison and a second examiner signing each page, while refusing numbers."
+     },
+     {
+      "unit": "B12-05",
+      "text": "Narcotics was exposed because the crystal test leaves nothing to inspect, and its talk of cameras and second viewers is the start of the same move."
+     },
+     {
+      "unit": "B12-06",
+      "text": "On this reading the firearms unit is a case of change the paper does not count, and the embrace/resist outcome column hides a shared shift toward reviewable documentation."
+     },
+     {
+      "unit": "B12-07",
+      "text": "DNA's standing is tied to graphs, tables and raw data that legal parties can review (pp. 618–619)."
+     },
+     {
+      "unit": "B12-08",
+      "text": "This identifies the reviewable record as the feature being compared."
+     },
+     {
+      "unit": "B12-09",
+      "text": "A visible record of matching marks is described as important because it backs the examiner on the stand (p. 621)."
+     },
+     {
+      "unit": "B12-10",
+      "text": "One examiner says outsiders have reviewed his packets without challenge."
+     },
+     {
+      "unit": "B12-11",
+      "text": "Examiners say the old appeal to recognition by eye is no longer acceptable and that images are now required (p. 622)."
+     },
+     {
+      "unit": "B12-12",
+      "text": "This is a reported change in practice in the direction of DNA-style documentation."
+     },
+     {
+      "unit": "B12-13",
+      "text": "A second examiner looks at every set of marks and signs every page, and the two discuss lighting and angle to make the image more convincing (p. 622)."
+     },
+     {
+      "unit": "B12-14",
+      "text": "The work is aimed at an outside reader."
+     },
+     {
+      "unit": "B12-15",
+      "text": "The same examiners decline the counting method (p. 623)."
+     },
+     {
+      "unit": "B12-16",
+      "text": "The refusal is specific to quantification, not to documentation."
+     },
+     {
+      "unit": "B12-17",
+      "text": "A narcotics analyst locates the crystal test's weakness in the fact that it produces no output others can check later (p. 631)."
+     },
+     {
+      "unit": "B12-18",
+      "text": "The working group debates a second viewer and the unit discusses microscope cameras (p. 632)."
+     },
+     {
+      "unit": "B12-19",
+      "text": "Narcotics is considering the documentation route firearms already took."
+     },
+     {
+      "unit": "B12-20",
+      "text": "The unit already runs a second, different crystal test on each sample to meet working-group guidelines, so it does adjust practice to outside standards (p. 630)."
+     }
+    ]
+   },
+   {
+    "reading": "B13",
+    "arm": "system",
+    "source": "stage2/bechky_2020_cards/bechky_2020_construct_inversion_from_pair_CP01_01.json",
+    "source_id": "bechky_2020_construct_inversion_from_pair_CP01_01",
+    "units": [
+     {
+      "unit": "B13-01",
+      "text": "Re-attribute what separated the two units."
+     },
+     {
+      "unit": "B13-02",
+      "text": "The paper credits distance: remote for firearms, immediate for toxicology."
+     },
+     {
+      "unit": "B13-03",
+      "text": "A second thing varied across the pair and is printed on one side only: a change already being worked toward under a standing requirement."
+     },
+     {
+      "unit": "B13-04",
+      "text": "Before the NAS report the laboratory was adapting to ISO 17025 and the toxicology unit had a multi-year plan to estimate measurement uncertainty (p. 627)."
+     },
+     {
+      "unit": "B13-05",
+      "text": "State law and ASCLD required a five-percent confidence range for blood-alcohol measurement, the protocol already logged instruments, reagents and standards, and the laboratory was reporting at a 95% confidence level while preparing fuller uncertainty estimates for ISO compliance (p. 627)."
+     },
+     {
+      "unit": "B13-06",
+      "text": "When the local challenge became imminent the unit accelerated that plan and prepared the statistical analysis (p. 627)."
+     },
+     {
+      "unit": "B13-07",
+      "text": "At an outreach session for criminal-justice personnel Jason rejected the idea that the laboratory had only begun uncertainty work because of the NAS report, cited ISO and NIST requirements, and said the new calculation used several years of existing quality-control data (pp. 627–628)."
+     },
+     {
+      "unit": "B13-08",
+      "text": "The paper's own table puts ASCLD accreditation standards in toxicology's professional-association cell (Table 2, Professional association — toxicology, p. 633, author's account) and identifies no professional-association route for firearms (Table 2, Professional association — firearms, p. 633, author's account)."
+     },
+     {
+      "unit": "B13-09",
+      "text": "On the firearms side no passage prints a plan for the unit, and none says what the laboratory's ISO 17025 adaptation (p. 627) asked of it."
+     },
+     {
+      "unit": "B13-10",
+      "text": "The one professional-body response printed on the firearms criticism is a rebuttal: AFTE leaders issued a detailed rebuttal to parts of the NAS criticism of firearms work (p. 623)."
+     },
+     {
+      "unit": "B13-11",
+      "text": "IAI and AFTE also answered the report with selected rebuttals and commitments to have their research committees study the recommendations further (p. 616)."
+     },
+     {
+      "unit": "B13-12",
+      "text": "One examiner's work, at least, had been under outside review: Adam says outsiders had repeatedly reviewed his work without challenging it (p. 621)."
+     },
+     {
+      "unit": "B13-13",
+      "text": "Read this way, the pair does not set a unit that changed beside a unit that did not."
+     },
+     {
+      "unit": "B13-14",
+      "text": "It sets a unit whose change was already planned and required beside a unit with no plan and no requirement of its own in print, and the imminent challenge brought the plan forward."
+     },
+     {
+      "unit": "B13-15",
+      "text": "The wager is that the standing requirement is what made the difference, and that the immediate route accounts for when toxicology's reports changed, not for the fact that they did."
+     },
+     {
+      "unit": "B13-16",
+      "text": "A requirement met on a multi-year plan is hard to count among the paper's locally immediate routes (p. 606, p. 608, p. 617, p. 620, pp. 624–625, pp. 627–628, p. 632, pp. 633–636), so on this reading the pair shows the slower route doing the work."
+     },
+     {
+      "unit": "B13-17",
+      "text": "This sits close to the paper's claim (p. 625, pp. 627–628, pp. 633–637), which already lists accreditation work under way, and to the passage on p. 635, where the author's account has that work making the change easier."
+     },
+     {
+      "unit": "B13-18",
+      "text": "It parts from the paper's claim (p. 606, p. 608, p. 617, p. 620, pp. 624–625, pp. 627–628, p. 632, pp. 633–636), which takes this pair to show that immediacy supplies the impetus."
+     }
+    ]
+   },
+   {
+    "reading": "B14",
+    "arm": "middle",
+    "source": "stage2/baseline_replies/reply_26_bechky_reading.json",
+    "source_id": "construct_fission_02",
+    "units": [
+     {
+      "unit": "B14-01",
+      "text": "'Change to practice' covers two things."
+     },
+     {
+      "unit": "B14-02",
+      "text": "X is a change that leaves in place the way the result is reached and adds to what is recorded, shown or reported with it."
+     },
+     {
+      "unit": "B14-03",
+      "text": "Y is a change that replaces the person's own looking and judging as the way the identification is reached."
+     },
+     {
+      "unit": "B14-04",
+      "text": "On the X side: firearms examiners say knowing a mark on sight is no longer acceptable and images must back the call (p. 622); they keep note packets with images of each set of striae to support judgment on the stand (p. 621); a second examiner signs each page (p. 622); toxicology adds an uncertainty range with the same instrument and method (p. 627, p. 628); narcotics analysts talk over buying microscope cameras (p. 632)."
+     },
+     {
+      "unit": "B14-05",
+      "text": "On the Y side: counting striae is not regularly used (p. 623), numbers are declined (p. 624), and a move to GC/MS is feared or refused (p. 631, p. 632)."
+     },
+     {
+      "unit": "B14-06",
+      "text": "Read this way the three units look alike: each has taken on or entertained an X change, none is printed taking on a Y change, and toxicology is not printed as being asked for one."
+     },
+     {
+      "unit": "B14-07",
+      "text": "The contrast between embracing and resisting would then lie partly in which kind of change each unit was presented with."
+     },
+     {
+      "unit": "B14-08",
+      "text": "This sits close to the paper's values account for the Y passages; it departs from the paper on firearms, where an X change is printed as already made."
+     }
+    ]
+   }
+  ]
+ }
+}

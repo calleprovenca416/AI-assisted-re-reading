@@ -1,0 +1,77 @@
+{
+  "card_id": "pratt_2000_focalization_shift_current_and_former_distributors_01",
+  "verdicts": [
+    {
+      "mode": "B_import",
+      "killed": true,
+      "citations": [
+        "F10",
+        "F11",
+        "F23",
+        "F25",
+        "F35",
+        "F64"
+      ],
+      "drift": [],
+      "note": "KILL. The statement asserts: \"The cost in dispute is not a small one.\" No fragment carries this assertion about the magnitude of the disputed training expense. F11 establishes that distributors paid training costs; F10 describes the training media and activities; F23 establishes disagreement about which expenses to count; F35 establishes that books and tapes conveyed model dreams. None establishes the amount, relative burden, or financial significance of the disputed expense. A list of training activities does not establish a large expenditure. F25 supplies only an estimate of typical gross earnings, and F64 reports an upline comparison with the capital requirements of other businesses; neither supplies the missing magnitude. The reading imports financial size when moving from the existence and breadth of training to the claim that its disputed cost was substantial. No author-account-to-event drift was identified.",
+      "considered_not_fired": [
+        {
+          "item": "F23: the opening account and its fragment job",
+          "why": "The absence of clear net-profit figures, disagreement over product margins and training expenses, and the unresolved distinction between inability and unwillingness are all carried by F23. \"Asked for their net profit\" is an ordinary paraphrase of this interview report, not an added motive or cause. The statement that earnings are not a settled number is supported as a description of the disputed reckoning, not as proof that every individual lacked a private figure."
+        },
+        {
+          "item": "\"This unit speaks in one fragment\" and \"is the unit's only speech\"",
+          "why": "F23 is the only fragment assigned the combined unit \"current and former distributors.\" On that explicit unit-level reading, the assertion is supported. Individual current, inactive, and former distributors also speak elsewhere, so this does not establish that F23 exhausts all distributor testimony."
+        },
+        {
+          "item": "F11, F10, and F35: the training clauses and fragment jobs",
+          "why": "F11 carries distributors paying training costs, so describing the expense as one they bore adds no causal fact. F10 carries books, recordings, meetings, rallies, and seminars as training activities. F35 carries books and tapes as media for model dreams. Connecting training and dream building through those shared media is supported; it does not document the size of the expense or any individual's actual accounting choices."
+        },
+        {
+          "item": "F22, F23, and C09: the paper's treatment of financial performance",
+          "why": "F22 carries high sales before quitting and favorable reactions despite limited financial success; F23 carries the net-profit measurement problem. C09 explicitly states the author's conclusion about financial performance and identification. The card attributes that conclusion to the paper and uses F22 as a comparison of performance and reactions; it does not put the author's explanation into participants' mouths."
+        },
+        {
+          "item": "\"Whoever leaves those expenses out has a business that nets more than whoever puts them in.\"",
+          "why": "In the surrounding discussion of what goes into a calculation, this expresses the arithmetic effect of including or excluding an expense from the same reckoning. It requires no additional event or motive. It does not provide evidence that one actual distributor earned more than another, whose revenues and other costs could differ."
+        },
+        {
+          "item": "The proposed alignment between cost-counting and organizational stance, and the \"If that is so ... since\" connective",
+          "why": "The card expressly labels the alignment a wager, conditions the inseparability argument on it, and states that F23 does not identify the line of disagreement. The requested person-level matching is explicitly unprinted. This is an acknowledged hypothesis and its conditional implication, not an assertion that the alignment was observed. F23 and A01 support leaving the empirical question unresolved."
+        }
+      ]
+    },
+    {
+      "mode": "E_contradiction",
+      "killed": false,
+      "citations": [],
+      "note": "CLEAR. All 125 fragment stubs and their notes were examined, together with the absence register. No eligible stub requires the proposed relationship between expense-counting and organizational stance to be false. F23 is a seed and a declared strain; F22 and F24 are declared strains, and F25 is also expressly discussed in the F24 strain entry. No remaining fragment prints the person-level accounting choices needed to contradict the wager. The unsupported expense magnitude is a B import, not an E contradiction: the corpus does not report that the disputed expense was small.",
+      "considered_not_fired": [
+        {
+          "item": "F22, F24, and F25: sales, activity, and gross earnings",
+          "why": "Their tension with treating financial results as inseparable from identification is declared. Independently, sales levels, aggregate activity, and gross earnings can coexist with stance-related choices about net-profit expenses; these stubs do not identify anyone's treatment of training costs."
+        },
+        {
+          "item": "F90-F98 and F123: former distributors' accounts and tenure",
+          "why": "Declining interest, satisfaction with another job, rejection of upline authority, resentment, and departure within a year establish varied experiences of leaving. They do not report expense-counting. The wager does not require accounting disagreement to be the sole cause of departure, or all former distributors to have the same motive."
+        },
+        {
+          "item": "F101-F105 and F110: ambivalence and changing identification",
+          "why": "These stubs prevent treating current membership as proof of uniformly positive identification, but the card does not establish such a universal equivalence. They contain no accounting choices that would make its proposed alignment impossible. Changing or mixed attachment can coexist with a relationship between stance and reckoning."
+        },
+        {
+          "item": "F61, F62, F64, F97, and F103: benefits, business comparisons, and evaluations of upline support",
+          "why": "Intangible support, aspirations for social access, claims about other businesses' capital requirements, and favorable or unfavorable evaluations of mentoring do not specify whether training expenses were deducted. None establishes the opposite of the proposed accounting relationship or the size of the disputed expenditure."
+        },
+        {
+          "item": "F23 and A01: missing comparable net figures and unidentified accounting positions",
+          "why": "A01 records comparable net-profit and net-loss figures as not ascertainable. F23 leaves both the distribution of accounting views and inability versus unwillingness unresolved. Missing evidence cannot establish an undeclared contradiction; the card expressly identifies the missing matching information."
+        },
+        {
+          "item": "C09 and the author's explanatory accounts in F19, F21, F88, F99, and F107",
+          "why": "An alternative explanation of identification or a challenge to financial performance as a separate measure is not itself a contradiction of an observed event. These theoretical accounts do not supply a contrary observation about distributors' accounting choices, and disagreement with the incumbent's theory is not an E kill."
+        }
+      ]
+    }
+  ]
+}

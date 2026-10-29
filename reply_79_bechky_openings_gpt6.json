@@ -1,0 +1,155 @@
+{
+  "paper": "Bechky, B. A. 2020",
+  "checks": [
+    {
+      "reading": "R01",
+      "faithful": true,
+      "reason": "It accurately contrasts the low-cost addition in toxicology with the throughput burden of replacing routine narcotics testing and proposes a test of the capacity explanation."
+    },
+    {
+      "reading": "R02",
+      "faithful": true,
+      "reason": "It preserves the claim that compatibility depends on the particular benchmark feature and local resources and proposes a comparison within specialties."
+    },
+    {
+      "reading": "R03",
+      "faithful": true,
+      "reason": "It correctly treats resources and implementation costs as drivers of the three responses, with value language following those constraints."
+    },
+    {
+      "reading": "R04",
+      "faithful": true,
+      "reason": "It captures personnel self-selection as a contributor to unit cultures alongside socialization and proposes evidence that could distinguish them."
+    },
+    {
+      "reading": "R05",
+      "faithful": true,
+      "reason": "It faithfully contrasts a modest addition to toxicology reporting with the costly displacement of narcotics routines and tests that difference."
+    },
+    {
+      "reading": "R06",
+      "faithful": true,
+      "reason": "It captures firearms examiners’ earlier accommodation of documentary scrutiny despite resisting statistics and tests whether that history mattered to challenges."
+    },
+    {
+      "reading": "R07",
+      "faithful": false,
+      "reason": "It treats firearms as having no comparable accreditation mandate, whereas the reading establishes only that none is documented for that unit."
+    },
+    {
+      "reading": "R08",
+      "faithful": true,
+      "reason": "It places DNA practice among judgment-dependent specialties with a history of scrutiny and proposes examining whether earlier evaluations shaped its outputs."
+    },
+    {
+      "reading": "R09",
+      "faithful": true,
+      "reason": "It preserves the distinction between supplementing records and replacing the analytic method, and its proposed comparison tests that distinction."
+    },
+    {
+      "reading": "R10",
+      "faithful": true,
+      "reason": "It correctly attributes unit values partly to selective exits and retention rather than assuming that the work itself creates those preferences."
+    },
+    {
+      "reading": "R11",
+      "faithful": true,
+      "reason": "It captures the possibility that job assignments and transfers produce apparent occupational differences and tests that account using career histories."
+    },
+    {
+      "reading": "R12",
+      "faithful": true,
+      "reason": "It maintains the distinction between explicit DNA comparisons in firearms and differently sourced demands in the other units, with an appropriate documentary test."
+    },
+    {
+      "reading": "R13",
+      "faithful": true,
+      "reason": "It correctly makes exposure and feasibility prior to occupational value narratives and proposes tracing their temporal order."
+    },
+    {
+      "reading": "R14",
+      "faithful": true,
+      "reason": "It presents staff selection and mobility as contributors alongside socialization and proposes comparing workplaces with different transfer opportunities."
+    },
+    {
+      "reading": "R15",
+      "faithful": true,
+      "reason": "It captures the preexisting accreditation project and the possibility that courtroom comparison changed its timetable rather than its substance or eventual adoption."
+    },
+    {
+      "reading": "R16",
+      "faithful": true,
+      "reason": "It reframes reform around access to later inspection of expert judgments and appropriately tests whether outside scrutiny affects resistance."
+    },
+    {
+      "reading": "R17",
+      "faithful": true,
+      "reason": "It accurately identifies local courtroom exposure as an alternative that the single-laboratory comparison cannot disentangle from occupational values."
+    },
+    {
+      "reading": "R18",
+      "faithful": true,
+      "reason": "It preserves the proposed common response to consequential local threats and tests what happens when such threats reach previously resistant units."
+    },
+    {
+      "reading": "R19",
+      "faithful": true,
+      "reason": "It captures the proposed internal boundary excluding toxicology and the uncertainty about spillover beyond the studied specialties."
+    },
+    {
+      "reading": "R20",
+      "faithful": true,
+      "reason": "It correctly distinguishes technical access to instrumentation from capacity to process an entire caseload and proposes a direct capacity test."
+    },
+    {
+      "reading": "R21",
+      "faithful": false,
+      "reason": "Its first sentence narrows a general argument about transferable records and redistributed opportunities to scrutinize expertise to the firearms example alone."
+    },
+    {
+      "reading": "R22",
+      "faithful": true,
+      "reason": "It correctly recasts toxicology as an accreditation project accelerated by litigation and asks whether DNA comparisons added any causal influence."
+    },
+    {
+      "reading": "R23",
+      "faithful": true,
+      "reason": "It accurately treats toxicology as potentially outside DNA-driven change and proposes checking what actually motivated the litigation and implementation."
+    },
+    {
+      "reading": "R24",
+      "faithful": true,
+      "reason": "It captures rule-making power among advocates of already accepted methods and proposes investigating regional influence over the standards."
+    },
+    {
+      "reading": "R25",
+      "faithful": true,
+      "reason": "It preserves the account of capacity-constrained continued testing amid anticipated change and proposes examining behavior as those constraints shift."
+    },
+    {
+      "reading": "R26",
+      "faithful": true,
+      "reason": "It correctly regards the observed narcotics practice as provisional rather than a demonstrated refusal and proposes following subsequent decisions and constraints."
+    },
+    {
+      "reading": "R27",
+      "faithful": true,
+      "reason": "It captures the contrast between an already prepared requirement and an immediate courtroom trigger without asserting that firearms lacked an unreported obligation."
+    },
+    {
+      "reading": "R28",
+      "faithful": false,
+      "reason": "Its first sentence reduces the reading’s broader claim of selective responses and a shared turn toward reviewable records across units to firearms alone."
+    },
+    {
+      "reading": "R29",
+      "faithful": true,
+      "reason": "It preserves the status and irreplaceability explanation for the three responses and proposes testing the workers’ anticipated standing and reassignment risks."
+    },
+    {
+      "reading": "R30",
+      "faithful": true,
+      "reason": "It faithfully distinguishes acceleration of an established accreditation reform from the causes of its content and eventual adoption."
+    }
+  ]
+}

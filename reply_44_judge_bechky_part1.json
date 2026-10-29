@@ -1,0 +1,173 @@
+{
+  "part": 1,
+  "answers": [
+    {
+      "row": "UZSB",
+      "reason": "The paper explicitly highlights this claim as a core finding, concluding that \"status and power... [13 words of Bechky (2020), p. 637]\"[cite: 3], making it central to the argument.",
+      "page": "p. 637",
+      "answer": "no"
+    },
+    {
+      "row": "7DDP",
+      "reason": "The claim explicitly states that technical compatibility shapes \"how feasible adaptation is\"[cite: 3], identifying a particular affected outcome.",
+      "page": "p. 606; p. 608; p. 617; p. 620; p. 625; pp. 627-628; p. 632; pp. 633-637",
+      "answer": "no"
+    },
+    {
+      "row": "FPF2",
+      "reason": "This claim defines \"evaluative spillovers,\" which the abstract and discussion identify as the primary theoretical mechanism and focus of the paper[cite: 3].",
+      "page": "p. 606; pp. 607-608; pp. 615-617; p. 619; p. 634",
+      "answer": "no"
+    },
+    {
+      "row": "NBH4",
+      "reason": "The claim states that differences \"generate distinct occupational cultures\"[cite: 3], directly indicating that the differentiation of occupational cultures is what is affected.",
+      "page": "p. 611; p. 615; p. 620; p. 637",
+      "answer": "yes"
+    },
+    {
+      "row": "CK99",
+      "reason": "The claim explains why narcotics analysts \"retained crystal-testing practices\"[cite: 3], which directly addresses the outcome of local narcotics practice change.",
+      "page": "p. 628; p. 632; pp. 633-637",
+      "answer": "yes"
+    },
+    {
+      "row": "MTMT",
+      "reason": "The paper uses this intertwining as a major theoretical conclusion, stating [5 words of Bechky (2020), p. 637] \"[3 words of Bechky (2020), p. 637]\" and crucial to understanding technological change[cite: 3].",
+      "page": "p. 620; p. 637",
+      "answer": "yes"
+    },
+    {
+      "row": "DWC6",
+      "reason": "The paper contrasts its findings against prior literature focused on status and power, making this a central theoretical contribution[cite: 3].",
+      "page": "p. 637",
+      "answer": "yes"
+    },
+    {
+      "row": "VPTH",
+      "reason": "The claim clearly states that differences \"generate distinct occupational cultures\"[cite: 3], explicitly identifying an affected outcome.",
+      "page": "p. 611; p. 615; p. 620; p. 637",
+      "answer": "no"
+    },
+    {
+      "row": "GWWZ",
+      "reason": "A reader could consider this central to the argument, as \"DNA envy\" is the empirical catalyst for the spillovers and is prominently featured in the paper's title[cite: 3].",
+      "page": "p. 619",
+      "answer": "yes"
+    },
+    {
+      "row": "Q3C3",
+      "reason": "The claim specifies that occupational values are \"rooted in\"[cite: 3] what the work requires, identifying values as the affected element.",
+      "page": "p. 620; p. 637",
+      "answer": "no"
+    },
+    {
+      "row": "UJXM",
+      "reason": "The claim explicitly states that certain routes \"create a stronger impetus for local practice change\"[cite: 3], identifying the strength of that impetus as affected.",
+      "page": "p. 606; p. 608; p. 617; p. 620; pp. 624-625; pp. 627-628; p. 632; pp. 633-636",
+      "answer": "yes"
+    },
+    {
+      "row": "9M52",
+      "reason": "The claim explains why firearms examiners \"resisted local practice change\"[cite: 3], meaning that local practice change is the affected variable.",
+      "page": "pp. 624-625; pp. 633-637",
+      "answer": "yes"
+    },
+    {
+      "row": "JXGV",
+      "reason": "This claim summarizes one of the three core empirical cases that form the comparative foundation for the paper's theoretical argument[cite: 3].",
+      "page": "p. 625; pp. 627-628; pp. 633-637",
+      "answer": "yes"
+    },
+    {
+      "row": "N5ZM",
+      "reason": "The claim describes the reasons why narcotics analysts \"retained crystal-testing practices\"[cite: 3], making this retention the affected outcome.",
+      "page": "p. 628; p. 632; pp. 633-637",
+      "answer": "yes"
+    },
+    {
+      "row": "234L",
+      "reason": "The paper explicitly positions the inseparability of values and technique in practice as a central theoretical finding[cite: 3], not mere background.",
+      "page": "p. 620; p. 637",
+      "answer": "no"
+    },
+    {
+      "row": "ZEDF",
+      "reason": "A careful reader could view this specific empirical case study as supporting evidence for the broader theoretical framework rather than the primary contribution itself[cite: 3].",
+      "page": "p. 628; p. 632; pp. 633-637",
+      "answer": "yes"
+    },
+    {
+      "row": "DZKC",
+      "reason": "A reader could interpret this claim as an intermediate theoretical step explaining the mechanism of why neighboring occupations reacted differently[cite: 3].",
+      "page": "p. 617; p. 634",
+      "answer": "yes"
+    },
+    {
+      "row": "C4XS",
+      "reason": "This claim represents one of the three main empirical pillars that collectively establish the paper's core comparative argument[cite: 3].",
+      "page": "pp. 624-625; pp. 633-637",
+      "answer": "yes"
+    },
+    {
+      "row": "KFJY",
+      "reason": "A reader could view \"DNA envy\" as the empirical background or context that sets the stage for the true theoretical focus on evaluative spillovers[cite: 3].",
+      "page": "p. 619",
+      "answer": "yes"
+    },
+    {
+      "row": "QBZ8",
+      "reason": "A reader could hold that this interpretation mechanism is central to the theoretical argument explaining how evaluative spillovers operate[cite: 3].",
+      "page": "p. 617; p. 634",
+      "answer": "yes"
+    },
+    {
+      "row": "CYZX",
+      "reason": "This claim introduces the concept of \"evaluative spillovers,\" which is the central theoretical contribution of the entire paper[cite: 3].",
+      "page": "p. 606; pp. 607-608; pp. 615-617; p. 619; p. 634",
+      "answer": "yes"
+    },
+    {
+      "row": "YX9D",
+      "reason": "A reader could view this specific empirical finding as supporting evidence used to build the broader theoretical argument[cite: 3].",
+      "page": "pp. 624-625; pp. 633-637",
+      "answer": "yes"
+    },
+    {
+      "row": "C6CW",
+      "reason": "The claim explicitly states that technical compatibility shapes \"how feasible adaptation is\"[cite: 3], identifying the feasibility of local practice adaptation as the affected outcome.",
+      "page": "p. 606; p. 608; p. 617; p. 620; p. 625; pp. 627-628; p. 632; pp. 633-637",
+      "answer": "yes"
+    },
+    {
+      "row": "2HSG",
+      "reason": "The claim identifies that institutional pathways affect the impetus for \"local practice change\"[cite: 3].",
+      "page": "p. 606; p. 608; p. 617; p. 620; pp. 624-625; pp. 627-628; p. 632; pp. 633-636",
+      "answer": "yes"
+    },
+    {
+      "row": "W76M",
+      "reason": "The claim describes the reasons why firearms examiners \"resisted local practice change\"[cite: 3], making this resistance the affected outcome.",
+      "page": "pp. 624-625; pp. 633-637",
+      "answer": "yes"
+    },
+    {
+      "row": "4B6W",
+      "reason": "This claim provides one of the core empirical case studies used to establish the paper's central theory[cite: 3], making it essential to the overall contribution.",
+      "page": "p. 628; p. 632; pp. 633-637",
+      "answer": "yes"
+    },
+    {
+      "row": "GPUF",
+      "reason": "A careful reader could interpret this specific case study as empirical support for the broader theoretical claim[cite: 3].",
+      "page": "p. 625; pp. 627-628; pp. 633-637",
+      "answer": "yes"
+    },
+    {
+      "row": "2ESC",
+      "reason": "The paper introduces this claim as a summary of prior literature (\"Together, these studies demonstrate...\")[cite: 3], explicitly using it as background framing.",
+      "page": "p. 611",
+      "answer": "yes"
+    }
+  ]
+}

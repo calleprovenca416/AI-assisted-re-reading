@@ -1,0 +1,727 @@
+Prompt: attached three files that were given to a frontier model with the message "I've attached three files: a paper, as a PDF, MAP_TASK.md and MAP_SHEET_bechky.md.
+
+Read MAP_TASK.md in full first, then the paper, then MAP_SHEET_bechky.md. Then do what MAP_TASK.md asks, for every pair the sheet lists, in order, and return the single JSON object it specifies, as a file if you can, otherwise as one code block.
+
+Work only from the paper and the two files. Do not search the web, and set aside anything you know about the paper, its author or its subject from elsewhere.". Detect areas where the instructions in the map task might have contributed to two coders diverging. Suggest ways to improve the mapping task.
+
+
+
+Argon response
+
+
+
+Two coders (or two runs of a frontier model) following `MAP_TASK.md` on `MAP_SHEET_bechky.md` and Bechky (2020) will diverge because several rules in `MAP_TASK.md` interact ambiguously with how claims, outcomes, passages, and units are indexed in `MAP_SHEET_bechky.md`.
+
+| Task Section | Primary Source of Coder Divergence | Specific Triggers in `MAP_SHEET_bechky.md` |
+| --- | --- | --- |
+| **Part 1: Pairwise Edges (`rests_on` & `type`)** | Question 2 (`mechanistic`) requires `Ci` and `Cj` to have an `outcome`, while Question 3 (`evidential`) triggers on any shared passage.
+
+ | Core claims `C13`, `C20`, `C21` and base claims `C07`, `C11`, `C12` have `outcome: none`; co-equal core claims (`C03`, `C04`, `C05`) share summary passages (`F87`, `F129`, `F166`).
+
+ |
+| **Part 1: Edge `strength**` | `necessary` vs. `contributing` does not distinguish between multi-case support in general and sole-case support for a positive outcome.
+
+ | Only `toxicology` (`C17`) changed local practice, whereas `firearms` (`C16`) and `narcotics` (`C18`) resisted change.
+
+ |
+| **Part 2: `further_edges**` | "Up to ten pairs... or none" sets no selection threshold across the 74 unlisted core-claim pairs.
+
+ | Crucial links for `C21` (`C21` resting on `C04`, `C05`, `C20`, `C06`, `C08`) were omitted from `P001`–`P080`.
+
+ |
+| **Part 3: `registry**` | No rule resolves near-synonyms that appear together inside the *same* claim's construct list, or selects which string is `canonical`.
+
+ | `C08` lists both `professional power` and `professional authority`; `C09` lists both `symbolic legitimacy` and `occupational legitimacy`; `C10` lists both `occupational communities` and `occupational culture`.
+
+ |
+| **Part 4: `factors**` | Factor IDs (`X1`, `X2`...), factor count, and factor polarity are coder-generated, causing downstream key mismatches in Parts 5 and 6.
+
+ | The paper's abstract orders factors as technique, values, and pathways, whereas `C03`–`C05` and Table 2 order them as pathways, technique, and values.
+
+ |
+| **Part 5: `units**` | The benchmark unit (`forensic biology (DNA)`) is included in Part 5 despite not being a spillover recipient in Table 2.
+
+ | `forensic biology (DNA)` (`C14`) has no row/column in Table 2 (p. 633), forcing coders to guess between `?`, `-`, and `+` for its outcome and factor values.
+
+ |
+| **Part 6: `contrasts**` | Unclear whether `held`/`varies`/`unclear` applies to the two units across the whole paper or only to the dimensions foregrounded in the contrast passage.
+
+ | In `CP01` (`firearms` vs. `toxicology`), all three factors vary across the units in Table 2, even though `CP01` specifically isolates courtroom pathways; in `CP02` (`toxicology` vs. `narcotics`), pathways also vary in `F161`–`F162` while technique and values are foregrounded.
+
+ |
+
+---
+
+## 1. Where the Instructions Cause Coders to Diverge
+
+### Part 1: Pairwise Dependencies (`pairs`)
+
+* **The `outcome: none` paradox in the `mechanistic` test (Question 2):** `MAP_TASK.md` defines `mechanistic` as "Cj's mechanism presupposes Ci's outcome" and asks in Question 2: "Does Cj's account of how its outcome comes about take Ci's outcome as a step or a condition of that process (not as a case of Cj's own outcome)?". However, `MAP_SHEET_bechky.md` assigns `*outcome:* none` to three of the seven core claims (`C13`, `C20`, `C21`) and to key theoretical/methodological base claims (`C07`, `C11`, `C12`).
+
+
+* When `Ci` has `outcome: none`—such as in `P035` (does `C05` rest on `C13`?), `P067` (does `C04` rest on `C13`?), `P038` (does `C04` rest on `C20`?), `P053` (does `C05` rest on `C20`?), or `P006`/`P033`/`P041` (resting on `C11`)—a literalist coder rules out `mechanistic` because `Ci` has no declared outcome on the sheet, either dropping down to `evidential`/`significance` or coding `rests_on: false`. A substantive coder treats the phenomenon described in `C13` (selective interpretation of the benchmark technology) or `C20` (entwinement of values and technique) as a causal step and codes `mechanistic`.
+
+
+* Conversely, when the core claim `Cj` itself has `outcome: none`—such as `C13` in `P074` (does `C13` rest on `C02`?) or `P060` (does `C13` rest on `C14`?)—one coder sees `C14` (DNA's visible statistical/instrumented outputs) and `C02` (DNA's benchmark legitimacy drawing scrutiny) as preconditions for `C13` (neighboring occupations selecting different features of DNA to compare with their work) and codes `mechanistic`. Another coder notes that `C13` has `outcome: none`, skips Question 2, and codes `evidential` or `significance`.
+
+
+
+
+* **The "shared passage" trap in the `evidential` test (Question 3):** Question 3 asks: "Is Ci, or a passage that shows Ci, part of what the paper offers to show that Cj holds (a case, an instance or a finding), so that without it Cj has less support? `evidential`.". Because `MAP_SHEET_bechky.md` links synthetic discussion passages (such as `F87`, `F129`, `F151`–`F153`, `F158`, `F166`, and `F172`) simultaneously to `C01`, `C03`, `C04`, `C05`, `C11`, `C13`, `C20`, and `C21`, the phrase *"or a passage that shows Ci"* creates massive false positives if read literally.
+
+
+* For example, in pairs testing co-equal explanatory claims against one another—`P002` (`C04` on `C03`), `P049` (`C03` on `C04`), `P004` (`C05` on `C03`), `P043` (`C03` on `C05`), `P062` (`C05` on `C04`), and `P071` (`C04` on `C05`)—a coder who checks whether "a passage that shows Ci is part of what the paper offers to show that Cj holds" will see that `F87`, `F158`, and `F166` are listed under both claims and code `evidential`. A coder who applies the counterfactual definition ("with the paper's support for Ci set aside... the paper as printed no longer gives a reason to hold Cj") will recognize that institutional pathways (`C03`), technical compatibility (`C04`), and occupational values (`C05`) are distinct explanatory dimensions and code `false` (except possibly between `C04` and `C05`, where narcotics' technical compatibility vs. value conflict in `CP02` / p. 637 is needed to show in `C04` that "compatibility by itself does not guarantee change").
+
+
+
+
+* **Status of prior-literature and methodological claims (`C06`–`C12`):** Claims `C06`–`C11` come from the literature review (pp. 608–611), and `C12` is a methodological claim about ethnography (p. 613). However, the sheet attaches empirical findings passages from MCCL to `C09`, `C10`, and `C11`. When coding pairs like `P030` (`C20` on `C10`), `P045` (`C04` on `C10`), `P047` (`C05` on `C10`), `P006` (`C04` on `C11`), `P011` (`C20` on `C11`), `P021` (`C13` on `C11`), `P033` (`C05` on `C11`), `P041` (`C01` on `C11`), and `P031`/`P034`/`P078` (resting on `C12`), coders split over whether setting aside a literature framing proposition (`C10`, `C11`) or a method justification (`C12`) removes support/mechanism/significance from the paper's empirical findings (`true`) or leaves the MCCL ethnographic evidence intact (`false`).
+
+
+* **Directionality inversions under `significance` (Question 4):** `significance` applies when "Cj stays true if Ci falls, but loses its theoretical point". Consider the hierarchy between the overarching spillover thesis (`C01`) and the three conditioning factors (`C03`, `C04`, `C05`):
+
+
+* In `P052` (`C03` on `C01`), `P020` (`C04` on `C01`), and `P003` (`C05` on `C01`) vs. `P075` (`C01` on `C03`), `P032` (`C01` on `C04`), and `P059` (`C01` on `C05`), one coder holds that `C01` rests on `C03`, `C04`, and `C05` (`mechanistic` or `evidential`, because the paper shows *how* spillovers reshape work through pathways, technique, and values), while `C03`–`C05` also rest on `C01` via `significance` (because without `C01`, explaining how evaluative spillovers are filtered loses its theoretical point in the paper). Another coder treats `C03`–`C05` as resting on `C01` (`mechanistic`—taking spillover as a step—or `significance`), but holds that `C01` rests only on the empirical cases (`C02`, `C16`, `C17`, `C18`), not on how spillover variation is explained (`C03`–`C05`).
+
+
+
+
+* **`necessary` vs. `contributing` in asymmetric case designs (`C16`, `C17`, `C18`):** In the hospital checklist example in `MAP_TASK.md`, Ward A (`C2`) and Ward B (`C3`) are coded as `contributing` to `C1`. In Bechky (2020), the three focal units (`C16` firearms, `C17` toxicology, `C18` narcotics) are not symmetric instances of the same outcome:
+
+
+* **Toxicology (`C17`)** is the *only* unit at MCCL that actually changed its local practices (`+`), whereas **firearms (`C16`)** and **narcotics (`C18`)** both resisted change (`-`). Therefore, in `P039` (`C01` on `C17`), `P051` (`C03` on `C17`), and `P019` (`C05` on `C17`), one coder marks `C17` as `necessary` (without toxicology, the paper has zero positive evidence of evaluative spillovers producing local work-practice adaptation at MCCL), while another coder marks `C16`, `C17`, and `C18` uniformly as `contributing` because all three cases jointly populate the comparative design.
+
+
+* Similarly, in `P054` (`C04` on `C18`), `C04` has two clauses: (1) technical compatibility shapes feasibility of adaptation, and (2) "although compatibility by itself does not guarantee change". Narcotics (`C18`) is the *sole* case demonstrating the second clause (compatible GC/MS technique, yet no change). Because `MAP_TASK.md` defines `rests_on` as giving a reason to hold `Cj` "as stated", one coder marks `P054` as `necessary` (without `C18`, the second clause of `C04` has no support), while another marks it `contributing`.
+
+
+
+
+* **Unconstrained format for `basis` and `page`:** Asking for `basis` "in a few words, what shows the tie: the sheet's ids where it has them, or what the paper says, in your own words" and `page` as `"p. .."` leads one coder to output passage IDs (`"F88, F98, F152"`) and multi-page ranges from the sheet (`"p. 625; pp. 627–628; pp. 633–637"`), while another outputs prose summaries and a single discussion page (`"p. 634"`).
+
+
+
+---
+
+### Part 2: Further Edges (`further_edges`)
+
+* **Unbounded count and selection criteria:** `MAP_TASK.md` asks for "Up to ten pairs that are not in the list, each a core claim resting on another claim, chosen as those the paper's argument depends on most; or none". With 7 core claims and 22 potential base claims each, there are $154 - 80 = 74$ unlisted pairs.
+
+
+* **Systematic omissions in `P001`–`P080`:** In `MAP_SHEET_bechky.md`, `C21` ("differences in the nature of the work—especially values and technique—accounted for the response pattern more than relative occupational status or power did") is only tested in Part 1 against `C18`, `C10`, `C15`, `C17`, `C03`, `C19`, and `C16`. The most direct dependencies for `C21`—namely `C21` resting on `C04` (technique), `C05` (values), `C20` (entwinement of values and technique), `C06` (technology and status), and `C08` (professional power and authority resisting task change)—are all absent from `P001`–`P080`. Likewise, `C01`, `C03`, `C04`, and `C05` resting on `C14` (how DNA's statistical/instrumented representation creates perceived objectivity, excepting `P023` which tests `C01` on `C14`), and `C01`/`C03` resting on `C13` are unlisted. Without a target number or explicit ranking criterion, one coder will list 3–5 `C21` edges while another will list 10 edges spanning `C01`, `C03`–`C05`, `C13`, and `C21`.
+
+
+
+---
+
+### Part 3: Construct Registry (`registry`)
+
+* **Co-occurrence of near-synonyms inside the same claim on the sheet:** `MAP_TASK.md` instructs coders to group names that name one construct ("the same thing under another wording, in the singular or the plural, or with a qualifier the paper drops elsewhere") and not to group "two things the paper keeps apart, or a part with its whole". However, `MAP_SHEET_bechky.md` lists several near-synonyms *together inside the same claim's construct list*:
+
+
+* `C08` lists both `professional power` and `professional authority`, while `C21` lists `power`. One coder merges `power` and `professional power` (and possibly `professional authority`), while another infers that because `C08` lists both `professional power` and `professional authority`, the sheet treats them as distinct constructs.
+
+
+* `C09` lists both `symbolic legitimacy` and `occupational legitimacy`, while `C14` lists `legitimacy`. One coder groups all three (`legitimacy`, `occupational legitimacy`, `symbolic legitimacy`), a second groups only `legitimacy` and `occupational legitimacy` (keeping `symbolic legitimacy` separate as a part/subtype in `C09`), and a third keeps all three apart.
+
+
+* `C10` lists both `occupational communities` and `occupational culture`, and also lists `work practices` alongside `C01` and `C11`'s `occupational practices`.
+
+
+
+
+* **Boundary blurs across conceptual clusters:** Coders also diverge on whether to merge or separate:
+* `occupational practices` (`C01`, `C11`) and `work practices` (`C07`, `C10`)—and whether `technique` (`C04`, `C13`, etc.) or `task change` (`C08`) belongs with them or stays separate.
+
+
+* `meaning making` (`C11`, `C12`) and `occupational interpretation` (`C13`).
+
+
+* `technology` (`C09`), `technological change` (`C01`), `technology adoption` (`C06`, `C07`), and `digital technologies` (`C23`).
+
+
+
+
+* **Arbitrary selection of `"canonical"`:** Even when two coders form the exact same cluster (e.g., `["occupational practices", "work practices"]`), `MAP_TASK.md` asks for "the one of its names that best names the construct as the paper uses it", so one coder chooses `"occupational practices"` (from the paper's title) and the other chooses `"work practices"` (used throughout the text).
+
+
+
+---
+
+### Part 4: Explanatory Factors (`factors`)
+
+* **Non-standardized factor IDs and ordering (`X1`, `X2`, `X3`):** Because coders invent the `X1`, `X2`, `X3` IDs themselves, a coder following the order of claims in `MAP_SHEET_bechky.md` (`C03`, `C04`, `C05`) and Table 2 (p. 633) defines `X1 = institutional pathways (C03)`, `X2 = technical compatibility / technique (C04)`, and `X3 = occupational values (C05)`. A coder following the paper's abstract ("technique, values, and institutional pathways", p. 606) and section heading ("Technique, Values, and Institutional Pathways", p. 619) assigns `X1 = technique (C04)`, `X2 = occupational values (C05)`, and `X3 = institutional pathways (C03)`. This permutation cascades into every dictionary key in Parts 5 and 6.
+
+
+* **Ambiguity over factor count (3 vs. 4+ factors):** While the three main factors (`C03`, `C04`, `C05`) are clear, coders may diverge on whether to add:
+* **Relative occupational status/power (`C21`):** The paper explicitly evaluates whether status/power explains the cross-unit difference and concludes it does not (p. 637).
+
+
+* **Prior accreditation readiness (`C17`, `F98`, `F161`):** In toxicology, ongoing ISO/ASCLD accreditation work already underway is cited in `C17` and on p. 635 as making local practice change easier.
+
+
+* **Sub-pathways in Table 2 (`F133`–`F144`):** Table 2 breaks institutional pathways into four rows (`Scientific`, `Public`, `Courts`, `Professional association`), tempting some coders to list 6 factors instead of 3.
+
+
+
+
+
+---
+
+### Part 5: Comparative Table (`units`)
+
+* **The `forensic biology (DNA)` (`C14`) anomaly:** `MAP_SHEET_bechky.md` explicitly requires Part 5 to include `forensic biology (DNA)` (`C14`) alongside `firearms` (`C16`), `toxicology` (`C17`), and `controlled substances (narcotics)` (`C18`). However, in Bechky (2020), DNA is the *benchmark technology* that triggers evaluative spillovers, not one of the neighboring non-adopting occupations responding to spillover, and it is omitted from Table 2 (p. 633). Coders face three incompatible ways to score `forensic biology (DNA)`:
+
+
+1. Code `outcome: "?"` and all factor values as `"?"` because Table 2 (p. 633) does not evaluate DNA on spillover response, pathway immediacy, or compatibility with itself.
+
+
+2. Code `outcome: "-"` (no spillover-induced practice change during the MCCL ethnography) and factor values as `"?"` or `"-"`.
+
+
+3. Code `outcome: "+"` and all factor values as `"+"` by citing DNA's historical adaptation to court challenges in the 1990s (`F43`, `F47`, `C14`, pp. 617–619).
+
+
+
+
+* **Polarity ambiguity (`+` vs. `-`) for `institutional pathways` in `firearms` and `narcotics`:** `MAP_TASK.md` defines `+` as "present or high" and `-` as "absent or low". For `firearms` (`C16`) and `narcotics` (`C18`), evaluative spillover *was present* via institutional pathways (NAS/media/distant courts for firearms; internal SWG-DRUG debate for narcotics), but *local immediacy/urgency was low or absent*. If a coder names the factor `"institutional pathways"` (presence of pathway), they may score firearms or narcotics as `"+"` (or score firearms `"+"` for "Multiple paths of critical evaluation" in `F130` and narcotics `"-"`), whereas if they define the factor per `C03` as `"locally immediate institutional pathway"`, both firearms and narcotics score `"-"` and only toxicology scores `"+"`.
+
+
+* **Unbounded `ids` arrays:** Each unit in `MAP_SHEET_bechky.md` is associated with 10 to 30 passages (spanning Table 1 demographics `F07`–`F26`, narrative findings `F45`–`F129`, Table 2 cells `F130`–`F153`, and discussion summaries `F160`–`F166`). Two coders will never select the exact same subset of `F..` IDs without a scoping rule.
+
+
+
+---
+
+### Part 6: Contrast Controls (`contrasts`)
+
+* **Whole-unit comparison vs. passage-specific contrast framing (`held` vs. `varies` vs. `unclear`):** `MAP_TASK.md` asks "whether each factor is the same on both sides (`held`), differs between them (`varies`), or is not said (`unclear`)". Look at how `CP01` and `CP02` are defined in `MAP_SHEET_bechky.md`:
+
+
+* In **`CP01` (`firearms` vs. `toxicology`)**, the sheet cites `F84, F87, F160` vs. `F88, F98, F161` and states that the pair differs in remote vs. immediate court challenges. However, in the paper as a whole (Table 2, p. 633) and in `F87` itself, firearms and toxicology *also* differ on **technique** (incompatible vs. compatible) and **values** (incompatible vs. compatible). One coder scores `CP01` across all three factors as `varies`, `varies`, `varies` (since nothing is held constant among the three explanatory factors between firearms and toxicology). Another coder, noting that `CP01`'s contrast on pp. 635–636 (`F164`) focuses exclusively on courtroom pathways without discussing technique or values in that passage, marks pathways as `varies` and technique and values as `unclear`.
+
+
+* In **`CP02` (`toxicology` vs. `narcotics`)**, the sheet cites `F146, F149, F152, F161` vs. `F147, F150, F153, F162`. Here, **technique** is `held` (both have compatible instrumented methods, GC and GC/MS) and **values** `varies` (compatible error-avoidance vs. conflicting autonomy/variety). What about **institutional pathways**? In the cited passages `F161` and `F162` (and Table 2), their pathways *differ* (immediate local court threat for toxicology vs. non-urgent internal association debate for narcotics). Yet in the discussion on p. 637 (`F166`–`F167`), Bechky pairs them specifically to isolate values while holding technical compatibility constant. Consequently, one coder marks pathways in `CP02` as `varies` (per `F161`–`F162` and Table 2), another marks it `unclear` (because `CP02`'s `*differs in:*` line on the sheet only mentions technical and value alignment), and a third marks it `held` (because neither faced NAS/public attacks in `F134`–`F135`, `F137`–`F138`).
+
+
+
+
+
+---
+
+## 2. Ways to Improve the Mapping Task
+
+### 1. Tighten the Part 1 Decision Tree and Definitions in `MAP_TASK.md`
+
+* **Fix the `outcome: none` gap in Question 2 (`mechanistic`):** Revise the definition of `mechanistic` and Question 2 to read: *"Does Cj's account of how its outcome (or phenomenon, if `outcome` is `none`) comes about take Ci's outcome (or the process/phenomenon Ci states, if `Ci` has `outcome: none`) as a prior causal step or operating condition?"*.
+
+
+* **Remove the "shared passage" false-positive trigger in Question 3 (`evidential`):** Change *"Is Ci, or a passage that shows Ci, part of what the paper offers to show that Cj holds"* to: *"Is Ci itself a sub-claim, case finding, or empirical generalization that the paper uses as evidence to establish Cj? (Do not code an edge merely because Ci and Cj are both illustrated or summarized by the same multi-point passage ID on the sheet.)"*.
+
+
+* **Explicitly clarify how to treat literature-review and methods claims (`C06`–`C12`):** Add a rule stating whether general prior-literature claims (`C06`–`C11`) and methodological justifications (`C12`) can serve as bases for empirical core claims:
+* If **yes**, specify whether theoretical lens claims (`C10`, `C11`) take `significance` or `mechanistic`, and whether methods claims (`C12`) take `evidential`.
+* If **no** (only empirical claims from the study's case or direct comparative benchmarks in `C21` count), state explicitly: *"A claim drawn from prior literature or general methodology is not a base for the paper's empirical findings unless the core claim explicitly ranks it (`comparative`) or loses its theoretical contribution without it (`significance`)."*.
+
+
+
+
+* **Prevent bidirectional cycles between overarching claims (`C01`) and mechanism/conditioning claims (`C03`–`C05`):** Add a tie-breaking hierarchy rule: *"When a broad claim states that a phenomenon occurs (`C01`) and other core claims state the factors that condition how it unfolds (`C03`–`C05`), clarify whether dependency runs from the conditioning claims to the broad claim, or from the broad claim to the conditioning claims via `significance`, or both."*.
+
+
+* **Define `necessary` vs. `contributing` for compound claims and asymmetric cases:** Specify whether a single case (`C17` toxicology or `C18` narcotics) is `necessary` when it is the *only* case in the paper showing a positive outcome (`C17`) or a qualifying clause (`C18` for `C04`), or whether any single unit in a multi-unit comparative study is always `contributing`.
+
+
+* **Standardize `basis` and `page` formats:** Require `basis` to be an array of sheet IDs (`["F88", "F98"]`) with a fallback to short text only when no IDs exist, and require `page` to follow a strict format (either the exact page string from the sheet or the single primary page in the PDF).
+
+
+
+### 2. Constrain Part 2 (`further_edges`)
+
+* Either list all pairs to be evaluated in Part 1 and eliminate Part 2, or specify an exact count (e.g., *"Give the top 5 unlisted edges, ranked by..."*) and clarify whether `further_edges` should prioritize missing links among core explanatory claims and `C21` (`C21` resting on `C04`, `C05`, `C20`, `C08`) over peripheral ventured claims (`C19`, `C22`, `C23`).
+
+
+
+### 3. Disambiguate Part 3 (`registry`)
+
+* **Add a "Same-Claim Co-occurrence Rule":** State explicitly whether two construct names listed inside the *same* claim in `MAP_SHEET_bechky.md` (e.g., `symbolic legitimacy` and `occupational legitimacy` in `C09`; `professional power` and `professional authority` in `C08`; `occupational communities` and `occupational culture` in `C10`) are permitted to be grouped together or must be kept apart.
+
+
+* **Make `canonical` deterministic:** Instead of asking for the name that "best names the construct", instruct coders to *"use the name that appears in the largest number of claims on the sheet (breaking ties alphabetically)."*.
+
+
+
+### 4. Pre-anchor or Standardize Part 4 (`factors`)
+
+* **Specify factor polarity and ordering:** In `MAP_TASK.md`, instruct coders to order factors by the claim number that states them (`C03` = `X1`, `C04` = `X2`, `C05` = `X3`) and to define each factor's name in the **positive direction of the outcome** (e.g., `X1`: *immediacy of institutional pathway*, `X2`: *technical compatibility with benchmark*, `X3`: *alignment of occupational values with benchmark*).
+
+
+* **Clarify exclusion of rejected alternatives:** Explicitly state in Part 4: *"Include only the explanatory factors the author endorses as explaining variation in the outcome (e.g., the dimensions in the paper's summary comparative table), not rival explanations the paper rules out (such as status/power in C21) or unit-specific background facts."*.
+
+
+
+### 5. Fix Part 5 (`units`) and Part 6 (`contrasts`) in `MAP_SHEET` and `MAP_TASK`
+
+* **Resolve the benchmark unit (`forensic biology (DNA)`) in Part 5:** Either remove `forensic biology (DNA)` (`C14`) from the "What applies -> Part 5" line in `MAP_SHEET_bechky.md` (leaving the 3 recipient units from Table 2: `firearms`, `toxicology`, `controlled substances (narcotics)`), **or** add a sentence in `MAP_TASK.md` Part 5 explaining how to code a benchmark/source unit that is not a recipient of the outcome (e.g., *"If a listed unit is the benchmark or source rather than a case of the outcome explained across units, mark its outcome and non-applicable relational factors as `?`."* ).
+
+
+* **Define the scope of `held` / `varies` / `unclear` in Part 6:** Specify in `MAP_TASK.md` Part 6 whether coders should judge each factor (`X1`, `X2`, ...) across the two contrasted units **using the full paper/Table 2** (under which `CP01` is `varies` on all three factors, and `CP02` is `varies` on `X1`, `held` on `X2`, and `varies` on `X3`) **or** using **only the dimensions explicitly held constant and varied in the sheet's `CP01`/`CP02` summary** (under which unmentioned factors in that specific contrast are coded `unclear`).
+
+
+* **Bound the `ids` lists in Parts 5 and 6:** Instruct coders to cite only the unit's summary claim and the passages from the paper's summary comparison table (`Table 2`, `F130`–`F153`) plus any passages explicitly listed in the sheet's header for that unit/contrast pair.
+
+END
+--------------------
+
+
+ChatGPT response: 
+
+## Overall assessment
+
+I reviewed `MAP_TASK.md`, the Bechky paper, and `MAP_SHEET_bechky.md`, using only the three supplied files.
+
+**Several features of the mapping instructions could plausibly produce substantial disagreement between two careful coders, even if both understand the paper correctly.** The most important are the definition of argumentative dependence, the distinction between evidential and mechanistic dependence, the identification of explanatory factors, and the conversion of qualitative comparisons into categorical codes.
+
+There are also some more specific problems arising from the interaction between `MAP_TASK.md` and the Bechky map sheet.
+
+Without the two coders' actual outputs, I cannot establish which ambiguities caused observed disagreements. What follows identifies likely sources and suggests how to reduce them.
+
+## 1. Likely sources of coder divergence
+
+### 1. The definition of "rests on" contains competing thresholds
+
+**Location:** Part 1, *Rests on*, *The test*, and *Strength*.
+
+The initial definition says a claim rests on another when removing the base claim leaves the paper without a reason to hold the dependent claim.
+
+But the evidential test subsequently asks whether removing the base leaves the dependent claim with **less support**.
+
+These are different thresholds.
+
+A coder applying the initial definition strictly might require the base to be indispensable. Another applying the evidential test might identify a dependency whenever the base contributes anything to the dependent claim.
+
+The strength classification then introduces `contributing`, which implies that a claim can rest on another even when substantial alternative support remains. MAP_TASK
+
+**Suggested improvement:** State explicitly that `rests_on` includes dependencies that are not indispensable.
+
+For example:
+
+> Mark `rests_on: true` when removing the base claim would cause a substantive loss of support, explanatory content, comparative grounding, or theoretical significance, even if the dependent claim retains other support. A merely thematic relationship is insufficient.
+
+Then define necessary and contributing in terms of what support remains.
+
+This should substantially reduce disagreement over `rests_on` itself.
+
+### 2. Direct and indirect dependencies are not distinguished
+
+**Location:** Part 1.
+
+Consider the listed questions:
+
+- P014: Does C01 rest on C02?
+- P023: Does C01 rest on C14?
+
+C02 concerns DNA profiling becoming an evaluative benchmark. C14 concerns the practices that make DNA evidence appear scientifically objective.
+
+One reasonable interpretation is that C14 helps explain C02, which in turn supports C01.
+
+The instructions do not specify whether a claim should receive a direct edge to another claim when its dependence is mediated through an intermediate claim.
+
+One coder might identify both edges. Another might identify only C01 → C02, treating C14 as an indirect dependency.
+
+This issue could affect many of the 80 pairs.
+
+**Suggested improvement:** Specify whether the desired graph represents direct argumentative dependencies or all dependencies, including indirect ones.
+
+For reproducible mapping, I would recommend **direct dependencies**, with indirect dependencies derived subsequently from the graph.
+
+If indirect dependencies are included, coders should identify the intervening claims.
+
+### 3. The evidential rule is too permissive about shared passages
+
+**Location:** Part 1, evidential test.
+
+The test allows an evidential edge when a claim, or a passage showing that claim, forms part of the support for another claim.
+
+In this paper, many claims are supported by the same empirical episodes and summary passages.
+
+For example, the toxicology episode supports claims about institutional pathways, technique, occupational values, and occupational change.
+
+Consequently, two coders could reason differently about a pair such as P016:
+
+**Does C04 rest on C17?**
+
+C04 describes the importance of technical compatibility. C17 describes toxicologists' responses to an immediate courtroom threat and their technically compatible methods.
+
+One coder could treat C17 as an empirical instance supporting C04.
+
+Another could judge that both claims draw on the same episode but that the paper does not establish a directed dependency between them.
+
+The present rule does not adequately distinguish these interpretations.
+
+**Suggested improvement:** Clarify that sharing evidence is not, by itself, sufficient to establish an edge.
+
+Require coders to identify precisely how the base contributes to the dependent claim. For evidential edges, the base should supply an identifiable case, observation, or finding that the paper uses to establish the dependent proposition.
+
+The task should also explain whether passages labeled `illustrates` in the map sheet can support an evidential edge, and under what circumstances.
+
+### 4. The distinction between mechanistic and evidential dependence is particularly difficult here
+
+**Location:** Part 1, mechanistic and evidential tests.
+
+The task distinguishes between a base claim's outcome being a step in a mechanism and its outcome being an instance of the dependent claim.
+
+This is conceptually sensible, but the paper makes the distinction difficult because institutional pathways, occupational values, and technique operate together.
+
+The map sheet includes reciprocal questions such as:
+
+- P002: C04 resting on C03.
+- P049: C03 resting on C04.
+- P062: C05 resting on C04.
+- P071: C04 resting on C05.
+
+Technique influences responses to institutional pressures, while occupational values are rooted in the techniques practitioners use.
+
+The paper explicitly treats technique and values as intertwined.
+
+This creates several possibilities: mechanistic dependence, evidential dependence, reciprocal dependence, or no directed dependence.
+
+The task does not give enough guidance for distinguishing these in the specific circumstances of qualitative theorizing.
+
+There is an additional technical problem: **C13, C20, and C21 are designated as having `outcome: none`.** Yet they express substantively important propositions about interpretation, the connection between values and technique, and the relative importance of explanations. Under a literal reading, they cannot supply the outcome required by the mechanistic test. MAP_SHEET_bechky
+
+**Suggested improvement:** Define the meaning of `outcome: none` for mechanistic coding.
+
+Either identify the substantive states of affairs asserted by these claims or specify that claims without outcomes cannot receive mechanistic edges.
+
+Also add a rule:
+
+> Do not infer reciprocal dependencies merely because two explanatory factors interact. Evaluate each direction independently and require separate argumentative support.
+
+A worked example involving C04, C05, and C20 would be particularly valuable.
+
+### 5. The strength distinction is ambiguous for comparative cases
+
+**Location:** Part 1, *Strength*.
+
+C21 claims that differences in occupational technique and values account for the observed response pattern more than relative status or power.
+
+The sheet asks whether C21 rests on each of the three occupational cases:
+
+- P036: C21 on C18, narcotics.
+- P056: C21 on C17, toxicology.
+- P076: C21 on C16, firearms.
+
+Suppose a coder concludes that C21 rests evidentially on all three cases.
+
+How should strength be assigned?
+
+One coder might say each individual case is `contributing`, because the other two remain.
+
+Another might say each case is `necessary`, because each supplies a distinctive part of the three-occupation comparison that no other case supplies.
+
+Both interpretations follow reasonably from the current definition.
+
+The same difficulty arises when distinguishing `comparative` from `evidential` for claims built from cross-case comparisons.
+
+**Suggested improvement:** Define strength in relation to the dependent claim **as a whole**, not simply whether a specific piece of evidence is unique.
+
+For instance:
+
+> `necessary` means that removing the base eliminates an indispensable component of the dependent claim's stated argument. `contributing` means the base adds support or explanatory coverage, but the paper retains an argument for the claim without it.
+
+The instructions should distinguish an indispensable component of a comparison from a unique but replaceable empirical instance.
+
+The `significance` category also needs a tighter rule. A claim should not qualify merely because it makes another claim interesting or relevant; coders should identify an explicit explanatory or theoretical connection made by the author.
+
+---
+
+## 2. Problems with explanatory factors and the comparative table
+
+### 6. The number and granularity of explanatory factors are unspecified
+
+**Location:** Part 4.
+
+The instructions tell coders to identify as many explanatory factors as the paper uses, without adding their own.
+
+The paper foregrounds three:
+
+**Institutional pathways, technique, and occupational values.**
+
+These are prominent in the abstract and conclusions.
+
+But the empirical discussion also identifies more specific influences, including the immediacy of a challenge, whether it originates locally, compatibility between methods, existing accreditation work, and the ability to preserve occupational autonomy.
+
+Different coders could produce:
+
+- Three broad factors corresponding to the paper's theoretical framework.
+- More narrowly specified factors extracted from the detailed case explanations.
+- A combination of broad factors and their constituent mechanisms.
+
+These alternatives would generate very different JSON structures despite potentially representing similar interpretations.
+
+Part 4 also allows coders to assign X1, X2, and subsequent IDs freely. Even identical factor sets could therefore produce differently numbered outputs. MAP_TASK
+
+**Suggested improvement:** Separate factor *discovery* from factor *coding*.
+
+If the objective is to assess agreement, provide a predefined factor registry after an initial exploratory coding exercise.
+
+For this paper, a reasonable starting structure would distinguish the three overarching factors and then define any subordinate dimensions.
+
+For example, institutional pathways could encompass the type of institutional route and the immediacy of local pressure.
+
+Coders should know whether these are separate factors or attributes of one factor.
+
+The treatment of pre-existing accreditation work in toxicology should also be specified: is it an independent factor or part of institutional pathways?
+
+### 7. DNA is included as a unit even though it is not a responding occupation
+
+**Location:** Part 5 and the map sheet's applicability instructions.
+
+This is one of the clearest concrete problems.
+
+The map sheet requires coding four units, including `forensic biology (DNA)`.
+
+However, the paper's Table 2 compares **three occupations responding to DNA-centered evaluation**: firearms, toxicology, and controlled substances.
+
+DNA profiling supplies the benchmark. It is not another non-adopting occupation experiencing the same evaluative spillover.
+
+The table explicitly identifies adaptation or resistance for those three occupations, but does not assign a comparable response to the DNA unit. MAP_SHEET_bechky Bechky_spill over
+
+What should a coder enter as DNA's outcome?
+
+One might select `?`, because the paper does not report the relevant response.
+
+Another might select `-`, because no such adaptation occurs.
+
+A third might select `+`, reasoning that DNA methods themselves changed as DNA profiling acquired legitimacy.
+
+The second issue is what to enter for DNA's factor values. Technical compatibility with DNA is not meaningfully comparable when the unit is DNA itself.
+
+**Suggested improvement:** Introduce an `NA` category meaning *not applicable*.
+
+Alternatively, remove the DNA unit from Part 5 and identify it separately as the benchmark unit.
+
+I favor the second option.
+
+Also specify the outcome precisely:
+
+> The outcome is change in local occupational practices in response to evaluative comparisons with DNA profiling during the period analyzed.
+
+Under that definition, the paper supports adaptation in toxicology and resistance in firearms and narcotics.
+
+This also avoids mistaking earlier changes in firearms documentation practices for adaptation to the particular evaluative pressure being investigated.
+
+### 8. Binary factor codes are inadequate for institutional pathways
+
+**Location:** Parts 5 and 6.
+
+The factors are assigned `+`, `-`, or `?`, defined as present/high, absent/low, or not reported.
+
+That works reasonably well for technical compatibility and value alignment.
+
+It works less well for institutional pathways because pathways are fundamentally categorical.
+
+The paper distinguishes scientific criticism, public evaluation, courtroom challenges, and professional-association debates.
+
+For instance, firearms and toxicology both experienced court-related challenges, but the former were largely remote and the latter locally immediate.
+
+Both could receive `+` for courtroom pressure, despite this difference being central to the explanation.
+
+Alternatively, one coder might define the factor as *immediate local courtroom pressure*, producing opposite codes.
+
+Both would be plausible applications of Part 5.
+
+The paper's Table 2 explicitly distinguishes the institutional routes rather than simply scoring their presence. Bechky_spill over
+
+**Suggested improvement:** Allow different factor types.
+
+Use categorical values for institutional route, and separately defined binary or ordinal measures for immediacy, technical compatibility, and value alignment.
+
+Also distinguish evidence that a route was **present somewhere in the occupation's field** from evidence that it directly exposed the MCCL unit to pressure.
+
+This matters because professional associations responded to the NAS report, yet Table 2 does not classify professional-association activity as a direct firearms pathway at MCCL.
+
+The instructions should explicitly establish the geographical and organizational level at which factor presence is judged.
+
+### 9. The contrast-control instructions do not define what counts as "held"
+
+**Location:** Part 6.
+
+CP01 compares firearms and toxicology.
+
+Both were subject to courtroom-related evaluations. But the immediacy and locality of those evaluations differed.
+
+If the factor is "legal evaluation," it could be coded `held`.
+
+If the factor is "institutional pathway," it could be coded `varies`.
+
+If the factor is "immediacy of institutional pressure," it clearly varies.
+
+CP02 creates a similar issue.
+
+Toxicologists had compatible instrumental techniques; narcotics analysts had a compatible instrumental alternative but rarely used it.
+
+Technical compatibility might therefore be `held`, whereas the actual techniques and their position in daily work clearly differ.
+
+The map sheet identifies what makes these episodes comparable, but that does not establish that the explanatory factors themselves are held constant. MAP_SHEET_bechky
+
+**Suggested improvement:** Define `held` and `varies` relative to a fixed operationalization of each factor.
+
+For example:
+
+> `held` means both sides have the same value on the specifically defined factor, not merely that they share a broad institutional context or general characteristic.
+
+Require `unclear` when the paper provides insufficient information about either side.
+
+It would also help to distinguish the contrast pair's background comparability from the explanatory factors being evaluated.
+
+---
+
+## 3. Construct registry and evidence-handling problems
+
+### 10. The registry's construct-equivalence criterion is underdetermined
+
+**Location:** Part 3.
+
+The registry groups names considered to refer to the same construct.
+
+The instructions allow differences in wording and qualifiers but prohibit grouping things the paper distinguishes or combining a part with its whole.
+
+The boundary is not always clear.
+
+Potentially disputable combinations include:
+
+| Construct names | Source of ambiguity |
+|---|---|
+| `occupational practices` / `work practices` | Are these interchangeable, or does one refer to a narrower level of analysis? |
+| `legitimacy` / `occupational legitimacy` | Is the first a broader concept than the second? |
+| `symbolic legitimacy` / `occupational legitimacy` | Is symbolic legitimacy a dimension of occupational legitimacy or simply another label? |
+| `professional power` / `power` | Does the unqualified term retain the professional-occupational meaning? |
+| `professional authority` / `professional power` | Related concepts, but not necessarily equivalent. |
+| `technology` / `technological change` | An entity versus a process. |
+| `occupational change` / `task change` | Potential whole–part relationship. |
+
+These terms are all present in the sheet's construct registry. MAP_SHEET_bechky
+
+**Suggested improvement:** Replace the loose equivalence test with an explicit substitutability rule.
+
+For example:
+
+> Merge names only when they refer to the same theoretical construct in the relevant passages and can be substituted without changing the substantive proposition. Do not merge concepts merely because they are closely related, share a causal relationship, or belong to the same conceptual family.
+
+A short set of paper-specific positive and negative examples would be useful.
+
+Also specify a deterministic rule for selecting canonical names. Otherwise, coders might agree completely about a group while selecting different canonical labels.
+
+### 11. The instructions introduce absences and declared gaps without explaining their coding role
+
+**Location:** Sheet-reading instructions and Parts 1–6.
+
+The map task defines declared gaps and absences, and the map sheet includes DG01–DG03 and A01.
+
+But the requested JSON has no explicit fields for them.
+
+It is unclear whether these records should affect edge existence, strength, factor coding, or merely provide contextual qualifications.
+
+One particularly important example concerns firearms examiners from jurisdictions outside MCCL.
+
+The paper reports that these examiners described challenges in court, but the author explicitly states that she lacks data about their local actions.
+
+The map sheet records this as DG03 and A01. MAP_SHEET_bechky
+
+One coder might treat this absence as limiting support for institutional-pathway claims.
+
+Another might disregard it because the task says not to evaluate the paper's evidentiary quality.
+
+Both interpretations are understandable.
+
+There is a related issue with `ventured` claims C19, C22, and C23: the task does not specify whether speculative extensions of the framework may serve as bases for established empirical claims.
+
+**Suggested improvement:** State explicitly how these materials should be used.
+
+I would recommend that gaps and absences constrain what can be claimed about the paper's observed cases, without automatically removing edges based on the author's argument.
+
+Likewise, speculative future applications should not count as empirical support for established claims unless the author explicitly makes that argumentative move.
+
+### 12. Further edges and evidence fields introduce avoidable variation
+
+**Location:** Part 2 and JSON specification.
+
+Coders can add anywhere from zero to ten further edges, choosing those they consider most important.
+
+There is no common candidate set or importance threshold.
+
+Different coders may therefore return non-overlapping but defensible selections.
+
+This is not necessarily poor coding. It is a consequence of the open-ended task.
+
+The evidence fields create a second difficulty.
+
+Each unit has one combined `ids` array, even though its outcome and each factor require potentially different evidence.
+
+The same applies to contrast controls.
+
+Consequently, two coders can provide different ID arrays while supporting the same factor assessments.
+
+**Suggested improvement:** Keep optional edge discovery separate from fixed-pair coding when assessing agreement.
+
+For the comparative table, use evidence fields attached to individual variables rather than one aggregate list.
+
+It would also help to require a page reference for negative dependency decisions, not just positive edges.
+
+Finally, specify that `paper` means the journal's publication year, 2020, rather than the 2019 copyright year appearing on the article's first page.
+
+---
+
+## 4. The changes I would prioritize
+
+Not all these issues have equal consequences.
+
+**The first priority should be to improve Part 1.** Its four edge types are useful, but the coder needs a clearer distinction between a genuinely directed argumentative dependency, a shared empirical basis, and a broader theoretical association.
+
+I would add several calibration examples drawn from the actual Bechky claims, particularly involving C03, C04, C05, C13, C20, and C21.
+
+These examples should explain why a pair receives an edge or not, why the chosen type wins over alternatives, and why its strength is necessary or contributing.
+
+**The second priority should be Parts 4–6.** The study's explanatory factors should be identified using an explicit hierarchy: overarching explanatory factors, subordinate characteristics, and contextual enabling conditions.
+
+For agreement assessment, the coders should then work with the same factor identifiers and operational definitions.
+
+The DNA benchmark problem should be resolved, and institutional pathways should not be forced into an undefined binary coding scheme.
+
+**The third priority should be the registry.** It needs stricter construct-equivalence rules and a standard procedure for choosing canonical names.
+
+**The fourth priority should be reproducibility of the output.** Optional edges should be evaluated separately, and evidence should be linked to individual coding judgments.
+
+## 5. A practical way to improve inter-coder agreement
+
+I would introduce a short calibration stage before applying the complete task.
+
+Both coders would independently evaluate a small set of difficult claim pairs, one contested construct equivalence, and the two contrast pairs.
+
+The calibration exercise should deliberately include cases involving shared evidence, reverse dependencies, claims without outcomes, and technically compatible occupations that respond differently.
+
+Disagreements would then be used to refine the coding rules—not to impose a particular substantive reading of Bechky's argument.
+
+Importantly, agreement should be assessed separately for:
+
+**Edge existence**, **edge type**, **edge strength**, **construct equivalence**, **factor identification**, and **unit or contrast coding**.
+
+These are different judgment tasks. Combining their discrepancies into one overall agreement measure would obscure the source of divergence.
+
+The free-selection elements, especially `further_edges` and factor discovery, should be assessed using conceptual matching rather than literal JSON identity.
+
+## Conclusion
+
+The mapping task is trying to capture something substantively interesting: the internal architecture of a qualitative argument rather than simply the presence of concepts or evidence.
+
+However, **it currently asks coders to make several interpretive decisions without specifying the level of abstraction at which those decisions should be made.**
+
+The most consequential ambiguity is whether argumentative dependence means that a base claim is indispensable, contributes evidence, supplies an intermediate explanatory step, or merely makes another claim theoretically meaningful.
+
+The next most consequential problem is the failure to distinguish the paper's three overarching explanations from their constituent empirical features before asking coders to classify them.
+
+Finally, requiring binary values for institutional pathways and including DNA as a responding unit introduce avoidable inconsistencies into the comparative coding.
+
+**My principal recommendation is to retain the task's conceptual ambitions but add a much more precise coding manual, with operational definitions and paper-specific calibration examples.** This would preserve the interpretive work that makes the exercise valuable while making disagreements substantially easier to identify, explain, and adjudicate.

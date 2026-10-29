@@ -1,0 +1,467 @@
+{
+ "plan_sha256": "ca72f71a5c7830eca683b2246a104f0c000f6afc4b566189fca0413f2869b1cf",
+ "key_lists_sha256": "8ffba0ddbaa3d4f74780483623f267ef263808f01ffd47c6bc07cc74c461e5ea",
+ "P": "first",
+ "Q": "new",
+ "seed": 20261018,
+ "resamples": 2000,
+ "replies": {
+  "a": {
+   "file": "reply_56_match_lists_opus.json",
+   "sha256": "cccb44ddecad58474333a0c8f599911980d8c6dc59ce1b92fe03c359e7209d9d",
+   "faults": [],
+   "notes": []
+  },
+  "b": {
+   "file": "reply_57_match_lists_astra.json",
+   "sha256": "2ca01eb764ee8457706191cd7512cb590c1c746e29ebeb201810c021dfd89b7e",
+   "faults": [],
+   "notes": []
+  }
+ },
+ "counts": {
+  "first": {
+   "claims": 23,
+   "core": 7,
+   "stated_as": {
+    "established": 19,
+    "ventured": 4
+   },
+   "passages": 168,
+   "table_cells": 40,
+   "voice": {
+    "author_insight": 69,
+    "reported": 99
+   },
+   "per_page": {
+    "607": 1,
+    "612": 3,
+    "613": 20,
+    "614": 3,
+    "615": 4,
+    "616": 9,
+    "617": 5,
+    "618": 2,
+    "619": 10,
+    "620": 4,
+    "621": 5,
+    "622": 4,
+    "623": 10,
+    "624": 7,
+    "625": 5,
+    "626": 4,
+    "627": 6,
+    "628": 5,
+    "629": 3,
+    "630": 5,
+    "631": 7,
+    "632": 7,
+    "633": 26,
+    "634": 5,
+    "635": 4,
+    "636": 1,
+    "637": 3
+   }
+  },
+  "new": {
+   "claims": 39,
+   "core": 9,
+   "stated_as": {
+    "established": 34,
+    "ventured": 5
+   },
+   "passages": 168,
+   "table_cells": 41,
+   "voice": {
+    "author_insight": 28,
+    "reported": 140
+   },
+   "per_page": {
+    "606": 1,
+    "607": 5,
+    "608": 7,
+    "609": 3,
+    "610": 5,
+    "611": 3,
+    "612": 3,
+    "613": 19,
+    "614": 4,
+    "615": 2,
+    "616": 8,
+    "617": 6,
+    "618": 3,
+    "619": 7,
+    "620": 2,
+    "621": 6,
+    "622": 6,
+    "623": 8,
+    "624": 4,
+    "625": 4,
+    "626": 4,
+    "627": 4,
+    "628": 6,
+    "629": 5,
+    "630": 5,
+    "631": 5,
+    "632": 6,
+    "633": 25,
+    "637": 1,
+    "638": 1
+   }
+  }
+ },
+ "found": {
+  "claims": {
+   "first": {
+    "n": 23,
+    "a": 0.9130434782608695,
+    "b": 0.9130434782608695,
+    "both": 0.9130434782608695,
+    "either": 0.9130434782608695,
+    "found": {
+     "a": 21,
+     "b": 21,
+     "both": 21,
+     "either": 21
+    }
+   },
+   "new": {
+    "n": 39,
+    "a": 0.6923076923076923,
+    "b": 0.7692307692307693,
+    "both": 0.6923076923076923,
+    "either": 0.7692307692307693,
+    "found": {
+     "a": 27,
+     "b": 30,
+     "both": 27,
+     "either": 30
+    }
+   },
+   "first_core": {
+    "n": 7,
+    "a": 0.8571428571428571,
+    "b": 0.8571428571428571,
+    "both": 0.8571428571428571,
+    "either": 0.8571428571428571,
+    "found": {
+     "a": 6,
+     "b": 6,
+     "both": 6,
+     "either": 6
+    }
+   },
+   "new_core": {
+    "n": 9,
+    "a": 1.0,
+    "b": 1.0,
+    "both": 1.0,
+    "either": 1.0,
+    "found": {
+     "a": 9,
+     "b": 9,
+     "both": 9,
+     "either": 9
+    }
+   }
+  },
+  "passages_all": {
+   "first": {
+    "n": 168,
+    "a": 0.7321428571428571,
+    "b": 0.7321428571428571,
+    "both": 0.7321428571428571,
+    "either": 0.7321428571428571,
+    "found": {
+     "a": 123,
+     "b": 123,
+     "both": 123,
+     "either": 123
+    }
+   },
+   "new": {
+    "n": 168,
+    "a": 0.8035714285714286,
+    "b": 0.8035714285714286,
+    "both": 0.8035714285714286,
+    "either": 0.8035714285714286,
+    "found": {
+     "a": 135,
+     "b": 135,
+     "both": 135,
+     "either": 135
+    }
+   }
+  },
+  "passages_out": {
+   "first": {
+    "n": 128,
+    "a": 0.6484375,
+    "b": 0.6484375,
+    "both": 0.6484375,
+    "either": 0.6484375,
+    "found": {
+     "a": 83,
+     "b": 83,
+     "both": 83,
+     "either": 83
+    }
+   },
+   "new": {
+    "n": 127,
+    "a": 0.7401574803149606,
+    "b": 0.7401574803149606,
+    "both": 0.7401574803149606,
+    "either": 0.7401574803149606,
+    "found": {
+     "a": 94,
+     "b": 94,
+     "both": 94,
+     "either": 94
+    }
+   }
+  },
+  "passages_tables": {
+   "first": {
+    "n": 40,
+    "a": 1.0,
+    "b": 1.0,
+    "both": 1.0,
+    "either": 1.0,
+    "found": {
+     "a": 40,
+     "b": 40,
+     "both": 40,
+     "either": 40
+    }
+   },
+   "new": {
+    "n": 41,
+    "a": 1.0,
+    "b": 1.0,
+    "both": 1.0,
+    "either": 1.0,
+    "found": {
+     "a": 41,
+     "b": 41,
+     "both": 41,
+     "either": 41
+    }
+   }
+  },
+  "passages_by_voice": {
+   "first author_insight": {
+    "n": 69,
+    "a": 0.463768115942029,
+    "b": 0.463768115942029,
+    "both": 0.463768115942029,
+    "either": 0.463768115942029,
+    "found": {
+     "a": 32,
+     "b": 32,
+     "both": 32,
+     "either": 32
+    }
+   },
+   "first reported": {
+    "n": 99,
+    "a": 0.9191919191919192,
+    "b": 0.9191919191919192,
+    "both": 0.9191919191919192,
+    "either": 0.9191919191919192,
+    "found": {
+     "a": 91,
+     "b": 91,
+     "both": 91,
+     "either": 91
+    }
+   },
+   "new author_insight": {
+    "n": 28,
+    "a": 0.9642857142857143,
+    "b": 0.9642857142857143,
+    "both": 0.9642857142857143,
+    "either": 0.9642857142857143,
+    "found": {
+     "a": 27,
+     "b": 27,
+     "both": 27,
+     "either": 27
+    }
+   },
+   "new reported": {
+    "n": 140,
+    "a": 0.7714285714285715,
+    "b": 0.7714285714285715,
+    "both": 0.7714285714285715,
+    "either": 0.7714285714285715,
+    "found": {
+     "a": 108,
+     "b": 108,
+     "both": 108,
+     "either": 108
+    }
+   }
+  }
+ },
+ "candidates": {
+  "claim_pairs": 897,
+  "passage_pairs_all": 3451,
+  "passage_pairs_outside_tables": 1757
+ },
+ "pairs": {
+  "a": {
+   "chat": "56",
+   "model": "Opus 5.5 at Extra",
+   "claims": 28,
+   "claims_one_way": [],
+   "passages": 140,
+   "passages_one_way": [],
+   "passages_more_than_one_page_apart": [],
+   "passages_page_unknown": [],
+   "passages_not_candidates": [],
+   "passages_table_cell_with_passage_outside_tables": []
+  },
+  "b": {
+   "chat": "57",
+   "model": "GPT 6 Astra at max",
+   "claims": 55,
+   "claims_one_way": [],
+   "passages": 140,
+   "passages_one_way": [],
+   "passages_more_than_one_page_apart": [],
+   "passages_page_unknown": [],
+   "passages_not_candidates": [],
+   "passages_table_cell_with_passage_outside_tables": []
+  }
+ },
+ "kappas": {
+  "claims_items": 0.8502415458937199,
+  "claims_pairs": 0.6606604923568402,
+  "passages_out_items": 1.0,
+  "passages_out_pairs": 1.0,
+  "passages_all_items": 1.0,
+  "passages_all_pairs": 1.0,
+  "voice": 0.7884557268056817
+ },
+ "intervals": {
+  "claims_items": {
+   "low": 0.6637744034707156,
+   "high": 1.0,
+   "left_out": 0,
+   "resamples": 2000
+  },
+  "claims_pairs": {
+   "low": 0.4634039870010173,
+   "high": 0.8591615638247767,
+   "left_out": 0,
+   "resamples": 2000
+  },
+  "passages_out_items": {
+   "low": 1.0,
+   "high": 1.0,
+   "left_out": 0,
+   "resamples": 2000
+  },
+  "passages_out_pairs": {
+   "low": 1.0,
+   "high": 1.0,
+   "left_out": 0,
+   "resamples": 2000
+  },
+  "passages_all_items": {
+   "low": 1.0,
+   "high": 1.0,
+   "left_out": 0,
+   "resamples": 2000
+  },
+  "passages_all_pairs": {
+   "low": 1.0,
+   "high": 1.0,
+   "left_out": 0,
+   "resamples": 2000
+  },
+  "voice": {
+   "low": 0.6521476001052516,
+   "high": 0.9026425591098748,
+   "left_out": 0,
+   "resamples": 2000
+  }
+ },
+ "voice": {
+  "pairs_both_name": 140,
+  "agree": 130,
+  "raw": 0.9285714285714286,
+  "kappa": 0.7884557268056817,
+  "table": {
+   "author_insight / author_insight": 25,
+   "author_insight / reported": 8,
+   "reported / author_insight": 2,
+   "reported / reported": 105
+  },
+  "two_codings_of_the_first_extraction": {
+   "kappa": 0.865,
+   "agree": 161,
+   "n": 172
+  }
+ },
+ "answers": {
+  "Q1": {
+   "case_a": 2,
+   "case_b": 2,
+   "case_both": 2,
+   "case_either": 2,
+   "pair_kappa": 0.6606604923568402,
+   "answer": "repeat in part",
+   "why": "both matchers give this case",
+   "item_kappa": 0.8502415458937199
+  },
+  "Q2": {
+   "case_a": 2,
+   "case_b": 2,
+   "case_both": 2,
+   "case_either": 2,
+   "pair_kappa": 1.0,
+   "answer": "repeat in part",
+   "why": "both matchers give this case",
+   "item_kappa": 1.0
+  },
+  "Q2_with_tables": {
+   "case_a": 2,
+   "case_b": 2,
+   "case_both": 2,
+   "case_either": 2,
+   "pair_kappa": 1.0,
+   "answer": "repeat in part",
+   "why": "both matchers give this case",
+   "item_kappa": 1.0
+  },
+  "Q3": {
+   "answer": "less steady",
+   "why": "the voice kappa is at least 0.60 and under 0.80",
+   "kappa": 0.7884557268056817,
+   "pairs": 140
+  }
+ },
+ "described": {
+  "claim_pairs_both_name": 28,
+  "stated_as_agree": 27,
+  "core_agree": 28,
+  "passage_pairs_both_name": 140,
+  "links_on_matched_pairs": {
+   "both link, different direction": 53,
+   "both link, same direction": 196,
+   "both link: illustrates / illustrates": 169,
+   "both link: illustrates / with": 12,
+   "both link: qualifies / against": 1,
+   "both link: qualifies / illustrates": 1,
+   "both link: qualifies / qualifies": 5,
+   "both link: with / illustrates": 39,
+   "both link: with / with": 22,
+   "first return only": 120,
+   "neither": 3261,
+   "new return only": 290
+  },
+  "links_given_twice": 0
+ }
+}

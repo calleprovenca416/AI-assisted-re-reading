@@ -1,0 +1,164 @@
+{
+  "card_id": "bechky_2020_construct_inversion_from_pair_CP02_01",
+  "paper_id": "bechky_2020",
+  "move": "construct_inversion",
+  "claim": "C05",
+  "mechanical_checks": [
+    {
+      "mode": "record",
+      "killed": false,
+      "missing_fields": []
+    },
+    {
+      "mode": "A_provenance",
+      "killed": false,
+      "cited_fragments": 37,
+      "unknown_fragments": [],
+      "unknown_claims": []
+    },
+    {
+      "mode": "C_role_vacuity",
+      "killed": false,
+      "vacuous_jobs": [],
+      "fragments_without_a_job": []
+    },
+    {
+      "mode": "F_discrimination",
+      "killed": false,
+      "observation_named": true,
+      "printed": false,
+      "fragments": [],
+      "note": "names an absence with a basis"
+    },
+    {
+      "mode": "G_grounding",
+      "killed": false,
+      "grounds_accepted": [
+        "F123, F126",
+        "F94, F149",
+        "Does any toxicologist, in print, connect the uncertainty est",
+        "Were the microscope cameras discussed in F125 acquired?"
+      ],
+      "grounds_rejected": []
+    }
+  ],
+  "killed_by": [],
+  "restatement": {
+    "measure": "restatement",
+    "failed": false,
+    "new_uses": [
+      [
+        "F101",
+        "the incumbent files it under C04,C17, not C05"
+      ],
+      [
+        "F102",
+        "the incumbent files it under C17, not C05"
+      ],
+      [
+        "F103",
+        "the incumbent files it under C17, not C05"
+      ],
+      [
+        "F109",
+        "the incumbent files it under C04,C18,C20, not C05"
+      ],
+      [
+        "F112",
+        "orphan in the corpus, given a job here"
+      ],
+      [
+        "F121",
+        "the incumbent files it under C03,C18, not C05"
+      ],
+      [
+        "F122",
+        "the incumbent files it under C04,C18,C20, not C05"
+      ],
+      [
+        "F123",
+        "the incumbent files it under C04,C18,C20, not C05"
+      ],
+      [
+        "F124",
+        "the incumbent files it under C18,C20, not C05"
+      ],
+      [
+        "F125",
+        "the incumbent files it under C04,C18,C20, not C05"
+      ],
+      [
+        "F146",
+        "the incumbent files it under C04,C13,C17,C20, not C05"
+      ],
+      [
+        "F147",
+        "the incumbent files it under C04,C13,C18,C20, not C05"
+      ],
+      [
+        "F161",
+        "the incumbent files it under C03,C17, not C05"
+      ],
+      [
+        "F162",
+        "the incumbent files it under C03,C18, not C05"
+      ],
+      [
+        "F171",
+        "orphan in the corpus, given a job here"
+      ],
+      [
+        "F31",
+        "the incumbent files it under C17, not C05"
+      ],
+      [
+        "F71",
+        "orphan in the corpus, given a job here"
+      ],
+      [
+        "F73",
+        "orphan in the corpus, given a job here"
+      ],
+      [
+        "F90",
+        "the incumbent files it under C03,C17, not C05"
+      ],
+      [
+        "F91",
+        "the incumbent files it under C04,C17, not C05"
+      ],
+      [
+        "F98",
+        "the incumbent files it under C01,C03,C17, not C05"
+      ]
+    ],
+    "used_as_incumbent_does": [
+      "F100",
+      "F111",
+      "F113",
+      "F114",
+      "F119",
+      "F120",
+      "F126",
+      "F127",
+      "F128",
+      "F149",
+      "F150",
+      "F152",
+      "F153",
+      "F94",
+      "F95",
+      "F96"
+    ],
+    "share_new": 0.568
+  },
+  "admissibility": {
+    "applies": false
+  },
+  "not_run_here": [
+    "B_import",
+    "E_contradiction"
+  ],
+  "why_not_run": "model-judged; they require a session that has never seen the reasoning that produced this reading",
+  "register": "not opened"
+}

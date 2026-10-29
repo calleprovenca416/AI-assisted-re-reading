@@ -1,0 +1,602 @@
+==============================================================================
+STAGE 1 DOSSIER  --  coupling audit v4
+Pratt, M. G. 2000. The good, the bad, and the ambivalent: Managing identification among Amway distributors. Administrative Science Quarterly, 45(3): 456–493.
+==============================================================================
+
+How this paper's data-theory coupling is ARRANGED. Not how well it is
+coupled, and no claim that the account is wrong. Loss at each stage of
+narrative production is normal, not a defect. What follows is capacity;
+the apparatus is yours.
+
+------------------------------------------------------------------------------
+0. STATUS OF THIS EXTRACTION
+------------------------------------------------------------------------------
+   claim layer: EXTRACTED   errors 0   warnings 188
+
+   SINGLE-CODED TRIGGERS -- each can switch a move on by itself:
+      ClaimLink.direction
+      Claim.core
+      Claim.stated_as
+      DeclaredGap.kind
+      ContrastPair.drawn_by_authors
+      PaperMeta.resolution_period
+   Report kappa by field. No number resting on these should be
+   published until a second coder exists.
+      - link F18->C06: direction coded without a stated basis
+      - link F18->C11: direction coded without a stated basis
+      - link F19->C07: direction coded without a stated basis
+      - link F20->C08: direction coded without a stated basis
+      - link F21->C02: direction coded without a stated basis
+      - link F21->C03: direction coded without a stated basis
+      - link F21->C07: direction coded without a stated basis
+      - link F21->C11: direction coded without a stated basis
+      - link F21->C28: direction coded without a stated basis
+      - link F22->C09: direction coded without a stated basis
+      - link F26->C10: direction coded without a stated basis
+      - link F27->C02: direction coded without a stated basis
+      - link F27->C03: direction coded without a stated basis
+      - link F27->C07: direction coded without a stated basis
+      - link F27->C11: direction coded without a stated basis
+      - link F33->C18: direction coded without a stated basis
+      - link F34->C18: direction coded without a stated basis
+      - link F39->C14: direction coded without a stated basis
+      - link F40->C15: direction coded without a stated basis
+      - link F41->C15: direction coded without a stated basis
+      - link F41->C16: direction coded without a stated basis
+      - link F48->C12: direction coded without a stated basis
+      - link F48->C13: direction coded without a stated basis
+      - link F48->C17: direction coded without a stated basis
+      - link F48->C18: direction coded without a stated basis
+      - link F48->C19: direction coded without a stated basis
+      - link F49->C12: direction coded without a stated basis
+      - link F49->C13: direction coded without a stated basis
+      - link F49->C14: direction coded without a stated basis
+      - link F49->C15: direction coded without a stated basis
+      - link F49->C19: direction coded without a stated basis
+      - link F50->C15: direction coded without a stated basis
+      - link F50->C32: direction coded without a stated basis
+      - link F51->C32: direction coded without a stated basis
+      - link F53->C23: direction coded without a stated basis
+      - link F57->C21: direction coded without a stated basis
+      - link F61->C21: direction coded without a stated basis
+      - link F62->C21: direction coded without a stated basis
+      - link F63->C23: direction coded without a stated basis
+      - link F67->C22: direction coded without a stated basis
+      - link F67->C42: direction coded without a stated basis
+      - link F70->C31: direction coded without a stated basis
+      - link F71->C22: direction coded without a stated basis
+      - link F72->C22: direction coded without a stated basis
+      - link F73->C20: direction coded without a stated basis
+      - link F73->C22: direction coded without a stated basis
+      - link F73->C23: direction coded without a stated basis
+      - link F74->C42: direction coded without a stated basis
+      - link F75->C42: direction coded without a stated basis
+      - link F76->C22: direction coded without a stated basis
+      - link F76->C42: direction coded without a stated basis
+      - link F77->C24: direction coded without a stated basis
+      - link F78->C25: direction coded without a stated basis
+      - link F78->C49: direction coded without a stated basis
+      - link F79->C20: direction coded without a stated basis
+      - link F79->C22: direction coded without a stated basis
+      - link F79->C23: direction coded without a stated basis
+      - link F80->C21: direction coded without a stated basis
+      - link F81->C21: direction coded without a stated basis
+      - link F83->C23: direction coded without a stated basis
+      - link F83->C24: direction coded without a stated basis
+      - link F83->C36: direction coded without a stated basis
+      - link F84->C22: direction coded without a stated basis
+      - link F84->C23: direction coded without a stated basis
+      - link F84->C25: direction coded without a stated basis
+      - link F84->C36: direction coded without a stated basis
+      - link F85->C23: direction coded without a stated basis
+      - link F85->C25: direction coded without a stated basis
+      - link F85->C36: direction coded without a stated basis
+      - link F86->C02: direction coded without a stated basis
+      - link F86->C07: direction coded without a stated basis
+      - link F86->C11: direction coded without a stated basis
+      - link F86->C26: direction coded without a stated basis
+      - link F86->C32: direction coded without a stated basis
+      - link F86->C33: direction coded without a stated basis
+      - link F87->C02: direction coded without a stated basis
+      - link F87->C06: direction coded without a stated basis
+      - link F88->C02: direction coded without a stated basis
+      - link F88->C03: direction coded without a stated basis
+      - link F88->C07: direction coded without a stated basis
+      - link F88->C11: direction coded without a stated basis
+      - link F88->C27: direction coded without a stated basis
+      - link F88->C28: direction coded without a stated basis
+      - link F88->C29: direction coded without a stated basis
+      - link F89->C12: direction coded without a stated basis
+      - link F89->C16: direction coded without a stated basis
+      - link F89->C27: direction coded without a stated basis
+      - link F89->C35: direction coded without a stated basis
+      - link F90->C27: direction coded without a stated basis
+      - link F90->C42: direction coded without a stated basis
+      - link F91->C16: direction coded without a stated basis
+      - link F91->C27: direction coded without a stated basis
+      - link F91->C35: direction coded without a stated basis
+      - link F91->C42: direction coded without a stated basis
+      - link F92->C06: direction coded without a stated basis
+      - link F92->C27: direction coded without a stated basis
+      - link F92->C42: direction coded without a stated basis
+      - link F93->C20: direction coded without a stated basis
+      - link F93->C23: direction coded without a stated basis
+      - link F93->C27: direction coded without a stated basis
+      - link F94->C13: direction coded without a stated basis
+      - link F94->C15: direction coded without a stated basis
+      - link F94->C35: direction coded without a stated basis
+      - link F95->C15: direction coded without a stated basis
+      - link F96->C03: direction coded without a stated basis
+      - link F96->C07: direction coded without a stated basis
+      - link F96->C28: direction coded without a stated basis
+      - link F96->C42: direction coded without a stated basis
+      - link F97->C21: direction coded without a stated basis
+      - link F97->C42: direction coded without a stated basis
+      - link F98->C21: direction coded without a stated basis
+      - link F98->C42: direction coded without a stated basis
+      - link F99->C03: direction coded without a stated basis
+      - link F99->C07: direction coded without a stated basis
+      - link F99->C11: direction coded without a stated basis
+      - link F99->C20: direction coded without a stated basis
+      - link F99->C23: direction coded without a stated basis
+      - link F99->C28: direction coded without a stated basis
+      - link F99->C36: direction coded without a stated basis
+      - link F100->C28: direction coded without a stated basis
+      - link F100->C42: direction coded without a stated basis
+      - link F101->C03: direction coded without a stated basis
+      - link F101->C06: direction coded without a stated basis
+      - link F101->C29: direction coded without a stated basis
+      - link F102->C29: direction coded without a stated basis
+      - link F103->C21: direction coded without a stated basis
+      - link F104->C06: direction coded without a stated basis
+      - link F104->C29: direction coded without a stated basis
+      - link F105->C29: direction coded without a stated basis
+      - link F105->C42: direction coded without a stated basis
+      - link F106->C22: direction coded without a stated basis
+      - link F106->C42: direction coded without a stated basis
+      - link F107->C03: direction coded without a stated basis
+      - link F107->C06: direction coded without a stated basis
+      - link F107->C07: direction coded without a stated basis
+      - link F107->C11: direction coded without a stated basis
+      - link F107->C20: direction coded without a stated basis
+      - link F107->C22: direction coded without a stated basis
+      - link F107->C23: direction coded without a stated basis
+      - link F107->C29: direction coded without a stated basis
+      - link F108->C11: direction coded without a stated basis
+      - link F108->C12: direction coded without a stated basis
+      - link F108->C35: direction coded without a stated basis
+      - link F109->C02: direction coded without a stated basis
+      - link F109->C03: direction coded without a stated basis
+      - link F109->C11: direction coded without a stated basis
+      - link F109->C12: direction coded without a stated basis
+      - link F109->C20: direction coded without a stated basis
+      - link F109->C27: direction coded without a stated basis
+      - link F109->C28: direction coded without a stated basis
+      - link F109->C29: direction coded without a stated basis
+      - link F111->C06: direction coded without a stated basis
+      - link F111->C40: direction coded without a stated basis
+      - link F111->C43: direction coded without a stated basis
+      - link F117->C21: direction coded without a stated basis
+      - link F123->C42: direction coded without a stated basis
+      - link F123->C56: direction coded without a stated basis
+      - link F124->C42: direction coded without a stated basis
+      - link F124->C56: direction coded without a stated basis
+      - link F125->C57: direction coded without a stated basis
+      - link F39->C54: direction coded without a stated basis
+      - link F40->C54: direction coded without a stated basis
+      - link F49->C54: direction coded without a stated basis
+      - link F95->C54: direction coded without a stated basis
+      - link F70->C55: direction coded without a stated basis
+      - link F71->C55: direction coded without a stated basis
+      - link F90->C56: direction coded without a stated basis
+      - link F91->C56: direction coded without a stated basis
+      - link F92->C56: direction coded without a stated basis
+      - link F93->C57: direction coded without a stated basis
+      - link F96->C58: direction coded without a stated basis
+      - link F97->C58: direction coded without a stated basis
+      - link F109->C59: direction coded without a stated basis
+      - link F109->C60: direction coded without a stated basis
+      - link F79->C60: direction coded without a stated basis
+      - C05: no fragments beneath this claim -- either an extraction miss or an
+      unsupported assertion
+      - C30: no fragments beneath this claim -- either an extraction miss or an
+      unsupported assertion
+      - C39: no fragments beneath this claim -- either an extraction miss or an
+      unsupported assertion
+      - C41: no fragments beneath this claim -- either an extraction miss or an
+      unsupported assertion
+      - C44: no fragments beneath this claim -- either an extraction miss or an
+      unsupported assertion
+      - C45: no fragments beneath this claim -- either an extraction miss or an
+      unsupported assertion
+      - C46: no fragments beneath this claim -- either an extraction miss or an
+      unsupported assertion
+      - C47: no fragments beneath this claim -- either an extraction miss or an
+      unsupported assertion
+      - C48: no fragments beneath this claim -- either an extraction miss or an
+      unsupported assertion
+      - C51: no fragments beneath this claim -- either an extraction miss or an
+      unsupported assertion
+      - C53: no fragments beneath this claim -- either an extraction miss or an
+      unsupported assertion
+      - 7 fragments attached to no claim: F01, F07, F08, F12, F120, F122, F16
+      - single-coded trigger fields: ClaimLink.direction, Claim.core,
+      Claim.stated_as, DeclaredGap.kind, ContrastPair.drawn_by_authors,
+      PaperMeta.resolution_period. Each can switch a move on by itself. Report
+      kappa by field; no number from a single-coded field should be published.
+
+   VOICE RULE applied (pratt_2000_v1_voice_gloss.json): 90 with and 0 against
+   from author-voice fragments are left out of section 1.
+
+------------------------------------------------------------------------------
+1. SEAMS  (non-uniform coupling)
+------------------------------------------------------------------------------
+   Claims whose fragments do not all behave the same way. A seam is not
+   an error. It usually means the construct is doing more than one job.
+   The system locates it and stops: it does not name the two sides, and
+   the register of distinctions is not opened until a split is written.
+
+   None detected. no seam in the assessed claims
+------------------------------------------------------------------------------
+2. SENSITIVITY OF THE DETECTOR
+------------------------------------------------------------------------------
+   Three hand-set numbers constitute the seam detector. This is what they
+   are worth on this paper. Reported, never tuned against the paper being
+   measured.
+
+   at current settings {'MIN_LINKS_FOR_UNIFORMITY': 4, 'UNIFORMITY_FLOOR': 0.85, 'MIN_MINORITY': 2, 'MIN_COVERAGE': 0.6}
+   seam set holds under 11/18 settings
+
+      seams ['C23']   under 4 setting(s)
+        links>=3 floor<0.8 minority>=1; links>=3 floor<0.85 minority>=1; links>=4
+        floor<0.8 minority>=1; links>=4 floor<0.85 minority>=1
+      seams none   under 11 setting(s)
+        links>=3 floor<0.8 minority>=2; links>=3 floor<0.85 minority>=2; links>=3
+        floor<0.9 minority>=2; links>=4 floor<0.8 minority>=2; links>=4 floor<0.85
+        minority>=2; links>=4 floor<0.9 minority>=2 ...
+      seams ['C21', 'C23']   under 2 setting(s)
+        links>=3 floor<0.9 minority>=1; links>=4 floor<0.9 minority>=1
+      seams ['C21']   under 1 setting(s)
+        links>=5 floor<0.9 minority>=1
+
+------------------------------------------------------------------------------
+3. UNATTACHED EVIDENCE AND UNSUPPORTED CLAIMS  (coupling asymmetry)
+------------------------------------------------------------------------------
+   Computed and demoted. A weak signal: it flags candidates, it does not
+   locate theory.
+
+   unattached fragments: 0.056 (7 of 125 usable)
+   [F01]  researcher-as-distributor   p. 456
+      The researcher first encountered Amway through a relative who joined and
+      displayed an unusually strong enthusiasm for the organization.
+   [F07]  Amway organization   p. 458
+      The paper reports that Amway operated internationally with millions of
+      distributors and annual retail sales measured in billions of dollars.
+   [F08]  successful distributors   p. 458
+      In a published guide, a highly successful distributor portrayed Amway as
+      open to people from many backgrounds and presented sustained personal
+      effort as the route to success.
+   [F12]  distributors   p. 460
+      Distributors sold products, recruited new sellers, and, after recruiting
+      others, also trained and supervised them while maintaining their own sales
+      activity.
+   [F16]  upline distributors   p. 460
+      The researcher observed that people above him in the network tolerated his
+      interviewing so long as he continued selling and trying to recruit.
+   [F120]  distributors   footnote 4, p. 459
+      A setting footnote reports that distributors could obtain thousands of
+      products and services drawn from more than two thousand manufacturers,
+      including several large corporations.
+   [F122]  network marketing organizations   p. 459
+      Published estimates of worldwide network-marketing participation ranged
+      from a little over seven million people in one account to above
+      twenty-five million in another.
+
+   CLAIMS WITH NO FRAGMENTS BENEATH THEM
+   (an extraction miss or an assertion the paper does not evidence;
+   the corpus alone cannot decide which)
+      [C05] Organizational identification is distinguished from commitment and
+      person-organization fit by making the self-concept central to the
+      member-organization connection.
+      [C30] Selecting people already inclined to seek meaning through
+      organizations may make organizational identification easier to manage.
+      [C39] Professional socialization may build strong professional
+      identification when practices that unsettle the self are paired with
+      relationships and demands that channel subsequent meaning-making.
+      [C41] Strong positive identification can improve organizational
+      functioning.
+      [C44] Strong organizational cultures may help sustain members’ loyalty and
+      commitment when job security no longer provides that attachment.
+      [C45] Extreme-case research can aid theory development because the focal
+      dynamics are easier to see in unusually strong settings.
+      [C46] Using several kinds of data enables triangulation that can
+      strengthen the paper’s interpretive assertions.
+      [C47] Participating in the same work as informants can increase the trust
+      they place in the researcher.
+      [C48] A semiovert researcher role can create room to ask questions that
+      would be harder to pose as an ordinary coworker.
+      [C51] In professions with lengthy socialization, seekership may help
+      sustain motivation for continued development after formal qualification.
+      [C53] Learning an organization’s culture is especially concentrated in the
+      initial six months after entry.
+
+------------------------------------------------------------------------------
+4. VOICE BENEATH THE CORE CLAIMS  (a fact, not a score)
+------------------------------------------------------------------------------
+   Who is load-bearing where the argument is carried, and who speaks in
+   the paper but beneath no core claim. v3 scored this as an averaged
+   concentration index; the number rested on very few speech fragments
+   and carried three guessed bands. The fact routes the move without it.
+
+   speech fragments in corpus: 36   units: current and former distributors, distributors, former distributors, inactive distributors, non-distributors, upline distributors
+
+   [C01] Amway manages how members define their connection to the o...
+      speech 33   identified 33   units {'distributors': 13, 'former distributors': 8, 'inactive distributors': 6, 'upline distributors': 5, 'non-distributors': 1}
+   [C02] Positive identification is fostered when sensebreaking and...
+      speech 1   identified 1   units {'inactive distributors': 1}
+   [C11] The paper explains identification states as products of mo...
+      speech 0   identified 0   units -
+   [C12] Successful sensebreaking creates seekership by unsettling ...
+      speech 0   identified 0   units -
+   [C13] Dream building serves as Amway’s principal sensebreaking p...
+      speech 7   identified 7   units {'distributors': 3, 'former distributors': 2, 'upline distributors': 1, 'inactive distributors': 1}
+   [C20] Positive programming channels seekers toward supportive Am...
+      speech 4   identified 4   units {'upline distributors': 1, 'distributors': 1, 'former distributors': 1, 'inactive distributors': 1}
+   [C27] When sensebreaking fails to create or sustain seekership, ...
+      speech 4   identified 4   units {'former distributors': 4}
+   [C28] When sensebreaking succeeds but sensegiving fails, members...
+      speech 2   identified 2   units {'former distributors': 2}
+   [C29] When sensebreaking succeeds but sensegiving is only partly...
+      speech 5   identified 5   units {'inactive distributors': 5}
+   [C34] Identification management is an ongoing process because id...
+      speech 3   identified 3   units {'upline distributors': 1, 'former distributors': 1, 'inactive distributors': 1}
+
+   PRESENT IN THE CORPUS, LOAD-BEARING ON NO CORE CLAIM:
+      current and former distributors
+
+------------------------------------------------------------------------------
+5. THE EPISODE'S OWN BOUNDARIES
+------------------------------------------------------------------------------
+   Printed evidence outside the episode as the paper bounds it licenses
+   boundary_shift. Evidence AT the resolution is inside the paper's arc
+   and is listed as context, not as a licence.
+
+   episode: P1 -> (no resolution period declared)
+      basis: The paper analyzes an ongoing identification-management process
+      rather than a bounded episode that becomes settled; its conclusion closes
+      the argument analytically but does not report a temporal resolution of the
+      process.
+   before the start:    none
+   after the resolution: none
+   at the resolution:   none
+
+------------------------------------------------------------------------------
+6. CONTRAST PAIRS
+------------------------------------------------------------------------------
+   Two episodes the paper treats as comparable that came out differently.
+   Licenses causal re-attribution, which is construct_inversion. A pair
+   the authors drew is a stronger licence than one the analyst built.
+
+   [CP01]  (drawn by the authors)
+      A: A former distributor stopped pursuing Amway after her regular job
+      became satisfactory and she no longer wanted to devote time to the
+      business.
+      B: A former distributor remained oriented toward achievement but became
+      disenchanted with upline members and later interpreted Amway through
+      hostile outside sources.
+      held comparable: Both sides involve people who had joined Amway and later
+      left, and both are used in the paper’s account of failed identification
+      management.
+      differs in: The first pathway loses the need to seek change and ends in
+      detachment; the second retains aspiration but loses organizational
+      sensegiving and ends in opposition.
+      fragments A: F91
+      fragments B: F94, F96, F97, F99
+
+   [CP02]  (drawn by the authors)
+      A: One former distributor described upline members as failing to recognize
+      or motivate him and blamed them for his disenchantment.
+      B: One inactive distributor described a sponsor who continued to offer
+      strong support despite repeated failure to follow expected Amway
+      practices.
+      held comparable: Both episodes center on the quality of the
+      distributor–upline relationship among members who were not fully active in
+      the business.
+      differs in: The former distributor reports failed support and
+      disenchantment, whereas the inactive distributor reports durable support
+      despite weak participation.
+      fragments A: F97
+      fragments B: F103
+
+   [CP03]  (constructed by the analyst)
+      A: A distributor treated a failed recruiting attempt as evidence that
+      upline guidance about friends had been accurate.
+      B: Another distributor reacted to a coworker’s hostile comment about Amway
+      by immediately denying involvement.
+      held comparable: Both episodes involve a distributor receiving negative or
+      difficult feedback from a nonmember about Amway.
+      differs in: The first episode strengthens reliance on organizational
+      interpretation, while the second produces immediate distancing from the
+      organization.
+      fragments A: F85
+      fragments B: F104
+
+------------------------------------------------------------------------------
+7. VENTURED CLAIMS AND SELF-DECLARED GAPS
+------------------------------------------------------------------------------
+   Claims the authors themselves mark as provisional, and statements
+   about the limits of their own account. Invitations already in the
+   text, not criticisms imported from outside.
+
+   VENTURED
+      [C04] (p. 456) As organizations rely less on direct supervision and
+      conventional workplace cues, they have greater reason to use shared values
+      as a means of coordinating members.
+      [C10] (p. 463) Visible demographic differences did not appear to sort
+      distributors into distinct identification states.
+      [C25] (p. 474) Recruiting interactions can become self-reinforcing because
+      either acceptance or rejection by friends and family can be interpreted as
+      support for the Amway relationship standard.
+      [C30] (p. 482) Selecting people already inclined to seek meaning through
+      organizations may make organizational identification easier to manage.
+      [C31] (p. 483) Organizations that attract favorable reactions from
+      outsiders may need less rigid insider-outsider boundaries because
+      supportive nonmembers can also supply organization-consistent meaning.
+      [C32] (p. 483) Positive identification is expected to make members more
+      willing to follow what the organization asks of them.
+      [C33] (p. 483) Positive identification should also make members more
+      receptive to later rounds of sensebreaking and sensegiving.
+      [C36] (p. 484) Identification can become a frame through which later
+      experience is interpreted, even though identification itself emerges from
+      sensemaking.
+      [C38] (p. 485) As more domains of a person’s identity become bound to the
+      organization, the identification becomes deeper.
+      [C39] (pp. 486–487) Professional socialization may build strong
+      professional identification when practices that unsettle the self are
+      paired with relationships and demands that channel subsequent
+      meaning-making.
+      [C40] (p. 487) For geographically dispersed workforces, encapsulated
+      sensemaking may help preserve a shared purpose despite limited
+      face-to-face contact.
+      [C41] (p. 487) Strong positive identification can improve organizational
+      functioning.
+      [C42] (pp. 487–488) Intensive identification management can also impose
+      costs on members and organizations, including dependence, conformity,
+      burnout, reduced flexibility, and turnover.
+      [C44] (p. 456) Strong organizational cultures may help sustain members’
+      loyalty and commitment when job security no longer provides that
+      attachment.
+      [C49] (footnote 14, p. 474) Relationship configurations created by
+      positive programming can remain balanced whether prospects join or refuse,
+      and that stability may reinforce organization-consistent sensemaking.
+      [C50] (p. 487) In part-time, contingent, or voluntary membership settings,
+      creating seekership may give people a stronger reason to form an
+      organizational attachment.
+      [C51] (p. 487) In professions with lengthy socialization, seekership may
+      help sustain motivation for continued development after formal
+      qualification.
+      [C52] (pp. 487–488) Identification-management practices that can generate
+      substantial turnover are more workable for organizations with a large
+      supply of potential labor.
+      [C56] (p. 477) A system that does not consistently secure identification
+      among members leaves the organization more exposed to member departure.
+      [C59] (pp. 481–482; Figure 2, p. 482) Organizational practices that
+      undermine a member’s current self-evaluation can create seekership without
+      relying on Amway-style dream building.
+      [C60] (Figure 2, p. 482; pp. 482–483) Organizations may also foster
+      encapsulated sensemaking by shaping group cohesion, insider distinctions,
+      social contacts, and favorable outsider relationships.
+
+      [DG01]  scope_limit   (pp. 457, 463 n. 9)
+      The study does not test personality or other individual-difference
+      explanations for identification, and the paper says such explanations
+      cannot be ruled out.
+      bears on: C07, C11
+      [DG02]  acknowledged_ambiguity   (p. 460 n. 5)
+      The researcher acknowledges that his visible participant-researcher role
+      may have altered distributor behavior, although he gives reasons for
+      thinking the effect was limited.
+      bears on: C01, C11
+      [DG03]  scope_limit   (p. 485)
+      Changes from one identification state to another occurred, but the paper
+      does not analyze those transitions in detail.
+      bears on: C34
+      [DG04]  scope_limit   (p. 488)
+      The paper cautions that its context-dependent extreme-case ethnography
+      should not be generalized directly to other organizations, where
+      identification management may be less visible or operate differently.
+      bears on: C30, C31, C39, C40, C41, C42
+
+   Only an unresolved_question gap parameterises counterfactual_ending.
+   That is a one-person coding decision on a single record: recoding one
+   gap switches the move on. It belongs on the double-coding list.
+
+------------------------------------------------------------------------------
+8. ABSENCE REGISTER
+------------------------------------------------------------------------------
+   Evidence classes that do not appear in print. NOT the same as
+   unattached fragments. No reading can be scored against evidence the
+   design could not have produced, so these bound what any re-reading may
+   claim. They become research questions, never readings. Whether an
+   absent observation is obtainable is the scholar's call, not the
+   instrument's.
+
+   COLLECTED NOT PRINTED
+      - direct testimony from people who were approached for Amway and refused to join
+        basis: The methods section says failed recruits were interviewed, and the
+        findings attribute lack of identification partly to people who never
+        joined, but no direct quotation from a clearly identified refused recruit
+        is printed.
+
+   NOT ASCERTAINABLE
+      - comparable distributor net-profit and net-loss figures
+        basis: The paper says current and former distributors could not or would
+        not give clear net-profit figures and disagreed about what should count as
+        revenue or cost.
+      - a published Amway turnover rate
+        basis: The paper says no official company turnover figure is available in
+        print and therefore uses a very wide estimate from another source.
+
+------------------------------------------------------------------------------
+9. MOVE PARAMETERS  (handoff to Stage 2)
+------------------------------------------------------------------------------
+   Each move fires because something in this paper's own record licenses
+   it. No plot is consulted and no story shape is required.
+
+   construct_inversion:
+        {'trigger': 'from_pair', 'pair': 'CP01', 'drawn_by_authors': True,
+        'differs_in': 'The first pathway loses the need to seek change and ends in
+        detachment; the second retains aspiration but loses organizational
+        sensegiving and ends in opposition.', 'fragments': ['F91', 'F94', 'F96',
+        'F97', 'F99'], 'note': ''}
+        {'trigger': 'from_pair', 'pair': 'CP02', 'drawn_by_authors': True,
+        'differs_in': 'The former distributor reports failed support and
+        disenchantment, whereas the inactive distributor reports durable support
+        despite weak participation.', 'fragments': ['F97', 'F103'], 'note': ''}
+        {'trigger': 'from_pair', 'pair': 'CP03', 'drawn_by_authors': False,
+        'differs_in': 'The first episode strengthens reliance on organizational
+        interpretation, while the second produces immediate distancing from the
+        organization.', 'fragments': ['F85', 'F104'], 'note': 'analyst-constructed
+        pair: a weaker licence than one the authors drew'}
+
+   counterfactual_ending:
+        {'ventured_claims': ['C04', 'C10', 'C25', 'C30', 'C31', 'C32', 'C33',
+        'C36', 'C38', 'C39', 'C40', 'C41', 'C42', 'C44', 'C49', 'C50', 'C51',
+        'C52', 'C56', 'C59', 'C60'], 'unresolved_question_gaps': []}
+
+   focalization_shift:
+        {'units': ['current and former distributors'], 'fragments_by_unit':
+        {'current and former distributors': ['F23']}}
+
+   seed_fragments:
+        F01
+        F07
+        F08
+        F12
+        F16
+        F120
+        F122
+
+   research_questions_only:
+        A01
+        A02
+        A03
+
+   CUT MOVES, retained visibly rather than deleted:
+        temporal_stratification: trigger was coupling_temporal, cut: on the one
+        real paper it returned 1.000 as an extraction artifact with nearly
+        everything coded P1
+        actantial_permutation: trigger was script_inversions, cut with
+        script_type; fired only on a fixture built knowing the answer
+        scale_shift: never had a detector in any version
+
+------------------------------------------------------------------------------
+10. GENERATION READINESS
+------------------------------------------------------------------------------
+   READY: yes  -- 3 move(s) parameterised
+   moves: construct_inversion, counterfactual_ending, focalization_shift
+
+==============================================================================
+END OF DOSSIER. The system stops here. Writing the split, naming its two
+sides, and opening the register all come after, and in that order.
+==============================================================================

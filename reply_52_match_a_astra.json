@@ -1,0 +1,299 @@
+{
+  "paper": "Bechky 2020",
+  "readings": [
+    {
+      "reading": "M01",
+      "contests": "The units respond to DNA's scientific legitimacy according to its compatibility with their occupational techniques and values.",
+      "pages": "pp. 617, 633–634, 637",
+      "alternative": "The comparison concerns who can subsequently inspect expert conclusions, as durable records extend scrutiny while preserving the judgment involved in producing evidence."
+    },
+    {
+      "reading": "M02",
+      "contests": "Narcotics analysts retained crystal testing because instrumented analysis threatened their autonomy and variety, while professional debate imposed no immediate requirement to change.",
+      "pages": "pp. 632–633, 637",
+      "alternative": "Legal turnaround requirements and insufficient instrument capacity made crystal testing necessary to handle the caseload, while analysts considered affordable ways to enable later review."
+    },
+    {
+      "reading": "M03",
+      "contests": "Forensic biology provides the benchmark against which the other three occupations' techniques and values are assessed.",
+      "pages": "pp. 617, 633–634",
+      "alternative": "Forensic biology is another evaluated occupation relying on collective judgment; its released representations, rather than its entire working practice, provide the comparison."
+    },
+    {
+      "reading": "M04",
+      "contests": "Toxicologists adapted their practices, whereas firearms and narcotics analysts resisted changes prompted by comparison with DNA.",
+      "pages": "pp. 633, 637",
+      "alternative": "All three adopted or considered additions to evidentiary presentation, while none adopted replacement of core judgment; their apparent divergence partly reflects different requested changes."
+    },
+    {
+      "reading": "M05",
+      "contests": "DNA comparisons reach all three studied occupations, while their reach beyond these neighboring occupations remains an open question associated with shared activities and audiences.",
+      "pages": "pp. 634, 636",
+      "alternative": "The boundary may fall within the three cases, excluding toxicology despite shared audiences because its recorded demands lack a participant-established connection to DNA."
+    },
+    {
+      "reading": "M06",
+      "contests": "Narcotics analysts retained their practices as resistance to a comparison threatening their occupational values without imposing an immediate requirement to change.",
+      "pages": "pp. 632–633, 637",
+      "alternative": "Narcotics presents an unfinished decision under unsettled requirements and capacity limits, with anticipated compliance rather than an observed refusal to implement a mandated change."
+    },
+    {
+      "reading": "M07",
+      "contests": "The three units' different responses result jointly from institutional pathways and the fit of DNA comparisons with occupational techniques and values.",
+      "pages": "pp. 633–637",
+      "alternative": "Expected personal exposure to a local courtroom challenge determines change; occupational values describe responses without independently explaining them."
+    },
+    {
+      "reading": "M08",
+      "contests": "Narcotics analysts resisted instrumented methods because DNA comparisons threatened their craft autonomy and variety within an internal professional debate.",
+      "pages": "pp. 628, 632, 637",
+      "alternative": "Regional factions compete to make their existing methods obligatory, using DNA's prestige and unequal access to rulemaking authority to advance their positions."
+    },
+    {
+      "reading": "M09",
+      "contests": "The units' characteristic work produces their distinct occupational values, which shape responses to DNA comparisons.",
+      "pages": "pp. 620, 637",
+      "alternative": "Workers partly create those cultural differences by selecting work they already prefer, with transfers concentrating analysts who dislike repetitive instrument work in narcotics."
+    },
+    {
+      "reading": "M10",
+      "contests": "Toxicology changed while firearms resisted because a direct local challenge supplied an urgency absent from distant challenges to firearms.",
+      "pages": "pp. 635–636",
+      "alternative": "Toxicology already had an accreditation-mandated reform, unlike firearms; litigation accelerated that commitment rather than determining whether change would occur."
+    },
+    {
+      "reading": "M11",
+      "contests": "The units' characteristic work produces their distinct occupational values, which shape responses to DNA comparisons.",
+      "pages": "pp. 620, 637",
+      "alternative": "Hiring and transfers sort workers by prior preferences, helping produce the cultural contrast between toxicology and narcotics that subsequently appears to explain their responses."
+    },
+    {
+      "reading": "M12",
+      "contests": "Occupational status and power explain less of the units' responses than their work, values, and techniques.",
+      "pages": "p. 637",
+      "alternative": "Units protect or improve standing and members' indispensability: craft groups defend barriers to replacement, while toxicology uses uncertainty reporting to enhance its rank."
+    },
+    {
+      "reading": "M13",
+      "contests": "Toxicologists embraced compatible changes, while narcotics analysts resisted technically compatible instrumentation because it conflicted with their values.",
+      "pages": "pp. 628, 632–633, 637",
+      "alternative": "Unequal disruption and costs explain the contrast: toxicology supplemented established routines, whereas narcotics faced replacing its principal method under tight equipment and deadline constraints."
+    },
+    {
+      "reading": "M14",
+      "contests": "The three units encountered comparisons with DNA through different institutional pathways and responded to those comparisons.",
+      "pages": "pp. 617, 633–635",
+      "alternative": "Firearms encountered explicit DNA comparisons; toxicology and narcotics encountered differently sourced demands for uncertainty estimates or reviewable outputs, whose DNA connection the author supplies."
+    },
+    {
+      "reading": "M15",
+      "contests": "Toxicology changed while firearms resisted because a direct local challenge supplied an urgency absent from distant challenges to firearms.",
+      "pages": "pp. 635–636",
+      "alternative": "A standing accreditation requirement and existing reform plan distinguish toxicology from firearms; the imminent challenge explains implementation timing rather than the occurrence of change."
+    },
+    {
+      "reading": "M16",
+      "contests": "Narcotics analysts resisted technically compatible instrumentation because it threatened their autonomy, variety, and craft judgment.",
+      "pages": "pp. 632–633, 637",
+      "alternative": "Narcotics defended a production system needed to meet legal deadlines with limited equipment; knowing instrumented methods did not make their universal deployment feasible."
+    },
+    {
+      "reading": "M17",
+      "contests": "The units respond to DNA's scientific legitimacy according to its compatibility with their occupational techniques and values.",
+      "pages": "pp. 617, 633–634, 637",
+      "alternative": "The central issue is redistribution of subsequent scrutiny: durable records let reviewers and legal audiences revisit expert judgments without eliminating the discretion behind them."
+    },
+    {
+      "reading": "M18",
+      "contests": "Narcotics analysts resisted technically compatible instrumentation because it threatened their autonomy, variety, and craft judgment.",
+      "pages": "pp. 632–633, 637",
+      "alternative": "Instrument capacity and mandatory turnaround made crystal testing necessary for the caseload; technical competence in GC/MS did not establish feasibility at that scale."
+    },
+    {
+      "reading": "M19",
+      "contests": "MCCL firearms examiners resisted DNA comparisons without changing their local practices.",
+      "pages": "pp. 624–625, 633, 637",
+      "alternative": "Firearms already adopted reviewable image records while rejecting quantification, revealing selective adaptation that the classification of acceptance versus resistance conceals."
+    },
+    {
+      "reading": "M20",
+      "contests": "The units' characteristic work produces their distinct occupational values, which shape responses to DNA comparisons.",
+      "pages": "pp. 620, 637",
+      "alternative": "Unit values partly record who joined, remained, or left; narcotics analysts brought preferences expressed during toxicology work, so different responses also reflect membership selection."
+    },
+    {
+      "reading": "M21",
+      "contests": "MCCL firearms examiners resisted DNA comparisons without changing their local practices.",
+      "pages": "pp. 624–625, 633, 637",
+      "alternative": "Earlier image documentation already met demands for reviewable evidence; firearms rejected statistical matching, and its unchallenged testimony may reflect this prior adaptation."
+    },
+    {
+      "reading": "M22",
+      "contests": "Evaluative pressure arising from comparison with DNA prompted toxicologists to change their reporting practices.",
+      "pages": "pp. 625, 627–628, 635",
+      "alternative": "An existing accreditation project determined the reform; litigation accelerated implementation, with DNA serving as a courtroom reference rather than initiating adoption."
+    },
+    {
+      "reading": "M23",
+      "contests": "Evaluative pressure arising from comparison with DNA prompted toxicologists to change their reporting practices.",
+      "pages": "pp. 625, 627–628, 635",
+      "alternative": "Existing accreditation obligations determined uncertainty reporting; an established DUI litigation strategy accelerated compliance, while the DNA link remains the author's attribution."
+    },
+    {
+      "reading": "M24",
+      "contests": "Evaluative pressure arising from comparison with DNA prompted toxicologists to change their reporting practices.",
+      "pages": "pp. 625, 627–628, 635",
+      "alternative": "Toxicology accelerated an existing accreditation project to meet an impending courtroom demand; the episode concerns standards compliance, with DNA comparison supplied by the author."
+    },
+    {
+      "reading": "M25",
+      "contests": "The three units' different responses result jointly from institutional pathways and the fit of DNA comparisons with occupational techniques and values.",
+      "pages": "pp. 633–637",
+      "alternative": "Units change when credible local consequences make continuity costly; values shape the language and form of adjustment, while exposure determines whether adjustment occurs."
+    },
+    {
+      "reading": "M26",
+      "contests": "The three units' contrasting responses are explained by occupational techniques and values together with institutional pathways.",
+      "pages": "pp. 633–637",
+      "alternative": "Responses follow implementation costs and available resources: toxicology reused existing capacity, narcotics lacked throughput, and firearms lacked affordable statistical infrastructure."
+    },
+    {
+      "reading": "M27",
+      "contests": "The units' characteristic work produces their distinct occupational values, which shape responses to DNA comparisons.",
+      "pages": "pp. 620, 637",
+      "alternative": "Assignments, retraining, and transfers partly sort existing preferences into units, making their apparent occupational cultures and responses products of who occupies each posting."
+    },
+    {
+      "reading": "M28",
+      "contests": "Evaluative pressure arising from comparison with DNA prompted toxicologists to change their reporting practices.",
+      "pages": "pp. 625, 627–628, 635",
+      "alternative": "Accreditation had already established the reporting project; impending litigation advanced its completion, while DNA's persuasive comparison need not explain its content or eventual adoption."
+    }
+  ],
+  "groups": [
+    {
+      "group": "G1",
+      "point": "The comparison concerns redistribution of the ability to inspect expert judgments through durable records, rather than primarily compatibility with DNA-associated objectivity and occupational values.",
+      "readings": [
+        "M01",
+        "M17"
+      ]
+    },
+    {
+      "group": "G2",
+      "point": "Narcotics retained crystal testing because legal deadlines and limited instrument capacity made wholesale instrumented analysis impractical, rather than primarily because of craft preferences.",
+      "readings": [
+        "M02",
+        "M16",
+        "M18"
+      ]
+    },
+    {
+      "group": "G3",
+      "point": "Forensic biology belongs among the evaluated, judgment-dependent occupations; its released evidence should not stand for an intrinsically different working practice.",
+      "readings": [
+        "M03"
+      ]
+    },
+    {
+      "group": "G4",
+      "point": "The units share acceptance or consideration of documentary additions without replacing core judgment; the apparent response contrast partly reflects different kinds of requested change.",
+      "readings": [
+        "M04"
+      ]
+    },
+    {
+      "group": "G5",
+      "point": "The boundary of demonstrated DNA spillover may lie within the three studied cases, excluding toxicology despite shared activities and audiences.",
+      "readings": [
+        "M05"
+      ]
+    },
+    {
+      "group": "G6",
+      "point": "Narcotics represents an unresolved decision before a binding demand, rather than a settled outcome of resistance.",
+      "readings": [
+        "M06"
+      ]
+    },
+    {
+      "group": "G7",
+      "point": "Credible local exposure to consequences determines whether units change; occupational values do not independently explain the contrasting outcomes.",
+      "readings": [
+        "M07",
+        "M25"
+      ]
+    },
+    {
+      "group": "G8",
+      "point": "The narcotics dispute concerns regional competition to make established methods compulsory through unequal access to standard-setting authority.",
+      "readings": [
+        "M08"
+      ]
+    },
+    {
+      "group": "G9",
+      "point": "Hiring, transfers, and workers' prior preferences partly produce the unit cultures that the paper attributes to the nature of occupational work.",
+      "readings": [
+        "M09",
+        "M11",
+        "M20",
+        "M27"
+      ]
+    },
+    {
+      "group": "G10",
+      "point": "A standing accreditation commitment distinguishes toxicology from firearms; the local courtroom challenge explains acceleration rather than why only toxicology changes.",
+      "readings": [
+        "M10",
+        "M15"
+      ]
+    },
+    {
+      "group": "G11",
+      "point": "The units protect or improve status and indispensability, making power and standing central to their differing responses.",
+      "readings": [
+        "M12"
+      ]
+    },
+    {
+      "group": "G12",
+      "point": "Toxicology and narcotics differ in the scale, disruption, and cost of the proposed changes, rather than chiefly in occupational value compatibility.",
+      "readings": [
+        "M13"
+      ]
+    },
+    {
+      "group": "G13",
+      "point": "Explicit DNA comparison in firearms and differently sourced demands in toxicology and narcotics should not be treated as three responses to one comparison.",
+      "readings": [
+        "M14"
+      ]
+    },
+    {
+      "group": "G14",
+      "point": "Firearms had already adapted through reviewable images while rejecting statistical matching, so its classification as unchanged resistance misses selective adaptation.",
+      "readings": [
+        "M19",
+        "M21"
+      ]
+    },
+    {
+      "group": "G15",
+      "point": "Toxicology's reporting reform originated in accreditation obligations; litigation advanced an existing project rather than DNA comparison initiating the change.",
+      "readings": [
+        "M22",
+        "M23",
+        "M24",
+        "M28"
+      ]
+    },
+    {
+      "group": "G16",
+      "point": "Implementation costs and available resources explain all three responses, with values expressing those constraints.",
+      "readings": [
+        "M26"
+      ]
+    }
+  ]
+}

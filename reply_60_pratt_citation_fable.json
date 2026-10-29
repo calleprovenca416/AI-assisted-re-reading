@@ -1,0 +1,111 @@
+{
+  "paper": "Pratt, 2000",
+  "what_you_know": "I know this paper fairly well: an ethnography of Amway distributors (participant observation over roughly three years, interviews with current and former distributors, analysis of the tapes and literature) that coins sensebreaking, pairs it with sensegiving, and argues that one identification programme yields identification, disidentification, or ambivalent identification depending on how much sense is broken and how coherently it is re-given. I am confident about the argument and the named practices (dream building, positive programming, encapsulation or seclusion, upline mentoring) and much less sure of exact page numbers, which below are my estimates within 456-493, and of specifics such as interview counts.",
+  "readings": [
+    {
+      "reading_id": "R1",
+      "wager": "The void Pratt attributes to dream building is largely imported. The sample is skewed toward people who were already discontented (the paper's own seekers) or who were susceptible to a pitch promising a different life, and the organization's work is less to break sense than to recognize an existing fracture and hand it a vocabulary. On this reading the three outcomes track pre-entry condition rather than organizational practice: entrants with a sharp, specific grievance against their job identify; those with a diffuse unease become ambivalent; those brought in by a spouse or friend, with no void of their own, disidentify or drift out. Sensebreaking is a sorting device that reveals who arrived broken, not a treatment that breaks.",
+      "evidence": [
+        {"page": "p. ~469-470 (approx.)", "job": "The passage acknowledging that many recruits are seekers, people already looking for something, is promoted from a facilitating condition to the main cause of the outcome."},
+        {"page": "p. ~467-469 (approx.)", "job": "The dream-building accounts in which recruits readily produce lists of unmet wants (cars, houses, time with family) are read as elicitation of a pre-existing deficit rather than creation of one."},
+        {"page": "p. ~464-466 (approx.)", "job": "The setting description, in which recruitment runs through friends, relatives and church contacts, supplies the subgroup who did not seek Amway and so should, on this reading, disproportionately fail to identify."},
+        {"page": "p. ~482-484 (approx.)", "job": "Disidentifiers' accounts of having been pulled along, pressured, or presenting the plan out of loyalty to a sponsor are read as the no-void group turning on an organization that never fit a need."}
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Whether discontent measured at first contact predicts the outcome independently of how much dream building a recruit received, i.e. a within-sample comparison of recruits who got heavy versus light sensebreaking but had similar entry motives and similar sponsorship paths.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {"page": "p. ~467-469 (approx.)", "why": "Pratt observed dream building directly as a staged, ordered ritual run by uplines with specific moves (list the dream, then ask whether the job can deliver it), which is organizational work and not mere recognition."},
+        {"page": "p. ~470 (approx.)", "why": "He reports converts who describe themselves as reasonably content before the plan and unsettled by it afterwards, which is the sequence the selection reading says should be rare."},
+        {"page": "p. ~488-490 (approx.)", "why": "The discussion explicitly frames seekers as a boundary condition on the model, so the paper has already met this objection and demoted it."}
+      ],
+      "who_could_complete_it": "A panel study that assesses discontent and entry motive at the first plan presentation and follows recruits for a year; or a comparison with a direct-selling firm of similar structure that uses no dream building."
+    },
+    {
+      "reading_id": "R2",
+      "wager": "The three outcomes are an economic exposure map. The system of tapes, books, functions and counseling is itself a business sold to distributors by their uplines, so a distributor's attitude to Amway tracks their net position in two markets at once. Identification is found among those whose position is positive or visibly improving (a Diamond upline, growing legs); ambivalence is the state of people who have sunk real money and time without return and cannot yet write it off; disidentification is the response of those who conclude that they, not the soap, were the product. What Pratt calls the meaning void is dissonance over unrecouped investment, and what he calls sensegiving works mainly by raising the cost of exit.",
+      "evidence": [
+        {"page": "p. ~472-476 (approx.)", "job": "The description of the system's paid tools, and of the expectation that a serious distributor buys tapes weekly and attends every function, establishes a continuing cash outflow that the reading makes causal."},
+        {"page": "p. ~484-486 (approx.)", "job": "Quotes from ambivalent distributors who keep attending and buying while doubting are read as dissonance management under sunk cost rather than as mixed cognition about meanings."},
+        {"page": "p. ~482-484 and ~465 (approx.)", "job": "Disidentifiers' complaints of being misled about money and time, and the critical literature on Amway that Pratt cites in setting up the case, supply the vocabulary of having been the customer."},
+        {"page": "p. ~480-482 (approx.)", "job": "The most unambiguously identified informants are at or near the top of a line of sponsorship, which the reading takes as the correlation the paper does not test."}
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Whether the outcome category covaries with net financial position and tool spend after holding sensegiving exposure constant; in particular whether any net earners are ambivalent or disidentified and whether any sustained net losers are fully identified.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {"page": "p. ~485-487 (approx.)", "why": "Pratt locates ambivalence in inconsistent messages (be independent yet obey your upline; this is a business yet it is treated like a ministry) and gives examples of ambivalence among people whose businesses were doing adequately."},
+        {"page": "p. ~480 (approx.)", "why": "Some of the clearest identifiers are new recruits who have invested little, which the exposure reading predicts should be the most volatile group."},
+        {"page": "p. ~462-464 (approx.)", "why": "The methods section says nothing about earnings data, so the reading is building on levels and tenure, which are only proxies."}
+      ],
+      "who_could_complete_it": "An economist or forensic accountant with access to tool-business receipts and bonus records for one line of sponsorship, or a study sampling distributors just above and just below a bonus threshold."
+    },
+    {
+      "reading_id": "R3",
+      "wager": "The object of identification in the data is a line of sponsorship and a mentor, not Amway. The corporation is a distant licensor; the upline organization runs the meetings, sells the tools, and does the counseling. On this reading the three valences are not three attitudes toward one object but splits across objects: people identify with their upline and the community while disliking the corporation's products or prices; or embrace the products and the free-enterprise ideal while rejecting the tools business. Ambivalence is the residue produced when a multi-target structure is pushed through a single-target typology, and disidentification is often loyalty to one target expressed as rejection of another.",
+      "evidence": [
+        {"page": "p. ~464-466 and ~472-474 (approx.)", "job": "The paper's own account of the system as organizationally distinct from the corporation, run by uplines, supplies the second target."},
+        {"page": "p. ~476-478 (approx.)", "job": "The mentoring and upline-counseling material shows attachment forming to named persons, which the reading makes the primary identification."},
+        {"page": "p. ~485-487 (approx.)", "job": "The ambivalent quotes that are explicitly target-split (love the people, hate the selling or the hype) are read as evidence that each valence has its own object."},
+        {"page": "p. ~488-490 (approx.)", "job": "The discussion's remarks on multiple foci of identification are treated as the paper half-noticing the problem and setting it aside."}
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Whether, when each valenced statement from an ambivalent informant is assigned to a target (upline, system, corporation, products, the dream), few or no statements carry both valences toward the same target.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {"page": "p. ~486 (approx.)", "why": "Pratt reports ambivalence toward the same object, notably the dream itself, wanted and distrusted at once, which cannot be redistributed across targets."},
+        {"page": "p. ~458-460 (approx.)", "why": "The theory section treats nested targets as a known feature of identification and chooses to analyze the organization as the practices its members encounter, so the single-target framing is deliberate rather than an oversight."},
+        {"page": "p. ~462-464 (approx.)", "why": "Fieldwork appears to have been within one line of sponsorship, so the data cannot show variation across lines that the reading needs."}
+      ],
+      "who_could_complete_it": "A researcher sampling distributors across several lines of sponsorship, including people sponsored outside any system, and asking each to name the object of each thing they praise or resent."
+    },
+    {
+      "reading_id": "R4",
+      "wager": "The outcomes are stages of one career rather than types of member. Nearly everyone is identified in the months after sensegiving; ambivalence sets in as results lag behind the dream while the system's demands continue; disidentification, or a quiet fading out, follows at or after exit. Cross-sectional sampling of current members at different tenures, together with retrospective ex-members, freezes a sequence into a taxonomy. On this reading the organization's practices explain the first stage well and the others hardly at all; time in grade does the rest, and the repeated weekly and quarterly sensegiving is best understood as a machine for re-identifying people who are drifting down the sequence.",
+      "evidence": [
+        {"page": "p. ~462-464 (approx.)", "job": "The roughly three-year fieldwork span, with some informants met more than once, provides the raw material for a trajectory reading that the paper itself does not assemble."},
+        {"page": "p. ~482-484 (approx.)", "job": "Ex-distributors' retrospective accounts, which narrate movement from enthusiasm through doubt to exit, are read as the sequence everyone traverses rather than as one outcome among three."},
+        {"page": "p. ~485 (approx.)", "job": "The hints that ambivalent informants tend to be mid-tenure are taken as the stage marker."},
+        {"page": "p. ~472-476 (approx.)", "job": "The continuous, repeated character of sensegiving (weekly tapes, monthly meetings, quarterly functions) is read as maintenance against decay rather than as initial meaning-giving."}
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Tenure-ordered outcomes for the same individuals: whether long-tenured members who remain unambiguously identified passed through ambivalence, and whether any entrants are ambivalent or disidentified from the start without a prior identified phase.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {"page": "p. ~480-482 (approx.)", "why": "Diamonds and other long-tenured identifiers in the data show no reported ambivalent phase, which the stage reading would have to call either suppressed or exceptional."},
+        {"page": "p. ~485-486 (approx.)", "why": "Some recruits became ambivalent almost immediately on noticing inconsistent messages, before any lag between dream and results could open."},
+        {"page": "p. ~487-488 (approx.)", "why": "The model makes outcomes conditional on the amount and coherence of sensebreaking and sensegiving, not on time, and the paper gives contrasting cases at similar tenure."}
+      ],
+      "who_could_complete_it": "A panel of recruits followed from their first plan presentation for two years, with the same questions asked at fixed intervals."
+    },
+    {
+      "reading_id": "R5",
+      "wager": "The organization teaches a transferable technique: dismantle a taken-for-granted identity (the job, the broke friend, the negative relative) by setting it beside a dream and naming the gap. The technique is not organization-specific, and disidentifiers are not people in whom sensegiving failed but people who learned sensebreaking well and turned it on the system itself, with the tools business as the real business and the upline as the real customer. Their exit narratives mirror the plan, inverted. Ambivalents are those who have half-applied the technique and cannot settle which object to break. Encapsulation and the policing of anything negative are the organization's own acknowledgment that what it teaches is reversible.",
+      "evidence": [
+        {"page": "p. ~467-471 (approx.)", "job": "The plan and dream building are described as a repeatable pitch every distributor is trained to deliver, which makes the skill general rather than something done to a recruit once."},
+        {"page": "p. ~482-484 and ~465 (approx.)", "job": "Ex-members' accounts, and the critical materials Pratt cites, use the system's own vocabulary against it, read here as the technique reapplied rather than as grievance."},
+        {"page": "p. ~474-476 (approx.)", "job": "Positive programming and seclusion from negative people are read as defenses against the technique's reversal, evidence that insiders know it can be turned."},
+        {"page": "p. ~486-487 (approx.)", "job": "Ambivalent informants who describe seeing through parts of the system while still wanting the dream are read as mid-application of the same move."}
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Whether disidentifiers' exit narratives reproduce the dream-building sequence with targets reversed (name what you wanted, show the gap, blame the structure), and whether distributors who presented the plan more often are over-represented among disidentifiers.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {"page": "p. ~482-484 (approx.)", "why": "Pratt's disidentification is a void left unfilled or sensegiving experienced as manipulation; several disidentifiers in his data appear to have presented the plan rarely and left early, before mastering anything."},
+        {"page": "p. ~488-490 (approx.)", "why": "The discussion treats sensebreaking as an organizational practice with a target, not as a competence that migrates to members, so the paper's units of analysis resist the reading."},
+        {"page": "p. ~474-476 (approx.)", "why": "Positive programming is presented as general protection of a fragile new identity against ordinary doubt, which is a simpler account of the same practice than reversal-defense."}
+      ],
+      "who_could_complete_it": "A discourse analyst comparing recruitment scripts with exit testimonies for structural mirroring, or a community of former distributors able to say where the forms of its critique were learned."
+    }
+  ]
+}

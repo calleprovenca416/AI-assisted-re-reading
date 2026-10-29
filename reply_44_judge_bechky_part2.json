@@ -1,0 +1,383 @@
+{
+  "part": 2,
+  "answers": [
+    {
+      "row": "BCBE",
+      "reason": "The passage shows that the imminent courtroom challenge prompted the toxicologists [1 word of Bechky (2020), p. 627] \"[4 words of Bechky (2020), p. 627]\" [1 word of Bechky (2020), p. 627] change their practices to include statistical analysis[cite: 3].",
+      "page": "p. 627",
+      "answer": "yes"
+    },
+    {
+      "row": "GDKN",
+      "reason": "The passage explicitly states that these pathways \"[18 words of Bechky (2020), p. 634]\"[cite: 3].",
+      "page": "pp. 634-635",
+      "answer": "no"
+    },
+    {
+      "row": "QW8G",
+      "reason": "The passage notes that the NAS report \"[15 words of Bechky (2020), p. 625]\"[cite: 3], showing the scientific scrutiny did not apply uniformly.",
+      "page": "p. 625",
+      "answer": "yes"
+    },
+    {
+      "row": "YJQS",
+      "reason": "The passage indicates firearms did face \"Yes-Media criticism\"[cite: 3], which supports rather than limits the claim.",
+      "page": "p. 633",
+      "answer": "no"
+    },
+    {
+      "row": "45TK",
+      "reason": "The passage describes how firearms examiners [8 words of Bechky (2020), p. 625] DNA profiling, which, combined with their values and distant challenges, led them to \"[7 words of Bechky (2020), p. 625]\"[cite: 3].",
+      "page": "pp. 624-625",
+      "answer": "yes"
+    },
+    {
+      "row": "ZR4E",
+      "reason": "The passage explicitly concludes that these pathways \"[18 words of Bechky (2020), p. 634]\"[cite: 3].",
+      "page": "pp. 634-635",
+      "answer": "no"
+    },
+    {
+      "row": "DS9S",
+      "reason": "Table 2 indicates \"No\" for scientific evaluation for narcotics[cite: 3], which simply limits the claim by showing a lack of scrutiny on that pathway, rather than showing scrutiny decreasing or happening without the benchmark.",
+      "page": "p. 633",
+      "answer": "no"
+    },
+    {
+      "row": "K3SR",
+      "reason": "The passage directly compares the three occupations, showing that adaptation occurred when both technique and values were compatible (toxicology), but was resisted when technique was incompatible (firearms) or when values blocked it despite compatible technique (narcotics)[cite: 3].",
+      "page": "p. 637",
+      "answer": "yes"
+    },
+    {
+      "row": "3WNH",
+      "reason": "The passage states that because their testimony had not been locally challenged, \"[12 words of Bechky (2020), p. 624]\"[cite: 3], supporting the claim that remote routes lead to less change.",
+      "page": "p. 624",
+      "answer": "yes"
+    },
+    {
+      "row": "TK64",
+      "reason": "The passage describes significant media attention, such as from the New York Times and NPR, characterizing forensic science as having \"serious problems\"[cite: 3], demonstrating increased scrutiny.",
+      "page": "p. 616",
+      "answer": "yes"
+    },
+    {
+      "row": "WUXX",
+      "reason": "The passage describes the values and training of firearms examiners[cite: 3], but it does not discuss their actual resistance to local practice change, which appears later in the text.",
+      "page": "p. 623",
+      "answer": "yes"
+    },
+    {
+      "row": "V3PL",
+      "reason": "The passage explicitly details the examiners explaining why their technique cannot produce a DNA-like statistical result, directly demonstrating the lack of technical compatibility and adaptation feasibility[cite: 3].",
+      "page": "p. 624",
+      "answer": "no"
+    },
+    {
+      "row": "3XK6",
+      "reason": "The passage describes how the analysts experienced pressure to adopt instrumented techniques implied by the comparison to DNA profiling and actively \"[9 words of Bechky (2020), p. 632]\"[cite: 3], demonstrating the increased pressure on their work practices.",
+      "page": "p. 632",
+      "answer": "yes"
+    },
+    {
+      "row": "ZWHG",
+      "reason": "The passage directly addresses the feasibility of adaptation by explaining that MCCL lacked the instruments and time to handle their caseload using the alternative technique[cite: 3].",
+      "page": "p. 632",
+      "answer": "no"
+    },
+    {
+      "row": "AGPG",
+      "reason": "Table 2 shows a lack of public scrutiny for toxicology[cite: 3], which merely limits the claim by showing the evaluation did not occur on that pathway, rather than showing scrutiny decreasing or occurring without the cause.",
+      "page": "p. 633",
+      "answer": "no"
+    },
+    {
+      "row": "TWEG",
+      "reason": "The passage describes the technique of crystal testing in detail[cite: 3], but it does not provide any evidence that contradicts or limits the claim that technique and values are intertwined.",
+      "page": "pp. 628-629",
+      "answer": "no"
+    },
+    {
+      "row": "9TCM",
+      "reason": "The passage quotes legal scholars urging other forensic sciences to use DNA typing as a model for scientific validity[cite: 3], showing increased external evaluation using DNA as a benchmark.",
+      "page": "p. 617",
+      "answer": "yes"
+    },
+    {
+      "row": "6A8Q",
+      "reason": "The passage demonstrates that practical resource constraints—like instrument availability and run times—also block adaptation[cite: 3], limiting the claim's strict focus on technical compatibility and values.",
+      "page": "p. 632",
+      "answer": "yes"
+    },
+    {
+      "row": "62KC",
+      "reason": "The passage provides background on the routine, high-volume nature of the toxicology unit's work[cite: 3], which neither contradicts nor limits the claim about their accelerated reporting change.",
+      "page": "pp. 625-626",
+      "answer": "no"
+    },
+    {
+      "row": "MTMH",
+      "reason": "The passage shows a case where an occupational group actively rejected changing their practices[cite: 3], limiting the claim by demonstrating that evaluative spillovers do not always successfully reshape work.",
+      "page": "pp. 624-625",
+      "answer": "yes"
+    },
+    {
+      "row": "5PNZ",
+      "reason": "The passage simply describes the daily technique of crystal testing[cite: 3], without explicitly connecting it to the occupational values that are discussed later in the text.",
+      "page": "pp. 628-629",
+      "answer": "yes"
+    },
+    {
+      "row": "B59K",
+      "reason": "The passage explains that firearms examiners could not see a technical analogue between their work and DNA population statistics[cite: 3], showing how technical incompatibility makes adaptation less feasible.",
+      "page": "p. 624",
+      "answer": "yes"
+    },
+    {
+      "row": "ESH5",
+      "reason": "Table 2 indicates \"No\" for scientific-pathway challenges to toxicology[cite: 3], showing that the external evaluation did not increase across all stated arenas for this group.",
+      "page": "p. 633",
+      "answer": "yes"
+    },
+    {
+      "row": "3JED",
+      "reason": "Table 2 indicates that firearms examiners faced \"Yes-Media criticism\" through public institutional pathways[cite: 3], supporting the claim that external evaluation increased.",
+      "page": "p. 633",
+      "answer": "yes"
+    },
+    {
+      "row": "T7EW",
+      "reason": "The passage directly addresses perceived objectivity, noting that the representation process [2 words of Bechky (2020), p. 618] \"[4 words of Bechky (2020), p. 618]\" and that outsiders viewed it as a \"fully legitimate, objective standard\"[cite: 3].",
+      "page": "p. 619",
+      "answer": "no"
+    },
+    {
+      "row": "VQRR",
+      "reason": "The passage summarizes how the different pathways \"[12 words of Bechky (2020), p. 634]\"[cite: 3], demonstrating that the institutional routes shaped the workplace changes.",
+      "page": "pp. 634-635",
+      "answer": "yes"
+    },
+    {
+      "row": "9WB5",
+      "reason": "The passage explicitly describes the examiners being \"[9 words of Bechky (2020), p. 624]\"[cite: 3], which directly addresses the feasibility of adapting their technique.",
+      "page": "p. 624",
+      "answer": "no"
+    },
+    {
+      "row": "8WHE",
+      "reason": "The passage explicitly discusses the level of scrutiny applied to toxicology by the NAS report, noting it was not criticized directly but was subject to general standards regarding error rates[cite: 3].",
+      "page": "p. 625",
+      "answer": "no"
+    },
+    {
+      "row": "MEBY",
+      "reason": "Table 2 indicates \"No\" for courtroom challenges to narcotics analysis[cite: 3], showing that increased evaluation did not occur in all arenas for this occupation.",
+      "page": "p. 633",
+      "answer": "yes"
+    },
+    {
+      "row": "T3A3",
+      "reason": "The passage explains that because these groups \"[10 words of Bechky (2020), p. 634]\"[cite: 3], supporting the claim that overlapping fields and audiences facilitate spillover.",
+      "page": "p. 634",
+      "answer": "yes"
+    },
+    {
+      "row": "Q24A",
+      "reason": "The specific cell in Table 2 indicating \"Yes-Media criticism\" under the public pathway identifies the institutional route[cite: 3] but does not itself describe the resulting workplace changes.",
+      "page": "p. 633",
+      "answer": "yes"
+    },
+    {
+      "row": "XUVM",
+      "reason": "The passage summarizes how the different pathways \"[18 words of Bechky (2020), p. 634]\"[cite: 3], demonstrating the reshaping of work practices.",
+      "page": "pp. 634-635",
+      "answer": "yes"
+    },
+    {
+      "row": "UQ8T",
+      "reason": "The passage directly compares the groups, stating that the \"immediate challenge [9 words of Bechky (2020), p. 636]\"[cite: 3].",
+      "page": "pp. 635-636",
+      "answer": "yes"
+    },
+    {
+      "row": "XJWW",
+      "reason": "Table 2 shows \"No\" for court challenges for narcotics[cite: 3], which limits the claim by showing a lack of scrutiny, rather than showing scrutiny moving in the opposite direction.",
+      "page": "p. 633",
+      "answer": "no"
+    },
+    {
+      "row": "6FEA",
+      "reason": "The passage establishes the firearms examiners' values of trained subjectivity[cite: 3], but the discussion of how they subsequently resisted changing their local practices appears on the following pages.",
+      "page": "p. 623",
+      "answer": "yes"
+    },
+    {
+      "row": "32MF",
+      "reason": "Table 2 indicates \"No\" for public scrutiny of narcotics[cite: 3], which demonstrates an absence of evaluation on that pathway, not scrutiny going the other way or occurring without a cause.",
+      "page": "p. 633",
+      "answer": "no"
+    },
+    {
+      "row": "BYZ9",
+      "reason": "Table 2 shows a \"No\" for scientific-pathway challenges to narcotics[cite: 3], limiting the claim by showing this group did not face evaluation in that specific arena.",
+      "page": "p. 633",
+      "answer": "yes"
+    },
+    {
+      "row": "JZP6",
+      "reason": "The passage directly addresses feasibility, explaining that examiners were \"[9 words of Bechky (2020), p. 624]\" and [8 words of Bechky (2020), p. 625] DNA profiling[cite: 3].",
+      "page": "pp. 624-625",
+      "answer": "no"
+    },
+    {
+      "row": "RW8B",
+      "reason": "Table 2 confirms that firearms faced \"Yes-Broad admissibility challenges\" in courts[cite: 3], supporting the claim that scrutiny increased in that arena.",
+      "page": "p. 633",
+      "answer": "yes"
+    },
+    {
+      "row": "B5AP",
+      "reason": "The passage describes firearms examiners rejecting the changes to their practices[cite: 3], which contradicts the statement that it shows work practices being reshaped.",
+      "page": "pp. 624-625",
+      "answer": "no"
+    },
+    {
+      "row": "MGDJ",
+      "reason": "The passage explicitly states that occupational groups \"[6 words of Bechky (2020), p. 633]\" and that DNA profiling was \"open to their interpretation\"[cite: 3], directly bearing out the claim.",
+      "page": "pp. 633-634",
+      "answer": "no"
+    },
+    {
+      "row": "9KES",
+      "reason": "The passage summarizes that the challenge \"[6 words of Bechky (2020), p. 636]\"[cite: 3], but it does not detail the specific reporting changes that the toxicologists implemented.",
+      "page": "pp. 635-636",
+      "answer": "yes"
+    },
+    {
+      "row": "DR4X",
+      "reason": "The passage describes narcotics analysts resisting the push toward standardized DNA-like practices[cite: 3], demonstrating that evaluative spillovers do not always successfully reshape work practices.",
+      "page": "p. 632",
+      "answer": "yes"
+    },
+    {
+      "row": "LRJL",
+      "reason": "The passage directly addresses the extent of spillover by explaining that because the occupations \"[10 words of Bechky (2020), p. 634]\"[cite: 3].",
+      "page": "p. 634",
+      "answer": "no"
+    },
+    {
+      "row": "9FZS",
+      "reason": "Table 2 shows a \"No\" for scientific-pathway challenges to toxicology[cite: 3], indicating an absence of scrutiny on this route rather than scrutiny decreasing or occurring without a cause.",
+      "page": "p. 633",
+      "answer": "no"
+    },
+    {
+      "row": "DQ43",
+      "reason": "The passage explicitly supports the claim by stating that groups \"[6 words of Bechky (2020), p. 633]\" and that DNA profiling was \"open to their interpretation\"[cite: 3], rather than limiting it.",
+      "page": "pp. 633-634",
+      "answer": "no"
+    },
+    {
+      "row": "G34J",
+      "reason": "The passage contrasts the toxicologists, for whom an \"immediate challenge... [6 words of Bechky (2020), p. 636],\" with the firearms examiners who lacked that local pathway and did not change[cite: 3].",
+      "page": "pp. 635-636",
+      "answer": "yes"
+    },
+    {
+      "row": "3DJZ",
+      "reason": "Table 2 shows a \"No\" for public-pathway challenges to toxicology[cite: 3], limiting the claim by demonstrating that external evaluation did not increase in all arenas.",
+      "page": "p. 633",
+      "answer": "yes"
+    },
+    {
+      "row": "Q69Y",
+      "reason": "The passage provides background on the standard, high-volume workflow of the toxicology unit[cite: 3], but does not discuss the accelerated reporting change itself.",
+      "page": "pp. 625-626",
+      "answer": "yes"
+    },
+    {
+      "row": "8STU",
+      "reason": "The passage outlines the occupational values of the firearms examiners and their dislike of objectified heuristics[cite: 3], but it does not detail their actual resistance to local work-practice adaptation, which occurs later in the text.",
+      "page": "p. 623",
+      "answer": "no"
+    },
+    {
+      "row": "AC3S",
+      "reason": "The passage describes national professional associations issuing rebuttals to the NAS report[cite: 3], which illustrates an institutional pathway but shows nothing of actual local work-practice changes.",
+      "page": "p. 616",
+      "answer": "yes"
+    },
+    {
+      "row": "5AG5",
+      "reason": "The passage explicitly contrasts the distinct values of the three groups—firearms' holistic judgment, narcotics' craft variety, and toxicology's error reduction[cite: 3]—directly demonstrating their differentiated occupational cultures.",
+      "page": "p. 637",
+      "answer": "no"
+    },
+    {
+      "row": "4PQT",
+      "reason": "The passage states that because their testimony was not challenged locally, firearms examiners \"[11 words of Bechky (2020), p. 624]\"[cite: 3], which supports rather than limits the claim.",
+      "page": "p. 624",
+      "answer": "no"
+    },
+    {
+      "row": "AMBY",
+      "reason": "The passage discusses media scrutiny characterizing forensic science as \"junk science\"[cite: 3], but it does not describe any subsequent local work-practice changes.",
+      "page": "p. 616",
+      "answer": "yes"
+    },
+    {
+      "row": "7P4T",
+      "reason": "The passage states that the local challenge \"[6 words of Bechky (2020), p. 636]\" for toxicologists[cite: 3], but it does not detail the actual modifications made to their work practices.",
+      "page": "pp. 635-636",
+      "answer": "yes"
+    },
+    {
+      "row": "6SG7",
+      "reason": "The passage describes the examiners' values of holistic, trained subjectivity[cite: 3], but it does not describe their actual resistance to local practice changes, which is detailed subsequently.",
+      "page": "p. 623",
+      "answer": "no"
+    },
+    {
+      "row": "BY4M",
+      "reason": "Table 2 shows a \"No\" for public-pathway challenges to narcotics[cite: 3], limiting the claim by demonstrating that not all neighboring occupations faced increased evaluation in this arena.",
+      "page": "p. 633",
+      "answer": "yes"
+    },
+    {
+      "row": "WZYL",
+      "reason": "The passage details how firearms examiners rejected numerical analogies because they could not map them to their bullet comparisons[cite: 3], demonstrating how technical incompatibility made adaptation unfeasible.",
+      "page": "p. 624",
+      "answer": "yes"
+    },
+    {
+      "row": "FBN8",
+      "reason": "The passage explicitly summarizes how technical compatibility and values resulted in adaptation for toxicology but resistance for firearms and narcotics[cite: 3], directly addressing the feasibility of adaptation.",
+      "page": "p. 637",
+      "answer": "no"
+    },
+    {
+      "row": "3NRZ",
+      "reason": "The passage directly supports the claim by contrasting the \"messy\" reality experienced by analysts with the \"neat and objective\" representations that outsider audiences view as a \"fully legitimate, objective standard\"[cite: 3].",
+      "page": "p. 619",
+      "answer": "no"
+    },
+    {
+      "row": "BVNN",
+      "reason": "The passage shows that toxicologists were already planning the changes due to separate ISO accreditation requirements[cite: 3], limiting the claim by showing the spillover merely accelerated an existing plan rather than originating it.",
+      "page": "p. 627",
+      "answer": "yes"
+    },
+    {
+      "row": "DCE7",
+      "reason": "The passage highlights the divergent values of the three occupations—holistic judgment, craft variety, and error avoidance[cite: 3]—demonstrating their distinct occupational cultures in action.",
+      "page": "p. 637",
+      "answer": "yes"
+    },
+    {
+      "row": "ZZQ4",
+      "reason": "The passage directly quotes legal scholars evaluating and urging traditional forensic sciences to emulate DNA typing[cite: 3], which explicitly constitutes scrutiny.",
+      "page": "p. 617",
+      "answer": "no"
+    }
+  ]
+}

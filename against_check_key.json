@@ -1,0 +1,117 @@
+{
+  "seed": 20261009,
+  "sources": [
+    {
+      "paper_id": "pratt_2000",
+      "corpus": "pratt_2000_v1.json",
+      "corpus_sha256": "a4810cc03d9a439220b2c8781acf494c62d5ac63f7f53f359157238739147c99",
+      "stage_b": "returned_pratt_2000_STAGE_B_coder2.xlsx",
+      "stage_b_sha256": "9f268d85fc7aa10dde3879726f347fa8b6889e320dfadbc1fbcefda1a553123d",
+      "coder1_against": 3,
+      "coder2_against": 2
+    },
+    {
+      "paper_id": "bechky_2020",
+      "corpus": "bechky_2020_v1.json",
+      "corpus_sha256": "6f83d744cd1dd68326cce29568a4aff461580d852d1222c4f1d096cb6922ced0",
+      "stage_b": "returned_bechky_2020_STAGE_B_coder2.xlsx",
+      "stage_b_sha256": "6c226f8fbefae310afeeafb7f7f036ffe3210ca8c6670fdddf928b682e13f742",
+      "coder1_against": 0,
+      "coder2_against": 5
+    }
+  ],
+  "rows": [
+    {
+      "paper_id": "pratt_2000",
+      "fragment_id": "F98",
+      "claim_id": "C21",
+      "coded_by": [
+        "coder1"
+      ],
+      "row": "R01"
+    },
+    {
+      "paper_id": "bechky_2020",
+      "fragment_id": "F135",
+      "claim_id": "C02",
+      "coded_by": [
+        "coder2"
+      ],
+      "row": "R02"
+    },
+    {
+      "paper_id": "bechky_2020",
+      "fragment_id": "F134",
+      "claim_id": "C02",
+      "coded_by": [
+        "coder2"
+      ],
+      "row": "R03"
+    },
+    {
+      "paper_id": "bechky_2020",
+      "fragment_id": "F141",
+      "claim_id": "C02",
+      "coded_by": [
+        "coder2"
+      ],
+      "row": "R04"
+    },
+    {
+      "paper_id": "pratt_2000",
+      "fragment_id": "F72",
+      "claim_id": "C22",
+      "coded_by": [
+        "coder2"
+      ],
+      "row": "R05"
+    },
+    {
+      "paper_id": "pratt_2000",
+      "fragment_id": "F105",
+      "claim_id": "C25",
+      "coded_by": [
+        "coder2"
+      ],
+      "row": "R06"
+    },
+    {
+      "paper_id": "bechky_2020",
+      "fragment_id": "F138",
+      "claim_id": "C02",
+      "coded_by": [
+        "coder2"
+      ],
+      "row": "R07"
+    },
+    {
+      "paper_id": "pratt_2000",
+      "fragment_id": "F93",
+      "claim_id": "C20",
+      "coded_by": [
+        "coder1"
+      ],
+      "row": "R08"
+    },
+    {
+      "paper_id": "bechky_2020",
+      "fragment_id": "F137",
+      "claim_id": "C02",
+      "coded_by": [
+        "coder2"
+      ],
+      "row": "R09"
+    },
+    {
+      "paper_id": "pratt_2000",
+      "fragment_id": "F93",
+      "claim_id": "C23",
+      "coded_by": [
+        "coder1"
+      ],
+      "row": "R10"
+    }
+  ],
+  "not_sent_claim_has_no_outcome": [],
+  "table_sha256": "2daba288913eeef541b67c197005a264620c3efe09e6c7948f4c05ab8290114d"
+}

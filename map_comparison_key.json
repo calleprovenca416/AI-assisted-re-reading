@@ -1,0 +1,146 @@
+{
+ "builder_sha256": "627ed3a777dab4f21fd609ee2a78055d3a01f7bf72607bc8ebc179e4a570be5e",
+ "replies": {
+  "bechky": "099915f0e41be3c0c0d1da89bf74a95b32d880e75bd1f7bad56555e6309c4677",
+  "pratt": "3188febbc4a9923c5124d507ed41b5be65515c4e7e91225b024d1573fb7f6dbc"
+ },
+ "round2_key_sha256": "16203667c98851db4412f5ec1e58c9dabcbff9b666558a7ac5e85a6ce7b6b313",
+ "seed": 20261026,
+ "sheet_sha256": "776b1dba4db336ae548939939716b5fd19890bd40327c6b019fc0b8df379aab5",
+ "tabs": [
+  {
+   "account_1": "T37",
+   "account_2": "map",
+   "accounts_sha256": [
+    "567306534a7973e411ef46dab2374a8ac978f9ccf5ee74604dc9782938a2ebe0",
+    "91f0b33401ca3eae0958c92c9d806c8108090d1fb62d7698d38cfa5ff4a9f038"
+   ],
+   "paper": "bechky",
+   "reading": "R05",
+   "tab": "Bechky R05"
+  },
+  {
+   "account_1": "T37",
+   "account_2": "map",
+   "accounts_sha256": [
+    "a3105822b8496e370158ff1b4c985e23562a2697e2c9291f70b3b5e161d8ce6c",
+    "6b1af61b7c2b862b7a319c7e07628b1b8c7aeab187f295f89cf5b6b18bec20d9"
+   ],
+   "paper": "bechky",
+   "reading": "R07",
+   "tab": "Bechky R07"
+  },
+  {
+   "account_1": "T37",
+   "account_2": "map",
+   "accounts_sha256": [
+    "37dcf8efddc6ab9187c77aba6a3051868b00d25b0ede5d312b8a4f23dfe177e1",
+    "16ab60edfc63a96992583e4fa2384f969c8eb38efae1c042dbec7f5edd64e6b4"
+   ],
+   "paper": "bechky",
+   "reading": "R16",
+   "tab": "Bechky R16"
+  },
+  {
+   "account_1": "map",
+   "account_2": "T37",
+   "accounts_sha256": [
+    "1d3b69bec579104d7f3bbf98692605488204a670f488c08d3db53f7d20e011bf",
+    "64146012badfd7490ebd657d14ef9256ada398c7d808c6a14d8b76360f8e0c2f"
+   ],
+   "paper": "bechky",
+   "reading": "R22",
+   "tab": "Bechky R22"
+  },
+  {
+   "account_1": "map",
+   "account_2": "T37",
+   "accounts_sha256": [
+    "99c10c5a2a55c51704cab390269b7c0a86b6ffd2a770c7e03ada3da5e66bbc09",
+    "55e84055d6fc7bd96388be58b306487cec5beef3afa3d26c923eea28aac04892"
+   ],
+   "paper": "bechky",
+   "reading": "R27",
+   "tab": "Bechky R27"
+  },
+  {
+   "account_1": "T37",
+   "account_2": "map",
+   "accounts_sha256": [
+    "f13f6a2018b8e9df246b893b77457aea14e8bb624b9446884e2a5af9b3fd7b3e",
+    "7dc5ca5221f4cf2110d119334ee4576636b04cc4766d9a81e7ce3378722e1149"
+   ],
+   "paper": "bechky",
+   "reading": "R29",
+   "tab": "Bechky R29"
+  },
+  {
+   "account_1": "T37",
+   "account_2": "map",
+   "accounts_sha256": [
+    "1c2544c7eb1f8b0d0b63db75fa14e8f1420b559c457b726724c0dcde63eed7c3",
+    "b2f403cf77b57534e859608646cbd36d165385c7978f1571da99f7ebab919408"
+   ],
+   "paper": "pratt",
+   "reading": "R01",
+   "tab": "Pratt R01"
+  },
+  {
+   "account_1": "map",
+   "account_2": "T37",
+   "accounts_sha256": [
+    "8309517b91cca7d68b943065b0c2a7d040e61ef2802e8cd32b2271bb26918089",
+    "0365e12c795fb9e6943da74c354c85da1a52ddb90a0c84b969df85f4d1ade966"
+   ],
+   "paper": "pratt",
+   "reading": "R02",
+   "tab": "Pratt R02"
+  },
+  {
+   "account_1": "map",
+   "account_2": "T37",
+   "accounts_sha256": [
+    "8ee75c51f08ab8dacc728028f814d7dec2e63251be18c5cdc0fecabb70474a14",
+    "957f5ff3c988bcfdff8b5aa885b8b07c7b54bd27b7c61c947402cd5fe15abf07"
+   ],
+   "paper": "pratt",
+   "reading": "R03",
+   "tab": "Pratt R03"
+  },
+  {
+   "account_1": "map",
+   "account_2": "T37",
+   "accounts_sha256": [
+    "6521b30ff15f3e475e0da5db02a43dfe16dd87b7e28d3ee3d7dd13aa0daa694b",
+    "d67ece62fc7406fb5608e33be9be80ea46bac41604e1df22f95345ab3e4fa6a9"
+   ],
+   "paper": "pratt",
+   "reading": "R08",
+   "tab": "Pratt R08"
+  },
+  {
+   "account_1": "map",
+   "account_2": "T37",
+   "accounts_sha256": [
+    "4e571cca76ae3e57da670cb97dc407a6dac01711ef917ec020c23c5567aa9e2a",
+    "60ec09d87069c79927a2c9fdce77a839aea91f1189e47e1d86af39098f5427f8"
+   ],
+   "paper": "pratt",
+   "reading": "R09",
+   "tab": "Pratt R09"
+  },
+  {
+   "account_1": "T37",
+   "account_2": "map",
+   "accounts_sha256": [
+    "e79027b24f97cd53189f1c6331d74358436e407d6dfd593f3e107e8e0b515da7",
+    "d4fc41bc31018f1cc31272046986a479312ecee55ff0404b32a476382f0aed04"
+   ],
+   "paper": "pratt",
+   "reading": "R14",
+   "tab": "Pratt R14"
+  }
+ ],
+ "take": null,
+ "what": "The key of the PI's comparison sheet (T39, round 2): for each tab its reading and which account is account 1, drawn as the docstring says. Not for any chat; not for the PI until the PI's sheet is back."
+}

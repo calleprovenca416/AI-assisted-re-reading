@@ -1,0 +1,197 @@
+{
+  "key": "against_check_key.json",
+  "answers": "against_check_answers.txt",
+  "results": [
+    {
+      "paper_id": "pratt_2000",
+      "fragment_id": "F98",
+      "claim_id": "C21",
+      "coded_by": [
+        "coder1"
+      ],
+      "row": "R01",
+      "answer": "4c",
+      "reason": "the stub reports a former distributor buying in at a high-pressure presentation to escape embarrassment; it says nothing about how strong any mentor-protege bond was",
+      "unclear": false,
+      "line": 1,
+      "flagged": true
+    },
+    {
+      "paper_id": "bechky_2020",
+      "fragment_id": "F135",
+      "claim_id": "C02",
+      "coded_by": [
+        "coder2"
+      ],
+      "row": "R02",
+      "answer": "4b",
+      "reason": "narcotics faced no scientific-pathway challenge, so scrutiny did not rise there, and the stub says nothing about the standing of DNA profiling",
+      "unclear": false,
+      "line": 2,
+      "flagged": true
+    },
+    {
+      "paper_id": "bechky_2020",
+      "fragment_id": "F134",
+      "claim_id": "C02",
+      "coded_by": [
+        "coder2"
+      ],
+      "row": "R03",
+      "answer": "4b",
+      "reason": "toxicology faced no scientific-pathway challenge, so scrutiny did not rise there, and the stub says nothing about the standing of DNA profiling",
+      "unclear": false,
+      "line": 3,
+      "flagged": true
+    },
+    {
+      "paper_id": "bechky_2020",
+      "fragment_id": "F141",
+      "claim_id": "C02",
+      "coded_by": [
+        "coder2"
+      ],
+      "row": "R04",
+      "answer": "4b",
+      "reason": "narcotics faced no court-pathway challenge, so scrutiny did not rise there, and the stub says nothing about the standing of DNA profiling",
+      "unclear": false,
+      "line": 4,
+      "flagged": true
+    },
+    {
+      "paper_id": "pratt_2000",
+      "fragment_id": "F72",
+      "claim_id": "C22",
+      "coded_by": [
+        "coder2"
+      ],
+      "row": "R05",
+      "answer": "3",
+      "reason": "social encapsulation grew, and the stub puts that down to members spending more time with other distributors and to recruiting and training, without mentioning relationship barriers",
+      "unclear": false,
+      "line": 5,
+      "flagged": false
+    },
+    {
+      "paper_id": "pratt_2000",
+      "fragment_id": "F105",
+      "claim_id": "C25",
+      "coded_by": [
+        "coder2"
+      ],
+      "row": "R06",
+      "answer": "4c",
+      "reason": "the stub shows a friendship lost after recruiting and a switch to more distant prospects to protect important relationships, but it does not say what happened to his belief in the superiority of Amway relationships",
+      "unclear": true,
+      "line": 6,
+      "flagged": true
+    },
+    {
+      "paper_id": "bechky_2020",
+      "fragment_id": "F138",
+      "claim_id": "C02",
+      "coded_by": [
+        "coder2"
+      ],
+      "row": "R07",
+      "answer": "4b",
+      "reason": "narcotics faced no public-pathway challenge, so scrutiny did not rise there, and the stub says nothing about the standing of DNA profiling",
+      "unclear": false,
+      "line": 7,
+      "flagged": true
+    },
+    {
+      "paper_id": "pratt_2000",
+      "fragment_id": "F93",
+      "claim_id": "C20",
+      "coded_by": [
+        "coder1"
+      ],
+      "row": "R08",
+      "answer": "4b",
+      "reason": "the distributor did not accept treating upline figures as unquestionable authorities, so his sensemaking was not encapsulated, and the stub says nothing about positive programming",
+      "unclear": false,
+      "line": 8,
+      "flagged": true
+    },
+    {
+      "paper_id": "bechky_2020",
+      "fragment_id": "F137",
+      "claim_id": "C02",
+      "coded_by": [
+        "coder2"
+      ],
+      "row": "R09",
+      "answer": "4b",
+      "reason": "toxicology faced no public-pathway challenge, so scrutiny did not rise there, and the stub says nothing about the standing of DNA profiling",
+      "unclear": false,
+      "line": 9,
+      "flagged": true
+    },
+    {
+      "paper_id": "pratt_2000",
+      "fragment_id": "F93",
+      "claim_id": "C23",
+      "coded_by": [
+        "coder1"
+      ],
+      "row": "R10",
+      "answer": "4b",
+      "reason": "the distributor did not accept treating upline figures as unquestionable authorities, so he did not rely on them, and the stub says nothing about how encapsulated he was",
+      "unclear": false,
+      "line": 10,
+      "flagged": true
+    }
+  ],
+  "flagged_as_illustrates": {
+    "pratt_2000": {
+      "coder1": [
+        [
+          "F98",
+          "C21"
+        ],
+        [
+          "F93",
+          "C20"
+        ],
+        [
+          "F93",
+          "C23"
+        ]
+      ],
+      "coder2": [
+        [
+          "F105",
+          "C25"
+        ]
+      ]
+    },
+    "bechky_2020": {
+      "coder2": [
+        [
+          "F135",
+          "C02"
+        ],
+        [
+          "F134",
+          "C02"
+        ],
+        [
+          "F141",
+          "C02"
+        ],
+        [
+          "F138",
+          "C02"
+        ],
+        [
+          "F137",
+          "C02"
+        ]
+      ]
+    }
+  },
+  "superseded_answers": [],
+  "not_sent_claim_has_no_outcome": [],
+  "rule": "in the second version of every result resting on `against`, P2 included, a link answered 4a-4x counts as `illustrates`"
+}

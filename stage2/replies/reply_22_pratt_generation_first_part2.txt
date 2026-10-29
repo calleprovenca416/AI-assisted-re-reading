@@ -1,0 +1,310 @@
+ in a form the stub likens to the persistence logic he met in Amway; the reading has to treat that as incidental to his opposition.",
+          "F94 -- this former distributor has no wrong printed against anyone; on this reading there should be one, and the record is silent.",
+          "F93 -- a later leaver who objected to members treating upline figures as beyond question is filed by the author with the detached; he holds something against the upline's standing and did not end opposed, unless only a wrong done to oneself counts, which his stub does not print.",
+          "F96 -- sparse and distant relationships leave little room for a wrong done by the upline; the reading fits the irritated and openly angry relationships in the same sentence better than the sparse ones.",
+          "F21 -- the author's account is that successful dream building with failed positive programming went with disidentification across cases; the reading can say only that no single leaver's fragments print the two together."
+        ],
+        "who_could_complete_it": "A former distributor filed under the opposed outcome whose account is available whole, covering both what he still wanted and how the people above him had dealt with him."
+      },
+      "fragment_jobs": {
+        "F91": "gives the detached side: her account turns on a change in her regular job and has no Amway person in it to hold responsible.",
+        "F94": "prints the first pull of possessions he lacked for one former distributor, which is the pair's evidence that the opposed side had a wish to begin with.",
+        "F95": "prints the same former distributor still framing a law career as a dream worth hard work, the only printed sign of a surviving wish on the opposed side.",
+        "F96": "reports across cases that those who came to disidentify had sparse, distant, irritated or openly angry upline relationships; the reading takes the first two words as shared with the detached side and the last two as the wrong itself.",
+        "F97": "prints a wrong held against the upline, unrecognized ability and more meetings, in a man who by his own telling still needed motivating.",
+        "F98": "prints joining under pressure with no dream given, filed by the author under the opposed outcome; it is the case of opposition without a printed wish.",
+        "F99": "is the author's account of the order on the opposed side, failed upline guidance first and opposition after; the reading uses it as the account to be turned round and not as an event.",
+        "F125": "is the author's account that the detached also formed no strong upline bonds, which puts a weak upline tie on both sides of the pair."
+      },
+      "grounded_in": [
+        {
+          "kind": "missing_fact",
+          "question": "Is the former distributor whose wish for change is printed (F94, F95) the same person as the former distributor whose grievance against his upline is printed (F97)?",
+          "bears_on": "C28",
+          "if_one_way": "If they are one person, C28 would read as shown in at least one leaver: a surviving wish and a failed upline relationship in the same man.",
+          "if_the_other": "If they are different people, C28 would read as a pattern stated across cases (F96) and in the author's account (F21, F99), with each half printed in a different leaver and the two together in none."
+        },
+        {
+          "kind": "divergence",
+          "items": ["F125", "F96"],
+          "how": "Both report a weak upline tie among leavers. F125, the author's account, has it follow the loss of desire among the detached; F96 reports it among those who came to disidentify, where the paper's account (F99) has it come first. The same observation is placed as a result on one side of the pair and as a source on the other."
+        }
+      ],
+      "reach": {
+        "same_construct": ["F100"],
+        "same_outcome": ["F90", "F92", "F93"],
+        "feature_elsewhere": ["F75"],
+        "orphans_used": []
+      },
+      "rival": "The paper's own account: the wrong is only how a failed upline relationship is told from inside. F97's upline failed to engage a man who came wanting to achieve, as his earlier sales ability suggests; F98 was badly handled from the first day; and both, stirred and then left without guidance, took their account of Amway from its critics (F99, F100). The wish and the failed tie are then both present in each opposed leaver and merely excerpted in different fragments, and nothing needs re-attributing.",
+      "split": null,
+      "naming": {"register_version": null, "outcome": "register not opened"}
+    },
+    {
+      "card_id": "pratt_2000_construct_inversion_CP02_01",
+      "paper_id": "pratt_2000",
+      "move": "construct_inversion",
+      "trigger": "from_pair CP02",
+      "claim": "C21",
+      "incumbent_reading": "The paper holds that the former distributor's disenchantment came from an upline that failed to support him, while the inactive distributor's continuing attachment came from a sponsor whose support held.",
+      "wager": {
+        "statement": "The paper sets the two men side by side as failed support and durable support. The stubs print something narrower: what each upline did with a member the pair holds to have been less than fully active. In F97 what the upline offered came through the program: it relied mainly on more meetings. In F103 what the sponsor offered stood apart from the program: the support went on while he repeatedly failed to attend functions, prepare lists, recruit or use the products consistently, and the sponsor used a kinship term for him. Elsewhere what uplines give is printed as running through the work. The researcher's upline tolerated his interviewing so long as he kept selling and trying to recruit (F16), and one distributor wanted the Pearl level partly so that he could join golf trips with upline members he liked (F62). Read this way, the pair differs in whether the upline's dealings with the member depended on the work, not in how much was given. Where they did, the member left and blames the upline (F97). Where they did not, he stayed, values the sponsor, and still does not do the work (F103). The second half is the inversion. The tie the paper counts as the strong one is printed beside none of the conduct a strong upline tie is supposed to bring about (C20). On this reading that tie holds because it did not depend on the work; it is what an idle member is left holding, and not a cause of anything he does. The tie in F97 is the ordinary, work-bound one, meeting a man it did not move.",
+        "seed_fragments": ["F97", "F103", "F16", "F62"],
+        "what_it_would_take_to_cohere": {
+          "observation": "What each upline asked of the member once he was not doing the work: whether the sponsor in F103 went on asking for the functions, lists and recruiting or let them go, and whether the upline in F97 offered him anything besides meetings.",
+          "printed": false,
+          "printed_fragments": [],
+          "basis": "Absent. F103 says the support continued through his failures and not what the sponsor said about them. F97 says the upline relied mainly on more meetings and nothing about what else there was. Both relationships are known only from the member's own interview. I checked the other fragments on these two groups (F96, F99, F101 to F107) and the author's remark that marginal members could long remain insiders (F70); none says what was asked of them."
+        },
+        "strains_against": [
+          "F80 -- a distributor says staying active generally depended on a close upline relationship; there the tie is what carries the work, the opposite of a tie that holds apart from it.",
+          "F62 -- time with upline members reserved for those who reach a rank is printed as a reason to achieve; a work-bound tie draws this man in where the reading has it losing the man in F97.",
+          "F60 -- sponsors quietly gave a couple a turkey when food was short, and the couple tell it at a function; help given apart from the business is printed beside people who went on taking part, as also in F57 and F59.",
+          "F107 -- the author's account is that ambivalent distributors had bursts of activity between long idle stretches; if the man in F103 had such bursts when his sponsor was near, the tie does cause conduct.",
+          "F121 -- upline distributors commonly cast their downline as children; the kinship term in F103 may belong to the program's own idiom and not stand apart from it.",
+          "F16 -- the tolerance printed there is of a researcher's interviewing, an unusual thing to need leave for; it may say little about how an ordinary idle member was treated."
+        ],
+        "who_could_complete_it": "The sponsor's or upline's side of either relationship, or a member's account that records what was asked of him after he stopped working as well as how he was treated."
+      },
+      "fragment_jobs": {
+        "F97": "prints an upline whose answer to a member it had not moved was more of the program, and a member who left blaming it.",
+        "F103": "prints, in one account, support that went on apart from the program, a kinship term, a member who stayed, and the work still undone.",
+        "F16": "prints upline tolerance that lasted only so long as the selling and recruiting went on, the work-bound form of regard that the reading sets against F103.",
+        "F62": "prints time with admired upline members as something a rank gives access to, a second place where the tie runs through the work."
+      },
+      "grounded_in": [
+        {
+          "kind": "divergence",
+          "items": ["F16", "F103"],
+          "how": "F16 has upline tolerance last so long as the member kept selling and trying to recruit; F103 has a sponsor's support continue through repeated failure to attend, list, recruit or use the products. They point different ways on whether what an upline gives depends on doing the work."
+        },
+        {
+          "kind": "missing_fact",
+          "question": "Did the sponsor in F103 keep asking him for the functions, lists and recruiting he was missing, or let them go?",
+          "bears_on": "C21",
+          "if_one_way": "If the sponsor kept asking and the support was valued all the same, C21 would read as written: help and care together make the bond, and the difference from F97 lies in the manner of the upline, not in what the bond depended on.",
+          "if_the_other": "If the sponsor let the work go, the strong bond in C21 would read as one that held by being cut loose from the practices C20 expects it to carry."
+        },
+        {
+          "kind": "missing_fact",
+          "question": "Apart from meetings, did the upline in F97 show him the personal care printed for other members (F57, F59, F60)?",
+          "bears_on": "C21",
+          "if_one_way": "If it did and he still blames it, C21 would read as failing in his case: care was enacted and no bond followed.",
+          "if_the_other": "If meetings were all there was, C21 would read as written for him, and the pair would differ in the amount of support after all."
+        }
+      ],
+      "reach": {
+        "same_construct": ["F61", "F80", "F81"],
+        "same_outcome": ["F96", "F101"],
+        "feature_elsewhere": ["F60", "F70"],
+        "orphans_used": ["F16"]
+      },
+      "rival": "The paper's own account: the two uplines differed in how much practical help and personal care they gave (C21). The upline in F97 gave little and lost him; the sponsor in F103 gave much and kept him. His idleness has another source, the outside ties that by the author's account pull ambivalent members both ways (F107), and F16 concerns a researcher's special position. The amount of support then explains the pair, and what the support depended on does not matter.",
+      "split": null,
+      "naming": {"register_version": null, "outcome": "register not opened"}
+    },
+    {
+      "card_id": "pratt_2000_construct_inversion_CP03_01",
+      "paper_id": "pratt_2000",
+      "move": "construct_inversion",
+      "trigger": "from_pair CP03 (analyst-constructed pair, a weaker licence than one the authors drew)",
+      "claim": "C23",
+      "incumbent_reading": "The paper files the first response under a member's reliance on upline sources for reading outsiders, and the second under an ambivalent member's embarrassment at Amway's reputation, so that each response follows from the state the distributor was already in.",
+      "wager": {
+        "statement": "The pair is the analyst's, a weaker footing than one the paper drew. As printed, each stub has a before and an after, and in each the before runs against the state the episode is filed under. The distributor in F85 had ignored her upline's advice in that recruiting attempt; the conclusion that the upline and the recordings had foreseen her friends' reaction came after. The distributor in F104 had Amway merchandise on display at work; the denial came after a coworker tied Amway to Nazis. The paper's account gives the first a reliance on upline sources (F79, the author's account) and the second a standing embarrassment (F104's gloss, the author's). The stubs print people being moved by an event, the direction C36 leaves open: the episode first, the stance after. The two responses are also not the same kind of thing. F104 prints what a distributor did at once, on the remark. F85 prints what a distributor concluded afterwards and told the researcher. Two other fragments filed with F85 are of the second kind: a confrontation retold in celebration at a dinner (F83), and friends' avoidance retold as a lesson about those friends (F84). In the two places where the corpus prints the moment of facing an outsider's doubt about Amway, it prints giving way: the denial in F104, and the researcher's enthusiasm weakening among skeptical colleagues, whom he then avoided (F106). The wager is that the pair shows two moments of one sequence and not two kinds of member. In front of the outsider the member gives ground; afterwards, away from the outsider, the organization's account turns the same blow into a point in its favor. What the paper files as a mixed state would be the first moment, and what it files as reliance on upline sources the second. The second moment is close to what the paper itself claims in C23; the difference is that the paper sorts members and this reading sorts moments.",
+        "seed_fragments": ["F85", "F104", "F106"],
+        "what_it_would_take_to_cohere": {
+          "observation": "The other moment of each episode: what the distributor in F85 did in front of her friends when they reacted, and what the distributor in F104 later made of the coworker's remark.",
+          "printed": false,
+          "printed_fragments": [],
+          "basis": "Absent. F85 gives only the later conclusion and F104 only the immediate denial. F104's gloss, which is the author's, says involvement continued, so there was an afterwards, but no stub prints what was made of the remark in it. No other fragment follows either distributor; I checked F79 to F85, F101 to F107, and F110, which says some distributors changed state over time without saying who."
+        },
+        "strains_against": [
+          "F104 -- the episode reached the researcher in an interview, itself a later telling, and its gloss, the author's, reads that telling as embarrassment despite continuing involvement; nothing printed has the distributor turning the remark into a point for Amway.",
+          "F105 -- an account given afterwards, away from the friend he lost, that does not come round to the organization's side: he now recruits among distant acquaintances to protect the relationships he counts as important.",
+          "F83 -- in the boss's presence Ken confronted him; if that confrontation was over Amway, the first moment is not always a giving way.",
+          "F74 -- a distributor speaking afterwards still tells the harsh reactions of friends and relatives as what made the first months hard, not as a point for the organization.",
+          "F107 -- the author's account is that ambivalent distributors kept important non-member ties and heard both sides, a standing difference between kinds of member that would explain F104 without any sequence."
+        ],
+        "who_could_complete_it": "Either distributor's fuller account of the same episode, or a field observation that catches one member both in front of a critic and afterwards among distributors."
+      },
+      "fragment_jobs": {
+        "F85": "prints the later conclusion of a distributor who had not followed her upline in the attempt, so that reliance on the upline appears after the event.",
+        "F104": "prints the immediate act of a distributor who until then had the merchandise on show at work, so that the distancing appears after the event.",
+        "F79": "is the author's account of the state F85 is filed under, with heavy reliance on upline sources as one of its marks; the reading sets the ignored advice in F85 against it.",
+        "F83": "prints an after-the-fact telling among distributors in which an event made the organization's label for bosses newly meaningful to the teller.",
+        "F84": "prints another after-the-fact telling, in which friends' avoidance becomes a lesson about those friends.",
+        "F106": "prints one person both giving way in front of skeptical colleagues and then keeping away from them; it does not print him turning their doubt into a point for Amway."
+      },
+      "grounded_in": [
+        {
+          "kind": "divergence",
+          "items": ["F85", "F79"],
+          "how": "F85 prints a distributor who ignored her upline's advice in the attempt; F79, the author's account of the state F85 is filed under, makes heavy reliance on upline sources part of that state. The reliance is printed as following the event."
+        },
+        {
+          "kind": "divergence",
+          "items": ["F104", "F104 gloss"],
+          "how": "The stub prints a change: merchandise on display at work, then a denial once the coworker spoke. The gloss, the author's, describes a standing condition, embarrassment alongside continuing involvement."
+        },
+        {
+          "kind": "missing_fact",
+          "question": "How did the distributor in F104 later account for the coworker's remark?",
+          "bears_on": "C29",
+          "if_one_way": "If the distributor later put the remark down to the coworker, as the speaker in F84 did with her friends, C29 would lose this episode: the denial would be the first moment of the sequence C23 describes, and the difference from F85 one of timing.",
+          "if_the_other": "If the distributor went on treating the remark as damaging to Amway or to the distributor, C29 would read as written and the two episodes would be two outcomes."
+        },
+        {
+          "kind": "missing_fact",
+          "question": "Was the distributor in F104 already inactive when the coworker spoke?",
+          "bears_on": "C29",
+          "if_one_way": "If the distributor was active and showing the merchandise until the remark and went quiet after it, the mixed state in C29 would read as something the remark set off.",
+          "if_the_other": "If the distributor was already inactive and wavering, C29 would read as written: the denial expresses a state that was there before."
+        }
+      ],
+      "reach": {
+        "same_construct": ["F83", "F84"],
+        "same_outcome": ["F105"],
+        "feature_elsewhere": ["F74"],
+        "orphans_used": []
+      },
+      "rival": "The paper's filing: these were two different kinds of member before anything happened. One already took her reading of people from her upline, and one ignored piece of advice does not change that; the other was an inactive distributor with outside ties pulling the other way (F107, the author's account), and the merchandise at work was a remnant. Each response follows from the state, the pair shows two outcomes, and no sequence is needed.",
+      "split": null,
+      "naming": {"register_version": null, "outcome": "register not opened"}
+    },
+    {
+      "card_id": "pratt_2000_counterfactual_ending_C56_01",
+      "paper_id": "pratt_2000",
+      "move": "counterfactual_ending",
+      "trigger": "ventured_claims entry (unresolved_question_gaps empty): read on C56, with C42 and C52",
+      "claim": "C56",
+      "incumbent_reading": "The paper ventures that because its practices do not secure identification in every member the organization is exposed to departures, and it counts turnover among the possible costs of intensive identification management.",
+      "wager": {
+        "statement": "The paper's hedge makes leaving the end that the practices come to when they fail on a member. Read as provisional, the departures in print are not that end; they come before the practices have run. Every former distributor interviewed had [6 words of Pratt (2000), p. 461] (F123). Their accounts are of an early appeal that faded (F90), of something tried that did not suit (F92), of a regular job that became satisfying (F91), of buying in to get out of an embarrassing situation at a presentation (F98). The printed figures agree that staying active is not the usual course: a secondary source puts yearly leaving between about two-fifths and nearly all of the membership (F124), and Amway's own publication counts fewer than half of recorded distributors as active (F24). The practices, meanwhile, are printed as working by repetition and over time: an achieved dream is to be replaced by a larger one (F43), no achievement is to be taken as a final peak (F44), successful distributors' aspirations shifted over time (F45), and by the author's account encapsulation grew as members spent more time with other distributors (F72). On this reading the order in C56 turns over. The leavers did not go because identification failed to take; they went early, before the repeated work the paper describes had been done on them, and identification was not secured because they had gone. Leaving in the first year is then one thing and the failure of the practices another, and the leavers in print speak only to the first. Where the practices fail would show in people who left after long, active membership. The record comes near such people twice and prints no account from either: distributors who reached high sales levels before quitting (F22), whose length of membership is not given, and distributors who moved away from positive identification (F110), of whom it is not said whether any left.",
+        "seed_fragments": ["F123", "F124", "F24", "F90", "F91", "F92", "F98", "F22", "F110"],
+        "what_it_would_take_to_cohere": {
+          "observation": "An account from a member who left after long, active membership; or, for the leavers who are in print, a record of what each had been through in dream building and mentoring before leaving.",
+          "printed": false,
+          "printed_fragments": [],
+          "basis": "Absent. F123 says every former distributor interviewed left within a year. F22 and F110 report quitting after high sales and movement away from positive identification, without accounts or lengths of membership. None of F90 to F98 says what sessions, functions or mentor contact the speaker had; F97 mentions meetings and F94 a successful member's home. F125, the author's account, says the detached sought little upline advice and formed no strong bonds, which is the nearest thing to such a record and is offered as a result, not a count. The paper's own declared limit (DG03) is that it does not analyze movements between states."
+        },
+        "strains_against": [
+          "F97 -- his upline had already answered him with more meetings: the practices were being applied to him before he left.",
+          "F95 -- a leaver who frames his own dream in a persistence logic like the one he met in Amway: something of the practice had taken hold inside the year.",
+          "F94 -- he was drawn in by a successful member's home, and the paper prints displays of high-status distributors' wealth among the ways model dreams reached members (F35); the practice had arguably reached him.",
+          "F93 -- he was in long enough to see how members deferred to upline figures and to reject it.",
+          "F96 -- upline relationships that had turned irritated or openly angry are relationships that had time to form.",
+          "F89 -- the author's account is that some of those without enduring identification had felt dissatisfaction and then stopped feeling it, which has the practice working and lapsing, not arriving too late."
+        ],
+        "who_could_complete_it": "Former distributors of several years' active standing, or records of what each leaver attended and with whom before leaving."
+      },
+      "fragment_jobs": {
+        "F123": "fixes every interviewed leaver inside the first year, which is the fact the reading turns on.",
+        "F124": "gives a secondary source's range for yearly leaving, which makes leaving a common course and not an exception.",
+        "F24": "gives Amway's own count that fewer than half of recorded distributors were active, so that idling without leaving is common too.",
+        "F90": "prints a leaver whose account is of an early appeal that faded.",
+        "F91": "prints a leaver whose regular job became satisfying and left little desire for meetings or sales work.",
+        "F92": "prints a leaver who tried it and found it did not suit him.",
+        "F98": "prints a leaver who bought in only to get out of an embarrassing situation, so that his joining was itself not a taking up of the dream.",
+        "F43": "prints the instruction to replace an achieved dream with a larger one, one place where the practice is shown as repeated.",
+        "F44": "prints the urging that no achievement be treated as a final peak, the practice again shown as without an end point.",
+        "F45": "prints successful distributors' aspirations shifting over time, the practice shown as long-running.",
+        "F72": "is the author's account that encapsulation grew with time spent among distributors.",
+        "F22": "reports quitters who had reached high sales levels and prints nothing they said.",
+        "F110": "reports movement away from positive identification over time and prints no case."
+      },
+      "grounded_in": [
+        {
+          "kind": "missing_fact",
+          "question": "How far had each former distributor in print gone into dream building and mentoring when they stopped?",
+          "bears_on": "C56",
+          "if_one_way": "If they had been through repeated sessions and a working mentor relationship, C56 would read as written: the practices were applied, did not hold them, and the organization is exposed for that reason.",
+          "if_the_other": "If they had seen a presentation and some meetings and no more, C56 would read as a statement about the first year of membership, where leaving comes before any test of the practices, and C27 and C28 would describe early leavers, not failed applications."
+        },
+        {
+          "kind": "missing_fact",
+          "question": "What did the distributors who quit after reaching high sales levels (F22) say of their leaving, and had they been positively identified?",
+          "bears_on": "C42",
+          "if_one_way": "If they had been positively identified and then left, C42 would have a printed case of departure from inside the practices, and turnover would read as a cost of their intensity.",
+          "if_the_other": "If none of them had been, every departure in print would lie outside the reach of the practices, and the turnover in C42 would read as leaving that the practices had no hand in."
+        },
+        {
+          "kind": "divergence",
+          "items": ["F123", "F22"],
+          "how": "F123 makes the interviewed leavers people of under a year's membership; F22 reports quitters who had reached high sales levels. They point different ways on whether leaving comes before or after a member is fully engaged, and the corpus does not say whether the second group is inside the first."
+        }
+      ],
+      "reach": {
+        "same_construct": ["F89"],
+        "same_outcome": ["F93", "F94", "F95", "F97"],
+        "feature_elsewhere": ["F70", "F101", "F103"],
+        "orphans_used": []
+      },
+      "rival": "The first months are where the practices do their work; the paper itself holds that an organization's culture is mostly learned in the first six months (C53). Leavers of under a year are then exactly the people on whom a failure would show, and the stubs agree: the upline in F97 had tried meetings, and the leaver in F95 took the persistence logic away with him. The practices were applied and did not hold, C56 stands as written, and nothing needs turning over.",
+      "split": null,
+      "naming": {"register_version": null, "outcome": "register not opened"}
+    },
+    {
+      "card_id": "pratt_2000_focalization_shift_current_and_former_distributors_01",
+      "paper_id": "pratt_2000",
+      "move": "focalization_shift",
+      "trigger": "unit: current and former distributors (F23)",
+      "claim": "C09",
+      "incumbent_reading": "The paper holds that financial performance did not determine how distributors identified, and reports that clear net-profit figures could not be had from them.",
+      "wager": {
+        "statement": "This unit speaks in one fragment, so the retelling is short. Asked for their net profit, current and former distributors did two things: they did not produce a clear figure, and they disagreed among themselves about which product margins and which training expenses belong in the sum (F23). The paper takes this as a limit on what could be measured and goes on to conclude that money did not sort people (C09). Told from the distributors' side it is a report about them. Among the people doing this work, what the business earns is not a settled number; it depends on what one is prepared to call a cost. The cost in dispute is not a small one. Distributors paid for their training (F11), and the training is printed as a system of books, recordings, meetings, rallies and seminars (F10); books and tapes are also among the media through which members met model dreams (F35). Whoever leaves those expenses out has a business that nets more than whoever puts them in. The wager is that the disagreement in F23 ran between those who stood with [6 words of Pratt (2000), p. 462], and that counting the training as a cost of the business, or not counting it, is itself a way of standing toward the organization. If that is so, financial result cannot be laid beside identification as a separate measure, as F22 lays it, since a distributor's own figure already holds an answer to what the training is. This does not dispute that money failed to sort people; it disputes that money was a separate thing to sort them by. The stub does not say along what line the disagreement ran, and it leaves 'could not' and 'would not' unseparated.",
+        "seed_fragments": ["F23"],
+        "what_it_would_take_to_cohere": {
+          "observation": "Each distributor's own reckoning, what they counted and what they left out, set beside whether they were current or former; and, for those who gave no figure, whether it was unknown to them or kept back.",
+          "printed": false,
+          "printed_fragments": [],
+          "basis": "Absent. F23 is the only fragment in which this unit speaks, and it reports the disagreement without saying who held which view. The fragments around it give sales levels (F22) and Amway's own figures for activity and gross earnings (F24, F25), not anyone's reckoning. The audit's absence register lists comparable net figures as not ascertainable; the reading asks who counted what, and claims nothing about the figures themselves."
+        },
+        "strains_against": [
+          "F22 -- the observation that high sellers quit and low earners stayed favorable rests on sales levels, which the dispute over costs does not touch; on that measure money still fails to sort people, whatever line the disagreement ran along.",
+          "F24 -- Amway's own publication gives the share of active distributors and of those reaching a sales volume, and F25 a typical gross figure; these are measures of financial result that no one's stance can alter.",
+          "F23 -- the stub reports current and former distributors together and gives no sign that the two differed, and that they differed is the whole of the wager."
+        ],
+        "who_could_complete_it": "Interview material in which a distributor's own account of margins and training expenses can be matched to that distributor's standing as current or former."
+      },
+      "fragment_jobs": {
+        "F23": "is the unit's only speech: distributors gave no clear net figure and disagreed about what to count, and the reading takes the disagreement as the finding.",
+        "F11": "prints that distributors themselves paid for training, so the disputed expense is one they bore.",
+        "F10": "prints what the training was, a system of books, recordings, meetings, rallies and seminars, which gives the disputed expense its content.",
+        "F35": "prints books and tapes among the media through which members met model dreams, which ties the disputed expense to the practice the paper calls dream building.",
+        "F22": "is where the paper lays financial result beside reactions to Amway, in terms of sales levels and financial success, not the net figures F23 says were missing."
+      },
+      "grounded_in": [
+        {
+          "kind": "missing_fact",
+          "question": "Along what line did the disagreement over margins and training expenses run: between current and former distributors, or across both?",
+          "bears_on": "C09",
+          "if_one_way": "If former distributors counted the training as a cost and current ones did not, C09 would read differently: a distributor's financial result would be partly made by where they stood toward Amway and could not be the separate quantity that fails to determine identification.",
+          "if_the_other": "If the disagreement cut across current and former alike, C09 would read as the paper has it, with F23 a caveat about measurement and no more."
+        },
+        {
+          "kind": "missing_fact",
+          "question": "Of those who gave no clear figure, which could not and which would not?",
+          "bears_on": "C09",
+          "if_one_way": "If they could not, distributors were themselves without a net figure, and C09 would read as close to given: money could hardly sort people who did not know their own result.",
+          "if_the_other": "If they would not, a figure existed and was kept from the researcher, and C09 would read as untested on net result, with sales level (F22) standing in for it."
+        },
+        {
+          "kind": "divergence",
+          "items": ["F22", "F23"],
+          "how": "F22 sorts distributors by sales level and financial success; F23 says the net figures were not given and that distributors disagreed on how to reckon them. One speaks as if financial result were known, the other says it was not."
+        }
+      ],
+      "reach": {
+        "same_construct": ["F22", "F24", "F25"],
+        "same_outcome": [],
+        "feature_elsewhere": ["F10", "F11", "F35", "F64"],
+        "orphans_used": []
+      },
+      "rival": "The disagreement is ordinary uncertainty about how to keep the books of a business that distributors often ran part time (F11), and it carries no information about where anyone stood. F23 is the caveat about measurement the paper takes it to be, and C09 rests well enough on sales levels (F22) and on Amway's own figures (F24, F25).",
+      "split": null,
+      "naming": {"register_version": null, "outcome": "register not opened"}
+    }
+  ],
+  "declined": []
+}

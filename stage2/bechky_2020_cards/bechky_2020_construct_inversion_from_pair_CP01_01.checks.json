@@ -1,0 +1,110 @@
+{
+  "card_id": "bechky_2020_construct_inversion_from_pair_CP01_01",
+  "paper_id": "bechky_2020",
+  "move": "construct_inversion",
+  "claim": "C03",
+  "mechanical_checks": [
+    {
+      "mode": "record",
+      "killed": false,
+      "missing_fields": []
+    },
+    {
+      "mode": "A_provenance",
+      "killed": false,
+      "cited_fragments": 23,
+      "unknown_fragments": [],
+      "unknown_claims": []
+    },
+    {
+      "mode": "C_role_vacuity",
+      "killed": false,
+      "vacuous_jobs": [],
+      "fragments_without_a_job": []
+    },
+    {
+      "mode": "F_discrimination",
+      "killed": false,
+      "observation_named": true,
+      "printed": false,
+      "fragments": [],
+      "note": "names an absence with a basis"
+    },
+    {
+      "mode": "G_grounding",
+      "killed": false,
+      "grounds_accepted": [
+        "F98, F88",
+        "When was the multi-year plan due to put uncertainty estimate",
+        "Did the laboratory's ISO 17025 adaptation (F98) place any re"
+      ],
+      "grounds_rejected": []
+    }
+  ],
+  "killed_by": [],
+  "restatement": {
+    "measure": "restatement",
+    "failed": false,
+    "new_uses": [
+      [
+        "F101",
+        "the incumbent files it under C04,C17, not C03"
+      ],
+      [
+        "F102",
+        "the incumbent files it under C17, not C03"
+      ],
+      [
+        "F103",
+        "the incumbent files it under C17, not C03"
+      ],
+      [
+        "F124",
+        "the incumbent files it under C18,C20, not C03"
+      ],
+      [
+        "F66",
+        "orphan in the corpus, given a job here"
+      ],
+      [
+        "F67",
+        "orphan in the corpus, given a job here"
+      ],
+      [
+        "F78",
+        "orphan in the corpus, given a job here"
+      ],
+      [
+        "F81",
+        "orphan in the corpus, given a job here"
+      ]
+    ],
+    "used_as_incumbent_does": [
+      "F142",
+      "F143",
+      "F144",
+      "F153",
+      "F160",
+      "F161",
+      "F33",
+      "F34",
+      "F35",
+      "F80",
+      "F84",
+      "F87",
+      "F88",
+      "F90",
+      "F98"
+    ],
+    "share_new": 0.348
+  },
+  "admissibility": {
+    "applies": false
+  },
+  "not_run_here": [
+    "B_import",
+    "E_contradiction"
+  ],
+  "why_not_run": "model-judged; they require a session that has never seen the reasoning that produced this reading",
+  "register": "not opened"
+}

@@ -1,0 +1,4 @@
+{
+  "P1": "The whole of the paper's account, as one period.",
+  "_note": "7 Oct 2026. Passed to build_cold_pack.py with --periods when Bechky's pack is built. The builder finds no description of P1 in the extraction's log (bechky_2020_coverage_extraction_log.md), which sets the period's name in bold. That log's line could not be printed in any case: it has the word 'ongoing', and the builder stops on a description that speaks to where the story closes, which is the first coder's answer to section 6. This neutral line replaces it in coder 2's workbook only. It is the line of Pratt's pack (pratt_2000_periods.json), word for word. The log is unchanged."
+}

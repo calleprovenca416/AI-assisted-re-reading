@@ -1,0 +1,85 @@
+{
+  "card_id": "pratt_2000_construct_inversion_CP03_01",
+  "paper_id": "pratt_2000",
+  "move": "construct_inversion",
+  "trigger": "from_pair CP03 (analyst-constructed pair, a weaker licence than one the authors drew)",
+  "claim": "C23",
+  "incumbent_reading": "The paper files the first response under a member's reliance on upline sources for reading outsiders, and the second under an ambivalent member's embarrassment at Amway's reputation, so that each response follows from the state the distributor was already in.",
+  "wager": {
+    "statement": "The pair is the analyst's, a weaker footing than one the paper drew. As printed, each stub has a before and an after, and in each the before runs against the state the episode is filed under. The distributor in F85 had ignored her upline's advice in that recruiting attempt; the conclusion that the upline and the recordings had foreseen her friends' reaction came after. The distributor in F104 had Amway merchandise on display at work; the denial came after a coworker tied Amway to Nazis. The paper's account gives the first a reliance on upline sources (F79, the author's account) and the second a standing embarrassment (F104's gloss, the author's). The stubs print people being moved by an event, the direction C36 leaves open: the episode first, the stance after. The two responses are also not the same kind of thing. F104 prints what a distributor did at once, on the remark. F85 prints what a distributor concluded afterwards and told the researcher. Two other fragments filed with F85 are of the second kind: a confrontation retold in celebration at a dinner (F83), and friends' avoidance retold as a lesson about those friends (F84). In the two places where the corpus prints the moment of facing an outsider's doubt about Amway, it prints giving way: the denial in F104, and the researcher's enthusiasm weakening among skeptical colleagues, whom he then avoided (F106). The wager is that the pair shows two moments of one sequence and not two kinds of member. In front of the outsider the member gives ground; afterwards, away from the outsider, the organization's account turns the same blow into a point in its favor. What the paper files as a mixed state would be the first moment, and what it files as reliance on upline sources the second. The second moment is close to what the paper itself claims in C23; the difference is that the paper sorts members and this reading sorts moments.",
+    "seed_fragments": [
+      "F85",
+      "F104",
+      "F106"
+    ],
+    "what_it_would_take_to_cohere": {
+      "observation": "The other moment of each episode: what the distributor in F85 did in front of her friends when they reacted, and what the distributor in F104 later made of the coworker's remark.",
+      "printed": false,
+      "printed_fragments": [],
+      "basis": "Absent. F85 gives only the later conclusion and F104 only the immediate denial. F104's gloss, which is the author's, says involvement continued, so there was an afterwards, but no stub prints what was made of the remark in it. No other fragment follows either distributor; I checked F79 to F85, F101 to F107, and F110, which says some distributors changed state over time without saying who."
+    },
+    "strains_against": [
+      "F104 -- the episode reached the researcher in an interview, itself a later telling, and its gloss, the author's, reads that telling as embarrassment despite continuing involvement; nothing printed has the distributor turning the remark into a point for Amway.",
+      "F105 -- an account given afterwards, away from the friend he lost, that does not come round to the organization's side: he now recruits among distant acquaintances to protect the relationships he counts as important.",
+      "F83 -- in the boss's presence Ken confronted him; if that confrontation was over Amway, the first moment is not always a giving way.",
+      "F74 -- a distributor speaking afterwards still tells the harsh reactions of friends and relatives as what made the first months hard, not as a point for the organization.",
+      "F107 -- the author's account is that ambivalent distributors kept important non-member ties and heard both sides, a standing difference between kinds of member that would explain F104 without any sequence."
+    ],
+    "who_could_complete_it": "Either distributor's fuller account of the same episode, or a field observation that catches one member both in front of a critic and afterwards among distributors."
+  },
+  "fragment_jobs": {
+    "F85": "prints the later conclusion of a distributor who had not followed her upline in the attempt, so that reliance on the upline appears after the event.",
+    "F104": "prints the immediate act of a distributor who until then had the merchandise on show at work, so that the distancing appears after the event.",
+    "F79": "is the author's account of the state F85 is filed under, with heavy reliance on upline sources as one of its marks; the reading sets the ignored advice in F85 against it.",
+    "F83": "prints an after-the-fact telling among distributors in which an event made the organization's label for bosses newly meaningful to the teller.",
+    "F84": "prints another after-the-fact telling, in which friends' avoidance becomes a lesson about those friends.",
+    "F106": "prints one person both giving way in front of skeptical colleagues and then keeping away from them; it does not print him turning their doubt into a point for Amway."
+  },
+  "grounded_in": [
+    {
+      "kind": "divergence",
+      "items": [
+        "F85",
+        "F79"
+      ],
+      "how": "F85 prints a distributor who ignored her upline's advice in the attempt; F79, the author's account of the state F85 is filed under, makes heavy reliance on upline sources part of that state. The reliance is printed as following the event."
+    },
+    {
+      "kind": "divergence",
+      "items": [
+        "F104",
+        "F104 gloss"
+      ],
+      "how": "The stub prints a change: merchandise on display at work, then a denial once the coworker spoke. The gloss, the author's, describes a standing condition, embarrassment alongside continuing involvement."
+    },
+    {
+      "kind": "missing_fact",
+      "question": "How did the distributor in F104 later account for the coworker's remark?",
+      "bears_on": "C29",
+      "if_one_way": "If the distributor later put the remark down to the coworker, as the speaker in F84 did with her friends, C29 would lose this episode: the denial would be the first moment of the sequence C23 describes, and the difference from F85 one of timing.",
+      "if_the_other": "If the distributor went on treating the remark as damaging to Amway or to the distributor, C29 would read as written and the two episodes would be two outcomes."
+    },
+    {
+      "kind": "missing_fact",
+      "question": "Was the distributor in F104 already inactive when the coworker spoke?",
+      "bears_on": "C29",
+      "if_one_way": "If the distributor was active and showing the merchandise until the remark and went quiet after it, the mixed state in C29 would read as something the remark set off.",
+      "if_the_other": "If the distributor was already inactive and wavering, C29 would read as written: the denial expresses a state that was there before."
+    }
+  ],
+  "reach": {
+    "same_construct": [
+      "F83",
+      "F84"
+    ],
+    "same_outcome": [
+      "F105"
+    ],
+    "feature_elsewhere": [
+      "F74"
+    ],
+    "orphans_used": []
+  },
+  "split": null,
+  "for_attack": true
+}

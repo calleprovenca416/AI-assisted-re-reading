@@ -1,0 +1,2183 @@
+{
+ "what": "the measures of the relation test (T37), by RELATION_TEST_PLAN.md",
+ "scorer_sha256": "2e49c8f0a3486f1d4f278e66ba4108e4474494df8768784a55648bcda7084e2c",
+ "files": {
+  "key": [
+   "relation_key.json",
+   "b8598261afbe915c4d5c58832c7d4516f7500b7f87493c531cf1682490937ea5"
+  ],
+  "sheet": [
+   "relation_sheet_filled.xlsx",
+   "e27bf648100babb5223a69593b9acac14fffbf73a094872c04f677c754f4cac5"
+  ],
+  "check": [
+   "planted_check_filled.xlsx",
+   "2f2df729adcf095e794a20a5d3687715733248d858687c4412c98d4ccbed14e1"
+  ],
+  "replies": {
+   "64": {
+    "file": "reply_64_bechky_relation_gemini.json",
+    "sha256": "1b1d2bd48a5896ace7409b6cbb3bab28f115ca866cd99a357dac68e876d7e6fe",
+    "remarks": []
+   },
+   "65": {
+    "file": "reply_65_bechky_relation_astra.json",
+    "sha256": "5d7fdc19a64989b7848874e20c026dd3a79a09a94515f03f97e0829fd55bc157",
+    "remarks": []
+   },
+   "66": {
+    "file": "reply_66_pratt_relation_gemini.json",
+    "sha256": "19fcfb137c9da826e985d60fc5b9d2bdc08f1b6ca55535e5fe8bc24212233eb6",
+    "remarks": []
+   },
+   "67": {
+    "file": "reply_67_pratt_relation_astra.json",
+    "sha256": "37017d240e132d19ee599c2b93a72757a8e62c32b93ca95b0627be4e03494dc1",
+    "remarks": []
+   }
+  },
+  "worth": {
+   "stage2/worth/worth_sheet_filled_2.xlsx": "7ebf23a62607af8c65e0c813973244ee09953c1978a2d481aec273c80667049c",
+   "worth_sheet_places_filled.xlsx": "2c315a5c3be208cde169f5e2765780734882b85ef5241dd0492a8ce4c5e6d031",
+   "worth_sheet_matching_filled.xlsx": "0efe98e1fe7079cb44923e1169d1b35206ee44927746baf3c37acf3fbef4e7e5"
+  }
+ },
+ "pi_remarks": [],
+ "m1": {
+  "bechky": {
+   "types": {
+    "n": 28,
+    "agree": 18,
+    "raw": 0.6428571428571429,
+    "kappa": 0.44881889763779537,
+    "table": {
+     "challenges_premise|challenges_premise": 1,
+     "challenges_premise|rereads_evidence": 2,
+     "inverts|inverts": 1,
+     "inverts|other_mechanism": 1,
+     "other_mechanism|complements": 7,
+     "other_mechanism|other_mechanism": 12,
+     "rereads_evidence|rereads_evidence": 4
+    }
+   },
+   "levels": {
+    "n": 28,
+    "agree": 20,
+    "raw": 0.7142857142857143,
+    "kappa": 0.14503816793893123,
+    "table": {
+     "dismantles|complements": 7,
+     "dismantles|dismantles": 19,
+     "inverts|dismantles": 1,
+     "inverts|inverts": 1
+    }
+   }
+  },
+  "pratt": {
+   "types": {
+    "n": 15,
+    "agree": 10,
+    "raw": 0.6666666666666666,
+    "kappa": 0.5588235294117646,
+    "table": {
+     "challenges_premise|challenges_premise": 2,
+     "challenges_premise|other_mechanism": 1,
+     "inverts|inverts": 3,
+     "inverts|rereads_evidence": 1,
+     "other_mechanism|other_mechanism": 3,
+     "rereads_evidence|challenges_premise": 1,
+     "rereads_evidence|inverts": 1,
+     "rereads_evidence|other_mechanism": 1,
+     "rereads_evidence|rereads_evidence": 2
+    }
+   },
+   "levels": {
+    "n": 15,
+    "agree": 13,
+    "raw": 0.8666666666666667,
+    "kappa": 0.6590909090909092,
+    "table": {
+     "dismantles|dismantles": 10,
+     "dismantles|inverts": 1,
+     "inverts|dismantles": 1,
+     "inverts|inverts": 3
+    }
+   }
+  },
+  "both": {
+   "types": {
+    "n": 43,
+    "agree": 28,
+    "raw": 0.6511627906976745,
+    "kappa": 0.5106221547799696,
+    "table": {
+     "challenges_premise|challenges_premise": 3,
+     "challenges_premise|other_mechanism": 1,
+     "challenges_premise|rereads_evidence": 2,
+     "inverts|inverts": 4,
+     "inverts|other_mechanism": 1,
+     "inverts|rereads_evidence": 1,
+     "other_mechanism|complements": 7,
+     "other_mechanism|other_mechanism": 15,
+     "rereads_evidence|challenges_premise": 1,
+     "rereads_evidence|inverts": 1,
+     "rereads_evidence|other_mechanism": 1,
+     "rereads_evidence|rereads_evidence": 6
+    },
+    "interval": {
+     "low": 0.30594277329420394,
+     "high": 0.685621445978879,
+     "resamples": 2000
+    }
+   },
+   "levels": {
+    "n": 43,
+    "agree": 33,
+    "raw": 0.7674418604651163,
+    "kappa": 0.36011904761904767,
+    "table": {
+     "dismantles|complements": 7,
+     "dismantles|dismantles": 29,
+     "dismantles|inverts": 1,
+     "inverts|dismantles": 2,
+     "inverts|inverts": 4
+    },
+    "interval": {
+     "low": 0.04220398593200469,
+     "high": 0.6395209580838324,
+     "resamples": 2000
+    }
+   }
+  }
+ },
+ "m2": {
+  "bechky": {
+   "readings": 28,
+   "same_claim": 21,
+   "same_claim_same_type": 14
+  },
+  "pratt": {
+   "readings": 15,
+   "same_claim": 10,
+   "same_claim_same_type": 7
+  },
+  "both": {
+   "readings": 43,
+   "same_claim": 31,
+   "same_claim_same_type": 21
+  }
+ },
+ "m3": [
+  {
+   "paper": "bechky",
+   "r": "R02",
+   "claim": "C04",
+   "type": "complements",
+   "confirmed": true,
+   "note": null,
+   "gemini": {
+    "verdict": "missed",
+    "main_claim": "C04",
+    "main_type": "challenges_premise",
+    "other_claims": [
+     [
+      "C13",
+      "complements"
+     ],
+     [
+      "C18",
+      "other_mechanism"
+     ]
+    ]
+   },
+   "astra": {
+    "verdict": "missed",
+    "main_claim": "C04",
+    "main_type": "challenges_premise",
+    "other_claims": [
+     [
+      "C13",
+      "complements"
+     ],
+     [
+      "C18",
+      "other_mechanism"
+     ]
+    ]
+   }
+  },
+  {
+   "paper": "bechky",
+   "r": "R13",
+   "claim": "C05",
+   "type": "inverts",
+   "confirmed": true,
+   "note": null,
+   "gemini": {
+    "verdict": "caught",
+    "main_claim": "C05",
+    "main_type": "inverts",
+    "other_claims": [
+     [
+      "C17",
+      "other_mechanism"
+     ],
+     [
+      "C18",
+      "other_mechanism"
+     ]
+    ]
+   },
+   "astra": {
+    "verdict": "caught",
+    "main_claim": "C05",
+    "main_type": "inverts",
+    "other_claims": [
+     [
+      "C17",
+      "other_mechanism"
+     ],
+     [
+      "C18",
+      "other_mechanism"
+     ]
+    ]
+   }
+  },
+  {
+   "paper": "pratt",
+   "r": "R05",
+   "claim": "C02",
+   "type": "other_mechanism",
+   "confirmed": true,
+   "note": null,
+   "gemini": {
+    "verdict": "caught",
+    "main_claim": "C02",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C12",
+      "inverts"
+     ],
+     [
+      "C24",
+      "complements"
+     ]
+    ]
+   },
+   "astra": {
+    "verdict": "caught",
+    "main_claim": "C02",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C11",
+      "other_mechanism"
+     ],
+     [
+      "C24",
+      "restates"
+     ]
+    ]
+   }
+  },
+  {
+   "paper": "pratt",
+   "r": "R11",
+   "claim": "C13",
+   "type": "restates",
+   "confirmed": true,
+   "note": null,
+   "gemini": {
+    "verdict": "caught",
+    "main_claim": "C13",
+    "main_type": "restates",
+    "other_claims": [
+     [
+      "C12",
+      "restates"
+     ],
+     [
+      "C15",
+      "restates"
+     ]
+    ]
+   },
+   "astra": {
+    "verdict": "caught",
+    "main_claim": "C13",
+    "main_type": "restates",
+    "other_claims": [
+     [
+      "C15",
+      "restates"
+     ],
+     [
+      "C17",
+      "restates"
+     ]
+    ]
+   }
+  }
+ ],
+ "m4": {
+  "gemini": {
+   "bechky": {
+    "n": 6,
+    "claim": 3,
+    "type": 4,
+    "level": 5
+   },
+   "pratt": {
+    "n": 6,
+    "claim": 5,
+    "type": 6,
+    "level": 6
+   },
+   "both": {
+    "n": 12,
+    "claim": 8,
+    "type": 10,
+    "level": 11
+   }
+  },
+  "astra": {
+   "bechky": {
+    "n": 6,
+    "claim": 4,
+    "type": 4,
+    "level": 5
+   },
+   "pratt": {
+    "n": 6,
+    "claim": 5,
+    "type": 5,
+    "level": 5
+   },
+   "both": {
+    "n": 12,
+    "claim": 9,
+    "type": 9,
+    "level": 10
+   }
+  },
+  "coders": {
+   "bechky": {
+    "n": 6,
+    "claim": 3,
+    "type": 4,
+    "level": 4
+   },
+   "pratt": {
+    "n": 6,
+    "claim": 4,
+    "type": 5,
+    "level": 5
+   },
+   "both": {
+    "n": 12,
+    "claim": 7,
+    "type": 9,
+    "level": 9
+   }
+  }
+ },
+ "m5": {
+  "types": {
+   "gemini": {
+    "inverts": 6,
+    "other_mechanism": 22,
+    "rereads_evidence": 9,
+    "challenges_premise": 6,
+    "complements": 0,
+    "restates": 0,
+    "none": 0
+   },
+   "astra": {
+    "inverts": 5,
+    "other_mechanism": 18,
+    "rereads_evidence": 9,
+    "challenges_premise": 4,
+    "complements": 7,
+    "restates": 0,
+    "none": 0
+   }
+  },
+  "levels": {
+   "gemini": {
+    "inverts": 6,
+    "dismantles": 37,
+    "complements": 0,
+    "restates": 0,
+    "none": 0
+   },
+   "astra": {
+    "inverts": 5,
+    "dismantles": 31,
+    "complements": 7,
+    "restates": 0,
+    "none": 0
+   }
+  },
+  "worth_by_level": {
+   "inverts": {
+    "n": 4,
+    "mean": 1.25,
+    "values": [
+     0,
+     1,
+     2,
+     2
+    ]
+   },
+   "dismantles": {
+    "n": 29,
+    "mean": 1.5172413793103448,
+    "values": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     3,
+     3,
+     3
+    ]
+   },
+   "complements": {
+    "n": 0,
+    "mean": null,
+    "values": []
+   },
+   "restates": {
+    "n": 0,
+    "mean": null,
+    "values": []
+   },
+   "none": {
+    "n": 0,
+    "mean": null,
+    "values": []
+   }
+  },
+  "by_chat": {
+   "gemini": {
+    "23": {
+     "inverts": 0,
+     "dismantles": 4,
+     "complements": 0,
+     "restates": 0,
+     "none": 0
+    },
+    "26": {
+     "inverts": 1,
+     "dismantles": 4,
+     "complements": 0,
+     "restates": 0,
+     "none": 0
+    },
+    "27": {
+     "inverts": 1,
+     "dismantles": 4,
+     "complements": 0,
+     "restates": 0,
+     "none": 0
+    },
+    "46": {
+     "inverts": 0,
+     "dismantles": 4,
+     "complements": 0,
+     "restates": 0,
+     "none": 0
+    },
+    "49": {
+     "inverts": 0,
+     "dismantles": 5,
+     "complements": 0,
+     "restates": 0,
+     "none": 0
+    },
+    "50": {
+     "inverts": 0,
+     "dismantles": 5,
+     "complements": 0,
+     "restates": 0,
+     "none": 0
+    }
+   },
+   "astra": {
+    "23": {
+     "inverts": 0,
+     "dismantles": 4,
+     "complements": 0,
+     "restates": 0,
+     "none": 0
+    },
+    "26": {
+     "inverts": 1,
+     "dismantles": 4,
+     "complements": 0,
+     "restates": 0,
+     "none": 0
+    },
+    "27": {
+     "inverts": 0,
+     "dismantles": 5,
+     "complements": 0,
+     "restates": 0,
+     "none": 0
+    },
+    "46": {
+     "inverts": 0,
+     "dismantles": 3,
+     "complements": 1,
+     "restates": 0,
+     "none": 0
+    },
+    "49": {
+     "inverts": 0,
+     "dismantles": 2,
+     "complements": 3,
+     "restates": 0,
+     "none": 0
+    },
+    "50": {
+     "inverts": 0,
+     "dismantles": 2,
+     "complements": 3,
+     "restates": 0,
+     "none": 0
+    }
+   }
+  },
+  "by_arm": {
+   "gemini": {
+    "system": {
+     "inverts": 2,
+     "dismantles": 3,
+     "complements": 0,
+     "restates": 0,
+     "none": 0
+    },
+    "middle": {
+     "inverts": 2,
+     "dismantles": 3,
+     "complements": 0,
+     "restates": 0,
+     "none": 0
+    },
+    "plain": {
+     "inverts": 0,
+     "dismantles": 5,
+     "complements": 0,
+     "restates": 0,
+     "none": 0
+    }
+   },
+   "astra": {
+    "system": {
+     "inverts": 1,
+     "dismantles": 4,
+     "complements": 0,
+     "restates": 0,
+     "none": 0
+    },
+    "middle": {
+     "inverts": 2,
+     "dismantles": 3,
+     "complements": 0,
+     "restates": 0,
+     "none": 0
+    },
+    "plain": {
+     "inverts": 1,
+     "dismantles": 4,
+     "complements": 0,
+     "restates": 0,
+     "none": 0
+    }
+   }
+  }
+ },
+ "codes": {
+  "gemini": {
+   "bechky|R01": {
+    "main_claim": "C18",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C05",
+      "other_mechanism"
+     ],
+     [
+      "C04",
+      "challenges_premise"
+     ]
+    ],
+    "reason": "The reading keeps narcotics analysts' retention of crystal testing but attributes it primarily to caseload capacity limits with two instruments and short statutory turnaround deadlines rather than to [7 words of Bechky (2020), p. 637] (pp. 629, 632).",
+    "page": "p. 632"
+   },
+   "bechky|R02": {
+    "main_claim": "C04",
+    "main_type": "challenges_premise",
+    "other_claims": [
+     [
+      "C13",
+      "complements"
+     ],
+     [
+      "C18",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading questions the premise that technical compatibility is an occupation-wide relation between a method and DNA profiling as a whole, arguing instead that compatibility is tested one pathway-selected facet at a time against a specific laboratory's equipment stock, prior compliance records, budget, and statutory clock (pp. 632–634).",
+    "page": "p. 634"
+   },
+   "bechky|R03": {
+    "main_claim": "C05",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C18",
+      "other_mechanism"
+     ],
+     [
+      "C17",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading keeps the three units' contrasting responses to evaluation but replaces occupational values as the cause with the material costs of change in instruments, staff time, existing data, and legal deadlines, treating values talk as the language used to express those costs (pp. 627–632).",
+    "page": "p. 632"
+   },
+   "bechky|R04": {
+    "main_claim": "C10",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C20",
+      "inverts"
+     ],
+     [
+      "C18",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading keeps the existence of distinct unit cultures and values at MCCL but attributes their coherence partly to workers self-sorting across units through initial placement and transfers out of disliked routine work rather than solely learning values from practicing the occupation (pp. 613, 630).",
+    "page": "p. 630"
+   },
+   "bechky|R05": {
+    "main_claim": "C18",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C05",
+      "other_mechanism"
+     ],
+     [
+      "C17",
+      "rereads_evidence"
+     ]
+    ],
+    "reason": "The reading keeps the diverging outcomes of narcotics and toxicology but re-attributes narcotics' resistance to how much routine caseload work a switch from rapid crystal tests to two slow GC/MS instruments would displace and cost, rather than to values of autonomy, variety, and craft judgment (pp. 629, 632).",
+    "page": "p. 632"
+   },
+   "bechky|R06": {
+    "main_claim": "C16",
+    "main_type": "rereads_evidence",
+    "other_claims": [
+     [
+      "C14",
+      "complements"
+     ],
+     [
+      "C13",
+      "complements"
+     ]
+    ],
+    "reason": "The reading takes the paper's passages on firearms examiners replacing sight-based claims with digital image packets and second-examiner signatures and reads them as showing that the unit had already adapted to the reviewable-record part of the DNA model, which explains why its work went unchallenged locally (pp. 621–622).",
+    "page": "p. 622"
+   },
+   "bechky|R07": {
+    "main_claim": "C03",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C17",
+      "other_mechanism"
+     ],
+     [
+      "C16",
+      "complements"
+     ]
+    ],
+    "reason": "The reading keeps the contrast between toxicology changing its reports and firearms not changing, but attributes the difference to toxicology already having a multi-year ISO and ASCLD accreditation requirement and plan underway rather than to the immediacy of the local courtroom pathway (pp. 627–628, 635).",
+    "page": "p. 627"
+   },
+   "bechky|R08": {
+    "main_claim": "C04",
+    "main_type": "challenges_premise",
+    "other_claims": [
+     [
+      "C05",
+      "challenges_premise"
+     ],
+     [
+      "C14",
+      "complements"
+     ]
+    ],
+    "reason": "The reading questions the premise that forensic biology sits above the other units as an objective technical benchmark, pointing out that DNA benchwork involves the same messy, colleague-reviewed judgment as the other units and differs only in the population-frequency figure on its outgoing report (pp. 618–619, 633).",
+    "page": "p. 619"
+   },
+   "bechky|R09": {
+    "main_claim": "C05",
+    "main_type": "challenges_premise",
+    "other_claims": [
+     [
+      "C16",
+      "rereads_evidence"
+     ],
+     [
+      "C17",
+      "challenges_premise"
+     ]
+    ],
+    "reason": "The reading questions the paper's unitary category of practice change by splitting it into additive documentation or reporting changes versus replacements of bench judgment, showing that all three units adopted or considered the first kind while none adopted the second (pp. 621–622, 627–628, 632).",
+    "page": "p. 622"
+   },
+   "bechky|R10": {
+    "main_claim": "C20",
+    "main_type": "inverts",
+    "other_claims": [
+     [
+      "C10",
+      "other_mechanism"
+     ],
+     [
+      "C18",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading reverses the claim that performing a unit's technique instills the unit's values, arguing from analysts' transfers out of toxicology into narcotics that preexisting personal preferences selected who stayed in or left each technique (pp. 626, 630, 632).",
+    "page": "p. 630"
+   },
+   "bechky|R11": {
+    "main_claim": "C10",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C20",
+      "inverts"
+     ],
+     [
+      "C19",
+      "challenges_premise"
+     ]
+    ],
+    "reason": "The reading accounts for differences in unit values at MCCL as the product of internal vacancy placement and self-selected transfers of interchangeable recruits across benches within one laboratory rather than socialization into distinct occupations (pp. 613, 619–620, 630).",
+    "page": "p. 630"
+   },
+   "bechky|R12": {
+    "main_claim": "C02",
+    "main_type": "rereads_evidence",
+    "other_claims": [
+     [
+      "C13",
+      "challenges_premise"
+     ],
+     [
+      "C17",
+      "rereads_evidence"
+     ]
+    ],
+    "reason": "The reading re-examines the participant passages in toxicology and narcotics to show that speakers attributed the demands they faced to ISO and NIST standards, East Coast practice, or Daubert hearings rather than to DNA, leaving the link to DNA in those two units solely in the author's commentary (pp. 627, 631–632).",
+    "page": "p. 627"
+   },
+   "bechky|R13": {
+    "main_claim": "C05",
+    "main_type": "inverts",
+    "other_claims": [
+     [
+      "C17",
+      "other_mechanism"
+     ],
+     [
+      "C18",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading reverses the causal sequence between occupational values and responses to evaluation, arguing that courtroom exposure and material feasibility settled what each unit did first while values were articulated afterward to narrate an already determined course of action (pp. 627–628, 631–632, 635–637).",
+    "page": "p. 637"
+   },
+   "bechky|R14": {
+    "main_claim": "C10",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C20",
+      "inverts"
+     ],
+     [
+      "C05",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading keeps the contrast in occupational cultures between toxicology and narcotics but attributes it partly to organizational hiring and transfer arrangements through which employees sorted themselves into tasks they already preferred (pp. 613, 619, 630).",
+    "page": "p. 630"
+   },
+   "bechky|R15": {
+    "main_claim": "C17",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C01",
+      "other_mechanism"
+     ],
+     [
+      "C03",
+      "complements"
+     ]
+    ],
+    "reason": "The reading keeps toxicology's adoption of measurement-uncertainty reporting but attributes its content and eventual implementation to a pre-existing ISO accreditation plan and five years of quality-control data accelerated by DUI litigation rather than to evaluative spillover from DNA profiling (pp. 625, 627–628).",
+    "page": "p. 627"
+   },
+   "bechky|R16": {
+    "main_claim": "C05",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C14",
+      "complements"
+     ],
+     [
+      "C18",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading reframes the units' responses to DNA comparisons as driven by a struggle over how much of an analyst's work can be reopened and checked afterward by reviewers and legal audiences, rather than by whether a technique aligns with internal occupational values of good science (pp. 619, 621–622, 631–632).",
+    "page": "p. 619"
+   },
+   "bechky|R17": {
+    "main_claim": "C05",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C03",
+      "complements"
+     ],
+     [
+      "C16",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading keeps all three unit outcomes at MCCL but explains them solely by whether an analyst faced an impending personal challenge in the local court, treating occupational values as post-hoc descriptions that cannot be separated from local exposure in a single-lab design (pp. 624–625, 632, 635).",
+    "page": "p. 635"
+   },
+   "bechky|R18": {
+    "main_claim": "C05",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C16",
+      "other_mechanism"
+     ],
+     [
+      "C18",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading replaces enduring differences in occupational values with a shared practical rule across units in which analysts revise established practices when a credible local challenge threatens their ability to testify and defend existing work when no immediate local consequence looms (pp. 624, 627, 632).",
+    "page": "p. 624"
+   },
+   "bechky|R19": {
+    "main_claim": "C19",
+    "main_type": "challenges_premise",
+    "other_claims": [
+     [
+      "C01",
+      "rereads_evidence"
+     ],
+     [
+      "C17",
+      "rereads_evidence"
+     ]
+    ],
+    "reason": "The reading questions the paper's boundary premise that all three MCCL units lie inside the reach of DNA spillover by virtue of shared audiences and overlapping work, arguing that the boundary runs between them because no toxicology passage links its accreditation and DUI-driven change to DNA (pp. 625, 627–628, 634, 636).",
+    "page": "p. 636"
+   },
+   "bechky|R20": {
+    "main_claim": "C18",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C04",
+      "challenges_premise"
+     ],
+     [
+      "C05",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading keeps narcotics analysts' retention of crystal testing but explains it as a defense of throughput capacity under short statutory charging clocks and a two-instrument bottleneck rather than a refusal grounded primarily in craft values (pp. 629, 631–632).",
+    "page": "p. 632"
+   },
+   "bechky|R21": {
+    "main_claim": "C05",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C16",
+      "rereads_evidence"
+     ],
+     [
+      "C14",
+      "complements"
+     ]
+    ],
+    "reason": "The reading replaces the conflict between objective methods and subjective occupational values with a struggle over redistributing post-hoc inspection rights to external reviewers and legal parties through durable records (pp. 619, 621–622, 631–632).",
+    "page": "p. 622"
+   },
+   "bechky|R22": {
+    "main_claim": "C17",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C01",
+      "rereads_evidence"
+     ],
+     [
+      "C02",
+      "rereads_evidence"
+     ]
+    ],
+    "reason": "The reading elevates pre-existing ISO accreditation standards and multi-state DUI defense litigation from enabling conditions to the cause of toxicology's uncertainty reporting, rejecting evaluative spillover from DNA as the driver of the change (pp. 625, 627–628, 635).",
+    "page": "p. 627"
+   },
+   "bechky|R23": {
+    "main_claim": "C17",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C02",
+      "challenges_premise"
+     ],
+     [
+      "C01",
+      "rereads_evidence"
+     ]
+    ],
+    "reason": "The reading keeps toxicology's reporting change but attributes it to ordinary ISO accreditation compliance brought forward by a DUI court date rather than to a spillover comparison with DNA profiling (pp. 625, 627–628, 635).",
+    "page": "p. 627"
+   },
+   "bechky|R24": {
+    "main_claim": "C18",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C21",
+      "inverts"
+     ],
+     [
+      "C03",
+      "complements"
+     ]
+    ],
+    "reason": "The reading retells the narcotics dispute as an intra-occupational contest between regional coalitions over standard-setting authority on the working group board and who would bear the equipment costs of a compulsory national rule (pp. 628, 630–632).",
+    "page": "p. 631"
+   },
+   "bechky|R25": {
+    "main_claim": "C18",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C03",
+      "rereads_evidence"
+     ],
+     [
+      "C05",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading attributes narcotics' retention of crystal testing to statutory turnaround constraints and having only two GC/MS instruments while rereading an analyst's report of a Daubert hearing against crystal tests as showing courtroom pressure and anticipated compliance rather than sheltered craft resistance (pp. 629, 631–633, 635).",
+    "page": "p. 632"
+   },
+   "bechky|R26": {
+    "main_claim": "C18",
+    "main_type": "rereads_evidence",
+    "other_claims": [
+     [
+      "C03",
+      "rereads_evidence"
+     ],
+     [
+      "C05",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading takes the narcotics passages on expected shifts to GC/MS, ongoing working-group debates, camera pricing, capacity bottlenecks, and a Daubert hearing workshop and reads them as an unfinished snapshot of anticipated compliance and capacity limits at the close of fieldwork rather than settled resistance (pp. 629, 631–633, 635).",
+    "page": "p. 632"
+   },
+   "bechky|R27": {
+    "main_claim": "C17",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C03",
+      "other_mechanism"
+     ],
+     [
+      "C16",
+      "complements"
+     ]
+    ],
+    "reason": "The reading puts ASCLD and ISO accreditation requirements already scheduled in toxicology ahead of courtroom immediacy as the cause of the difference between toxicology and firearms, treating the approaching court date as determining only when the scheduled change took effect (pp. 627–628, 633, 635).",
+    "page": "p. 627"
+   },
+   "bechky|R28": {
+    "main_claim": "C16",
+    "main_type": "rereads_evidence",
+    "other_claims": [
+     [
+      "C05",
+      "challenges_premise"
+     ],
+     [
+      "C18",
+      "rereads_evidence"
+     ]
+    ],
+    "reason": "The reading takes the paper's passages on firearms examiners abandoning sight-based claims for mandatory comparison images and second-examiner signatures and reads them as an uncounted practice change toward DNA-like reviewable documentation alongside a refusal of quantification alone (pp. 621–623, 633).",
+    "page": "p. 622"
+   },
+   "bechky|R29": {
+    "main_claim": "C21",
+    "main_type": "inverts",
+    "other_claims": [
+     [
+      "C05",
+      "other_mechanism"
+     ],
+     [
+      "C15",
+      "complements"
+     ]
+    ],
+    "reason": "The reading reverses the claim that occupational values and technique mattered more than status and power, arguing that all three units responded to protect or raise their standing and worker irreplaceability against a director who treated criminalists as interchangeable (pp. 619–620, 628, 630, 632, 637).",
+    "page": "p. 637"
+   },
+   "bechky|R30": {
+    "main_claim": "C17",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C01",
+      "other_mechanism"
+     ],
+     [
+      "C03",
+      "complements"
+     ]
+    ],
+    "reason": "The reading keeps toxicology's reporting reform but explains its content and adoption as an already committed ISO accreditation project built on existing quality-control data, with litigation and DNA comparisons merely accelerating the timetable (pp. 627–628).",
+    "page": "p. 627"
+   },
+   "pratt|R01": {
+    "main_claim": "C07",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C03",
+      "other_mechanism"
+     ],
+     [
+      "C34",
+      "complements"
+     ]
+    ],
+    "reason": "Rather than treating the four identification types as outcomes of dream building and positive programming succeeding or failing, the reading explains them as sequential stages along a member's tenure trajectory (pp. 461–463, 477).",
+    "page": "pp. 462–463"
+   },
+   "pratt|R02": {
+    "main_claim": "C23",
+    "main_type": "rereads_evidence",
+    "other_claims": [
+     [
+      "C29",
+      "rereads_evidence"
+     ],
+     [
+      "C36",
+      "rereads_evidence"
+     ]
+    ],
+    "reason": "The reading reinterprets the passages on encapsulated and ambivalent members as two consecutive moments of the same sequence—yielding to an outsider's skepticism in person and adopting upline framing afterward—rather than evidence of two distinct member states (pp. 475–476, 480–481).",
+    "page": "pp. 475–476"
+   },
+   "pratt|R03": {
+    "main_claim": "C56",
+    "main_type": "inverts",
+    "other_claims": [
+     [
+      "C27",
+      "rereads_evidence"
+     ],
+     [
+      "C03",
+      "rereads_evidence"
+     ]
+    ],
+    "reason": "The reading reverses the causal sequence on p. 477 by arguing that former distributors left within their first year before repeated socialization practices had run, so early departure prevented identification rather than failed identification causing departure.",
+    "page": "p. 477"
+   },
+   "pratt|R04": {
+    "main_claim": "C28",
+    "main_type": "rereads_evidence",
+    "other_claims": [
+     [
+      "C08",
+      "challenges_premise"
+     ],
+     [
+      "C03",
+      "rereads_evidence"
+     ]
+    ],
+    "reason": "The reading re-examines the second disidentified informant's account on p. 479 to show that his opposition was already set during a coercive recruitment pitch, with no printed evidence of a dream, a failed upline relationship, or outside confidants.",
+    "page": "p. 479"
+   },
+   "pratt|R05": {
+    "main_claim": "C02",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C12",
+      "inverts"
+     ],
+     [
+      "C24",
+      "complements"
+     ]
+    ],
+    "reason": "Keeping the outcome that dream building and positive programming together produce positive identification, the reading replaces the sensebreaking-and-sensegiving meaning mechanism with behavioral commitment generated by freely chosen, costly public actions (pp. 469, 474, 476).",
+    "page": "p. 476"
+   },
+   "pratt|R06": {
+    "main_claim": "C29",
+    "main_type": "inverts",
+    "other_claims": [
+     [
+      "C22",
+      "complements"
+     ],
+     [
+      "C20",
+      "complements"
+     ]
+    ],
+    "reason": "The reading reverses the causal order in the account of ambivalent identification by arguing that not distributing comes first and leaves non-member ties intact because an inactive member never approaches friends and family (pp. 474, 480).",
+    "page": "p. 480"
+   },
+   "pratt|R07": {
+    "main_claim": "C09",
+    "main_type": "challenges_premise",
+    "other_claims": [
+     [
+      "C36",
+      "complements"
+     ]
+    ],
+    "reason": "Without disputing that reported finances failed to sort distributors, the reading questions the premise on p. 463 that financial performance is an independent measure separable from identification, since whether a member counts training expenses as costs already expresses their stance toward Amway.",
+    "page": "p. 463"
+   },
+   "pratt|R08": {
+    "main_claim": "C20",
+    "main_type": "inverts",
+    "other_claims": [
+     [
+      "C21",
+      "inverts"
+     ],
+     [
+      "C29",
+      "rereads_evidence"
+     ]
+    ],
+    "reason": "The reading inverts the claim that a strong supportive upline bond channels members into organizational activity and encapsulated sensemaking, arguing from pp. 479–480 that the durable sponsor tie with an inactive member holds only because it does not depend on doing the work and brings about none of that conduct.",
+    "page": "pp. 469–476"
+   },
+   "pratt|R09": {
+    "main_claim": "C13",
+    "main_type": "rereads_evidence",
+    "other_claims": [
+     [
+      "C14",
+      "rereads_evidence"
+     ],
+     [
+      "C01",
+      "challenges_premise"
+     ]
+    ],
+    "reason": "The reading re-examines the dream-building outing in the Appendix (pp. 492–493) to argue that it scarcely links wanted possessions to the downline's self and instead builds the mentoring bond and models the upline's manner inside the very first session.",
+    "page": "pp. 492–493"
+   },
+   "pratt|R10": {
+    "main_claim": "C12",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C27",
+      "other_mechanism"
+     ],
+     [
+      "C30",
+      "complements"
+     ]
+    ],
+    "reason": "The reading keeps seekership among identifying members as the outcome but attributes it to pre-existing discontent with work, finances, or family brought into Amway rather than to sensebreaking unsettling a settled sense of self (pp. 464–467, 470–471).",
+    "page": "p. 464"
+   },
+   "pratt|R11": {
+    "main_claim": "C13",
+    "main_type": "restates",
+    "other_claims": [
+     [
+      "C12",
+      "restates"
+     ],
+     [
+      "C15",
+      "restates"
+     ]
+    ],
+    "reason": "The reading recapitulates the paper's account on pp. 464–469 of how dream building serves as Amway's primary sensebreaking practice by tying desired possessions to the self, creating identity deficits relative to a comfort zone, and renewing those drives with larger dreams.",
+    "page": "pp. 464–469"
+   },
+   "pratt|R12": {
+    "main_claim": "C20",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C22",
+      "other_mechanism"
+     ],
+     [
+      "C29",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading keeps encapsulation and its alternatives as outcomes but attributes them to how a distributor's pre-existing circle of family, friends, and coworkers reacts when approached rather than to Amway's positive programming (pp. 472–474, 479–481).",
+    "page": "pp. 472–474"
+   },
+   "pratt|R13": {
+    "main_claim": "C09",
+    "main_type": "inverts",
+    "other_claims": [
+     [
+      "C28",
+      "other_mechanism"
+     ],
+     [
+      "C58",
+      "complements"
+     ]
+    ],
+    "reason": "Pointing out that p. 463 only observed gross sales volume while leaving net profit and upward transfers unmeasured, the reading holds that whether net money flows to or from a distributor may sort with the direction of their identification.",
+    "page": "p. 463"
+   },
+   "pratt|R14": {
+    "main_claim": "C27",
+    "main_type": "challenges_premise",
+    "other_claims": [
+     [
+      "C12",
+      "challenges_premise"
+     ],
+     [
+      "C15",
+      "rereads_evidence"
+     ]
+    ],
+    "reason": "The reading questions the premise that sensebreaking is a single unified process, separating stated dissatisfaction with one's present life from excitement about dreams to argue that failed sensebreaking on p. 477 conflates two distinct conditions.",
+    "page": "p. 477"
+   },
+   "pratt|R15": {
+    "main_claim": "C28",
+    "main_type": "rereads_evidence",
+    "other_claims": [
+     [
+      "C27",
+      "rereads_evidence"
+     ],
+     [
+      "C57",
+      "inverts"
+     ]
+    ],
+    "reason": "The reading re-examines the passages on pp. 478–479 to show that none of the disidentified informants exhibits both surviving dream-inspired seekership and a failed upline bond, arguing that the passages instead separate opposed from detached leavers by whether they experienced a wrong at the hands of recruiters or upline.",
+    "page": "pp. 478–479"
+   },
+   "pratt|R16": {
+    "main_claim": "C07",
+    "main_type": "challenges_premise",
+    "other_claims": [
+     [
+      "C01",
+      "challenges_premise"
+     ],
+     [
+      "C57",
+      "inverts"
+     ]
+    ],
+    "reason": "The reading challenges the premise that dream building and positive programming are two separate practices, arguing that dream building occurs inside the mentoring relationship so that the two-by-two model collapses into a single dimension of upline bond quality (pp. 462–466, 477–482).",
+    "page": "pp. 462–463"
+   },
+   "pratt|R17": {
+    "main_claim": "C09",
+    "main_type": "rereads_evidence",
+    "other_claims": [
+     [
+      "C07",
+      "other_mechanism"
+     ],
+     [
+      "C28",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading reinterprets the evidence on p. 463—that distributors could not or would not state net profits, disagreed over counting training materials as expenses, and earned minimal gross income—as showing that identification types reflect whether members have reckoned their financial losses rather than that finances are irrelevant.",
+    "page": "p. 463"
+   }
+  },
+  "astra": {
+   "bechky|R01": {
+    "main_claim": "C18",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C05",
+      "other_mechanism"
+     ],
+     [
+      "C17",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading retains narcotics analysts' continued use of crystal tests but attributes it primarily to equipment capacity and legal turnaround requirements, with occupational preferences reinforcing rather than producing the outcome.",
+    "page": "p. 632"
+   },
+   "bechky|R02": {
+    "main_claim": "C04",
+    "main_type": "challenges_premise",
+    "other_claims": [
+     [
+      "C13",
+      "complements"
+     ],
+     [
+      "C18",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading questions treating compatibility as a property of analytic methods by making it depend on the particular benchmark feature selected and the laboratory's capacity to meet it within resource and legal constraints.",
+    "page": "p. 633"
+   },
+   "bechky|R03": {
+    "main_claim": "C05",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C17",
+      "other_mechanism"
+     ],
+     [
+      "C18",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading preserves the three response outcomes but substitutes the costs of changing equipment, processing time, and data infrastructure for occupational values as their explanation.",
+    "page": "p. 632"
+   },
+   "bechky|R04": {
+    "main_claim": "C10",
+    "main_type": "complements",
+    "other_claims": [
+     [
+      "C20",
+      "complements"
+     ]
+    ],
+    "reason": "The reading adds preference-driven movement between units as a source of occupational culture alongside the paper's account of values learned through doing the work.",
+    "page": "p. 630"
+   },
+   "bechky|R05": {
+    "main_claim": "C05",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C17",
+      "other_mechanism"
+     ],
+     [
+      "C18",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading explains toxicology's adaptation and narcotics' retention of existing methods through unequal disruption and capacity costs, replacing the paper's causal emphasis on alignment with occupational values.",
+    "page": "p. 632"
+   },
+   "bechky|R06": {
+    "main_claim": "C16",
+    "main_type": "rereads_evidence",
+    "other_claims": [
+     [
+      "C13",
+      "complements"
+     ],
+     [
+      "C14",
+      "restates"
+     ]
+    ],
+    "reason": "The reading interprets firearms examiners' documented shift to images and signed reviews as prior accommodation of a DNA-like demand, making those passages qualify their characterization as resisting practice change.",
+    "page": "p. 622"
+   },
+   "bechky|R07": {
+    "main_claim": "C03",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C17",
+      "complements"
+     ],
+     [
+      "C16",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading attributes the difference between toxicology and firearms to the presence of a standing accreditation requirement and prepared reform, assigning local immediacy an effect on timing rather than on whether change occurs.",
+    "page": "p. 635"
+   },
+   "bechky|R08": {
+    "main_claim": "C04",
+    "main_type": "challenges_premise",
+    "other_claims": [
+     [
+      "C13",
+      "complements"
+     ],
+     [
+      "C14",
+      "restates"
+     ]
+    ],
+    "reason": "The reading questions the basis of the compatibility comparison by placing DNA among the judgment-dependent occupations and distinguishing its outward evidence products from the work that produces them.",
+    "page": "p. 619"
+   },
+   "bechky|R09": {
+    "main_claim": "C16",
+    "main_type": "rereads_evidence",
+    "other_claims": [
+     [
+      "C04",
+      "complements"
+     ],
+     [
+      "C05",
+      "complements"
+     ]
+    ],
+    "reason": "The reading treats the firearms documentation passages as evidence of an accomplished reporting change, so the apparent resistance depends on combining changes to evidentiary presentation with changes to identification itself.",
+    "page": "p. 622"
+   },
+   "bechky|R10": {
+    "main_claim": "C10",
+    "main_type": "inverts",
+    "other_claims": [
+     [
+      "C20",
+      "inverts"
+     ],
+     [
+      "C05",
+      "complements"
+     ]
+    ],
+    "reason": "The reading reverses the direction from occupational work producing shared preferences to existing preferences influencing which work people seek and remain in.",
+    "page": "p. 630"
+   },
+   "bechky|R11": {
+    "main_claim": "C10",
+    "main_type": "complements",
+    "other_claims": [
+     [
+      "C20",
+      "complements"
+     ],
+     [
+      "C05",
+      "complements"
+     ]
+    ],
+    "reason": "The reading adds hiring, reassignment, and preference-driven transfers to the production of local occupational cultures while retaining work-based learning as part of the explanation.",
+    "page": "p. 630"
+   },
+   "bechky|R12": {
+    "main_claim": "C02",
+    "main_type": "rereads_evidence",
+    "other_claims": [
+     [
+      "C17",
+      "rereads_evidence"
+     ],
+     [
+      "C18",
+      "rereads_evidence"
+     ]
+    ],
+    "reason": "The reading separates explicit comparisons with DNA from participants' accounts of other demands, thereby reading the toxicology and narcotics passages as insufficient to establish DNA's benchmark role in their own evaluations.",
+    "page": "p. 627"
+   },
+   "bechky|R13": {
+    "main_claim": "C05",
+    "main_type": "inverts",
+    "other_claims": [
+     [
+      "C17",
+      "other_mechanism"
+     ],
+     [
+      "C18",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading reverses the proposed sequence by making value statements retrospective accounts of responses already determined by exposure and feasibility rather than filters that produce those responses.",
+    "page": "p. 637"
+   },
+   "bechky|R14": {
+    "main_claim": "C10",
+    "main_type": "complements",
+    "other_claims": [
+     [
+      "C20",
+      "complements"
+     ]
+    ],
+    "reason": "The reading adds accumulated staffing and transfer decisions to work-based socialization as a source of the units' distinctive values and preferred practices.",
+    "page": "p. 630"
+   },
+   "bechky|R15": {
+    "main_claim": "C17",
+    "main_type": "complements",
+    "other_claims": [
+     [
+      "C01",
+      "complements"
+     ]
+    ],
+    "reason": "The reading retains the paper's account of an imminent court challenge accelerating an existing accreditation plan while distinguishing that effect on timing from the prior source of the reform's content and commitment.",
+    "page": "p. 627"
+   },
+   "bechky|R16": {
+    "main_claim": "C14",
+    "main_type": "complements",
+    "other_claims": [
+     [
+      "C13",
+      "complements"
+     ]
+    ],
+    "reason": "The reading adds a consequence of reviewable evidence—redistributing who can revisit and question expert conclusions—to the paper's account of how such records make judgment-dependent work credible.",
+    "page": "p. 619"
+   },
+   "bechky|R17": {
+    "main_claim": "C05",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C03",
+      "restates"
+     ],
+     [
+      "C16",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading preserves the pattern of adaptation and resistance but assigns its determination to anticipated personal exposure in local court, denying occupational values an independent explanatory role.",
+    "page": "p. 635"
+   },
+   "bechky|R18": {
+    "main_claim": "C05",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C03",
+      "complements"
+     ],
+     [
+      "C16",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading makes the expected consequences of a credible local challenge determine whether adjustment occurs, leaving values to shape its expression and form rather than the adoption-or-resistance outcome.",
+    "page": "p. 635"
+   },
+   "bechky|R19": {
+    "main_claim": "C19",
+    "main_type": "rereads_evidence",
+    "other_claims": [
+     [
+      "C01",
+      "rereads_evidence"
+     ],
+     [
+      "C17",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading reinterprets the three-unit comparison as potentially placing toxicology outside the spillover's reach despite shared audiences and activities, unsettling the paper's proposed basis for locating that reach.",
+    "page": "p. 636"
+   },
+   "bechky|R20": {
+    "main_claim": "C18",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C04",
+      "challenges_premise"
+     ],
+     [
+      "C05",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading explains continued crystal testing through insufficient capacity to meet binding turnaround requirements with GC/MS, making craft values supportive but unnecessary to the outcome.",
+    "page": "p. 632"
+   },
+   "bechky|R21": {
+    "main_claim": "C14",
+    "main_type": "complements",
+    "other_claims": [
+     [
+      "C16",
+      "rereads_evidence"
+     ],
+     [
+      "C18",
+      "complements"
+     ]
+    ],
+    "reason": "The reading extends the paper's account of credible, reviewable DNA outputs by interpreting their authority as a redistribution of opportunities for later scrutiny while expert judgment remains involved.",
+    "page": "p. 619"
+   },
+   "bechky|R22": {
+    "main_claim": "C17",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C01",
+      "rereads_evidence"
+     ],
+     [
+      "C02",
+      "rereads_evidence"
+     ]
+    ],
+    "reason": "The reading preserves toxicology's accelerated reporting change but replaces response to a DNA comparison with an independently established accreditation project brought forward by DUI litigation.",
+    "page": "p. 627"
+   },
+   "bechky|R23": {
+    "main_claim": "C17",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C01",
+      "rereads_evidence"
+     ],
+     [
+      "C02",
+      "rereads_evidence"
+     ]
+    ],
+    "reason": "The reading attributes toxicology's reporting change to ISO-based obligations and an approaching court challenge while expressly denying that a comparison with DNA caused the unit's response.",
+    "page": "p. 627"
+   },
+   "bechky|R24": {
+    "main_claim": "C21",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C18",
+      "other_mechanism"
+     ],
+     [
+      "C02",
+      "complements"
+     ]
+    ],
+    "reason": "The reading assigns narcotics' dispute and resistance primarily to unequal access to standard-setting authority, giving occupational power the explanatory role the paper gives chiefly to the nature of the work.",
+    "page": "p. 637"
+   },
+   "bechky|R25": {
+    "main_claim": "C18",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C03",
+      "rereads_evidence"
+     ],
+     [
+      "C04",
+      "challenges_premise"
+     ]
+    ],
+    "reason": "The reading retains the unit's use of crystal tests but explains it through statutory timing and limited instrument capacity rather than protection by an internal debate or a primary commitment to craft.",
+    "page": "p. 632"
+   },
+   "bechky|R26": {
+    "main_claim": "C18",
+    "main_type": "rereads_evidence",
+    "other_claims": [
+     [
+      "C03",
+      "rereads_evidence"
+     ],
+     [
+      "C05",
+      "rereads_evidence"
+     ]
+    ],
+    "reason": "The reading interprets the ongoing debate, anticipated compliance, and consideration of cameras as an unresolved position at fieldwork's end rather than evidence of a settled refusal driven by occupational values.",
+    "page": "p. 632"
+   },
+   "bechky|R27": {
+    "main_claim": "C03",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C17",
+      "complements"
+     ]
+    ],
+    "reason": "The reading makes an already scheduled accreditation reform explain the difference between units, reducing the nearness of the court challenge to an explanation of the implementation date.",
+    "page": "p. 635"
+   },
+   "bechky|R28": {
+    "main_claim": "C16",
+    "main_type": "rereads_evidence",
+    "other_claims": [
+     [
+      "C13",
+      "complements"
+     ],
+     [
+      "C18",
+      "rereads_evidence"
+     ]
+    ],
+    "reason": "The reading uses firearms examiners' earlier adoption of systematic images and signed reviews to recast the purported resistance case as selective change toward reviewable documentation.",
+    "page": "p. 622"
+   },
+   "bechky|R29": {
+    "main_claim": "C21",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C05",
+      "other_mechanism"
+     ],
+     [
+      "C15",
+      "restates"
+     ]
+    ],
+    "reason": "The reading preserves the units' observed responses but explains them as efforts to protect standing and irreplaceability, replacing the paper's priority for work-related values and technique with status and power.",
+    "page": "p. 637"
+   },
+   "bechky|R30": {
+    "main_claim": "C17",
+    "main_type": "complements",
+    "other_claims": [
+     [
+      "C01",
+      "complements"
+     ]
+    ],
+    "reason": "The reading retains litigation-driven acceleration of a prepared reporting reform while limiting the DNA comparison's causal contribution to its timetable rather than its content or eventual adoption.",
+    "page": "p. 627"
+   },
+   "pratt|R01": {
+    "main_claim": "C07",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C03",
+      "other_mechanism"
+     ],
+     [
+      "C34",
+      "complements"
+     ]
+    ],
+    "reason": "The reading retains the different identification outcomes but explains their distribution through stages of a membership career rather than through the success or failure of dream building and positive programming.",
+    "page": "p. 463"
+   },
+   "pratt|R02": {
+    "main_claim": "C29",
+    "main_type": "rereads_evidence",
+    "other_claims": [
+     [
+      "C23",
+      "complements"
+     ],
+     [
+      "C06",
+      "challenges_premise"
+     ]
+    ],
+    "reason": "The reading treats the workplace denial as an immediate concession that can precede organizational reaffirmation, so the passage no longer demonstrates a distinct ambivalent attachment arising from competing sources of meaning.",
+    "page": "p. 480"
+   },
+   "pratt|R03": {
+    "main_claim": "C56",
+    "main_type": "inverts",
+    "other_claims": [
+     [
+      "C27",
+      "rereads_evidence"
+     ],
+     [
+      "C07",
+      "rereads_evidence"
+     ]
+    ],
+    "reason": "The reading reverses the proposed sequence by making early departure prevent identification practices from taking effect, rather than making unsuccessful identification produce departure.",
+    "page": "p. 477"
+   },
+   "pratt|R04": {
+    "main_claim": "C08",
+    "main_type": "challenges_premise",
+    "other_claims": [
+     [
+      "C28",
+      "rereads_evidence"
+     ]
+    ],
+    "reason": "The reading questions whether successful recruitment is a uniform category that permits prospecting to be set aside, since joining can express attraction or an attempt to escape coercive pressure.",
+    "page": "p. 463, footnote 7"
+   },
+   "pratt|R05": {
+    "main_claim": "C02",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C11",
+      "other_mechanism"
+     ],
+     [
+      "C24",
+      "restates"
+     ]
+    ],
+    "reason": "The reading preserves positive identification arising through both practices but makes freely chosen, costly enactment and its cognitive justification the mechanism instead of creating and fulfilling a need for meaning.",
+    "page": "p. 476"
+   },
+   "pratt|R06": {
+    "main_claim": "C29",
+    "main_type": "inverts",
+    "other_claims": [
+     [
+      "C06",
+      "challenges_premise"
+     ]
+    ],
+    "reason": "The reading makes inactivity preserve outside relationships by preventing recruitment encounters, reversing the account in which retained outside relationships generate conflicting interpretations and intermittent activity.",
+    "page": "p. 481"
+   },
+   "pratt|R07": {
+    "main_claim": "C09",
+    "main_type": "challenges_premise",
+    "other_claims": [],
+    "reason": "The reading accepts that reported finances failed to sort identification states but questions treating financial results as an independent measure when decisions about counting training costs already express organizational allegiance.",
+    "page": "p. 463"
+   },
+   "pratt|R08": {
+    "main_claim": "C20",
+    "main_type": "rereads_evidence",
+    "other_claims": [
+     [
+      "C21",
+      "complements"
+     ]
+    ],
+    "reason": "The reading recasts the inactive member's enduring sponsor relationship as support detached from participation, so the strong tie is evidence of what survives inactivity rather than of a relationship channeling the member into encapsulated sensemaking.",
+    "page": "p. 480"
+   },
+   "pratt|R09": {
+    "main_claim": "C13",
+    "main_type": "rereads_evidence",
+    "other_claims": [
+     [
+      "C01",
+      "challenges_premise"
+     ],
+     [
+      "C14",
+      "rereads_evidence"
+     ]
+    ],
+    "reason": "The reading reinterprets the shopping session offered as an illustration of dream building as chiefly transmitting the mentor's manner and forming a familial bond, rather than incorporating desired possessions into a deficient self.",
+    "page": "p. 493"
+   },
+   "pratt|R10": {
+    "main_claim": "C12",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C27",
+      "other_mechanism"
+     ],
+     [
+      "C30",
+      "restates"
+     ]
+    ],
+    "reason": "The reading retains seekership but attributes it to dissatisfaction brought from members' prior lives, with dream building supplying language for that dissatisfaction rather than creating it.",
+    "page": "p. 464"
+   },
+   "pratt|R11": {
+    "main_claim": "C13",
+    "main_type": "restates",
+    "other_claims": [
+     [
+      "C15",
+      "restates"
+     ],
+     [
+      "C17",
+      "restates"
+     ]
+    ],
+    "reason": "The reading repeats the account of dream building incorporating aspirations into the self, exposing a shortfall in the current self, and renewing that motivational shortfall through further dreams.",
+    "page": "p. 464"
+   },
+   "pratt|R12": {
+    "main_claim": "C07",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C20",
+      "other_mechanism"
+     ],
+     [
+      "C28",
+      "restates"
+     ]
+    ],
+    "reason": "The reading retains the range of identification outcomes but assigns the decisive causal role to existing outsiders' responses to recruitment rather than to whether the organization's two practices succeed.",
+    "page": "p. 463"
+   },
+   "pratt|R13": {
+    "main_claim": "C09",
+    "main_type": "inverts",
+    "other_claims": [],
+    "reason": "The reading proposes that financial position could distinguish identification states once measured as net receipts and payments rather than sales volume, reversing the claim that financial performance does not sort those states.",
+    "page": "p. 463"
+   },
+   "pratt|R14": {
+    "main_claim": "C12",
+    "main_type": "challenges_premise",
+    "other_claims": [
+     [
+      "C13",
+      "rereads_evidence"
+     ],
+     [
+      "C27",
+      "challenges_premise"
+     ]
+    ],
+    "reason": "The reading questions treating excitement about an aspiration and dissatisfaction with one's current life as a single seekership process, arguing that the former can occur without the latter.",
+    "page": "p. 469"
+   },
+   "pratt|R15": {
+    "main_claim": "C28",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C27",
+      "other_mechanism"
+     ],
+     [
+      "C58",
+      "complements"
+     ]
+    ],
+    "reason": "The reading explains oppositional departure through a perceived wrong inflicted by recruiters or uplines, regardless of continuing desire for personal change, instead of successful sensebreaking followed by failed sensegiving and outside interpretation.",
+    "page": "p. 479"
+   },
+   "pratt|R16": {
+    "main_claim": "C01",
+    "main_type": "other_mechanism",
+    "other_claims": [
+     [
+      "C07",
+      "other_mechanism"
+     ],
+     [
+      "C13",
+      "challenges_premise"
+     ]
+    ],
+    "reason": "The reading replaces the paired causal processes with the quality of the upline relationship as the single mechanism producing dreams and organizing identification outcomes.",
+    "page": "p. 481"
+   },
+   "pratt|R17": {
+    "main_claim": "C09",
+    "main_type": "inverts",
+    "other_claims": [
+     [
+      "C11",
+      "other_mechanism"
+     ],
+     [
+      "C28",
+      "other_mechanism"
+     ]
+    ],
+    "reason": "The reading makes the recognition and interpretation of financial costs distinguish positive, oppositional, and inactive attachments, reversing the paper's exclusion of finances as a determinant of identification states.",
+    "page": "p. 463"
+   }
+  }
+ },
+ "pi": {
+  "bechky|R05": {
+   "main_claim": "C18",
+   "main_type": "other_mechanism",
+   "note": "Keeps the outcome (narcotics kept crystal tests) and replaces the value threat the paper emphazizes (variety, autonomy, craft judgment) with how much of the routine the change would displace and its cost in instruments, run time and caseload. Points at C18 by page and content."
+  },
+  "bechky|R07": {
+   "main_claim": "C03",
+   "main_type": "other_mechanism",
+   "note": "Keeps both outcomes and alters the cause of the toxicology–firearms difference, with immediacy demoted to timing. Close to C17, which already lists the accreditation work; parts from C03’s claim that the local route supplied the impetus. "
+  },
+  "bechky|R16": {
+   "main_claim": "C14",
+   "main_type": "complements",
+   "note": "Takes C14’s reviewability element (inspectable DNA documentation despite messy production) and extends it into the organizing issue for the other units—firearms images and note packets.Also touches C01/C02 (what the spillover is about)"
+  },
+  "bechky|R22": {
+   "main_claim": "C01",
+   "main_type": "rereads_evidence",
+   "note": "Rereads the toxicology passages so that the case of embraced change shows codified standards and DUI litigation, not a neighbor’s technology moving anyone. Drops the spillover condition rather than keeping it with another cause, so not other_mechanism."
+  },
+  "bechky|R27": {
+   "main_claim": "C03",
+   "main_type": "other_mechanism",
+   "note": "Condensed R07: the units differ in whether the accreditor had already scheduled the answer."
+  },
+  "bechky|R29": {
+   "main_claim": "C21",
+   "main_type": "inverts",
+   "note": "Reverses C21’s ranking: the responses are moves for standing and irreplaceability; the claim’s content is the ranking of work over status and the reading explicitly reverses it."
+  },
+  "pratt|R01": {
+   "main_claim": "C07",
+   "main_type": "other_mechanism",
+   "note": "Keeps the four observed states and replaces practice success/failure with position on one time course with success/failure as labels for where someone stands. "
+  },
+  "pratt|R02": {
+   "main_claim": "C29",
+   "main_type": "rereads_evidence",
+   "note": "Rereads  passage so that no longer supports ambivalence as a kind of member produced by partly effective sensegiving."
+  },
+  "pratt|R03": {
+   "main_claim": "C56",
+   "main_type": "inverts",
+   "note": "Reverses the order in the claim: leavers left within a year, before the repeated work the practices need, so identification was not secured because they had gone, not the reverse. "
+  },
+  "pratt|R08": {
+   "main_claim": "C20",
+   "main_type": "inverts",
+   "note": "the reading names its move the inversion. "
+  },
+  "pratt|R09": {
+   "main_claim": "C13",
+   "main_type": "rereads_evidence",
+   "note": "Rereads the paper’s exhibit of a dream-building session  It also places the mentor relationship inside the first practice from the first outing, bearing on C01 (alternative is C01, complements)."
+  },
+  "pratt|R14": {
+   "main_claim": "C27",
+   "main_type": "challenges_premise",
+   "note": "Splits the concept of seekership into X (stated dissatisfaction with one’s present life) and Y (excitement about a dream) and shows the passages letting them come apart; “sensebreaking failed” covers two different things—Y produced and faded, X never or no longer present."
+  }
+ },
+ "worth": {
+  "bechky|R01": 3,
+  "bechky|R03": 2,
+  "bechky|R04": 2,
+  "bechky|R05": 2,
+  "bechky|R06": 2,
+  "bechky|R07": 2,
+  "bechky|R08": 2,
+  "bechky|R09": 2,
+  "bechky|R10": 0,
+  "bechky|R11": 1,
+  "bechky|R12": 1,
+  "bechky|R14": 2,
+  "bechky|R15": 2,
+  "bechky|R16": 2,
+  "bechky|R17": 2,
+  "bechky|R18": 3,
+  "bechky|R19": 1,
+  "bechky|R20": 3,
+  "bechky|R21": 3,
+  "bechky|R22": 2,
+  "bechky|R23": 2,
+  "bechky|R24": 2,
+  "bechky|R25": 1,
+  "bechky|R26": 0,
+  "bechky|R27": 0,
+  "bechky|R28": 2,
+  "bechky|R29": 2,
+  "bechky|R30": 2,
+  "pratt|R01": 2,
+  "pratt|R02": 0,
+  "pratt|R03": 2,
+  "pratt|R04": 1,
+  "pratt|R06": 2,
+  "pratt|R07": 0,
+  "pratt|R08": 0,
+  "pratt|R09": 0,
+  "pratt|R10": 2,
+  "pratt|R12": 1,
+  "pratt|R13": 1,
+  "pratt|R14": 1,
+  "pratt|R15": 1,
+  "pratt|R16": 2,
+  "pratt|R17": 0
+ }
+}

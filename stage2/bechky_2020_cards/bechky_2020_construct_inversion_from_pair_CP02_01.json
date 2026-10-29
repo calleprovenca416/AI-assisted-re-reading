@@ -1,0 +1,246 @@
+{
+  "card_id": "bechky_2020_construct_inversion_from_pair_CP02_01",
+  "paper_id": "bechky_2020",
+  "move": "construct_inversion",
+  "trigger": "from_pair CP02",
+  "claim": "C05",
+  "incumbent_reading": "The paper holds that toxicologists and narcotics analysts each had an instrument-based route that could meet the comparison, and that toxicologists adapted because the demand fit their method and their error-avoidance values while narcotics analysts kept crystal testing because instrumentation threatened the variety, autonomy and craft they valued (C05, C18; F149, F150, F166, all in the author's voice).",
+  "wager": {
+    "statement": "Re-attribute what separated the two units, from fit with what each values to how much of the unit's routine the change would displace and what that would cost.\n\nOn the toxicology side the change in print is to the report and the calculation behind it. Toxicology as the paper observed it was high-volume instrument work (F91). The protocol already logged instruments, reagents and standards, and the laboratory had been reporting at a 95% confidence level (F101). The courtroom attack was on reports that omitted measurement-uncertainty estimates (F90); the unit prepared the statistical analysis on a plan it already had (F98), and the new calculation used several years of existing quality-control data (F102). No fragment prints a change to how samples are prepared or run.\n\nOn the narcotics side what the analysts feared losing was the routine bench method: they feared their working group might eventually prohibit crystal testing (F121). Crystal tests handled many routine cases and often confirmed common methamphetamine in about ten to fifteen minutes, GC/MS was reserved for unknown or unconfirmed substances, and rapid legal turnaround made the faster method especially useful (F109). Robin said the laboratory could not handle its caseload without crystals because it had only two relevant instruments and instrument runs took too long (F123). Jodi expected a shift toward slower GC/MS if crystal testing were phased out (F122). The analysts said a rule of independent visual confirmation would in effect require a fresh duplicate test and roughly double the work (F124), and they noted that microscope cameras would cost less than additional GC/MS instruments (F125).\n\nSo the two instrument-based routes the pair holds comparable are not the same size of thing. For toxicology the instrument method was the routine and the demand added a calculation to it. For narcotics the instrument method was the exception, and what the analysts feared would have put it in place of the routine. The wager is that this difference, in how much of the day's work is displaced and what that costs in instruments and time against the caseload, is what made the units come out differently, and that the values the paper credits accompany each outcome without being shown to produce it.\n\nTwo things in print lean this way. The narcotics analysts' stated reasons divide: time, work and cost in F122, F123, F124 and F125; variety and what the work asks of the analyst in F127 and F128. That they were especially troubled by the second kind is the author's account (F126). And on the toxicology side the participant fragments show vigilance against sample-identity and pipetting mistakes (F94, F95, F96); the fit between that and estimating uncertainty across equipment, reagents and procedural steps (F102) is made in the author's voice (F100, F149), and the nearest participant-side item is pride shown when the new reports were presented (F103), which comes after the change.\n\nThe reading is close to the paper in one respect: the paper's own account of narcotics values includes quick case completion (F111, F120, author's account), so speed is registered. It parts from the paper in treating instruments, run time and caseload as conditions of the laboratory, not as something the analysts value, and in crediting them for the outcome where C18 credits variety, autonomy and craft judgment.",
+    "seed_fragments": [
+      "F123",
+      "F124",
+      "F125",
+      "F109",
+      "F122",
+      "F101",
+      "F102",
+      "F126"
+    ],
+    "what_it_would_take_to_cohere": {
+      "observation": "An occasion on which cost and craft come apart for the narcotics analysts, either the instrument route offered without the limit in instruments and run time, or a change that keeps crystal testing while adding work, together with what the analysts then did.",
+      "printed": false,
+      "printed_fragments": [],
+      "basis": "Not in the record as an action. F124 comes nearest: a confirmation rule under discussion that would keep crystal testing, to which the analysts' printed response is that it would roughly double the work; but that is talk about a proposal, and no fragment prints what was done. F125 prints the cameras as discussed, not as acquired. Nothing in F106, F109, F121 to F128 or F147 prints the instrument route on terms free of the limit Robin describes in F123. On the toxicology side nothing in F88 to F104 prints a demand that would have replaced the bench method."
+    },
+    "strains_against": [
+      "F128 -- Billie's stated reason for preferring crystal tests is that they let her practice chemistry and vary her work, and that loading drugs onto one instrument over and over would be intolerably monotonous; nothing in it concerns caseload, instruments or cost.",
+      "F127 -- Taylor's objection is that instrument operation could be done by almost anyone while crystal work takes validation and specialized training; that is about what the work asks of the analyst, not about what the laboratory can run.",
+      "F114 -- Taylor recounts taking a toxicology job, disliking its paperwork-heavy routine and persuading management to train him for other work; an analyst is printed acting on a preference about the work itself.",
+      "F113 -- narcotics analysts set their own craft-oriented chemistry against toxicology, which they describe as repetitive instrument work with little variety; the preference is voiced with no reference to caseload, instruments or cost, as is the excitement over unusual items in F112.",
+      "F98 -- the toxicology unit's plan for uncertainty estimates was multi-year and was accelerated only when the local challenge became imminent; a change that sat on a multi-year plan until a challenge brought it forward is not obviously a small one, and the pair also differs in that narcotics is printed with no such challenge (F162, author's account).",
+      "F103 -- the toxicologists appeared proud of a narrow range at a 99% confidence level, and F31 has them enthusiastic about the new reporting practice; pride in the figure suits the paper's account of a demand that fit them at least as well as it suits a change that was merely small.",
+      "F102 -- the calculation assessed uncertainty across equipment, reagents and procedural steps; how much work that was is not printed, so 'small' is the reading's estimate and not a printed fact.",
+      "F119 -- analysts pressing an IT representative to cut data-entry delays, with Billie joking that even an entry time close to the previous system's was too slow, shows speed pursued as something they care about, which is how the paper codes it; on that showing the time-and-work statements could be statements of value and the re-attribution a relabelling.",
+      "F71 -- outside the pair, all three qualified firearms examiners knew a counting method (F171) and did not routinely use it, on the printed ground that their broader visual judgments were more conservative (also F73); a change with no printed cost in instruments is not taken up, for a reason that is not about cost."
+    ],
+    "who_could_complete_it": "Narcotics analysts asked what they would choose with instruments and run time not limiting; the laboratory's instrument and caseload records; any record of whether cameras or further instruments were acquired."
+  },
+  "fragment_jobs": {
+    "F146": "Is the table's cell for toxicology's technique; the reading takes it as describing a method in routine use, so that the demand added to the routine and did not replace it.",
+    "F149": "Is the table's cell asserting that measurement-error practices fit the unit's commitment to avoiding mistakes; the reading treats that fit as the author's link, because the participant fragments concern sample identity and pipetting.",
+    "F152": "Records the toxicology outcome as changed local practice, which the reading takes to be a change to the report and its calculation.",
+    "F161": "Is the author's summary that the court threat was aligned with accreditation work already under way, which the reading counts toward how little of the routine was displaced.",
+    "F147": "Is the table's cell calling GC/MS compatible but infrequently used; the reading puts its weight on 'infrequently used', read with F109 and F123 as a limit on what the unit could run.",
+    "F150": "Is the table's cell crediting variety and autonomy for the narcotics outcome, the attribution the reading moves away from.",
+    "F153": "Records the narcotics outcome as no change in local practice, which the reading accepts; it also leans against the cameras of F125 having been acquired.",
+    "F162": "Is the author's summary that narcotics faced neither public delegitimation nor an immediate court problem, the pathway difference that the pair's own note leaves out and the rival relies on.",
+    "F91": "Establishes instrument work as toxicology's routine as the paper observed it.",
+    "F101": "Shows the logging and the 95% reporting already in place, so that the new estimate extended something the unit was doing.",
+    "F98": "Shows the statistical analysis prepared on a plan the unit already had; that the plan was multi-year and needed a challenge to bring it forward is declared as a strain.",
+    "F102": "Shows the new calculation drawing on several years of existing quality-control data and states its scope, which the reading sets beside the handling mistakes of F94 to F96; its unprinted workload is declared as a strain.",
+    "F90": "States what the courtroom attack targeted, an omission from reports, which fixes the toxicology demand as an addition to a document.",
+    "F121": "Prints what the narcotics analysts feared, that their working group might eventually prohibit crystal testing, which fixes what was in prospect on that side as the loss of the routine method.",
+    "F109": "Shows crystal testing as the routine for many cases, GC/MS as the reserve, and legal turnaround favoring the faster method.",
+    "F123": "Carries the narcotics side of the reading: an analyst's stated reason for keeping crystals is caseload against two instruments and long runs.",
+    "F122": "Has an analyst describe crystal testing as fast and practical and expect slower GC/MS in its place, a reason given in terms of time.",
+    "F124": "Has the analysts answer a proposed confirmation rule, which would keep crystal testing, in terms of work doubled.",
+    "F125": "Has the analysts compare a way of preserving crystal images with further instruments on cost.",
+    "F126": "Is the author's ranking of the analysts' concerns, with autonomy, variety and judgment placed first; the reading treats the ranking as the author's.",
+    "F127": "Is one of two named statements of the other kind of reason, about what the work asks of the analyst, and is declared as a strain.",
+    "F128": "Is the second named statement of the other kind of reason, about variety and practicing chemistry, and is declared as a strain.",
+    "F94": "Shows what toxicologists are printed as guarding against: sample-identity mistakes, checked by lists and labels.",
+    "F95": "Shows the same concern in an exchange about samples not moved into orderly boxes and items misplaced or unlabeled.",
+    "F96": "Shows the same concern at the pipette, where a mistake ruins a sample and brings a lengthy report and teasing.",
+    "F100": "Is where the author's account joins the uncertainty demand to error-avoidance values; no participant fragment makes that join.",
+    "F103": "Is the participant-side item nearest to a fit with values, pride in the new reports, and it is printed at their presentation, after the change; also declared as a strain.",
+    "F31": "Prints toxicologists' enthusiasm for the new reporting practice and is cited with F103 in the declared strain.",
+    "F111": "Is the author's account that narcotics analysts valued quick case completion, which is where the reading and the paper come closest.",
+    "F120": "Repeats, in the author's voice, that valued narcotics work combined rapid completion with careful handling, the basis of the rival.",
+    "F113": "Declared strain: analysts voicing a preference for craft-oriented chemistry over repetitive instrument work, with no reference to cost.",
+    "F112": "Cited with F113: analysts' excitement over unusual items, voiced apart from caseload or cost.",
+    "F114": "Declared strain: an analyst acting on a preference about the work itself.",
+    "F119": "Declared strain: speed pursued as something the analysts care about.",
+    "F71": "Declared strain from outside the pair: a change with no printed cost not taken up, on a ground that is not cost.",
+    "F73": "Supports F71 with an examiner's own statement that his personal standard is more conservative than the counting threshold.",
+    "F171": "Describes the counting method that F71 and F73 refer to."
+  },
+  "grounded_in": [
+    {
+      "kind": "divergence",
+      "items": [
+        "F123",
+        "F126"
+      ],
+      "how": "Robin's printed reason for keeping crystals is caseload against two instruments and long runs (F123). The author's account is that analysts were especially troubled by the loss of autonomy, variety and judgment (F126). The stated reasons in print divide between the two kinds (F122, F123, F124, F125 against F127, F128); the ranking between them is the author's."
+    },
+    {
+      "kind": "divergence",
+      "items": [
+        "F94",
+        "F149"
+      ],
+      "how": "F94 has the toxicologists stressing the prevention of sample-identity mistakes by checking lists and labels; F149, in the author's voice, has measurement-error practices fitting the unit's commitment to avoiding mistakes. The participant fragment concerns specimens kept straight as they move through the process; the author's cell extends that commitment to estimating the uncertainty of a measurement."
+    },
+    {
+      "kind": "missing_fact",
+      "question": "Does any toxicologist, in print, connect the uncertainty estimate to the unit's concern with avoiding mistakes?",
+      "bears_on": "C05",
+      "if_one_way": "If the paper had printed a toxicologist making that connection, C05 would read on the toxicology side as the participants' own filter at work, and the pair would set a fit with values beside a conflict with values, as the paper has it.",
+      "if_the_other": "If none made it, or the only printed account ran through ISO, NIST and existing data as F102 does, C05's toxicology side would read as the author's inference, and the pair would set a small addition beside a large substitution."
+    },
+    {
+      "kind": "missing_fact",
+      "question": "Were the microscope cameras discussed in F125 acquired?",
+      "bears_on": "C18",
+      "if_one_way": "If they were, C18 would read as a unit that changed how its results are kept for later review by the cheaper route in print while keeping its method, a local change of the kind toxicology made.",
+      "if_the_other": "If they were not, which is the way F153's record of no local change leans although no stub prints what became of the discussion, C18 would read as stated: crystal-testing practices retained and no local change."
+    }
+  ],
+  "reach": {
+    "same_construct": [
+      "C17",
+      "C18",
+      "C20",
+      "C21"
+    ],
+    "same_outcome": [
+      "C03",
+      "C04",
+      "C16",
+      "C17",
+      "C18"
+    ],
+    "feature_elsewhere": [
+      "F71",
+      "F73",
+      "F119"
+    ],
+    "orphans_used": [
+      "F71",
+      "F73",
+      "F112",
+      "F171"
+    ]
+  },
+  "rival": "The paper's own account makes quick case completion one of the things narcotics analysts value (F111, F120, author's account; F119), and C20 holds that values grow out of what the work requires. On that reading the caseload and run-time statements are statements of value, C05 already covers them, and nothing needs re-attributing; the pathway difference the paper credits elsewhere, no immediate compulsion for narcotics (C18; F162, author's account), does the rest.",
+  "split": null,
+  "naming": {
+    "register_version": null,
+    "outcome": "register not opened"
+  },
+  "status": "killed",
+  "attack": {
+    "killed_by": [
+      "B_import"
+    ],
+    "verdicts": [
+      {
+        "mode": "B_import",
+        "killed": true,
+        "citations": [
+          "F146",
+          "F91",
+          "F98",
+          "F101",
+          "F102",
+          "F103",
+          "F161"
+        ],
+        "drift": [
+          "The F153 fragment job says it 'Records the narcotics outcome as no change in local practice, which the reading accepts' and uses that outcome to lean against camera acquisition. F153 explicitly reports the author's account, not an observed disposition of the cameras. Treating that summary as an event-level premise is drift. The card does acknowledge that camera acquisition is unprinted, so it does not assert non-acquisition as a separate imported fact."
+        ],
+        "note": "KILL on the factual connective in fragment_jobs.F146: 'so that the demand added to the routine and did not replace it.' No carrying fragment establishes that the reporting change left the existing routine in place without replacement. F146 supplies the author's assessment of technical compatibility; F91 describes the observed instrument workflow; F98 establishes an existing plan and its acceleration; F101 establishes prior logging and reporting; F102 describes existing data and the scope of the calculation; F103 describes the new reports. These carry the addition of a calculation and reporting change, but do not give a before-and-after account establishing the asserted non-replacement of the routine. The statement's narrower sentence, 'No fragment prints a change to how samples are prepared or run,' accurately describes an absence in the corpus. The fragment job converts that absence into a fact about what did not change, which the wager needs for its contrast in displacement. F161's author account that prior accreditation work made reporting change easier does not supply that missing fact. Declaring the unprinted workload as a strain does not establish non-replacement or exempt factual assertions from B. This kill does not assert that a bench-method change occurred, and it does not treat the proposed causal re-attribution itself as an imported observed event. Drift concerning F153 is recorded separately and is not the basis of the kill.",
+        "considered_not_fired": [
+          {
+            "item": "Toxicology's existing workflow, reporting, and new calculation: F91, F98, F101, F102, F103; fragment jobs F90 and F152",
+            "why": "F91 carries high-volume instrument work; F101 carries logging and 95% reporting; F90 carries the attack on omitted uncertainty estimates; F98 carries the pre-existing plan, acceleration, and statistical preparation; F102 carries use of existing quality-control data across equipment, reagents, and procedural steps; F103 carries the new 99% reports. Calling the printed change a reporting and calculation change is supported. The kill is the additional assertion that the routine was not replaced, not these paraphrases. F152's author summary adds no independent evidence about the extent of the change."
+          },
+          {
+            "item": "Routine crystal testing versus reserve GC/MS: F109, F121, F122, F123; fragment job F147",
+            "why": "F109 explicitly supplies routine crystal testing, reserve GC/MS, legal turnaround, and the ten-to-fifteen-minute methamphetamine confirmation. F121 carries the feared prohibition; F122 carries Jodi's expectation of slower GC/MS; F123 carries Robin's stated caseload, two-instrument, and run-time objection. The projected substitution is attributed to analysts' fears rather than presented as an enacted change. F147's author account of infrequent GC/MS use is independently supported by F109."
+          },
+          {
+            "item": "Duplicate work and camera costs: F124, F125",
+            "why": "F124 carries both the proposed independent confirmation requirement and the analysts' prediction of a fresh duplicate test and roughly doubled work. F125 carries discussion of cameras and their stated lower cost than additional GC/MS instruments. The card does not assert that either proposal was implemented."
+          },
+          {
+            "item": "Distinct stated reasons and the author's ranking: F122, F123, F124, F125, F126, F127, F128; fragment job F150",
+            "why": "The time, capacity, work, and cost reasons occur in F122-F125, while training, craft, and variety occur in F127-F128. The card identifies the priority assigned to the latter in F126, and the value attribution in F150, as the author's account. This is a comparison of printed reasons, not an invented participant ranking."
+          },
+          {
+            "item": "Handling mistakes versus uncertainty estimates: F94, F95, F96, F100, F102, F103, F149; enthusiasm in F31",
+            "why": "F94-F96 carry identity checks, orderly specimen handling, and pipetting vigilance with the stated consequences of error. F102 carries the broader scope of uncertainty calculation. F100 and F149 explicitly carry the author's link to error-avoidance values. No participant fragment explicitly makes that causal link. F103 carries pride at presentation of the new reports and F31 carries enthusiasm. The card preserves these attributions and acknowledges the favorable evidence for the incumbent."
+          },
+          {
+            "item": "Existing work preferences and speed: F111, F112, F113, F114, F119, F120",
+            "why": "F111 and F120 are correctly identified as author accounts that include rapid completion. F112 carries excitement about unusual items, F113 the contrast with repetitive toxicology, F114 Taylor's reported career choice, and F119 pressure to reduce data-entry delays. Their fragment jobs do not invent actions or motives beyond these stubs."
+          },
+          {
+            "item": "Pathway difference and prior preparation: F98, F161, F162",
+            "why": "F98 carries prior preparation and acceleration under an imminent local challenge. F161 and F162 print the author's respective accounts of aligned accreditation work and the absence of an immediate narcotics court problem. The card identifies those summaries as author accounts. Their existence is not imported; neither, however, establishes the factual extent of routine displacement."
+          },
+          {
+            "item": "Firearms comparison: F71, F73, F171",
+            "why": "F71 carries knowledge and non-routine use of CMS on the stated conservatism ground; F73 carries Tom's comparison of thresholds; F171 carries the description of counting. 'No printed cost in instruments' describes the record's silence, rather than asserting that CMS was actually costless."
+          },
+          {
+            "item": "Causal wager, unprinted workload, and separating feature",
+            "why": "The proposed re-attribution from value fit to displacement and cost is explicitly a wager, and the card explicitly says the workload and a separating cost-versus-craft occasion are unprinted. These are not themselves reports of additional events. The unsupported non-replacement premise identified above remains a factual assertion within that wager. This is a construct_inversion card with split set to null; there are no X/Y assignments to adjudicate."
+          }
+        ]
+      },
+      {
+        "mode": "E_contradiction",
+        "killed": false,
+        "citations": [],
+        "note": "CLEAR. All 172 fragment stubs were examined, with fragment notes, declared gaps, and the absence register checked. No fragment outside the seeds and declared strains requires an event or behavior incompatible with this reading. The strongest participant evidence for craft and variety is already declared as strain. Other observed expressions of speed, precision, and professional judgment can coexist with the proposed explanation of this particular pair of outcomes. Author explanations of why the outcomes occurred do not become independent behavioral counterexamples merely because their accounts are represented inside stub fields. The missing before-and-after evidence that fires B is an absence, not a contradicting event, and therefore does not fire E.",
+        "considered_not_fired": [
+          {
+            "item": "F118: analysts timing cases and being teased for racing",
+            "why": "This is undeclared behavioral evidence that speed mattered to some analysts. The card already acknowledges valued quick completion through F111 and F120 and declares the related F119 strain. F118 does not establish whether caseload and equipment constraints or enjoyment of speed produced the response to possible crystal-test prohibition. Both can be true."
+          },
+          {
+            "item": "F116, F117: scientific precision and redundant documentation",
+            "why": "These events show analysts defending conclusions and documentation. They do not print adoption or rejection of an alternative with the instrument and run-time constraints removed. The reading need not deny these commitments to question their causal priority in retaining crystal testing. The defense questions in F117 also do not establish the method-legitimacy court challenge discussed in F162."
+          },
+          {
+            "item": "F92, F107, F108, F110: detailed workflows and existing verification",
+            "why": "F92's lengthy instrument batch is compatible with toxicology already being instrument-based. F107-F108 describe the two narcotics methods. F110's existing two different crystal tests and supervisory report review do not contradict the F124 prediction about a proposed independent visual confirmation requirement; those are different printed procedures. None supplies the missing before-and-after toxicology comparison."
+          },
+          {
+            "item": "F88, F99, F104, F105, F129, F131, F132, F140, F141, F143, F144, F161, F162, F164: local urgency and institutional routes",
+            "why": "These accounts emphasize an alternative explanation through immediacy and institutional pathways. The card expressly acknowledges the pathway difference in its F98 strain and F162 job. A competing attribution of causal weight is not an event the reading cannot accommodate."
+          },
+          {
+            "item": "F100, F149, F150, F166, F167, F168, F172 and claims C05, C17, C18, C20, C21",
+            "why": "These give the author's compatibility, value, and causal accounts, which the reading expressly disputes. It does not deny that the author made these assertions. Disagreement with that theory or an author gloss does not fire E."
+          },
+          {
+            "item": "F127, F128, F114, F113, F112, F98, F102, F103, F31, F119, F71, F73",
+            "why": "The strongest awkward evidence is already covered by seeds or strains_against, including F112, F31, and F73 named within strain entries. These show craft preferences, action on work preferences, enthusiasm for reporting, concern with speed, and non-cost reasons for rejecting counting. They cannot be reused as undeclared contradictions."
+          },
+          {
+            "item": "F67, F69, F72, F74, F75, F76, F80, F85: documentation, judgment, training, and responses beyond the pair",
+            "why": "These show other ways that practice and preference relate. The wager concerns what separated toxicology and narcotics in this episode, not a universal claim that costs are the only cause of any forensic practice. Their existence does not require a different outcome in the focal comparison. F80 reports a call to reconsider practice, not an observed local change in the speaker's laboratory."
+          },
+          {
+            "item": "F125, F153; absence A01 and declared gaps DG01-DG03",
+            "why": "No stub reports the disposition of the cameras, a constraint-free narcotics instrument option, or the missing implementation comparison. Missing observations are not contradictions. A01 and DG03 specifically prohibit inferring the local actions of externally challenged firearms examiners from their presentations. DG01-DG02 limit scope and do not supply counterevents."
+          }
+        ]
+      }
+    ],
+    "kept": "A killed reading is retained, marked. Deleting it removes the evidence that the pass functions."
+  }
+}

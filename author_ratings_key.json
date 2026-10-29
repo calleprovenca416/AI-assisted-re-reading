@@ -1,0 +1,113 @@
+{
+ "what": "the key to readings_of_bechky_2020.docx (T34, AUTHOR_RATINGS_PLAN.md); it goes to nobody",
+ "seed": 20261016,
+ "sources": {
+  "stage2/markers/KEY.json": "b8874a82770a5157ed43febe7f18deccea4ba41741bd89fe586d8ddd25e1a76a",
+  "stage2/worth/worth_sheet.xlsx": "60fe67427a85e0d396516299c8a2ad04cb7954e036ab55519e0dafc20d5af1fa",
+  "matching_key.json": "faaba978f4d0842a7a98c810b84eb7f2e535a769347efbb353f6a837a23031a1",
+  "bechky_2020_v1.json": "6f83d744cd1dd68326cce29568a4aff461580d852d1222c4f1d096cb6922ced0"
+ },
+ "file": {
+  "readings_of_bechky_2020.docx": "9d5418c6e0245452746d3c6223ee68ce8605007874b8c6559e0e2720a6668d12"
+ },
+ "readings": [
+  {
+   "number": 1,
+   "reading": "B08",
+   "arm": "middle",
+   "chat": "26",
+   "text_sha256": "8f2e929d4075eb84a9b22fa389db7e2eb24632817956cfdea43bdd1d088addb6"
+  },
+  {
+   "number": 2,
+   "reading": "B10",
+   "arm": "system",
+   "chat": "23",
+   "text_sha256": "12e872ac5922f2d10cfe90e604bf61712ad7f57484658e5ca0a9fde088d0b39c"
+  },
+  {
+   "number": 3,
+   "reading": "B14",
+   "arm": "middle",
+   "chat": "26",
+   "text_sha256": "e9b3dadc3b114e9020eae7d588cd2ec267351cb13d1f814af93327286473d247"
+  },
+  {
+   "number": 4,
+   "reading": "B06",
+   "arm": "plain",
+   "chat": "27",
+   "text_sha256": "613bba0850da72d62e50ad91b4369e5adaed238cb97cf48a39f2c2524899dc51"
+  },
+  {
+   "number": 5,
+   "reading": "B01",
+   "arm": "middle",
+   "chat": "26",
+   "text_sha256": "b41479e2cb04d445dfcea31245c0c31241ded1cf098711fb96e26d1f1f74f06c"
+  },
+  {
+   "number": 6,
+   "reading": "B02",
+   "arm": "plain",
+   "chat": "27",
+   "text_sha256": "34de09754b88d909ce5cab85ca7cbae11702bd4241bbc2cb48bc486a27f70c49"
+  },
+  {
+   "number": 7,
+   "reading": "B04",
+   "arm": "system",
+   "chat": "23",
+   "text_sha256": "7dc110094517745c437e44b307dfff9cd2523fff8316b7270498588e52d296c0"
+  },
+  {
+   "number": 8,
+   "reading": "B05",
+   "arm": "plain",
+   "chat": "27",
+   "text_sha256": "1aa80205045b6c13ea734b3a207f3736bbb386dbf558a3ba8544e8db825ad493"
+  },
+  {
+   "number": 9,
+   "reading": "B11",
+   "arm": "middle",
+   "chat": "26",
+   "text_sha256": "e9a959efabf15635e7de1101acf6f9cf72e1a79388128cc6ef63272dbadbe62d"
+  },
+  {
+   "number": 10,
+   "reading": "B07",
+   "arm": "plain",
+   "chat": "27",
+   "text_sha256": "33e08d365f711ecadd69ba19ab4967cd2156fde9c3476d9807b59d37949bd33c"
+  },
+  {
+   "number": 11,
+   "reading": "B13",
+   "arm": "system",
+   "chat": "23",
+   "text_sha256": "f5141a3dce7d45ed02b3463269ccacc952727e90a90a9517e117d2461815d9b2"
+  },
+  {
+   "number": 12,
+   "reading": "B09",
+   "arm": "system",
+   "chat": "23",
+   "text_sha256": "b339307031bb05b47cc8b39f16737fdb529e416e33cdc22139330923f8e4bc07"
+  },
+  {
+   "number": 13,
+   "reading": "B12",
+   "arm": "plain",
+   "chat": "27",
+   "text_sha256": "bf0ab837c1ed1a8822ff4cca9c09af9df50719500e3d2a42203c550d5e946b54"
+  },
+  {
+   "number": 14,
+   "reading": "B03",
+   "arm": "middle",
+   "chat": "26",
+   "text_sha256": "e78282fabecdaba44fec79dc51d92b36c7c6c71ded00523b23d0f45732ee7b40"
+  }
+ ]
+}

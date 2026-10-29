@@ -1,0 +1,82 @@
+{
+  "card_id": "pratt_2000_counterfactual_ending_C56_01",
+  "verdicts": [
+    {
+      "mode": "B_import",
+      "killed": true,
+      "citations": ["F123", "F43", "F44", "F45", "F72"],
+      "drift": [],
+      "note": "KILL. The statement imports: 'Most of them had been recruited through the same upline, whose own distributorship folded that year (F123), and they left as it went.' F123 reports only that every interviewed former distributor ended membership less than a year after joining. Neither its stub nor its notes identify a shared recruiter, report that recruiter's distributorship collapsing, or connect the interviewees' departures to that collapse. No other fragment carries those assertions. The shared recruitment history, collapse, and linked departures are additions to the supplied printed record, not paraphrases or author-account drift. Separately, 'they went early, before the repeated work the paper describes had been done on them, and identification was not secured because they had gone' adds an unprinted exposure history and causal ordering. F123 supplies tenure; F43 and F44 supply exhortations to continue aspiring; F45 supplies changes in successful distributors' aspirations; F72 supplies the author's account of growing encapsulation. None establishes how much repeated work these particular leavers experienced, a minimum tenure needed for the practices to operate, or departure as the cause of unsecured identification. The card itself identifies the individual exposure histories as missing. A provisional reversal of C56 is permissible as an argument, but these asserted facts supplying it have no carrying fragment. No author-account-to-event drift was identified in the checked clauses; F72 is explicitly attributed to the author.",
+      "considered_not_fired": [
+        {
+          "item": "F123: first-year departures in the statement and fragment_jobs",
+          "why": "F123 directly carries the claim that every former distributor interviewed left within a year. That tenure statement is cleared independently of the unsupported shared-upline narrative and exposure inference attached to it."
+        },
+        {
+          "item": "F90, F91, F92: the leavers' accounts in the statement and fragment_jobs",
+          "why": "The respective stubs carry fading early appeal, a regular job becoming satisfying with little desire for meetings or sales, and trying an activity that did not suit the speaker. These are ordinary paraphrases of reported accounts."
+        },
+        {
+          "item": "F98: buying in to escape embarrassment; joining was not itself taking up the dream",
+          "why": "F98 explicitly reports buying in simply to escape an embarrassing presentation under social and transportation pressure. Describing that joining motive as distinct from adopting a dream is supported. It does not establish what happened during the rest of the membership."
+        },
+        {
+          "item": "F124 and F24: turnover, inactivity, and their fragment jobs",
+          "why": "F124 carries the broad annual departure estimate and its secondary-source status; F24 carries fewer than half of recorded distributors being active. Describing departures and inactivity as common summarizes those figures. These figures do not establish individual exposure histories or the cause of departure."
+        },
+        {
+          "item": "F43, F44, F45, F72: repetition and change over time",
+          "why": "F43 carries replacing an achieved dream with a larger one; F44 carries continued striving without a final peak; F45 carries aspirations shifting over time. F72 is accurately identified as the author's account of encapsulation increasing with time among distributors. These descriptions and fragment jobs are supported; their extension into a first-year exposure threshold is not."
+        },
+        {
+          "item": "F22 and F110: high-sales quitters and changes in identification",
+          "why": "F22 reports high sales before quitting without supplying those quitters' testimony or tenure. F110 reports identification changes without supplying an individual departure account or identifying which people left. The card preserves these uncertainties. The absence of detailed transitions is also consistent with DG03."
+        },
+        {
+          "item": "C56, C42, C52 and the proposed long-membership comparison",
+          "why": "The opening characterization has a basis in the claims' stated links between unsuccessful identification management, departure, and possible organizational costs. Disputing those links is not itself an import. Requesting testimony from long-active leavers is a proposed evidentiary test, not an assertion that such testimony is printed. The kill concerns added factual premises, not disagreement with the incumbent theory."
+        }
+      ]
+    },
+    {
+      "mode": "E_contradiction",
+      "killed": false,
+      "citations": [],
+      "note": "CLEAR. All 125 fragment stubs were examined, with their notes, the declared gaps, and the absence register. No eligible fragment supplies an event the reading necessarily cannot accommodate. The closest direct evidence that practices had reached the interviewed leavers is either a seed or explicitly declared under strains_against. Other fragments show practices reaching newcomers, effects during particular encounters, or continuing relationships among inactive members, but do not establish the interviewed leavers' exposure histories or a contrary departure sequence. The absence of those histories supports the B finding of an unsupported assertion; it is not affirmative contradictory evidence for E. Disagreement with claims or with a stub explicitly reporting only the author's account was not treated as contradiction of an event.",
+      "considered_not_fired": [
+        {
+          "item": "F93, F94, F95, F96, F97 and F89",
+          "why": "The card explicitly declares all six as strains. They include rejection of upline authority, attraction to a model dream, persistence language, troubled upline ties, and reliance on more meetings. Even where these challenge the assertion that practices had not run, declared strains cannot fire E. F89 additionally reports the author's explanation."
+        },
+        {
+          "item": "F90, F91, F92, F98, F22 and F110",
+          "why": "These are seeds and therefore excluded from E kills. F22 supplies high-sales quitters without tenure or exposure histories; F110 supplies identification transitions without establishing departure. Neither supplies the missing long-active leaver account."
+        },
+        {
+          "item": "F10, F28, F35, F36, F37, F39 and F58",
+          "why": "These describe training newer members, dream-building encounters, and instruction to copy mentors; F37 even places dream building before prospects. They challenge any universal assertion that practices begin only after a year. The card's specific missing fact, however, concerns how much repeated work the interviewed leavers experienced. These fragments do not identify their exposure or departure sequence, so they do not independently contradict that proposed sequence. F28 explicitly reports the author's account."
+        },
+        {
+          "item": "F112 through F119, especially F115 and F116",
+          "why": "The shopping outing shows instruction and a change in the researcher's behavior within the outing. It does not show that an interviewed leaver received sustained practices, secured identification, and subsequently left. Immediate effects in another participant can coexist with the proposed distinction between initial contact and repeated work."
+        },
+        {
+          "item": "F74 and F80",
+          "why": "F74 reports difficult opening months because of outsiders' reactions. F80 reports a participant's view that remaining active generally requires close upline support. Neither reports the disputed leavers' exposure or rules out early departure interrupting further practice."
+        },
+        {
+          "item": "F70, F101, F102, F103, F104, F105, F106 and F107",
+          "why": "These concern permeable membership boundaries, inactive members' continuing aspirations and support, mixed reactions, or the researcher's role strain. Inactivity and continuing ties do not entail departure after long active membership. F70 and F107 are explicitly author accounts. The card can accommodate these distinctions without changing their reported events."
+        },
+        {
+          "item": "F19, F21, F27, F48, F86, F88, F99, F108 and F125; C27, C28, C42, C52, C53 and C56",
+          "why": "The fragments explicitly report the author's explanatory account of practices and identification. F99's failed-sensegiving sequence and F125's explanation of weak bonds are particularly close to the contested causal order, but do not independently report the leavers' exposure histories. The listed claims are theory, including C53's assertion about learning in the first six months. Disagreeing with these accounts or claims cannot fire E."
+        },
+        {
+          "item": "F100; DG03; A01, A02 and A03",
+          "why": "The ex-member website urges departure without supplying an individual history of long active membership and practice failure. DG03 explicitly limits analysis of identification transitions. A01 concerns unavailable comparable profit figures, A02 unprinted refused-recruit testimony, and A03 an unavailable official turnover rate. None supplies the missing exposure or departure history, and missing evidence is not a contradiction."
+        }
+      ]
+    }
+  ]
+}

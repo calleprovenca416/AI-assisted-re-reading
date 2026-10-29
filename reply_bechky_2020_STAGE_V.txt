@@ -1,0 +1,172 @@
+V.1 | F01 | Paper states what the 2009 NAS report said, with a direct quotation from it; a published statement being reported. | reported
+V.2 | F02 | Plain description of how US public crime labs are organised and who controls their budgets; states what is the case. | reported
+V.3 | F03 | Describes what forensic scientists routinely do (bench analysis, reports, testimony) and whom they deal with; setting description. | reported
+V.4 | F04 | Lists the associations and working groups and what they do; factual description of the field. | reported
+V.5 | F05 | States the lab's size and reporting line as fact. Note: "Western U.S. state" is in the preceding sentence at the foot of p. 612; p. 613 says "one of the largest" in the state. | reported
+V.6 | F06 | States which units are compared and how criminalists were qualified and hired; facts about the study and the site. | reported
+V.7 | F07 | Unit size and duties stated as fact. | reported
+V.8 | F08 | Unit size and duties stated as fact. | reported
+V.9 | F09 | Table 1 cell giving a headcount (18); site data, not the author's framework. | reported
+V.10 | F10 | Table 1 cell giving a headcount (4); site data. | reported
+V.11 | F11 | Table 1 cell giving a headcount (9); site data. | reported
+V.12 | F12 | Table 1 cell giving a headcount (8); site data. | reported
+V.13 | F13 | Table 1 cell giving a gender count (15 women, 3 men); site data. | reported
+V.14 | F14 | Table 1 cell giving a gender count (4 men); site data. | reported
+V.15 | F15 | Table 1 cell giving a gender count (5 women, 4 men); site data. Note: the running text on p. 613 calls toxicology an equal split. | reported
+V.16 | F16 | Table 1 cell giving a gender count (4 women, 4 men); site data. | reported
+V.17 | F17 | Table 1 cell giving an [7 words of Bechky (2020), p. 613]); site data. | reported
+V.18 | F18 | Table 1 cell giving an [7 words of Bechky (2020), p. 613]); site data. | reported
+V.19 | F19 | Table 1 cell giving an [7 words of Bechky (2020), p. 613]); site data. | reported
+V.20 | F20 | Table 1 cell giving an [6 words of Bechky (2020), p. 613]-40s); site data. | reported
+V.21 | F21 | Table 1 cell listing degrees held; site data. | reported
+V.22 | F22 | Table 1 cell listing degrees held; site data. | reported
+V.23 | F23 | Table 1 cell listing degrees held; site data. | reported
+V.24 | F24 | Table 1 cell listing degrees held; site data. | reported
+V.25 | F25 | Unit size and duties stated as fact. | reported
+V.26 | F26 | Unit size and duties stated as fact. | reported
+V.27 | F27 | Mostly states what was the case: members identified as separate but related, had distinct associations, similar education, different training. FLAG: "neighboring occupations" is the author's own category, and the self-identification is given in her voice without quotation. | reported
+V.28 | F28 | One event on the first day, with the supervisors' own phrase quoted; the "initial clue" framing is the gloss on that event. Page says "mockingly", description says "jokingly". | reported
+V.29 | F29 | Tells what examiners did during fieldwork (complained publicly in conference presentations). Note: the page clause does not say what the complaints were about; the "responses to spillover" framing around it is the author's. | reported
+V.30 | F30 | Tells what analysts did during fieldwork (discussed threats to their favoured technique at benches and in meetings); behaviour summarised, not explained. | reported
+V.31 | F31 | Tells what toxicologists did (excitedly discussed new reporting practices); behaviour summarised, not explained. | reported
+V.32 | F32 | Dated public events: the 2005 authorisation and the 2009 report's content, with quotation. | reported
+V.33 | F33 | Reports what two associations wrote in response and the actions they promoted. | reported
+V.34 | F34 | Reports ASCLD's written advice, quoted directly. | reported
+V.35 | F35 | Reports what IAI and AFTE issued and promised. | reported
+V.36 | F36 | Two concrete actions at the lab (email, then [7 words of Bechky (2020), p. 616]). MISMATCH: page says the laboratory director did both; description says "management". | reported
+V.37 | F37 | Reports media coverage and quotes the radio host's introduction. | reported
+V.38 | F38 | Reports that news outlets used the phrase "junk science", with citations. | reported
+V.39 | F39 | Author's own field-wide generalisation that subfields "felt pressure" following the shift in opinion; no event or speaker shown. FLAG: a felt state across the field in the author's voice. MISMATCH: page says "in the wake of"; description says opinion "created" the pressure. | author_insight
+V.40 | F40 | Author classifies DNA profiling as an "informal standard" using a borrowed concept and generalises that responses varied; interpretation across the cases. | author_insight
+V.41 | F41 | The fragment is an analyst's remark, quoted ("be more like DNA"). FLAG: the quote sits inside an interpretive author sentence about techniques and values being perturbed or supported; only the quoted words are the analyst's. | reported
+V.42 | F42 | Author's analytic claim in her own construct ("institutional pathways"), across all groups; no single event. | author_insight
+V.43 | F43 | Historical background on DNA profiling's rise, given as what happened, with a citation. | reported
+V.44 | F44 | Direct quotation from a published commentary. | reported
+V.45 | F45 | Step-by-step description of the routine procedure and its review; what is done. | reported
+V.46 | F46 | Shows the wording of a report conclusion, in quotation. Note: the page offers it as what a report "could contain", not as a specific report from the lab. | reported
+V.47 | F47 | Lead sentence says what the graphs and tables conveyed to others ("an impression of scientific objectivity"): what an object meant to people in general. FLAG: mixed; the sentences on error reporting and reviewable records are plain report. | author_insight
+V.48 | F48 | Tells what analysts thought of the process and what the graphs contained, in analysts' own terms. FLAG: analysts' view across occasions in the author's voice, unquoted; "much like the rest of the lab" is her comparison. Contamination is the next sentence on the page. | reported
+V.49 | F49 | One conversation, both speakers quoted. | reported
+V.50 | F50 | Describes the routine review process (rounds of interpretation, back-and-forth, others drawn in). Note: the opening sentence on anomalies being "neatened" is interpretive and cited; the description leaves it out. | reported
+V.51 | F51 | A quoted remark by Terri; the "communal judgment" phrase is the gloss on that one remark. | reported
+V.52 | F52 | Author states what DNA profiling was "in the eyes of" the justice system, media and public; meaning to people at large, nothing shown. | author_insight
+V.53 | F53 | Author names and asserts a pervasive feeling ("what I call 'DNA envy'") as a consequence of DNA's legitimacy; her concept and her causal claim. | author_insight
+V.54 | F54 | Reports what members of other units often said about resources. | reported
+V.55 | F55 | One event (a new association formed) with its flyer quoted; the trace examiners' belief is the gloss on that event. | reported
+V.56 | F56 | Author's causal claim that the NAS report created tensions that spread and took various pathways; field-wide, in her constructs. | author_insight
+V.57 | F57 | One staff meeting; the director quoted. | reported
+V.58 | F58 | Author sets "in theory" against "in practice" and says work practices "resulted in" distinct cultures: her reading plus a causal explanation. FLAG: mixed; the training lengths (nine months; a year plus a year) are plain report. | author_insight
+V.59 | F59 | Author classifies, in her construct, the routes by which examiners met the comparison, across many events. MISMATCH: page says the pathways "included" these; description says "mainly". | author_insight
+V.60 | F60 | Block quotation from the NAS report. | reported
+V.61 | F61 | Author's summary of "the predominant sentiment" in public plus her causal claim that it "created evaluative pressure"; no event or speaker. FLAG: the first half alone could be read as a report of what was said. | author_insight
+V.62 | F62 | One statement by one speaker at one meeting. | reported
+V.63 | F63 | Author's characterisation of what the court challenges amounted to for "the entire discipline" and how the claims spread; several events, none shown. FLAG: borderline; could be read as a factual summary following the board member's remark. | author_insight
+V.64 | F64 | Describes the routine comparison procedure. | reported
+V.65 | F65 | Describes the documentation practice with its rationale, which Adam states in the next sentence. FLAG: the rationale ("as it reinforces") is in the author's voice and explains the practice in general; ambiguous. | reported
+V.66 | F66 | Adam quoted directly. | reported
+V.67 | F67 | Examiners quoted on then versus now. | reported
+V.68 | F68 | Describes how technical review was routinely done. Note: "resembled a communal judgment" is the author's characterisation inside the description. | reported
+V.69 | F69 | One review session narrated with dialogue; the closing "typical of" sentence is its gloss. | reported
+V.70 | F70 | Author attributes values to examiners in general ("placed great value on"; holistic judgment "manifested"); no single event. FLAG: people's values across events in the author's voice. | author_insight
+V.71 | F71 | States what the three examiners did (no regular use of CMS) and believed. FLAG: the belief is given in the author's voice across occasions; Tom's quote follows. | reported
+V.72 | F72 | Tom quoted. | reported
+V.73 | F73 | Tom quoted. | reported
+V.74 | F74 | Adam quoted. | reported
+V.75 | F75 | States what training consisted of and how long it took. | reported
+V.76 | F76 | Tom quoted at length. | reported
+V.77 | F77 | Author's summing-up of what "good" examiners valued and "chafed at"; an ideal type drawn from several conversations. FLAG: people's values across events in the author's voice. | author_insight
+V.78 | F78 | Reports that AFTE [9 words of Bechky (2020), p. 623] criticisms. | reported
+V.79 | F79 | One presentation described, speaker quoted; "responded defensively" is its gloss. | reported
+V.80 | F80 | One presentation described, speaker quoted. | reported
+V.81 | F81 | Recaps a fact (no exclusion yet) and examiners' concern, which the quoted speakers around it show. FLAG: opens "Thus" and gives concern across several speakers in the author's voice; ambiguous. | reported
+V.82 | F82 | One examiner quoted at the meeting; the "frustration" is observation of that moment. | reported
+V.83 | F83 | A narcotics analyst quoted. | reported
+V.84 | F84 | States two things that were the case: practice unchanged, and no challenge to their testimony locally. MISMATCH: page sets these side by side ("did not motivate"); the description's "because" makes the explanation explicit. Read as an explanation it would be author_insight. | reported
+V.85 | F85 | One conversation with Tom and Pete, both quoted. | reported
+V.86 | F86 | Author's account ("thus") of how examiners reasoned about statistics, ending in her own judgment that it would depart from their values. FLAG: could be read as the gloss on the single Tom and Pete conversation; it generalises to "the MCCL firearms examiners". | author_insight
+V.87 | F87 | Author explains why examiners dismissed change (distant pathway, values, technique "led them to"); explanation across many events. | author_insight
+V.88 | F88 | Author's words, but about one episode: one upcoming court challenge and the unit's change; it says why that went as it did. FLAG: coded under the one-event rule; "propelled" is the author's causal reading, and without that rule I would have said author_insight. | reported
+V.89 | F89 | States what the NAS report did and did not say about toxicology, with quotation. | reported
+V.90 | F90 | Reports what a defense attorney had done elsewhere and that a specific local case arose. | reported
+V.91 | F91 | Describes the unit's routine work. | reported
+V.92 | F92 | One batch followed step by step over two days. | reported
+V.93 | F93 | Descriptive summary of the workflow just shown and of the legal parties' familiarity with the report. Note: the author's own summarising words; page says "instrumental and standardized", not "highly". | reported
+V.94 | F94 | First-day event with the analysts' own label quoted, plus the checking routine. | reported
+V.95 | F95 | One morning's exchange, quoted. | reported
+V.96 | F96 | One moment at the bench, Jason quoted; the "vigilance" sentence is its gloss. | reported
+V.97 | F97 | Author's summing-up of what a "good toxicologist" was; an ideal type across events. FLAG: values in the author's voice. | author_insight
+V.98 | F98 | Sequence of what the lab and unit did: ISO work, the plan, the decision to implement at once. | reported
+V.99 | F99 | "As this shows": author classifies the route by contrast with public, media and scientific criticism and with the firearms case; a comparison across events. FLAG: its core is one event, so the one-event rule could make it reported. | author_insight
+V.100 | F100 | Gives toxicologists' reading of the one challenge, plus the fact that ASCLD already asked for the standard. FLAG: coded under the one-event rule; the wording is the author's analytic vocabulary. MISMATCH: page attributes the fit to how toxicologists "interpreted" it; description states the fit as fact. | reported
+V.101 | F101 | States protocol contents, legal and ASCLD requirements, and what the lab had been reporting. | reported
+V.102 | F102 | One outreach session, Jason quoted at length. | reported
+V.103 | F103 | Observation at that one presentation, plus the figures they could now report. | reported
+V.104 | F104 | Characterises one event: an MCCL analyst to be challenged personally in court. FLAG: one-event rule; "institutional pathway" is the author's label. MISMATCH: page says "very direct and immediate"; the description's "unusually" adds a comparison. | reported
+V.105 | F105 | Author classifies the route for narcotics ("followed an institutional pathway through") across association and listserv activity. FLAG: mixed; that narcotics escaped negative mention in the report is plain report. MISMATCH: the description's "so" and "mainly" are not on the page. | author_insight
+V.106 | F106 | States regional technique preferences, the community's agreement, and the analysts' worry. FLAG: "seen as compatible" and the worry are views in the author's voice. MISMATCH: page says the debate concerned them; description says the instrument output "made" them worry. | reported
+V.107 | F107 | Describes the daily routine and how crystal tests were done and recorded. | reported
+V.108 | F108 | Describes how the instrument method works. | reported
+V.109 | F109 | States when each method was used, the legal turnaround requirement and typical timing. Note: the page does not itself say turnaround made crystal tests "especially useful"; that link is the description's. | reported
+V.110 | F110 | An analyst quoted, plus the stated review and two-test requirements. | reported
+V.111 | F111 | Author characterises the group ("curious and thorough", "held fast to ideals") and compares its autonomy with toxicology; no single event. FLAG: mixed and ambiguous. MISMATCH: page says turnaround times "required" efficiency, not that analysts valued speed here. | author_insight
+V.112 | F112 | States what the daily box contained and quotes an analyst's excitement. | reported
+V.113 | F113 | Reports analysts' contrast with toxicology, with their words quoted; "craft-based" is the author's label. | reported
+V.114 | F114 | Taylor quoted. | reported
+V.115 | F115 | Author's general attribution of values ("valued careful science", "very prickly"), offered before the one event that illustrates it. FLAG: could be read as the gloss on that event (F116). | author_insight
+V.116 | F116 | One visit narrated with dialogue. | reported
+V.117 | F117 | Same visit; Tim and Taylor quoted; the "careful documentation" value is the gloss. | reported
+V.118 | F118 | Tells what one or two analysts did and that they were teased. Note: the host sentence's "because" clause about valuing efficiency is the author's. | reported
+V.119 | F119 | One meeting with IT, analysts quoted. | reported
+V.120 | F120 | Author's summing-up of what "good narcotics analysts" had to do; an ideal type across events. FLAG: values in the author's voice. MISMATCH: page says they "had to balance" efficiency with thoroughness; description says the work "combined" them. | author_insight
+V.121 | F121 | States the analysts' concern and their stated grounds; Jodi's quotation follows. FLAG: reasoning across occasions in the author's voice; board over-representation is not in the quote. | reported
+V.122 | F122 | Jodi quoted at length. | reported
+V.123 | F123 | Robin quoted, describing a workshop. | reported
+V.124 | F124 | Reports an online discussion and what MCCL analysts said about it. | reported
+V.125 | F125 | Reports what analysts discussed and one analyst's point about cost. | reported
+V.126 | F126 | Author ranks what troubled analysts "most" and names it in her terms (autonomy, variety, control), which the quoted analysts do not use. FLAG: ambiguous; could be read as a report of their concerns. | author_insight
+V.127 | F127 | Taylor quoted. | reported
+V.128 | F128 | Billie quoted. | reported
+V.129 | F129 | Author explains why analysts resisted ("Because" they valued autonomy; "therefore they held onto"); explanation across events. | author_insight
+V.130 | F130 | Framework-table cell: the author's summary label for the firearms routes. | author_insight
+V.131 | F131 | Framework-table cell: the author's label for the toxicology route. FLAG: it refers to one event, but as a classification in a cross-case table. | author_insight
+V.132 | F132 | Framework-table cell: the author's label for the narcotics route. | author_insight
+V.133 | F133 | Framework-table cell ("Yes—NAS report"): classifies the report as a pathway of spillover for firearms. | author_insight
+V.134 | F134 | Framework-table cell ("No"): the author's judgment of absence. Note: p. 625 says the toxicology path began with the NAS report's conclusions. | author_insight
+V.135 | F135 | Framework-table cell ("No"): the author's judgment of absence. | author_insight
+V.136 | F136 | Framework-table cell ("Yes—Media criticism"): classification under the author's pathway heading. | author_insight
+V.137 | F137 | Framework-table cell ("No"): the author's judgment of absence. | author_insight
+V.138 | F138 | Framework-table cell ("No"): the author's judgment of absence. | author_insight
+V.139 | F139 | Framework-table cell: classifies outside-jurisdiction admissibility challenges as a courts pathway for firearms. | author_insight
+V.140 | F140 | Framework-table cell: classifies the defense challenge as a courts pathway. FLAG: one event. Note: the cell is plural and accomplished ("challenges"); the text describes one anticipated challenge. | author_insight
+V.141 | F141 | Framework-table cell ("No"): the author's judgment of absence. Note: p. 632 mentions a workshop about a Daubert hearing that challenged crystal testing. | author_insight
+V.142 | F142 | Framework-table cell ("No"): the author's judgment, though the text shows an AFTE rebuttal and meeting presentations. MISMATCH: the cell says only "No"; "direct" and "at MCCL" are the description's. | author_insight
+V.143 | F143 | Framework-table cell: classifies ASCLD accreditation standards as a pathway. | author_insight
+V.144 | F144 | Framework-table cell: classifies the SWG-DRUG debate as a pathway. | author_insight
+V.145 | F145 | Framework-table cell: "Incompatible" with the author's reason; a judgment of fit. | author_insight
+V.146 | F146 | Framework-table cell: "Compatible"; a judgment of fit. MISMATCH: the cell says practices "were made compatible"; description says "could be aligned". | author_insight
+V.147 | F147 | Framework-table cell: "Compatible"; a judgment of fit. | author_insight
+V.148 | F148 | Framework-table cell: "Incompatible"; a judgment of fit, with an examiner's quoted words as illustration. | author_insight
+V.149 | F149 | Framework-table cell: "Compatible"; a judgment of fit. Note: the cell quotes "[8 words of Bechky (2020), p. 633]", which I could not find in the running text. | author_insight
+V.150 | F150 | Framework-table cell: "Incompatible"; a judgment of fit, with a quoted phrase as illustration. | author_insight
+V.151 | F151 | Framework-table cell: the author's characterisation of a stance ("Rejected evaluation and resisted"). MISMATCH: the cell says "resisted changing"; description says "did not change". | author_insight
+V.152 | F152 | Framework-table cell ("Adapted local practices"), coded with the table. FLAG: the plainest cell in it; it names one thing that happened, and in running text I would code it reported. | author_insight
+V.153 | F153 | Framework-table cell: the author's characterisation of a stance. MISMATCH: the cell says "Resisted changing"; description says "did not change". | author_insight
+V.154 | F154 | "As table 2 summarizes": the author's cross-group synthesis of how each group read DNA through technique, values and pathways. | author_insight
+V.155 | F155 | Author's cross-group claim that pathways shaped the urgency and character of change. | author_insight
+V.156 | F156 | Author's causal claim that NAS attention was "[8 words of Bechky (2020), p. 634]". | author_insight
+V.157 | F157 | States what DNA profiling meant to each occupation; the meaning of an object to people in general. | author_insight
+V.158 | F158 | "Thus": the author's conclusion on what spillovers depended on. | author_insight
+V.159 | F159 | Author's reading of what the comparison "reveals" across all three cases. MISMATCH: "importance differed by occupation" is not in this sentence; it summarises the sentences that follow. | author_insight
+V.160 | F160 | Discussion recap that weighs where comparisons were "primarily" taking place and says examiners "rebuffed" the pressure; synthesis across several events. | author_insight
+V.161 | F161 | Discussion limb of a three-case comparison ("In contrast"): explains why toxicologists changed, set against the absence of media, court and scientific attack. FLAG: its core is one event, so the one-event rule could make it reported, as I coded V.88, V.100 and V.104. | author_insight
+V.162 | F162 | Discussion synthesis: what narcotics did not face, and how association debates "raised" concerns that "influenced" discussions. | author_insight
+V.163 | F163 | Stated contribution: institutions mediate change by structuring how members interpret it. | author_insight
+V.164 | F164 | Explicit comparison of toxicology and firearms explaining their different responses; one short quotation embedded as support. | author_insight
+V.165 | F165 | "The study suggests": the author's proposal on what defines neighbouring occupations, with a stated limit. | author_insight
+V.166 | F166 | Author's explanation of each group's response by technique and values. | author_insight
+V.167 | F167 | Author's claim [6 words of Bechky (2020), p. 637], with a causal account of toxicologists' values. | author_insight
+V.168 | F168 | Author's weighing of status and power against the nature of the work as causes. | author_insight
+V.169 | F169 | General description of the field and the constraints on its practitioners; states what is the case. Note: I find this sentence on p. 611 only. | reported
+V.170 | F170 | Footnote stating a fact about small private laboratories. | reported
+V.171 | F171 | Describes what the CMS method is and how its threshold is derived, with a quoted heuristic. | reported
+V.172 | F172 | "This study shows": the paper's own claim about values and technique and about status and power. | author_insight

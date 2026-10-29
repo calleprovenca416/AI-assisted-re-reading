@@ -1,0 +1,1355 @@
+{
+  "paper": "Bechky 2020",
+  "codes": [
+    {
+      "unit": "W01-01",
+      "code": "R",
+      "page": "p. 629; p. 632",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W01-02",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W01-03",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W01-04",
+      "code": "P",
+      "page": "p. 631; p. 632",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": false,
+      "note": "Jodi anticipates a switch and Billie mentions other people preferring instruments; neither establishes that a majority of this unit would switch if capacity increased."
+    },
+    {
+      "unit": "W01-05",
+      "code": "R",
+      "page": "p. 629",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W01-06",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The paper records GC/MS use for cases crystal tests cannot resolve, without reporting an objection to that particular use; objections concern making instrumentation the routine method."
+    },
+    {
+      "unit": "W01-07",
+      "code": "R",
+      "page": "p. 631",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W01-08",
+      "code": "R",
+      "page": "p. 631",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W01-09",
+      "code": "R",
+      "page": "p. 632",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W01-10",
+      "code": "R",
+      "page": "p. 632",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W01-11",
+      "code": "R",
+      "page": "p. 632",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W01-12",
+      "code": "R",
+      "page": "p. 632",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W01-13",
+      "code": "R",
+      "page": "p. 631",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W01-14",
+      "code": "R",
+      "page": "p. 630; p. 631; p. 633",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W01-15",
+      "code": "R",
+      "page": "p. 621; p. 633; p. 635",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W01-16",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W02-01",
+      "code": "R",
+      "page": "p. 635; p. 636",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W02-02",
+      "code": "R",
+      "page": "p. 627; p. 628",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W02-03",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W02-04",
+      "code": "R",
+      "page": "p. 627; p. 628",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W02-05",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W02-06",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W02-07",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W02-08",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The specified discussion passage identifies the anticipated challenge and resulting activity, but does not specify the change; the reporting changes are described in the findings."
+    },
+    {
+      "unit": "W02-09",
+      "code": "R",
+      "page": "p. 625; p. 627; p. 633",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W02-10",
+      "code": "R",
+      "page": "p. 625; p. 627; p. 628; p. 635; p. 636",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W02-11",
+      "code": "R",
+      "page": "p. 627",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W02-12",
+      "code": "RI",
+      "page": "p. 627; p. 628",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W02-13",
+      "code": "R",
+      "page": "p. 627; p. 628",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W02-14",
+      "code": "R",
+      "page": "p. 625; p. 627; p. 628",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W02-15",
+      "code": "R",
+      "page": "p. 627; p. 628",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W02-16",
+      "code": "R",
+      "page": "p. 627; p. 628",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W02-17",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The single stepwise account of the blood-alcohol bench routine does not identify any step as newly introduced or altered."
+    },
+    {
+      "unit": "W02-18",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The paper provides no paired descriptions of the blood-alcohol bench routine before and after the reporting change."
+    },
+    {
+      "unit": "W02-19",
+      "code": "R",
+      "page": "p. 618; p. 619",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W02-20",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W03-01",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W03-02",
+      "code": "P",
+      "page": "p. 627; p. 628",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": false,
+      "note": "The paper identifies historical quality-control data and assessments of individual procedural components, but does not establish that the former supplied most of the uncertainty figure."
+    },
+    {
+      "unit": "W03-03",
+      "code": "R",
+      "page": "p. 625; p. 627",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W03-04",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "In the toxicology change account, no quoted participant invokes DNA; the anticipated attorney comparison is stated by the author."
+    },
+    {
+      "unit": "W03-05",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W03-06",
+      "code": "R",
+      "page": "p. 625",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W03-07",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The description of the existing DUI tactic on p. 625 does not mention DNA; the author supplies the expected DNA comparison later, on p. 627."
+    },
+    {
+      "unit": "W03-08",
+      "code": "R",
+      "page": "p. 627",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W03-09",
+      "code": "R",
+      "page": "p. 627",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W03-10",
+      "code": "R",
+      "page": "p. 627",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W03-11",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The printed outreach remarks reject the scrambling account and cite prior standards and work, without comparing toxicology with DNA."
+    },
+    {
+      "unit": "W03-12",
+      "code": "R",
+      "page": "p. 627; p. 628",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W03-13",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W03-14",
+      "code": "R",
+      "page": "p. 616; p. 627",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W03-15",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W03-16",
+      "code": "R",
+      "page": "p. 635",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W03-17",
+      "code": "R",
+      "page": "p. 635",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W04-01",
+      "code": "R",
+      "page": "p. 627; p. 633",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W04-02",
+      "code": "R",
+      "page": "p. 627",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W04-03",
+      "code": "R",
+      "page": "p. 627; p. 630",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W04-04",
+      "code": "R",
+      "page": "p. 616; p. 627",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W04-05",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W04-06",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W04-07",
+      "code": "R",
+      "page": "p. 627",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W04-08",
+      "code": "R",
+      "page": "p. 627",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W04-09",
+      "code": "P",
+      "page": "p. 627",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The sentence derives a pre-report date for the plan from paragraph order; the explicit pre-report date applies to the laboratory ISO work, while the plan is explicitly dated only before the challenge."
+    },
+    {
+      "unit": "W04-10",
+      "code": "R",
+      "page": "p. 616",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W04-11",
+      "code": "R",
+      "page": "p. 627",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W04-12",
+      "code": "R",
+      "page": "p. 627; p. 635",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W04-13",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W04-14",
+      "code": "R",
+      "page": "p. 627; p. 628",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W04-15",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "No printed toxicologist quotation mentions DNA. The anticipated comparison by the defense attorney is supplied in the author’s narrative."
+    },
+    {
+      "unit": "W04-16",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The unit’s quoted account invokes measurement standards and existing work, without naming DNA as its benchmark."
+    },
+    {
+      "unit": "W04-17",
+      "code": "R",
+      "page": "p. 625",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W04-18",
+      "code": "R",
+      "page": "p. 625",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W04-19",
+      "code": "R",
+      "page": "p. 630; p. 631",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W04-20",
+      "code": "R",
+      "page": "p. 630; p. 632",
+      "position": null,
+      "drift": true,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W04-21",
+      "code": "R",
+      "page": "p. 633",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W04-22",
+      "code": "R",
+      "page": "p. 633",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W05-01",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W05-02",
+      "code": "R",
+      "page": "p. 618; p. 619; p. 621; p. 622",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W05-03",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W05-04",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W05-05",
+      "code": "R",
+      "page": "p. 618; p. 619",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W05-06",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W05-07",
+      "code": "R",
+      "page": "p. 621",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W05-08",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W05-09",
+      "code": "R",
+      "page": "p. 622",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W05-10",
+      "code": "R",
+      "page": "p. 621; p. 622",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W05-11",
+      "code": "R",
+      "page": "p. 623",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W05-12",
+      "code": "R",
+      "page": "p. 623",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W05-13",
+      "code": "R",
+      "page": "p. 623; p. 624",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W05-14",
+      "code": "P",
+      "page": "p. 621; p. 623; p. 624",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The meeting speaker calls for attention to bias and more convincing testimony; identifying his proposed improvement specifically with the documentary record extends that account."
+    },
+    {
+      "unit": "W05-15",
+      "code": "R",
+      "page": "p. 627",
+      "position": null,
+      "drift": true,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W05-16",
+      "code": "R",
+      "page": "p. 627",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W05-17",
+      "code": "R",
+      "page": "p. 631; p. 632",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W05-18",
+      "code": "R",
+      "page": "p. 621; p. 622",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W06-01",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W06-02",
+      "code": "U",
+      "page": null,
+      "position": "mechanism",
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "Vacancy-driven initial placement is reported for Taylor, not established as the placement rule for analysts generally."
+    },
+    {
+      "unit": "W06-03",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W06-04",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The paper does not include transfer requests among responses to an imposed change of analytic method; the transfers it describes concern earlier career movements."
+    },
+    {
+      "unit": "W06-05",
+      "code": "R",
+      "page": "p. 613",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W06-06",
+      "code": "RI",
+      "page": "p. 613",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W06-07",
+      "code": "R",
+      "page": "p. 619; p. 620",
+      "position": null,
+      "drift": true,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W06-08",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W06-09",
+      "code": "R",
+      "page": "p. 630",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W06-10",
+      "code": "R",
+      "page": "p. 630",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W06-11",
+      "code": "R",
+      "page": "p. 626",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W06-12",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W06-13",
+      "code": "R",
+      "page": "p. 632",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W06-14",
+      "code": "R",
+      "page": "p. 632",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W06-15",
+      "code": "R",
+      "page": "p. 614",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W06-16",
+      "code": "R",
+      "page": "p. 614",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W06-17",
+      "code": "R",
+      "page": "p. 636",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W06-18",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W07-01",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W07-02",
+      "code": "R",
+      "page": "p. 629; p. 632",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W07-03",
+      "code": "R",
+      "page": "p. 631; p. 632",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W07-04",
+      "code": "R",
+      "page": "p. 629; p. 631; p. 632",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W07-05",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W07-06",
+      "code": "R",
+      "page": "p. 632; p. 633",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W07-07",
+      "code": "R",
+      "page": "p. 629",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W07-08",
+      "code": "RI",
+      "page": "p. 629",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W07-09",
+      "code": "R",
+      "page": "p. 631",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W07-10",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W07-11",
+      "code": "R",
+      "page": "p. 632",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W07-12",
+      "code": "R",
+      "page": "p. 632",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W07-13",
+      "code": "R",
+      "page": "p. 632",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W07-14",
+      "code": "P",
+      "page": "p. 632",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": false,
+      "note": "The paper compares camera and instrument costs, but assigns no camera-related turnaround time; treating cameras as an option that leaves turnaround unchanged is an inference."
+    },
+    {
+      "unit": "W07-15",
+      "code": "R",
+      "page": "p. 631",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W07-16",
+      "code": "R",
+      "page": "p. 629; p. 631",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W07-17",
+      "code": "R",
+      "page": "p. 630; p. 633; p. 637",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W07-18",
+      "code": "R",
+      "page": "p. 630; p. 632; p. 633; p. 637",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W08-01",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W08-02",
+      "code": "R",
+      "page": "p. 621; p. 622; p. 624",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W08-03",
+      "code": "P",
+      "page": "p. 623; p. 624; p. 635",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": false,
+      "note": "The defensive speakers are not explicitly identified as the examiners who personally underwent admissibility challenges; grouping them as exposed members requires an inference."
+    },
+    {
+      "unit": "W08-04",
+      "code": "R",
+      "page": "p. 606; p. 612; p. 614",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W08-05",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W08-06",
+      "code": "R",
+      "page": "p. 612; p. 614",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W08-07",
+      "code": "R",
+      "page": "p. 635; p. 636",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W08-08",
+      "code": "RI",
+      "page": "p. 623; p. 624; p. 635; p. 636",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W08-09",
+      "code": "R",
+      "page": "p. 621; p. 622",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W08-10",
+      "code": "R",
+      "page": "p. 621; p. 622",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W08-11",
+      "code": "R",
+      "page": "p. 621; p. 622; p. 624; p. 633",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W08-12",
+      "code": "R",
+      "page": "p. 621; p. 624",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W08-13",
+      "code": "P",
+      "page": "p. 621; p. 622; p. 624; p. 635",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The sentence infers the history behind earlier imaging changes from statements about unchallenged work; the paper does not date those changes against each examiner’s prior courtroom experience."
+    },
+    {
+      "unit": "W08-14",
+      "code": "R",
+      "page": "p. 623; p. 624",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W08-15",
+      "code": "P",
+      "page": "p. 623; p. 624; p. 635",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": false,
+      "note": "The account does not explicitly establish that the speakers attacking critics personally experienced contested testimony; connecting that experience to their defensiveness is inferred."
+    },
+    {
+      "unit": "W08-16",
+      "code": "R",
+      "page": "p. 623",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W08-17",
+      "code": "RI",
+      "page": "p. 623; p. 624",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W08-18",
+      "code": "R",
+      "page": "p. 620; p. 623",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W08-19",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W08-20",
+      "code": "R",
+      "page": "p. 612; p. 614",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "W08-21",
+      "code": "RI",
+      "page": "p. 612; p. 614; p. 624; p. 635; p. 636",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    }
+  ]
+}

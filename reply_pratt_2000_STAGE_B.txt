@@ -1,0 +1,591 @@
+1.1 | F02, C06 | Stub reports polarized reactions among people he met; nothing about anyone's identification state. | illustrates
+1.2 | F03, C01 | No outcome on this claim; stub has a speaker saying the organization changes members' thinking; states no limit on the claim. | illustrates
+1.3 | F04, C04 | Stub gives the condition only (no central workplace, no office setting); nothing about reliance on values as control. | illustrates
+1.4 | F04, C40 | Stub gives the dispersed setting only; nothing about a sense of common purpose. | illustrates
+1.5 | F05, C01 | No outcome; stub restates that distributors sought to reshape how members saw their connection; states no limit. | illustrates
+1.6 | F05, C37 | No outcome; stub concerns members' sense of connection and mentions no relationships; states no limit. | illustrates
+1.7 | F06, C10 | Stub reports varied backgrounds at functions (the condition); nothing about identification. | illustrates
+1.8 | F09, C37 | No outcome; stub describes the sponsorship structure of upline and downline ties; states no limit. | illustrates
+1.9 | F10, C20 | Stub reports ranks and how training is delivered; nothing about how or with whom members make sense of things. | illustrates
+1.10 | F10, C23 | Stub says training comes through upline instruction and the system; it does not report members relying on these to interpret anything, or outside influence. | illustrates
+1.11 | F11, C04 | Stub reports dispersal, part-time start, fees and independent status under Amway rules; nothing on value-based control. | illustrates
+1.12 | F11, C40 | Stub gives the dispersed, part-time setting only; nothing on common purpose. | illustrates
+1.13 | F11, C50 | Stub gives the part-time, independent membership setting; nothing on motivation to attach to the organization. | illustrates
+1.14 | F13, C31 | Stub reports outsiders' low regard for sales work (the condition); nothing on how strict boundaries are or need to be. | illustrates
+1.15 | F14, C31 | Stub reports a warning that outsiders may hold negative beliefs (the condition); nothing on the need for boundaries. | illustrates
+1.16 | F15, C37 | No outcome; stub has a network member advising the researcher on his career with a religious appeal; states no limit. | illustrates
+1.17 | F15, C43 | Stub reports advice that distributing lets one do more good, backed by religion; no one's felt purpose or belonging is reported. | illustrates
+1.18 | F17, C01 | No outcome; stub restates that Amway tried to manage identification through how members read themselves and their relationships; states no limit. | illustrates
+1.19 | F17, C11 | Stub reports what Amway tried to shape, not which identification states resulted. | illustrates
+1.20 | F17, C37 | No outcome; stub says identification was managed through how members read their relationships; states no limit. | illustrates
+1.21 | F18, C06 | Stub reports the outcome: the positive, negative and ambivalent groups defined themselves through Amway and the weak-attachment group is set apart, as the claim lines them up. | with
+1.22 | F18, C11 | Stub reports the four identification patterns the claim names, and self-definition through Amway; the sensemaking behind them is not shown, and nothing puts them down to another cause. | with
+1.23 | F19, C01 | No outcome; stub says reactions tracked two practices; states no limit. | illustrates
+1.24 | F19, C07 | Step 1 unclear because the stub says "reactions", not identification: if this claim were false, this stub would instead say reactions did not track the success or failure of the two practices; it says they did. | with
+1.25 | F20, C08 | Stub reports identification unrelated to prospecting among members, all of them already recruited: the outcome as asserted. | with
+1.26 | F21, C01 | No outcome; stub pairs practice success with identification states; states no limit. | illustrates
+1.27 | F21, C02 | Stub reports positive identification where both practices succeeded. | with
+1.28 | F21, C03 | Stub reports disidentification where positive programming failed. | with
+1.29 | F21, C07 | Stub reports different identification states for different success combinations. | with
+1.30 | F21, C11 | Stub reports positive identification and disidentification, two of the states named; it is silent on sensemaking but does not show it absent ("appeared with" is association, not a rival cause). | with
+1.31 | F21, C28 | Stub reports disidentification with successful dream building and failed positive programming. | with
+1.32 | F22, C09 | Step 1 unclear because the stub names quitting and favouring, not identification: if this claim were false, this stub would instead say the high sellers stayed keen and the low earners were the ones who left; it says the reverse occurred. | with
+1.33 | F23, C09 | Stub reports unclear and disputed profit figures; nothing about identification. | illustrates
+1.34 | F24, C09 | Stub reports shares of active and high-volume distributors; nothing about identification. | illustrates
+1.35 | F25, C09 | Stub reports a modest typical gross income; nothing about identification. | illustrates
+1.36 | F26, C10 | Stub reports identification type not matched by demographic groupings: women and the college-educated spread across groups. | with
+1.37 | F27, C01 | No outcome; stub ties success and failure of the practices to identification states; states no limit. | illustrates
+1.38 | F27, C02 | Stub reports members defining themselves in organizational terms where the practices succeeded. | with
+1.39 | F27, C03 | Stub reports absent, oppositional or mixed identification where the practices failed. | with
+1.40 | F27, C07 | Stub reports identification differing with success or failure of the practices. | with
+1.41 | F27, C11 | Stub reports the identification states and that successful practices led members to define themselves in organizational terms: self-interpretation yielding a state. | with
+1.42 | F28, C01 | No outcome; stub describes the first step of dream building; states no limit. | illustrates
+1.43 | F28, C12 | Stub reports the first step of the practice (linking possessions to self); nothing about discontent or a need for meaning. | illustrates
+1.44 | F28, C13 | Stub reports how dream building begins, i.e. the condition; seekership itself is not reported. | illustrates
+1.45 | F28, C14 | Step 1 unclear (linking possessions to self is close to incorporation): if this claim were false, this stub would instead say the same thing, that the exercise links possessions to self; it reports the practice, not how readily dreams were taken in. | illustrates
+1.46 | F28, C54 | Stub reports goals being linked to the self (the condition); nothing about their motivational force. | illustrates
+1.47 | F29, C01 | No outcome; stub reports aspiration types counted in success stories; states no limit. | illustrates
+1.48 | F29, C13 | Stub reports which aspirations appear in success stories; nothing about seekership. | illustrates
+1.49 | F30, C01 | No outcome; stub reports one participant's imagined home; states no limit. | illustrates
+1.50 | F30, C13 | Stub reports the content of a dream; nothing about discontent or a search for meaning. | illustrates
+1.51 | F30, C14 | Stub reports a dream being voiced, not its being folded into the participant's sense of self. | illustrates
+1.52 | F31, C01 | No outcome; stub reports a taped speaker's picture of freedom and an enthusiastic audience; states no limit. | illustrates
+1.53 | F31, C13 | Stub reports a dream presented and applauded; seekership is not reported. | illustrates
+1.54 | F31, C14 | Stub reports audience enthusiasm (the emotion condition); nothing about dreams entering anyone's sense of self. | illustrates
+1.55 | F32, C01 | No outcome; stub reports a distributor's family reasons for wanting more money; states no limit. | illustrates
+1.56 | F32, C13 | Stub reports a family-centred aspiration; discontent with who he is, or a search for meaning, would have to be inferred. | illustrates
+1.57 | F32, C14 | Stub reports a dream built around his wife and daughter (the familiarity condition); incorporation into the self is not reported. | illustrates
+1.58 | F33, C01 | No outcome; stub reports an upline's pitch that recruiting is a higher calling; states no limit. | illustrates
+1.59 | F33, C13 | Stub reports what an upline told the researcher; nothing about seekership arising. | illustrates
+1.60 | F33, C18 | Stub reports an upline framing distributing as a calling; it does not report any distributor's areas of life becoming tied to the identity. | illustrates
+1.61 | F34, C01 | No outcome; stub reports one distributor's altruistic dream; states no limit. | illustrates
+1.62 | F34, C13 | Stub reports the content of a dream; seekership is not reported. | illustrates
+1.63 | F34, C14 | Stub reports a personal dream, not how readily it was taken into her sense of self. | illustrates
+1.64 | F34, C18 | Stub reports one dream to be funded by Amway; how much of her life is tied to being a distributor is not reported. | illustrates
+1.65 | F34, C43 | Stub reports the social purpose of a planned home, not purpose or belonging she feels through Amway. | illustrates
+1.66 | F35, C01 | No outcome; stub lists the channels through which model dreams reached members; states no limit. | illustrates
+1.67 | F35, C13 | Stub reports exposure to model dreams (the practice); seekership is not reported. | illustrates
+1.68 | F35, C14 | Stub reports exposure to others' dreams and wealth; nothing on dreams entering members' sense of self. | illustrates
+1.69 | F36, C01 | No outcome; stub reports upline-led dream sessions and shopping trips; states no limit. | illustrates
+1.70 | F36, C13 | Stub reports the practice being carried out; seekership is not reported. | illustrates
+1.71 | F36, C14 | Stub reports tailoring of sessions (the condition); incorporation is not reported. | illustrates
+1.72 | F37, C01 | No outcome; stub reports a speaker ranking money and power above status; states no limit. | illustrates
+1.73 | F37, C13 | Stub reports what a speaker told prospects; seekership is not reported. | illustrates
+1.74 | F37, C14 | Stub reports a speaker steering which dreams count; nothing on incorporation into the self. | illustrates
+1.75 | F38, C01 | No outcome; stub describes a bounded menu of dreams combined per distributor; states no limit on this claim. | illustrates
+1.76 | F38, C13 | Stub describes how dreams are assembled (the practice); seekership is not reported. | illustrates
+1.77 | F38, C14 | Stub reports the choice and personalising conditions, and that the menu is bounded; it says nothing on how readily dreams entered the self. | illustrates
+1.78 | F39, C01 | No outcome; stub reports the researcher's excitement and doubt about a dream; states no limit. | illustrates
+1.79 | F39, C13 | Stub reports excitement about a dream, not discontent with self or a search for meaning. | illustrates
+1.80 | F39, C14 | Stub reports the emotion condition (excitement); the dream becoming part of his sense of self is not reported. | illustrates
+1.81 | F39, C54 | Stub reports a feeling (excitement despite doubt), not force on his willingness to act. | illustrates
+1.82 | F40, C01 | No outcome; stub restates the identity-deficit mechanism; states no limit. | illustrates
+1.83 | F40, C12 | Stub reports the practice leaving the current self feeling inadequate and pushing members to change: the unsettled, discontented state the outcome names, though not called seekership. | with
+1.84 | F40, C13 | Stub reports dream building producing an identity deficit that pushed members toward change: the outcome going the asserted way. | with
+1.85 | F40, C15 | Stub reports the gap between desired and current self pushing members toward change. | with
+1.86 | F40, C35 | Stub reports a push toward change; it says nothing about being moved to identify with the organization. | illustrates
+1.87 | F40, C54 | Stub reports a self-tied aspiration (the desired future self) exerting a push toward change; it makes no comparison with goals not tied to self. | with
+1.88 | F41, C01 | No outcome; stub reports comfort-zone talk and urging to change; states no limit. | illustrates
+1.89 | F41, C15 | Stub reports how contentment was framed and that change was urged (the deficit side); it does not report distributors being moved to change. | illustrates
+1.90 | F41, C16 | Stub does not report motivation being stronger or weaker with prior dissatisfaction. | illustrates
+1.91 | F41, C35 | Stub reports talk that devalues the current life; nothing about motivation to identify. | illustrates
+1.92 | F42, C01 | No outcome; stub reports one distributor's view of the comfort zone; states no limit. | illustrates
+1.93 | F42, C15 | Stub reports a belief that standing still is decline (how the current self is valued); his motivation to change is not reported. | illustrates
+1.94 | F43, C01 | No outcome; stub reports DeVos urging bigger dreams; states no limit. | illustrates
+1.95 | F43, C17 | Stub reports the urging to replace dreams (the practice); members' continuing seekership is not reported. | illustrates
+1.96 | F43, C34 | No outcome; stub reports advice to keep aspiring; states no limit. | illustrates
+1.97 | F44, C01 | No outcome; stub reports a rally exhortation to keep striving; states no limit. | illustrates
+1.98 | F44, C17 | Stub reports an exhortation to keep striving (the practice); seekership is not reported. | illustrates
+1.99 | F44, C34 | No outcome; stub reports an exhortation never to treat an achievement as final; states no limit. | illustrates
+1.100 | F45, C01 | No outcome; stub reports aspirations shifting over time; states no limit. | illustrates
+1.101 | F45, C17 | Stub reports dreams being succeeded by larger ones (the condition, continued dream building); a renewed need for self-validation is not reported. | illustrates
+1.102 | F45, C18 | Stub reports a shift in what dreams were about, not more areas of life becoming tied to the distributor identity. | illustrates
+1.103 | F45, C38 | Stub reports changing aspirations; nothing on depth of identification. | illustrates
+1.104 | F46, C01 | No outcome; stub reports a tape's patriotic claim for Amway; states no limit. | illustrates
+1.105 | F46, C18 | Stub reports how a tape presented Amway; no distributor's life domains are reported. | illustrates
+1.106 | F46, C43 | Stub reports a tape's message, not purpose or belonging felt by distributors. | illustrates
+1.107 | F47, C01 | No outcome; stub reports a speaker framing participation as moral struggle; states no limit. | illustrates
+1.108 | F47, C18 | Stub reports a speaker's framing of participation; the breadth of anyone's life tied to the identity is not reported. | illustrates
+1.109 | F47, C43 | Stub reports a speaker's rhetoric of moral struggle; felt purpose or belonging among distributors is not reported. | illustrates
+1.110 | F48, C01 | No outcome; stub restates what repeated dream building did; states no limit. | illustrates
+1.111 | F48, C12 | Stub reports members kept in an ongoing search for self-validation by the sensebreaking practice. | with
+1.112 | F48, C13 | Stub reports dream building keeping members in an ongoing search for self-validation. | with
+1.113 | F48, C17 | Stub reports repeated dream building keeping members in an ongoing search for self-validation. | with
+1.114 | F48, C18 | Stub reports repeated dream building increasingly tying social, business and spiritual life to the distributor identity. | with
+1.115 | F48, C19 | Stub reports the search itself (an ongoing search for self-validation) going on; it does not separate it from seekership. | with
+1.116 | F48, C38 | Stub reports more of life tied to the identity (the condition); depth of identification is not reported. | illustrates
+1.117 | F48, C43 | Stub reports life domains tied to the identity (the condition); felt purpose or belonging is not reported. | illustrates
+1.118 | F49, C01 | No outcome; stub describes how seekers used their dreams; states no limit. | illustrates
+1.119 | F49, C12 | Stub reports seekers dissatisfied with the present self and treating dreams as reasons to keep changing: the outcome present; sensebreaking is not named. | with
+1.120 | F49, C13 | Stub reports dreams standing for dissatisfaction with the self and serving as reasons to keep changing. | with
+1.121 | F49, C14 | Stub reports dreams personalised around family, possessions and helping, and used to represent the person's own dissatisfaction: dreams taken into the self. | with
+1.122 | F49, C15 | Stub reports dissatisfaction with the present self alongside dreams treated as reasons to keep changing. | with
+1.123 | F49, C19 | Stub reports dissatisfaction and a drive to change; a search for interpretations of who they are is not reported. | illustrates
+1.124 | F49, C50 | Stub reports seekers' dreams and drive to change; nothing about attachment to the organization or the membership setting. | illustrates
+1.125 | F49, C54 | Stub reports personalised (self-tied) dreams treated as reasons to keep changing: they carry motivating force. | with
+1.126 | F50, C01 | No outcome; stub reports one distributor's sacrifices for growth; states no limit. | illustrates
+1.127 | F50, C15 | Stub reports a distributor giving up habits in order to pursue growth, i.e. moved to change how he lives; no discrepancy is mentioned and no other cause is given. | with
+1.128 | F50, C32 | Stub reports self-chosen sacrifices; no organizational request is mentioned. | illustrates
+1.129 | F51, C01 | No outcome; stub reports a top distributor's nightly activity; states no limit. | illustrates
+1.130 | F51, C26 | Stub reports continued business-building (presenting the business, helping downline), not continued dream building or re-enactment as such; the stub does not carry the outcome. | illustrates
+1.131 | F51, C32 | Stub reports what he does night after night; no organizational request is mentioned. | illustrates
+1.132 | F52, C01 | No outcome; stub reports a successful distributor still building; states no limit. | illustrates
+1.133 | F52, C17 | Stub reports continued business-building by a successful distributor; a need for self-validation is not reported. | illustrates
+1.134 | F52, C26 | Stub reports continued business-building, not continued dream building or re-enactment of the identification process as such. | illustrates
+1.135 | F52, C33 | Stub reports continued business-building; receptivity to further practices is not reported. | illustrates
+1.136 | F53, C01 | No outcome; stub describes what positive programming directs members to do; states no limit. | illustrates
+1.137 | F53, C20 | Stub describes what positive programming does (channelling, a mentor defining what is desirable); the resulting sensemaking is not reported. | illustrates
+1.138 | F53, C22 | Stub reports steering toward and away from relationships (barrier-making, the condition); encapsulation is not reported. | illustrates
+1.139 | F53, C23 | Stub reports the mentor defining desirable relationships and information; members' reliance on such sources is not reported. | illustrates
+1.140 | F54, C01 | No outcome; stub reports DeVos's birth-attendant image of a mentor; states no limit. | illustrates
+1.141 | F54, C20 | Stub reports an image of mentoring; nothing on members' sensemaking. | illustrates
+1.142 | F54, C21 | Stub reports a published image of a helping mentor who moves on; the strength of any tie is not reported. | illustrates
+1.143 | F55, C01 | No outcome; stub reports affection displayed at functions; states no limit. | illustrates
+1.144 | F55, C20 | Stub reports displays of affection; nothing on sensemaking. | illustrates
+1.145 | F55, C21 | Step 1 unclear (displays of affection could be care enacted or strong ties): if this claim were false, this stub would instead say the same, that speakers voiced affection and people hugged; it reports the enacting, not the bond. | illustrates
+1.146 | F55, C43 | Stub reports gestures and family framing at events; what members felt is not reported. | illustrates
+1.147 | F56, C01 | No outcome; stub reports distributors' sayings; states no limit. | illustrates
+1.148 | F56, C20 | Stub reports sayings about relationships and support; nothing on sensemaking. | illustrates
+1.149 | F56, C21 | Stub reports sayings, not how strong any upline–downline tie was. | illustrates
+1.150 | F56, C37 | No outcome; stub reports sayings tying staying and success to relationships; states no limit. | illustrates
+1.151 | F57, C01 | No outcome; stub reports one distributor crediting her upline's help; states no limit. | illustrates
+1.152 | F57, C21 | Step 1 unclear (support or bond?): if this claim were false, this stub would instead say she was helped but did not credit her upline or rate them above her old workplace; it says she did both. | with
+1.153 | F57, C22 | Stub reports her rating her old workplace below Amway support (revaluing, the condition); encapsulation is not reported. | illustrates
+1.154 | F57, C37 | No outcome; stub reports a distributor crediting upline support through a divorce; states no limit. | illustrates
+1.155 | F57, C43 | Stub reports help from her upline and her comparison with a former workplace; a felt sense of purpose or community is not stated. | illustrates
+1.156 | F58, C01 | No outcome; stub reports the teaching to copy uplines, with the choice formally left open; that is not a stated limit on the claim. | illustrates
+1.157 | F58, C20 | Stub reports what new members were taught; whether their sensemaking became upline-centred is not reported. | illustrates
+1.158 | F58, C24 | Stub reports that the choice was formally left to members (the condition); nothing on distributor identity in later interpretation. | illustrates
+1.159 | F59, C01 | No outcome; stub reports an upline helping a member off drugs; states no limit. | illustrates
+1.160 | F59, C21 | Stub reports personal help given (the condition); the strength of the tie is not reported. | illustrates
+1.161 | F59, C37 | No outcome; stub reports an upline's part in a member's life change; states no limit. | illustrates
+1.162 | F60, C01 | No outcome; stub reports sponsors' gift of food to a couple in need; states no limit. | illustrates
+1.163 | F60, C21 | Step 1 unclear (tearful recall): if this claim were false, this stub would instead say the same, that the gift was given and tearfully recalled; it does not say the couple grew closer to their sponsors. | illustrates
+1.164 | F60, C43 | Stub reports help in a time of need and emotion in recalling it; purpose or belonging through Amway is not stated. | illustrates
+1.165 | F61, C01 | No outcome; stub reports an upline's account of support in his group; states no limit. | illustrates
+1.166 | F61, C20 | Stub reports strong personal support in his group; nothing on sensemaking. | illustrates
+1.167 | F61, C21 | Stub reports unusually strong ties between an upline and his group; it says nothing about what produced them and gives no other cause. | with
+1.168 | F61, C43 | Stub reports a felt community (about a hundred people he can count on, valued as an intangible benefit); the joining of life domains is not mentioned. | with
+1.169 | F62, C01 | No outcome; stub reports a distributor's wish to join upline golf trips; states no limit. | illustrates
+1.170 | F62, C21 | Stub reports liking and admiration for upline members strong enough to shape his goals; it says nothing about why. | with
+1.171 | F63, C01 | No outcome; stub reports the range of mentors' advice and steering; states no limit. | illustrates
+1.172 | F63, C20 | Stub reports what mentors advised and steered (the practice); members' resulting sensemaking is not reported. | illustrates
+1.173 | F63, C22 | Stub reports mentors steering members from unsupportive outsiders (barrier-making); encapsulation is not reported. | illustrates
+1.174 | F63, C23 | Stub reports advice being offered on many matters; members' reliance on it is not reported. | illustrates
+1.175 | F63, C37 | No outcome; stub reports mentors advising on life matters and on outsiders; states no limit. | illustrates
+1.176 | F64, C01 | No outcome; stub reports uplines' portrayal of non-Amway businesses; states no limit. | illustrates
+1.177 | F64, C22 | Stub reports uplines running down outside businesses (revaluing, the condition); encapsulation is not reported. | illustrates
+1.178 | F65, C01 | No outcome; stub reports how the practice presents bosses and corporations; states no limit. | illustrates
+1.179 | F65, C20 | Stub reports how the practice presents bosses and corporations; the resulting sensemaking is not reported. | illustrates
+1.180 | F65, C22 | Stub reports the revaluing of workplace ties (the condition); encapsulation is not reported. | illustrates
+1.181 | F65, C37 | No outcome; stub reports Amway ties being ranked above workplace ties; states no limit. | illustrates
+1.182 | F66, C01 | No outcome; stub reports one distributor's view of conventional firms; states no limit. | illustrates
+1.183 | F66, C22 | Stub reports a distributor's low view of conventional work relationships (revaluing); encapsulation is not reported. | illustrates
+1.184 | F67, C01 | No outcome; stub reports a distributor declining a role at a friend's wedding; states no limit. | illustrates
+1.185 | F67, C22 | Step 1 unclear (one refusal could be barrier or separation): if this claim were false, this stub would instead say he took the role and missed the function; it says he put the Amway event before the friend. | with
+1.186 | F67, C42 | Stub reports a refusal; it names no cost, loss or strain to him or the organization. | illustrates
+1.187 | F68, C01 | No outcome; stub reports what distributors were told about family and spouses; states no limit. | illustrates
+1.188 | F68, C22 | Stub reports what distributors were told about family and spouses (the practice); encapsulation is not reported. | illustrates
+1.189 | F68, C55 | Step 1 unclear: if this claim were false, this stub would instead say unsupportive spouses were to be treated like any other unsupportive outsider; it says members were to keep trying to bring them in. | with
+1.190 | F69, C01 | No outcome; stub reports a published warning about discouraging friends and relatives; states no limit. | illustrates
+1.191 | F69, C22 | Stub reports a published warning about discouraging friends and relatives (revaluing); encapsulation is not reported. | illustrates
+1.192 | F69, C23 | Stub reports a warning about outsiders; members' sources of sensemaking are not reported. | illustrates
+1.193 | F69, C31 | Stub reports a warning that unfavourable intimates do harm (the condition, at its low end); how strict boundaries need to be is not reported. | illustrates
+1.194 | F70, C01 | No outcome; stub describes a permeable insider–outsider line; it does not limit this claim. | illustrates
+1.195 | F70, C22 | Stub explicitly limits how far barriers seal members off: the boundary stayed permeable, with interested outsiders drawn in, marginal members kept and spouses in between. | qualifies
+1.196 | F70, C31 | Step 1 unclear (stub gives actual permeability, not "need"): if this claim were false, this stub would instead say interested outsiders were held off like any others; it says they were drawn in quickly. | with
+1.197 | F70, C55 | Stub reports the line shifting with outsiders' interest, marginal members' retention and spouses' in-between position, as asserted. | with
+1.198 | F71, C01 | No outcome; stub reports advice on inviting and limiting contact; states no limit. | illustrates
+1.199 | F71, C22 | Stub reports what members were encouraged to do about unsupportive contacts (the barrier); encapsulation achieved is not reported. | illustrates
+1.200 | F71, C23 | Stub reports encouragement to limit contact; members' sources of sensemaking are not reported. | illustrates
+1.201 | F71, C25 | Stub reports advice on inviting and limiting contact; belief about Amway relationships is not reported. | illustrates
+1.202 | F71, C55 | Stub reports invitations continuing and contact cut only until the outsider's stance changed: the line moves with the outsider's interest. | with
+1.203 | F72, C01 | No outcome; stub describes how social encapsulation grew; states no limit. | illustrates
+1.204 | F72, C20 | Stub reports social encapsulation growing, not members' sensemaking becoming upline-centred. | illustrates
+1.205 | F72, C22 | Stub reports encapsulation growing and puts it down to time spent with other distributors and to recruiting and training, not to barriers against outside relationships: the outcome with another cause. | against
+1.206 | F72, C23 | Stub reports social encapsulation (the condition); what members relied on in sensemaking is not reported. | illustrates
+1.207 | F72, C60 | Stub reports social life filling with Amway supporters; organization-centred meaning-making is not reported. | illustrates
+1.208 | F73, C01 | No outcome; stub describes how ideological encapsulation let members set critics aside; states no limit. | illustrates
+1.209 | F73, C20 | Step 1 unclear (stub says encapsulation, not sensemaking): if this claim were false, this stub would instead say members weighed critics' words on their merits; it says they read critics through the organization's relationship standard and discounted them. | with
+1.210 | F73, C22 | Stub reports encapsulation working through the relationship standard: critics classed as failing it, then contact with them reduced. | with
+1.211 | F73, C23 | Stub reports negative outside evaluations losing their force: criticism discounted and contact with critics reduced. | with
+1.212 | F74, C01 | No outcome; stub reports a distributor's hard first months after friends and relatives reacted harshly; states no limit. | illustrates
+1.213 | F74, C22 | Stub reports harsh reactions from friends and relatives; his separation from them is not reported. | illustrates
+1.214 | F74, C25 | Stub reports rejection and that it was hard on him; what he came to believe about Amway relationships is not reported. | illustrates
+1.215 | F74, C42 | Step 1 unclear (a hardship is named): if this claim were false, this stub would instead say the same, that friends' harsh reactions made the first months hard; the hardship is put to outsiders, not presented as a cost of the practices. | illustrates
+1.216 | F75, C01 | No outcome; stub reports non-members avoiding distributor friends and relatives, and why; states no limit. | illustrates
+1.217 | F75, C22 | Step 1 unclear (outsiders keeping away is a kind of separation): if this claim were false, this stub would instead say the same, that non-members kept away because they felt used; members' own encapsulation is not reported. Considered against. | illustrates
+1.218 | F75, C25 | Stub reports non-members' avoidance and their reason; members' beliefs about relationships are not reported. | illustrates
+1.219 | F75, C42 | Stub reports non-members keeping away; no cost to members or the organization is named. | illustrates
+1.220 | F76, C01 | No outcome; stub reports distancing on both sides; states no limit. | illustrates
+1.221 | F76, C22 | Stub reports distributors and outsiders kept apart, with distributors themselves withdrawing: separation present, cause not stated. | with
+1.222 | F76, C23 | Stub reports distancing (the condition); what members relied on in sensemaking is not reported. | illustrates
+1.223 | F76, C42 | Stub reports mutual distancing; no cost is named. | illustrates
+1.224 | F77, C01 | No outcome; stub states what freely chosen distributor behaviour did to commitment and identity; states no limit. | illustrates
+1.225 | F77, C11 | Stub reports commitment and a more salient distributor identity; no identification state is reported. | illustrates
+1.226 | F77, C24 | Stub reports freely chosen distributor behaviour strengthening commitment and making the distributor identity more salient in later sensemaking. | with
+1.227 | F78, C01 | No outcome; stub describes a relationship standard confirmed whichever way a recruit answers; states no limit. | illustrates
+1.228 | F78, C22 | Stub reports the relationship standard being confirmed either way (the condition); encapsulation is not reported. | illustrates
+1.229 | F78, C25 | Stub reports either acceptance or rejection being read as confirming that Amway relationships are superior. | with
+1.230 | F78, C49 | Step 1 unclear (stub says self-reinforcing standard, not balance or stable sensemaking): if this claim were false, this stub would instead say a refusal unsettled the member's reading of relationships; it says either answer confirmed it. | with
+1.231 | F79, C01 | No outcome; stub describes what encapsulated sensemaking consisted of; states no limit. | illustrates
+1.232 | F79, C11 | Stub describes encapsulated sensemaking; no identification state is reported. | illustrates
+1.233 | F79, C20 | Stub reports encapsulated sensemaking in place (strong upline ties, negative ties avoided, uplines relied on to interpret); positive programming is not named and no other cause is given. | with
+1.234 | F79, C22 | Stub reports relationships labelled negative being avoided alongside strong upline ties: the labelling and the separation together. | with
+1.235 | F79, C23 | Stub reports heavy reliance on upline sources in interpreting events and people, together with avoidance of negative relationships. | with
+1.236 | F79, C60 | Stub reports organization-centred sensemaking going with strong upline ties and avoided negative relationships. | with
+1.237 | F80, C01 | No outcome; stub reports a distributor's view that staying active depends on a close upline relationship; states no limit. | illustrates
+1.238 | F80, C20 | Stub reports staying active as depending on a close upline relationship; sensemaking is not reported. | illustrates
+1.239 | F80, C21 | Stub says a close upline relationship is needed to stay active; it does not report how strong any tie was or what made it so. | illustrates
+1.240 | F80, C23 | Stub reports reliance on upline support to keep the business going, not reliance on Amway sources to interpret things. | illustrates
+1.241 | F81, C01 | No outcome; stub reports a distributor calling her uplines substitute parents; states no limit. | illustrates
+1.242 | F81, C21 | Stub reports a tie strong enough for her to call uplines substitute parents who succeeded where her own had not; nothing said on why. | with
+1.243 | F81, C37 | No outcome; stub reports a member describing uplines in parental terms; states no limit. | illustrates
+1.244 | F82, C01 | No outcome; stub reports a parental label for one distributor's mentoring; states no limit. | illustrates
+1.245 | F82, C21 | Stub reports a label for a mentoring style; the strength of any tie is not reported. | illustrates
+1.246 | F83, C01 | No outcome; stub reports Ken reading a fight with his boss through Amway's label; states no limit. | illustrates
+1.247 | F83, C22 | Stub reports a boss relationship re-read through Amway's negative label (revaluing, the condition); his being cut off from outsiders is not reported. | illustrates
+1.248 | F83, C23 | Stub reports him using an Amway label to interpret an episode with a boss he had liked. | with
+1.249 | F83, C24 | Stub reports a work episode read in distributor terms (Amway's label for bosses); freely chosen distributor acts are not mentioned and no other cause is given. | with
+1.250 | F83, C36 | Step 1 unclear (stub never names identification): if this claim were false, this stub would instead say he read the fight in ordinary terms; it says Amway's label became the meaning of it. | with
+1.251 | F83, C37 | No outcome; stub reports a boss relationship re-read in Amway's terms; states no limit. | illustrates
+1.252 | F84, C01 | No outcome; stub reports a distributor's reading of friends who avoided her; states no limit. | illustrates
+1.253 | F84, C22 | Stub reports her kept apart from former friends and her re-reading of those relationships: revaluing and separation both present, though the friends' avoidance comes first. | with
+1.254 | F84, C23 | Step 1 unclear (no Amway source is named): if this claim were false, this stub would instead say she took the friends' avoidance as a verdict on Amway or on herself; it says she took it as a lesson about them. | with
+1.255 | F84, C25 | Stub reports a refusal by friends being read as telling against those relationships: the rejection branch going the asserted way; Amway relationships are not named. | with
+1.256 | F84, C36 | Stub reports how she read the refusal; it does not say an identification, or any Amway frame, shaped that reading. | illustrates
+1.257 | F84, C37 | No outcome; stub reports a member re-reading friendships after being avoided; states no limit. | illustrates
+1.258 | F85, C01 | No outcome; stub reports a distributor concluding her upline had been right about her friends; states no limit. | illustrates
+1.259 | F85, C23 | Stub reports her concluding that her upline and the recordings had been right: credence in Amway sources rising after the event. | with
+1.260 | F85, C25 | Step 1 unclear (stub concerns the upline being right, not relationships being superior): if this claim were false, this stub would instead say the failed attempt made her doubt her upline; it says it confirmed them about her friends. | with
+1.261 | F85, C36 | Step 1 unclear (identification not named): if this claim were false, this stub would instead say she read the failed attempt without reference to what her upline had said; it says she read it as proof they were right. | with
+1.262 | F85, C37 | No outcome; stub reports a member reading her friends' reaction through her upline's forecast; states no limit. | illustrates
+1.263 | F86, C01 | No outcome; stub describes members for whom both practices succeeded; states no limit. | illustrates
+1.264 | F86, C02 | Stub reports members for whom both succeeded favouring Amway in how they read themselves and promoting its way of life. | with
+1.265 | F86, C07 | Stub reports one success combination (both) with its own identification pattern. | with
+1.266 | F86, C11 | Stub reports self-interpretation tilted toward Amway going with enthusiastic attachment. | with
+1.267 | F86, C26 | Stub reports these members continuing to re-enact dream-building practices. | with
+1.268 | F86, C32 | Stub reports promoting and re-enacting; no organizational request or demand is mentioned. | illustrates
+1.269 | F86, C33 | Step 1 unclear (re-enacting is not quite receptivity): if this claim were false, this stub would instead say these members stopped dream building once attached; it says they kept re-enacting it. | with
+1.270 | F86, C34 | No outcome; stub reports continued re-enactment of the practices; states no limit. | illustrates
+1.271 | F87, C01 | No outcome; stub reports an inactive distributor's picture of total believers; states no limit. | illustrates
+1.272 | F87, C02 | Stub reports strong positive identification (total believers, intense, no other way to live imaginable); it is silent on the practices and gives no other cause. | with
+1.273 | F87, C06 | Stub reports intense positive conviction in those wholly attached to Amway. | with
+1.274 | F88, C01 | No outcome; stub describes what Figure 1 lays out; states no limit. | illustrates
+1.275 | F88, C02 | Stub says the figure ties success combinations to identification states but not which to which; the direction for positive identification is not carried (wanted a code for "outcome named, direction missing"). | illustrates
+1.276 | F88, C03 | Stub does not say which combinations lead to the nonpositive states; the direction is not carried. | illustrates
+1.277 | F88, C07 | Stub reports the figure tying different success combinations of the two practices to different identification states. | with
+1.278 | F88, C11 | Stub reports the four identification states as differentiated outcomes; it is silent on sensemaking, and "linking" them to practice combinations is not a rival cause. | with
+1.279 | F88, C27 | Stub does not say what follows when sensebreaking fails. | illustrates
+1.280 | F88, C28 | Stub does not say which combination goes with disidentification. | illustrates
+1.281 | F88, C29 | Stub does not say which combination goes with ambivalent identification. | illustrates
+1.282 | F89, C01 | No outcome; stub explains why some people held no enduring identification; states no limit. | illustrates
+1.283 | F89, C12 | Stub reports seekership absent (dissatisfaction never arose, or lapsed); it does not say whether sensebreaking was tried or how it fared. | illustrates
+1.284 | F89, C16 | Stub reports the low end: no dissatisfaction with current life, and the motivation to pursue dreams gone. | with
+1.285 | F89, C27 | Stub reports no enduring identification where dissatisfaction never arose or lapsed. | with
+1.286 | F89, C35 | Step 1 unclear (stub says motivation to pursue dreams, not to identify): if this claim were false, this stub would instead say people content with their lives held an identification anyway; it says they held none. | with
+1.287 | F89, C56 | Stub reports lapsed motivation and no enduring identification; leaving is not reported. | illustrates
+1.288 | F89, C57 | Stub gives the condition (no continuing discontent or drive); upline ties are not mentioned. | illustrates
+1.289 | F90, C01 | No outcome; stub reports a former distributor's fading interest; states no limit. | illustrates
+1.290 | F90, C27 | Step 1 unclear (interest, not identification, is named): if this claim were false, this stub would instead say the dream's appeal faded yet his attachment held; it says interest went and he is a former distributor. | with
+1.291 | F90, C34 | No outcome; stub reports an early appeal fading over time; states no limit. | illustrates
+1.292 | F90, C42 | Step 1 unclear (a departure is turnover): if this claim were false, this stub would instead say the same, that he lost interest and left; the exit is not presented as a cost of the practices. | illustrates
+1.293 | F90, C56 | Stub reports a departure where the early appeal did not last. | with
+1.294 | F91, C01 | No outcome; stub reports why one distributor did not renew; states no limit. | illustrates
+1.295 | F91, C16 | Stub reports the low end: content with her job, and little desire for the Amway work. | with
+1.296 | F91, C27 | Step 1 unclear (identification not named): if this claim were false, this stub would instead say she was content with her job yet stayed attached to Amway; it says the desire went and she did not renew. | with
+1.297 | F91, C35 | Step 1 unclear: if this claim were false, this stub would instead say contentment with her job left her as drawn to Amway as before; it says little desire remained. | with
+1.298 | F91, C42 | Stub reports a non-renewal and puts it to her job having become satisfying; it is not presented as a cost of the practices. Considered against (turnover with another cause). | illustrates
+1.299 | F91, C56 | Stub reports a non-renewal where no desire for the work had been secured. | with
+1.300 | F92, C01 | No outcome; stub reports a former distributor's verdict that it did not suit him; states no limit. | illustrates
+1.301 | F92, C06 | Step 1 unclear: if this claim were false, this stub would instead say he came away unattached but with strong feeling about Amway; it gives only a flat verdict that it did not suit him. | with
+1.302 | F92, C27 | Stub reports no self-connection formed (it did not suit him); nothing said about why. | with
+1.303 | F92, C42 | Stub reports a departure with a flat reason; it is not presented as a cost of the practices. | illustrates
+1.304 | F92, C56 | Stub reports a departure where the experience never took (it did not suit him). | with
+1.305 | F93, C01 | No outcome; stub reports one distributor's discomfort with deference to uplines; states no limit. | illustrates
+1.306 | F93, C20 | Stub reports his refusal to take uplines' word as law; whether positive programming worked on him is not stated, so his low reliance has no condition to set against. | illustrates
+1.307 | F93, C23 | Stub is split: the members he describes defer wholly to uplines, he does not; nothing on encapsulation for either (wanted a "mixed" code). | illustrates
+1.308 | F93, C27 | Stub reports him not accepting the organization's philosophy and later leaving: identification not holding; sensebreaking is not mentioned. Considered against, reading his discomfort as the cause. | with
+1.309 | F93, C37 | No outcome; stub reports his reaction to how others related to uplines; states no limit. | illustrates
+1.310 | F93, C57 | Stub reports his view of others' deference to uplines; his own consulting of, or closeness to, his upline is not reported. | illustrates
+1.311 | F94, C01 | No outcome; stub reports what first drew a former distributor in; states no limit. | illustrates
+1.312 | F94, C13 | Step 1 unclear (felt lack, not seekership, is named): if this claim were false, this stub would instead say the sight of a successful member's home left him unmoved; it says he was drawn because he lacked such things. | with
+1.313 | F94, C15 | Stub reports a gap between what he had and what he saw drawing him toward the business; "changing the self" is not his wording. | with
+1.314 | F94, C35 | Stub reports the same gap pulling him toward Amway; a need for meaning is not named. | with
+1.315 | F95, C01 | No outcome; stub reports his dream of law and the persistence logic he applied; states no limit. | illustrates
+1.316 | F95, C13 | Stub reports a dream outside Amway pursued with Amway-style persistence; discontent or a search for meaning is not reported. | illustrates
+1.317 | F95, C15 | Stub reports willingness to work hard toward a desired future self (lawyer); no discrepancy is mentioned and no other cause given; the dream is not an Amway one. | with
+1.318 | F95, C54 | Stub reports a goal he calls his own dream carrying force: worth hard work despite criticism. | with
+1.319 | F96, C01 | No outcome; stub reports how disidentifiers stood with their uplines; states no limit. | illustrates
+1.320 | F96, C03 | Stub reports disidentification going with thin or angry upline relationships. | with
+1.321 | F96, C07 | Stub reports one identification state (disidentification) with its own pattern of upline relations; the practices are not named. | with
+1.322 | F96, C28 | Stub reports disidentification where upline relationships were distant or hostile. | with
+1.323 | F96, C37 | No outcome; stub ties disidentification to the quality of upline relationships; states no limit. | illustrates
+1.324 | F96, C42 | Stub reports soured upline relationships among disidentifiers; not presented as a cost. | illustrates
+1.325 | F96, C58 | Stub reports irritation and open anger in upline–downline relationships; nothing said on why. | with
+1.326 | F97, C01 | No outcome; stub reports a former distributor blaming his upline; states no limit. | illustrates
+1.327 | F97, C21 | Stub reports the low end: an upline that, as he tells it, gave no recognition or personal motivation, and a tie that ended in blame. | with
+1.328 | F97, C28 | Stub reports blame toward his upline (the relationship failing); defining himself against Amway is not reported. | illustrates
+1.329 | F97, C37 | No outcome; stub reports a member's grievance about his upline; states no limit. | illustrates
+1.330 | F97, C42 | Stub reports his complaint about his upline; no cost is named. | illustrates
+1.331 | F97, C58 | Stub reports resentment toward an upline in a mentoring tie; nothing said on the mixing of business and friendship. | with
+1.332 | F98, C01 | No outcome; stub reports a pressured purchase at a sales presentation; states no limit. | illustrates
+1.333 | F98, C21 | Stub reports pressure at a sales presentation; neither support nor the strength of a mentoring tie is reported. | illustrates
+1.334 | F98, C28 | Stub reports how he was brought in and that he felt cornered; an identity defined against Amway is not reported. | illustrates
+1.335 | F98, C42 | Step 1 unclear (pressure and embarrassment are burdens): if this claim were false, this stub would instead say the same; the burden comes from a sales presentation, which the stub does not present as identification management. | illustrates
+1.336 | F98, C58 | Stub reports a bad experience with whoever brought him along; no mentoring relationship is named. | illustrates
+1.337 | F99, C01 | No outcome; stub describes what followed failed sensegiving; states no limit. | illustrates
+1.338 | F99, C03 | Stub reports failed sensegiving followed by self-definition against Amway. | with
+1.339 | F99, C07 | Stub reports the failure of one practice (sensegiving) going with an oppositional state. | with
+1.340 | F99, C11 | Stub reports interpretation taken from critics, uplines' warmth recast, then self-definition against Amway: a sensemaking outcome yielding a state. | with
+1.341 | F99, C20 | Stub reports the low end: sensegiving failed, and members took their interpretations from critics, not from Amway. | with
+1.342 | F99, C23 | Stub reports the low end: outside the fold, former members relied on critics, and outside evaluations carried full force. | with
+1.343 | F99, C28 | Stub reports failed sensegiving, a turn to Amway critics, and self-definition against Amway. | with
+1.344 | F99, C36 | Stub runs from interpretation to self-definition against Amway; it does not report an identification then shaping later interpretation. | illustrates
+1.345 | F99, C37 | No outcome; stub reports self-definition worked out with critics and against uplines; states no limit. | illustrates
+1.346 | F100, C01 | No outcome; stub reports an ex-member website's warning; states no limit. | illustrates
+1.347 | F100, C28 | Stub reports ex-members publicly set against Amway and urging others out: an oppositional stance present; practices not mentioned, no other cause given. | with
+1.348 | F100, C31 | Stub reports hostile outside voices (the condition, at its low end); how strict boundaries need to be is not reported. | illustrates
+1.349 | F100, C42 | Stub reports a warning that affiliation can harm family and credibility: a warning, not a cost reported as incurred, and not tied to the practices. | illustrates
+1.350 | F101, C01 | No outcome; stub reports an inactive distributor's stop-start relation to the business; states no limit. | illustrates
+1.351 | F101, C03 | Stub reports a mixed attachment (wanting to restart, shelving it for months); nothing said on why. | with
+1.352 | F101, C06 | Step 1 unclear (no state is named): if this claim were false, this stub would instead say his mixed feelings went with a settled attachment, in or out; it says he swings between restarting and shelving while still believing in it. | with
+1.353 | F101, C29 | Stub reports the ambivalent pattern itself (drawn to it, confused, putting it off, still believing); practices not mentioned. | with
+1.354 | F101, C34 | No outcome; stub reports an on-and-off attachment; states no limit. | illustrates
+1.355 | F102, C01 | No outcome; stub reports an ambivalent distributor's dream; states no limit. | illustrates
+1.356 | F102, C13 | Stub reports the content of his dream; discontent with self or a search for meaning would have to be inferred. | illustrates
+1.357 | F102, C15 | Stub reports what he wants, not any push to change himself. | illustrates
+1.358 | F102, C29 | Stub labels him ambivalent and reports that he holds dreams: the outcome is present only as the stub's label, and sensegiving is not mentioned. | with
+1.359 | F103, C01 | No outcome; stub reports an inactive distributor's valued tie to his sponsor; states no limit. | illustrates
+1.360 | F103, C20 | Stub reports a valued sponsor tie; his sensemaking is not reported. | illustrates
+1.361 | F103, C21 | Stub reports continuing support from the sponsor whatever he did, and a tie he values, kinship term included. | with
+1.362 | F103, C29 | Stub reports a strong sponsor bond alongside inactivity; a mixed identification is not stated. | illustrates
+1.363 | F103, C37 | No outcome; stub reports a member's attachment to his sponsor; states no limit. | illustrates
+1.364 | F104, C01 | No outcome; stub reports a distributor denying involvement after a hostile remark; states no limit. | illustrates
+1.365 | F104, C06 | Stub reports behaviour (showing off merchandise, then denying involvement); neither his feelings nor his identification state is stated. | illustrates
+1.366 | F104, C29 | Stub reports moving toward (displaying Amway goods) and then away (denying involvement) once an outsider spoke against it. | with
+1.367 | F104, C31 | Stub reports a hostile outsider remark and its effect on one member; nothing on how strict boundaries are or need to be. | illustrates
+1.368 | F104, C37 | No outcome; stub reports a member disowning Amway in front of a coworker; states no limit. | illustrates
+1.369 | F105, C01 | No outcome; stub reports a distributor changing whom he recruits after losing a friend; states no limit. | illustrates
+1.370 | F105, C22 | Stub reports the low end: he still counts outside relationships as important and shields them, and he keeps them. | with
+1.371 | F105, C25 | Stub reports a rejection treated as a loss to guard against: he goes on prizing outside relationships and steers recruiting away from them, the opposite of rejection confirming Amway ties; the claim is hedged ("can"). | against
+1.372 | F105, C29 | Stub reports him still recruiting while protecting outside ties; a mixed identification is not stated. | illustrates
+1.373 | F105, C37 | No outcome; stub reports a member weighing his outside relationships against recruiting; states no limit. | illustrates
+1.374 | F105, C42 | Stub reports a friendship lost through recruiting; it is put to the friend's reaction, not presented as a cost of the practices. | illustrates
+1.375 | F106, C01 | No outcome; stub reports the researcher avoiding skeptical colleagues and feeling strain; states no limit. | illustrates
+1.376 | F106, C22 | Stub reports him avoiding skeptical outsiders because of their dampening effect: a barrier put up and separation following. | with
+1.377 | F106, C23 | Stub reports outside evaluations carrying force while he was in contact (enthusiasm weakened), and contact cut to stop it. | with
+1.378 | F106, C29 | Step 1 unclear (ambivalence not named): if this claim were false, this stub would instead say input from critics alongside his Amway involvement left him settled; it says his enthusiasm wavered and he felt pulled between two roles. | with
+1.379 | F106, C37 | No outcome; stub reports his enthusiasm shifting with whom he spent time; states no limit. | illustrates
+1.380 | F106, C42 | Step 1 unclear (strain is the nearest thing to a cost in these rows): if this claim were false, this stub would instead say the same; the strain is put to the pull between colleagues and Amway, not presented as a cost of the practices. Closest of these rows to with. | illustrates
+1.381 | F107, C01 | No outcome; stub describes how ambivalent distributors were placed and behaved; states no limit. | illustrates
+1.382 | F107, C03 | Stub reports an ambivalent attachment where upline ties held but outside ties were not given up. | with
+1.383 | F107, C06 | Stub reports their ties, the interpretations they received and their on-off activity; their emotional evaluation is not reported. | illustrates
+1.384 | F107, C07 | Stub reports one state (ambivalence) with its own pattern: strong upline ties, outside ties kept; the practices are not named. | with
+1.385 | F107, C11 | Stub reports conflicting interpretations from both sides going with ambivalent attachment. | with
+1.386 | F107, C20 | Stub reports the partial case: outside ties not dropped, and sensemaking drawing on both sides, not encapsulated. | with
+1.387 | F107, C22 | Stub reports the low end: non-member ties not abandoned, and members left open to outsiders' interpretations. | with
+1.388 | F107, C23 | Stub reports the low end: not sealed off, they took interpretations from both sides, so outside influence stayed. | with
+1.389 | F107, C29 | Stub reports strong upline ties, outside ties kept, interpretations from both sides, and ambivalence shown in on-off activity. | with
+1.390 | F107, C34 | No outcome; stub reports alternating bursts of activity and near-inactivity; states no limit. | illustrates
+1.391 | F107, C37 | No outcome; stub reports identification shaped by ties to both members and non-members; states no limit. | illustrates
+1.392 | F108, C01 | No outcome; stub says sensebreaking preceded every identification that formed; states no limit. | illustrates
+1.393 | F108, C11 | Stub reports each identification forming out of a need to reinterpret the self and settle what the tie to Amway meant. | with
+1.394 | F108, C12 | Stub reports sensebreaking creating a need to reinterpret the self. | with
+1.395 | F108, C35 | Stub reports a need to reinterpret the self preceding every identification that formed; the current–ideal gap is not named. | with
+1.396 | F109, C01 | No outcome; stub describes what Figure 2 connects and lists; states no limit. | illustrates
+1.397 | F109, C02 | Stub says the figure leads to "differing identification outcomes" without saying which condition yields positive identification. | illustrates
+1.398 | F109, C03 | Stub does not say what follows from a failure of either practice. | illustrates
+1.399 | F109, C11 | Stub reports differing identification outcomes arising downstream of seekership and encapsulated sensemaking. | with
+1.400 | F109, C12 | Stub reports the figure connecting sensebreaking to seekership (selection is a second route, not a rival one). | with
+1.401 | F109, C20 | Stub reports tie-shaping practices as routes to encapsulated sensemaking; positive programming is not named among them. | with
+1.402 | F109, C27 | Stub does not say what follows when sensebreaking fails. | illustrates
+1.403 | F109, C28 | Stub does not say which route ends in disidentification. | illustrates
+1.404 | F109, C29 | Stub does not say which route ends in ambivalent identification. | illustrates
+1.405 | F109, C34 | No outcome; stub describes a model's connections; states no limit. | illustrates
+1.406 | F109, C59 | Stub reports self-invalidating practices listed beside dream building under the sensebreaking that leads to seekership. | with
+1.407 | F109, C60 | Stub reports several ways of shaping group and outsider ties as routes to encapsulated sensemaking. | with
+1.408 | F110, C01 | No outcome; stub reports distributors changing identification states over time; states no limit. | illustrates
+1.409 | F110, C34 | No outcome, so with is unavailable; stub reports members moving between identification states over time and states no limit (I would have coded with). | illustrates
+1.410 | F110, C38 | Stub reports movement between states; neither domains bound nor depth is reported. | illustrates
+1.411 | F111, C01 | No outcome; stub reports active distributors' satisfaction, purpose and view of outsiders; states no limit. | illustrates
+1.412 | F111, C06 | Step 1 unclear (no state is named): if this claim were false, this stub would instead say satisfied distributors kept Amway apart from how they saw their lives; it says they found purpose and community through it. | with
+1.413 | F111, C37 | No outcome; stub reports community found among members and condescension toward outsiders; states no limit. | illustrates
+1.414 | F111, C38 | Stub reports work, family and religion brought together through Amway (the condition); depth of identification is not reported. | illustrates
+1.415 | F111, C40 | Stub reports individuals' sense of purpose and community and puts it to uniting work, family and religion; shared purpose across a dispersed workforce, and sensemaking, are not addressed. | illustrates
+1.416 | F111, C43 | Stub reports purpose and community found through bringing work, family and religion together in Amway. | with
+1.417 | F112, C01 | No outcome; stub reports Mark running a clothing-store visit; states no limit. | illustrates
+1.418 | F112, C13 | Stub reports the practice being carried out on him; seekership is not reported. | illustrates
+1.419 | F112, C14 | Stub reports the conditions (trying on what he preferred, positive feedback); incorporation into the self is not reported. | illustrates
+1.420 | F112, C21 | Stub reports a mentor's attention and praise (the condition); the strength of the tie is not reported. | illustrates
+1.421 | F113, C01 | No outcome; stub reports Mark offering to get him cheaper shorts; states no limit. | illustrates
+1.422 | F113, C21 | Stub reports a small personal favour offered (the condition); the strength of the tie is not reported. | illustrates
+1.423 | F114, C01 | No outcome; stub reports Mark pointing out a jacket and arranging a sale notice; states no limit. | illustrates
+1.424 | F114, C13 | Stub reports a mentor pointing out an item and arranging a future purchase; seekership is not reported. | illustrates
+1.425 | F114, C14 | Stub reports Mark's steering and his own interest in the jacket; the researcher taking it into his sense of self is not reported. | illustrates
+1.426 | F114, C21 | Stub reports a shared purchase plan; the strength of the tie is not reported. | illustrates
+1.427 | F115, C01 | No outcome; stub reports Mark steering him to diamond rings despite his lack of interest; states no limit. | illustrates
+1.428 | F115, C13 | Stub reports steering toward jewelry he did not want; seekership is not reported. | illustrates
+1.429 | F115, C14 | Stub reports an item he had no interest in put before him, with a forecast that newcomers come round; whether it entered his sense of self is not reported. | illustrates
+1.430 | F116, C01 | No outcome; stub reports him asking for rings more confidently and Mark's coaching; states no limit. | illustrates
+1.431 | F116, C13 | Stub reports more confident behaviour and Mark's coaching; seekership is not reported. | illustrates
+1.432 | F116, C14 | Stub reports more confident asking and Mark's praise; a dream entering his sense of self is not reported. | illustrates
+1.433 | F116, C24 | Stub reports him acting the part more confidently (behaviour); how he later interpreted anything is not reported. | illustrates
+1.434 | F117, C01 | No outcome; stub reports a joking father-and-son exchange over a cookie; states no limit. | illustrates
+1.435 | F117, C21 | Step 1 unclear (a father/son exchange): if this claim were false, this stub would instead say the same; the stub marks both lines as jokes and reports a cookie, not the strength of the bond. | illustrates
+1.436 | F117, C37 | No outcome; stub reports kinship terms exchanged in jest; states no limit. | illustrates
+1.437 | F118, C01 | No outcome; stub reports the last store stop and Mark starting to recruit the salesperson; states no limit. | illustrates
+1.438 | F118, C13 | Stub reports him taking the lead and Mark's talk of coming wealth; seekership is not reported. | illustrates
+1.439 | F118, C25 | Stub reports a recruiting approach beginning; the prospect's answer and any belief about relationships are not reported. | illustrates
+1.440 | F119, C01 | No outcome; stub reports Mark's explanation of why he shops for himself on these trips; states no limit. | illustrates
+1.441 | F119, C13 | Stub reports Mark's account of how he teaches dream building; seekership is not reported. | illustrates
+1.442 | F119, C14 | Stub reports modelling as a way of teaching people what to want; incorporation into the self is not reported. | illustrates
+1.443 | F121, C21 | Stub reports how uplines framed the tie (downline as children); the strength of ties is not reported. | illustrates
+1.444 | F123, C42 | Stub reports turnover, a cost the claim names, arriving early (every leaver gone within a year); it gives timing among leavers, not a rate, and says nothing on why. | with
+1.445 | F123, C52 | Stub reports early exits; neither labour supply nor the workability of the practices is reported. | illustrates
+1.446 | F123, C56 | Stub reports departures coming early; timing among leavers, not a rate, and nothing said on why. | with
+1.447 | F124, C42 | Stub reports turnover, a cost the claim names, at a very high annual rate; nothing said on why. | with
+1.448 | F124, C52 | Stub reports a turnover estimate; nothing on labour supply or workability. | illustrates
+1.449 | F124, C56 | Stub reports a very high annual leaving rate; nothing said on why. | with
+1.450 | F125, C20 | Stub reports the low end: no strong bonds formed with distributors, and upline advice not sought. | with
+1.451 | F125, C27 | Stub reports the condition (no continuing desire to pursue dreams) and weak ties to distributors; identification itself is not reported. | illustrates
+1.452 | F125, C57 | Stub reports people without a continuing desire seeking little upline advice and forming no strong bonds. | with
+2.1 | C01 | The headline claim: the abstract and both figures rest on Amway managing identification through these two paired processes. | true
+2.2 | C02 | One half of the central result (both succeed, positive identification follows); Figure 1 falls without it. | true
+2.3 | C03 | The other half of the central result, and the paper's stated departure from work on positive attachment alone. | true
+2.4 | C04 | Opening motivation for why the topic matters; the argument about Amway does not depend on it. | false
+2.5 | C05 | Definitional background that fixes the construct. | false
+2.6 | C06 | First of the three "key findings": it sets out the four states the model then explains, and returns among the contributions. Hesitated, because the argument needs the four states more than their emotional basis. | true
+2.7 | C07 | Second key finding, and the empirical pattern Figure 1 is built from. | true
+2.8 | C08 | A footnote clearing a third practice out of the way. | false
+2.9 | C09 | Rules out a rival explanation; it supports the argument but is not the argument. | false
+2.10 | C10 | Rules out a rival explanation, and tentatively. | false
+2.11 | C11 | Third key finding and the theoretical statement of the model: identification [6 words of Pratt (2000), p. 481]. | true
+2.12 | C12 | First link of the model (sensebreaking to seekership); the model does not run without it. | true
+2.13 | C13 | Ties the Amway evidence to the first half of the model: dream building is the sensebreaking practice. | true
+2.14 | C14 | A step inside the account of dream building. | false
+2.15 | C15 | A step inside dream building (the identity deficit); what it feeds is carried by C12 and C35. | false
+2.16 | C16 | A passing qualification on when deficits bite. | false
+2.17 | C17 | Third step of dream building, on the way to seekership. | false
+2.18 | C18 | A by-product of continued dream building, picked up only briefly later. | false
+2.19 | C19 | A bridge sentence from seekership to sensegiving. | false
+2.20 | C20 | Second link of the model (positive programming to encapsulated sensemaking); the sensegiving half rests on it. | true
+2.21 | C21 | A step inside positive programming (how mentor bonds form). | false
+2.22 | C22 | A step inside positive programming (barriers to encapsulation). | false
+2.23 | C23 | A step from encapsulation to whom members make sense with; carried at model level by C20. | false
+2.24 | C24 | A side mechanism (commitment through choice). | false
+2.25 | C25 | A side mechanism (the self-confirming relationship standard). | false
+2.26 | C26 | The feedback loop; it elaborates the positive case and is not what the argument turns on. | false
+2.27 | C27 | One of the three failure paths that give C03 its content (failed sensebreaking, no or broken identification). | true
+2.28 | C28 | Failure path: failed sensegiving, disidentification. | true
+2.29 | C29 | Failure path: partial sensegiving, ambivalence, the outcome named in the title. | true
+2.30 | C30 | A speculative extension about selection. | false
+2.31 | C31 | A speculative aside about prestigious organizations. | false
+2.32 | C32 | A proposition offered for later research. | false
+2.33 | C33 | A proposition offered for later research. | false
+2.34 | C34 | Listed as the fourth contribution, but the paper says it only "implies" this and does not analyse it; the argument stands without it. Considered true. | false
+2.35 | C35 | The motive in "motivated sensemaking", and named among the contributions as a new motivator for identification; overlaps C12. | true
+2.36 | C36 | A hedged reflection on identity and sensemaking in the discussion. | false
+2.37 | C37 | A discussion point drawn out of the sensegiving findings; the argument it rests on is carried by C20, C28 and C29. Considered true. | false
+2.38 | C38 | A suggestion in the discussion, leaning on another of the author's papers. | false
+2.39 | C39 | A speculative application to professions. | false
+2.40 | C40 | A speculative practical implication. | false
+2.41 | C41 | A concession in the practical discussion. | false
+2.42 | C42 | A cautionary note on costs, drawn mostly from other literature. | false
+2.43 | C43 | A balancing remark on how members experienced it. | false
+2.44 | C44 | Background from prior literature. | false
+2.45 | C45 | Methods justification. | false
+2.46 | C46 | Methods justification. | false
+2.47 | C47 | Methods justification. | false
+2.48 | C48 | Methods justification. | false
+2.49 | C49 | A footnote offering a second theoretical reading. | false
+2.50 | C50 | A speculative practical implication. | false
+2.51 | C51 | A speculative practical implication. | false
+2.52 | C52 | Speculative practical advice. | false
+2.53 | C53 | A footnote justifying the length of fieldwork. | false
+2.54 | C54 | A footnote linking the account to goal-setting theory. | false
+2.55 | C55 | A footnote refining the insider–outsider point. | false
+2.56 | C56 | A transitional sentence motivating the section on failure. | false
+2.57 | C57 | A detail within the deidentification account. | false
+2.58 | C58 | Background from the mentoring literature, used in passing. | false
+2.59 | C59 | Generalises the model beyond Amway, tentatively; the argument stands without it, though the abstract does mention a general model. Considered true. | false
+2.60 | C60 | Generalises the sensegiving half beyond Amway on the strength of other literatures; same reasoning as 2.59. Considered true. | false
+3.1 | C01 | The abstract says the study "shows" it and p. 481 states it flatly ("[8 words of Pratt (2000), p. 481]..."); hedged at p. 462 ("I came to view"), and Figure 2 is called preliminary. | established
+3.2 | C02 | Abstract and p. 476 are flat ("members exhibited positive identification"); p. 483 restates it as a prediction ("are likely to foster"). | established
+3.3 | C03 | Abstract is flat; hedged at p. 477 ("may account for") and a proposition at p. 483. | established
+3.4 | C04 | Put through other writers ("some writers ... believe") and "[6 words of Pratt (2000), p. 456]"; the closing sentence that Amway needs a means of managing is flat but is not about values. | ventured
+3.5 | C05 | Flat ("Identification differs ... [8 words of Pratt (2000), p. 457]"); a definition, not something shown. | established
+3.6 | C06 | p. 485 is flat ("[6 words of Pratt (2000), p. 485]"); p. 462 is hedged ("seemed to be explained"). | established
+3.7 | C07 | p. 463 is flat ("a pattern emerged", "was associated with"), as is Figure 1's caption; p. 462 is hedged ("seemed to account for"). | established
+3.8 | C08 | A flat report in a footnote ("[6 words of Pratt (2000), p. 463]"). | established
+3.9 | C09 | Flat ("[8 words of Pratt (2000), p. 463]"). | established
+3.10 | C10 | Hedged throughout ("did not seem to account", "[7 words of Pratt (2000), p. 463]"), and n. 9 concedes individual differences cannot be ruled out. | ventured
+3.11 | C11 | p. 464 is flat ("[8 words of Pratt (2000), p. 464]") and p. 484 says "shows"; p. 481 is hedged ("I have attempted to explain"). | established
+3.12 | C12 | p. 469 is flat ("Successful sensebreaking ... practices lead to seekership"); p. 464 has "[7 words of Pratt (2000), p. 464]". | established
+3.13 | C13 | Flat ("[9 words of Pratt (2000), p. 464]. [7 words of Pratt (2000), p. 464]..."). | established
+3.14 | C14 | Flat ("[11 words of Pratt (2000), p. 466]"), leaning on cited work. | established
+3.15 | C15 | Flat ("This deficit ... creates a motivational dynamic"); one hedged lead-in ("Problems can arise"). | established
+3.16 | C16 | A single flat sentence ("[6 words of Pratt (2000), p. 467]..."), with no evidence offered. | established
+3.17 | C17 | Flat ("[13 words of Pratt (2000), p. 469]"). | established
+3.18 | C18 | Flat ("more of their lives ... [7 words of Pratt (2000), p. 469]"). | established
+3.19 | C19 | Flat ("[10 words of Pratt (2000), p. 469]"). | established
+3.20 | C20 | Flat ("[10 words of Pratt (2000), p. 475]"); p. 474 is softer ("helps ensure"). | established
+3.21 | C21 | Flat ("Strong mentor-protégé relationships develop when..."; "very strong bonds form"). | established
+3.22 | C22 | Flat ("Positive programming creates relationship barriers"; the barriers "facilitated members' encapsulation"). | established
+3.23 | C23 | p. 473 is flat ("[7 words of Pratt (2000), p. 473]"); p. 487 is hedged ("may also seek to foster"). | established
+3.24 | C24 | Mixed within one passage: "[6 words of Pratt (2000), p. 474]" and "[17 words of Pratt (2000), p. 474]" are flat; "can provide a powerful context" is hedged. | established
+3.25 | C25 | Introduced with "could lead to" and "can serve to", but the passage ends flat ("[12 words of Pratt (2000), p. 474]") and is framed as a way enactment "influenced sensemaking". Coded on the firmest sentence; a close call. | established
+3.26 | C26 | p. 476 is flat ("[11 words of Pratt (2000), p. 476]"; "continuously enacted and reenacted"); p. 483 restates it as a prediction. | established
+3.27 | C27 | Abstract and p. 484 are flat ("[9 words of Pratt (2000), p. 484]"); pp. 477–478 are hedged ("are likely to", "suggest") and p. 483 is a proposition. | established
+3.28 | C28 | p. 479 is flat ("because sensegiving failed ... they sought out non-members"; "tended" and "often" mark frequency, not doubt); p. 483 is a proposition. | established
+3.29 | C29 | p. 481 is flat ("[12 words of Pratt (2000), p. 481]"); p. 480 is softer ("can be explained by") and p. 483 a proposition. | established
+3.30 | C30 | "may foster", "may have predispositions", "[6 words of Pratt (2000), p. 482]". | ventured
+3.31 | C31 | "may have 'groupies'", "may be less critical". | ventured
+3.32 | C32 | Offered as one of "several propositions for research" ("predicts", "are more likely to"). | ventured
+3.33 | C33 | Same sentence as 3.32: a proposition for research. | ventured
+3.34 | C34 | p. 483 is flat ("[7 words of Pratt (2000), p. 483]") and p. 485 reports that distributors "sometimes changed"; p. 485 is otherwise hedged ("implies", "suggests"). | established
+3.35 | C35 | p. 484 is flat ("[6 words of Pratt (2000), p. 484]"); p. 487 is hedged ("may be critical"). | established
+3.36 | C36 | "may be more complex"; "[10 words of Pratt (2000), p. 484]"; only the half about identification being a product of sensemaking gets "shows". | ventured
+3.37 | C37 | Flat ("[15 words of Pratt (2000), p. 484]..."; "reveals"). | established
+3.38 | C38 | "this suggests that..."; "I have suggested". | ventured
+3.39 | C39 | "[6 words of Pratt (2000), p. 486]", "may explain", "[7 words of Pratt (2000), p. 486]", "Perhaps". | ventured
+3.40 | C40 | "[10 words of Pratt (2000), p. 487]". | ventured
+3.41 | C41 | Conceded in a subordinate clause with "may facilitate". | ventured
+3.42 | C42 | Raised as a caution on other authors' work ("[8 words of Pratt (2000), p. 487]", "may also incur", "can induce", "the concern is"); the list of harms itself is unhedged. | ventured
+3.43 | C43 | Flat ("[9 words of Pratt (2000), p. 488]"); the sentence before is hedged ("seemed genuinely happy"). | established
+3.44 | C44 | "Strong cultures may also bolster". | ventured
+3.45 | C45 | Flat ("[6 words of Pratt (2000), p. 458]..."); a methods maxim, not a finding. | established
+3.46 | C46 | Flat ("allowed me to triangulate ... to build stronger assertions"). | established
+3.47 | C47 | Flat ("[6 words of Pratt (2000), p. 460]"). | established
+3.48 | C48 | Flat ("[8 words of Pratt (2000), p. 460]"). | established
+3.49 | C49 | "[6 words of Pratt (2000), p. 474]"; "may serve to strengthen". | ventured
+3.50 | C50 | "may be critical"; "seems critical". | ventured
+3.51 | C51 | "may also be important". | ventured
+3.52 | C52 | "may be best utilized". | ventured
+3.53 | C53 | Flat, taken as given from cited work ("Since the first six months ... are critical"). | established
+3.54 | C54 | Flat ("[10 words of Pratt (2000), p. 467]"); the footnote opens hedged ("may also be explained"). | established
+3.55 | C55 | Flat description ("can quickly be shifted", "are not immediately relegated", "are thus slightly more fluid"); "may be retained" says what happens, not doubt. | established
+3.56 | C56 | A flat counterfactual ("If the practices ... always worked ..., [8 words of Pratt (2000), p. 477]"). | established
+3.57 | C57 | Flat ("[19 words of Pratt (2000), p. 478]"). | established
+3.58 | C58 | Flat with citations ("negative relationships ... are common"); "can be volatile" states a tendency, not doubt. | established
+3.59 | C59 | "there may be other means"; "[7 words of Pratt (2000), p. 481]"; the model is "preliminary"; p. 488 has "I have tried to show". | ventured
+3.60 | C60 | The lead sentence is unhedged ("[13 words of Pratt (2000), p. 482]"), though it rests on what other literatures "suggest" and sits in a model called preliminary. Coded on the firmest sentence; a close call. | established
+4.1 | DG01 | n. 9 says the design produced no personality data, so the rival explanation stays open: a lack of evidence. Considered scope_limit (p. 457 puts it outside the paper's purpose) and rejected it because the footnote goes past "not our topic" to "cannot be totally ruled out"; unresolved_question also considered. | absent_evidence
+4.2 | DG02 | The paper allows that what he saw could be ordinary behaviour or behaviour altered by a known researcher, then argues for the first: two readings of the same observations. Considered absent_evidence (nothing but his reasoning shows the effect was small). The code I wanted was "threat to validity". | acknowledged_ambiguity
+4.3 | DG03 | "[6 words of Pratt (2000), p. 485]": the paper notes the transitions and says it leaves them out. Considered unresolved_question, but it poses no question about them. | scope_limit
+4.4 | DG04 | A limit on reach: findings from one extreme, context-dependent case should not be carried straight to other organizations. Considered unresolved_question (does it work the same elsewhere) and absent_evidence (no data from other settings); the paper frames it as caution about generalizing. | scope_limit
+5.1 | CP01 | The two cases sit in consecutive subsections as examples of two kinds of member, and the text marks the difference on just this point ("Unlike deidentification...", disidentifiers "did undergo the sensebreaking"). The contrast on the page is between the kinds, not these two people by name. | true
+5.2 | CP02 | Consecutive subsections again, and the paper separates the two kinds on the upline relationship (p. 478: sensegiving failed, or bonds formed without encapsulating; [2 words of Pratt (2000), p. 481] "[4 words of Pratt (2000), p. 481]"). Group-level, and weaker than 5.1: the p. 480 case comes in with "Moreover", not as a contrast. | true
+5.3 | CP03 | The first case is on p. 476 as an example of valuing upline information, the second on p. 480 as an example of embarrassment. The paper contrasts encapsulated with ambivalent distributors in general but never brings these two episodes, or their shared point about answering outside negativity, together. | false
+6.1 | - | The paper is laid out as a model, not a sequence of events, so the single period holds everything; and its own account is that the process is cyclical and never settles ("[6 words of Pratt (2000), p. 483]"), with no point after which the matter is treated as closed. If a period had to be named it could only be P1. | none
+7.1 | F08 | The passage offers opportunity to all, whatever their background, through personal effort; "success is broadly attainable" says no more than that. | consistent
+7.2 | F10 | The fragment gives graded ranks by sales and higher achievers teaching newer members; calling this a substantial financial and social hierarchy adds its strength and its social side, which the fragment does not carry. Both can be true. | goes_beyond
+7.3 | F39 | The journal entry reports excitement at a dream of his own alongside doubt; the gloss says just that. On the page the author also generalises to how easily anyone is caught up, a mild stretch. | consistent
+7.4 | F54 | The image is of a warm helper at a birth who then walks away to the next person; "familial", "caring" as love, and the contrast with money-only help are added. The helper leaving sits a little uneasily with "familial" but does not contradict it. | goes_beyond
+7.5 | F60 | A discreet gift of food in a lean time, recalled in tears, is help beyond business that the couple took as care; the gloss says no more. The gift itself is material, so "emotional" is a slight relabel. | consistent
+7.6 | F61 | The fragment reports very strong ties (about a hundred people he can count on), told from the upline's side; the gloss adds what produced them (successful mentoring), which the fragment does not say. | goes_beyond
+7.7 | F62 | He says he wants Pearl so as to golf with uplines he likes; the gloss (liking for uplines could spur achievement) matches. He also says he likes golf, and on the page "often motivated" generalises from one account. | consistent
+7.8 | F66 | He describes trainers holding back know-how to protect themselves; "self-protective rather than mutually supportive" is that. On the page the author also says the excerpt "typifies" such thinking and frames it as lack of love, which is more than one interview carries. | consistent
+7.9 | F67 | On the page the distributor says the friend "deliberately" set the wedding against an Amway event, which carries the perceived lack of support. The stub drops that word; without it the gloss would go beyond a mere clash of dates. | consistent
+7.10 | F87 | The speaker describes intensity and total conviction; "energetic quality" is a fair, if kinder, rendering of "mad with this bug" from someone no longer active. Considered goes_beyond. | consistent
+7.11 | F104 | The fragment reports an act: denying involvement after a coworker's remark. The gloss adds the feeling behind it (embarrassment) and turns one remark into Amway's reputation; neither is in the fragment, and neither contradicts it. | goes_beyond

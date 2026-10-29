@@ -1,0 +1,99 @@
+{
+  "card_id": "bechky_2020_counterfactual_ending_DG02_01",
+  "paper_id": "bechky_2020",
+  "move": "counterfactual_ending",
+  "trigger": "unresolved_question_gaps DG02, which bears on ventured claim C19 (the entry also lists ventured claims C09, C22, C23)",
+  "claim": "C19",
+  "incumbent_reading": "The paper ventures that spillovers reach occupations sharing evaluating audiences and overlapping activities, treats firearms, toxicology and narcotics as three neighbors the DNA comparison reached, and leaves open only how far beyond them it extends (C19, DG02; F165, author's account).",
+  "wager": {
+    "statement": "Read the ending as provisional at its near edge as well as its far one. The paper closes with three units inside the comparison's reach and the outer boundary unknown (F165, author's account). In print the three do not sit inside it in the same way.\n\nFirearms: the NAS report says techniques such as toolmark comparison had not received stringent testing, lacked known error rates and had produced some erroneous results when compared with DNA evidence (F60); a SWG-GUN board member says attempts to exclude firearms evidence were becoming more common (F62); an examiner at the statewide meeting says firearms work could not simply be made equivalent to DNA analysis (F82). Narcotics: an analyst describes the demand on non-DNA specialties as pressure to become more like DNA analysis (F41), and Jodi fears crystal testing could be phased out because it leaves no persistent instrument output for later review (F122); the participant link to DNA on this side is F41 alone, and it is stated for non-DNA specialties in general. Toxicology: the report did not criticize toxicology directly (F89); the uncertainty plan predates the report (F98); the requirements named are ISO, NIST, state law and ASCLD (F101, F102); the courtroom attack is on reports that omit uncertainty estimates (F90); and Jason rejects the idea that the laboratory had only begun the work because of the report (F102). No toxicology stub has a toxicologist, or the attorney, naming DNA. That toxicologists encountered the DNA comparison through that case is the author's account (F99, F131, F157).\n\nThe wager: the edge that DG02 looks for beyond the three may run between them, with toxicology, the one unit recorded as changing its practice (F152, author's account), on the far side. If so, the sorter ventured in C19 does not find the edge, because the three units share a laboratory, a director who says all are criminalists who should be capable of working in any unit (F57), and, on the paper's account, their audiences (F165). The ending would also change shape: the comparison reached two units and, on the paper's own record, changed local practice in neither (F151, F153, author's account), while the unit that changed did so under requirements and a courtroom strategy whose tie to DNA is printed only in the author's voice.\n\nThe far edge is no better fixed. The only named forensic occupation in print beyond the three and DNA is the trace examiners, whose flyer said trace work had been pushed behind DNA work and whose printed concern is attention and resources (F55); no stub has their methods evaluated against DNA's.",
+    "seed_fragments": [
+      "F89",
+      "F98",
+      "F102",
+      "F90",
+      "F41",
+      "F60",
+      "F57"
+    ],
+    "what_it_would_take_to_cohere": {
+      "observation": "Words from a toxicologist, or from the attorney behind the uncertainty challenge, naming DNA or the 2009 report as the standard being applied to toxicology reports; or the challenge's own terms, showing where its demand for uncertainty estimates came from.",
+      "printed": false,
+      "printed_fragments": [],
+      "basis": "Not in the record. I read every toxicology fragment (F11, F15, F19, F23, F25, F31, F88, F89, F91 to F104, F161, and the Table 2 cells F131, F134, F137, F140, F143, F146, F149, F152) and F90, the one fragment on the defense strategy. F90 prints what the attack targets and that it had won cases elsewhere, not where its demand came from. F102 is the only place a toxicologist is printed speaking of the report, and there he rejects it as the origin of the work. The link to DNA is made in the author's voice in F99, F131 and F157."
+    },
+    "strains_against": [
+      "F102 -- the idea Jason rejects is printed as an idea in play at the outreach session, that the laboratory had only begun the work because of the report; and 'only begun' leaves room for the report having mattered to how the work went on.",
+      "F89 -- the same stub that says the report did not criticize toxicology directly says it emphasized assessing accuracy and estimating error rates, which matches the content of the attack in F90; a match of content is what the paper's reading expects.",
+      "F33 -- AAFS and ASCLD answered the report by supporting its recommendations and promoting actions such as universal laboratory accreditation; through those bodies the report is printed as reaching laboratories in general.",
+      "F34 -- ASCLD's response to the report advised laboratory leaders to ready staff for courtroom questions and to establish the reliability of their analyses; with F101 placing ASCLD among toxicology's standing requirements, the report has a printed route to every unit through that body.",
+      "F36 -- MCCL management circulated the report summary and instructed staff to read the full document; the report reached every unit as required reading, so the reading has to hold that being told to read it differs from having one's own practice measured by it, a distinction that is the reading's and not the paper's.",
+      "F41 -- a narcotics analyst describes the demand as falling on non-DNA specialties in general, toxicology not excepted.",
+      "F54 -- members of non-DNA units, units not named, repeatedly compared their resources with forensic biology's; if toxicologists were among them, a comparison with DNA is voiced in that unit after all, though about equipment, money and staffing.",
+      "F123 -- Robin describes a workshop about a Daubert challenge to crystal testing; the stub does not say what kind of challenge that is or where it arose, but a challenge to a method the report is not printed as criticizing is the subject of a workshop, so challenges are not confined to what the report named, which weakens the ground for placing toxicology outside the reach."
+    ],
+    "who_could_complete_it": "Defense attorneys who taught or used the uncertainty strategy, or their teaching materials; toxicologists asked what they took the challenge to rest on."
+  },
+  "fragment_jobs": {
+    "F60": "Shows the report addressing techniques such as toolmark comparison, in a fragment the corpus files under firearms, and setting them against DNA evidence; the clearest printed case of a unit inside the reach.",
+    "F62": "Shows the comparison arriving for firearms as exclusion attempts, as reported by a SWG-GUN board member.",
+    "F82": "Has a firearms examiner state the comparison with DNA in his own words.",
+    "F41": "Has a narcotics analyst state the comparison as pressure on non-DNA specialties, which places narcotics inside by a participant's word and is also declared as a strain for toxicology.",
+    "F122": "Prints the narcotics fear in terms of persistent instrument output for later review, without a participant naming DNA for the unit's own method.",
+    "F89": "Prints that the report made no direct criticism of toxicology, and in its second clause, declared as a strain, that it emphasized error rates.",
+    "F98": "Dates the toxicology plan before the report, so the change's direction does not depend on the report.",
+    "F101": "Names state law and ASCLD as sources of toxicology's requirement, with the laboratory already reporting at a 95% level; no DNA standard is named in it.",
+    "F102": "Has a toxicologist, at an outreach session, cite ISO and NIST and reject the report as the origin of the work; that the idea was in play to be rejected is declared as a strain.",
+    "F90": "Prints the content and success of the courtroom strategy without its source, which is the gap the reading stands on.",
+    "F99": "Is where the author's account says toxicologists encountered the DNA comparison through the court threat; the reading marks this as the author's link.",
+    "F131": "Is the table's cell stating the same link as a pathway of spillover.",
+    "F157": "Is the author's account that DNA meant measurement error for toxicology, the interpretive step no toxicologist is printed as taking.",
+    "F152": "Records toxicology as the unit that changed local practice, which is what makes its position relative to the edge matter.",
+    "F151": "Records firearms as not changing local practice.",
+    "F153": "Records narcotics as not changing local practice.",
+    "F57": "Shows the three units treated by the director as one body of interchangeable criminalists, so that nearness cannot sort them.",
+    "F165": "States the paper's own hedge on how far spillovers extend and its account of shared audiences, the ending the reading treats as provisional.",
+    "F55": "Is the only printed material on a named forensic occupation beyond the three and DNA, and it concerns attention and resources, so the far edge is no better fixed in print than the near one.",
+    "F33": "Declared strain: AAFS and ASCLD supporting the report's recommendations, a printed route from the report to laboratories in general.",
+    "F34": "Declared strain: a printed route from the report to every unit through ASCLD.",
+    "F36": "Declared strain: the report put before all staff by management.",
+    "F54": "Declared strain: comparison with forensic biology voiced by non-DNA units that are not named.",
+    "F123": "Declared strain: prints a Daubert challenge to crystal testing as the subject of a workshop, a challenge to a method the report is not printed as criticizing."
+  },
+  "grounded_in": [
+    {
+      "kind": "missing_fact",
+      "question": "Where did the defense strategy on measurement uncertainty (F90) take its demand from: the 2009 report and the DNA standard, or elsewhere?",
+      "bears_on": "C19",
+      "if_one_way": "If from the report or the DNA standard, C19 would read with all three units reached, and DG02 would be a question about what lies beyond them.",
+      "if_the_other": "If from elsewhere, C19 would have to account for a unit that shares the laboratory and its audiences and was not reached, and the boundary DG02 leaves open would fall inside the case."
+    },
+    {
+      "kind": "divergence",
+      "items": [
+        "F102",
+        "F99"
+      ],
+      "how": "At the outreach session Jason rejects the idea that the uncertainty work began because of the NAS report and cites ISO and NIST requirements (F102). The author's account is that toxicologists encountered the DNA comparison through a threat to one of their own cases (F99). The participant places the work's origin in standing requirements; the author's account places the episode inside the comparison."
+    }
+  ],
+  "reach": {
+    "same_construct": [
+      "C01",
+      "C02",
+      "C17"
+    ],
+    "same_outcome": [
+      "C23"
+    ],
+    "feature_elsewhere": [
+      "F55",
+      "F54"
+    ],
+    "orphans_used": [
+      "F41"
+    ]
+  },
+  "split": null,
+  "for_attack": true
+}

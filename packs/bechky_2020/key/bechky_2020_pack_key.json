@@ -1,0 +1,1137 @@
+{
+  "paper_id": "bechky_2020",
+  "test_pack": false,
+  "builder": "1.3, 7 Oct 2026",
+  "built_at": "2026-10-07T19:37:02+00:00",
+  "corpus": "bechky_2020_v1.json",
+  "corpus_sha256": "6f83d744cd1dd68326cce29568a4aff461580d852d1222c4f1d096cb6922ced0",
+  "sidecar": "bechky_2020_v1_voice_gloss.json",
+  "sidecar_sha256": "e4b6d8c974a6661440e9366f24f85e8ebfc51d0defdceea99281f2eb567bea8a",
+  "log": "bechky_2020_coverage_extraction_log.md",
+  "text_format": "row id | ids | reason | code",
+  "workbooks": {
+    "A": {
+      "file": "bechky_2020_STAGE_A_outcome.xlsx",
+      "sha256": "2395c5232f8932df2c85c4dcb4ce37e4f101c2a50b0a64fab3ed3cb1139f5320",
+      "rows": {
+        "0 outcome": [
+          "0.1",
+          "0.2",
+          "0.3",
+          "0.4",
+          "0.5",
+          "0.6",
+          "0.7",
+          "0.8",
+          "0.9",
+          "0.10",
+          "0.11",
+          "0.12",
+          "0.13",
+          "0.14",
+          "0.15",
+          "0.16",
+          "0.17",
+          "0.18",
+          "0.19",
+          "0.20",
+          "0.21",
+          "0.22",
+          "0.23"
+        ]
+      }
+    },
+    "A2": {
+      "file": "bechky_2020_STAGE_A2_asserted_direction.xlsx",
+      "sha256": "1bfd70ab9f40d65bfde8b4005d5286528461653e898b5f0f4661093b18e5f34e",
+      "rows": {
+        "0b asserted_direction": [
+          "0b.1",
+          "0b.2",
+          "0b.3",
+          "0b.4",
+          "0b.5",
+          "0b.6",
+          "0b.7",
+          "0b.8",
+          "0b.9",
+          "0b.10",
+          "0b.11",
+          "0b.12",
+          "0b.13",
+          "0b.14",
+          "0b.15",
+          "0b.16",
+          "0b.17",
+          "0b.18"
+        ]
+      }
+    },
+    "V": {
+      "file": "bechky_2020_STAGE_V_voice.xlsx",
+      "sha256": "02a9c8b7f2411429aa967b09016b744fea410c87f73d994227f5335e9926be15",
+      "rows": {
+        "V voice": [
+          "V.1",
+          "V.2",
+          "V.3",
+          "V.4",
+          "V.5",
+          "V.6",
+          "V.7",
+          "V.8",
+          "V.9",
+          "V.10",
+          "V.11",
+          "V.12",
+          "V.13",
+          "V.14",
+          "V.15",
+          "V.16",
+          "V.17",
+          "V.18",
+          "V.19",
+          "V.20",
+          "V.21",
+          "V.22",
+          "V.23",
+          "V.24",
+          "V.25",
+          "V.26",
+          "V.27",
+          "V.28",
+          "V.29",
+          "V.30",
+          "V.31",
+          "V.32",
+          "V.33",
+          "V.34",
+          "V.35",
+          "V.36",
+          "V.37",
+          "V.38",
+          "V.39",
+          "V.40",
+          "V.41",
+          "V.42",
+          "V.43",
+          "V.44",
+          "V.45",
+          "V.46",
+          "V.47",
+          "V.48",
+          "V.49",
+          "V.50",
+          "V.51",
+          "V.52",
+          "V.53",
+          "V.54",
+          "V.55",
+          "V.56",
+          "V.57",
+          "V.58",
+          "V.59",
+          "V.60",
+          "V.61",
+          "V.62",
+          "V.63",
+          "V.64",
+          "V.65",
+          "V.66",
+          "V.67",
+          "V.68",
+          "V.69",
+          "V.70",
+          "V.71",
+          "V.72",
+          "V.73",
+          "V.74",
+          "V.75",
+          "V.76",
+          "V.77",
+          "V.78",
+          "V.79",
+          "V.80",
+          "V.81",
+          "V.82",
+          "V.83",
+          "V.84",
+          "V.85",
+          "V.86",
+          "V.87",
+          "V.88",
+          "V.89",
+          "V.90",
+          "V.91",
+          "V.92",
+          "V.93",
+          "V.94",
+          "V.95",
+          "V.96",
+          "V.97",
+          "V.98",
+          "V.99",
+          "V.100",
+          "V.101",
+          "V.102",
+          "V.103",
+          "V.104",
+          "V.105",
+          "V.106",
+          "V.107",
+          "V.108",
+          "V.109",
+          "V.110",
+          "V.111",
+          "V.112",
+          "V.113",
+          "V.114",
+          "V.115",
+          "V.116",
+          "V.117",
+          "V.118",
+          "V.119",
+          "V.120",
+          "V.121",
+          "V.122",
+          "V.123",
+          "V.124",
+          "V.125",
+          "V.126",
+          "V.127",
+          "V.128",
+          "V.129",
+          "V.130",
+          "V.131",
+          "V.132",
+          "V.133",
+          "V.134",
+          "V.135",
+          "V.136",
+          "V.137",
+          "V.138",
+          "V.139",
+          "V.140",
+          "V.141",
+          "V.142",
+          "V.143",
+          "V.144",
+          "V.145",
+          "V.146",
+          "V.147",
+          "V.148",
+          "V.149",
+          "V.150",
+          "V.151",
+          "V.152",
+          "V.153",
+          "V.154",
+          "V.155",
+          "V.156",
+          "V.157",
+          "V.158",
+          "V.159",
+          "V.160",
+          "V.161",
+          "V.162",
+          "V.163",
+          "V.164",
+          "V.165",
+          "V.166",
+          "V.167",
+          "V.168",
+          "V.169",
+          "V.170",
+          "V.171",
+          "V.172"
+        ]
+      }
+    },
+    "B": {
+      "file": "bechky_2020_STAGE_B.xlsx",
+      "sha256": "bdefdcb3f7b8b7ff02789854f5286fe011cea0b5d033de9294a43ee98410595c",
+      "rows": {
+        "1 direction": [
+          "1.1",
+          "1.2",
+          "1.3",
+          "1.4",
+          "1.5",
+          "1.6",
+          "1.7",
+          "1.8",
+          "1.9",
+          "1.10",
+          "1.11",
+          "1.12",
+          "1.13",
+          "1.14",
+          "1.15",
+          "1.16",
+          "1.17",
+          "1.18",
+          "1.19",
+          "1.20",
+          "1.21",
+          "1.22",
+          "1.23",
+          "1.24",
+          "1.25",
+          "1.26",
+          "1.27",
+          "1.28",
+          "1.29",
+          "1.30",
+          "1.31",
+          "1.32",
+          "1.33",
+          "1.34",
+          "1.35",
+          "1.36",
+          "1.37",
+          "1.38",
+          "1.39",
+          "1.40",
+          "1.41",
+          "1.42",
+          "1.43",
+          "1.44",
+          "1.45",
+          "1.46",
+          "1.47",
+          "1.48",
+          "1.49",
+          "1.50",
+          "1.51",
+          "1.52",
+          "1.53",
+          "1.54",
+          "1.55",
+          "1.56",
+          "1.57",
+          "1.58",
+          "1.59",
+          "1.60",
+          "1.61",
+          "1.62",
+          "1.63",
+          "1.64",
+          "1.65",
+          "1.66",
+          "1.67",
+          "1.68",
+          "1.69",
+          "1.70",
+          "1.71",
+          "1.72",
+          "1.73",
+          "1.74",
+          "1.75",
+          "1.76",
+          "1.77",
+          "1.78",
+          "1.79",
+          "1.80",
+          "1.81",
+          "1.82",
+          "1.83",
+          "1.84",
+          "1.85",
+          "1.86",
+          "1.87",
+          "1.88",
+          "1.89",
+          "1.90",
+          "1.91",
+          "1.92",
+          "1.93",
+          "1.94",
+          "1.95",
+          "1.96",
+          "1.97",
+          "1.98",
+          "1.99",
+          "1.100",
+          "1.101",
+          "1.102",
+          "1.103",
+          "1.104",
+          "1.105",
+          "1.106",
+          "1.107",
+          "1.108",
+          "1.109",
+          "1.110",
+          "1.111",
+          "1.112",
+          "1.113",
+          "1.114",
+          "1.115",
+          "1.116",
+          "1.117",
+          "1.118",
+          "1.119",
+          "1.120",
+          "1.121",
+          "1.122",
+          "1.123",
+          "1.124",
+          "1.125",
+          "1.126",
+          "1.127",
+          "1.128",
+          "1.129",
+          "1.130",
+          "1.131",
+          "1.132",
+          "1.133",
+          "1.134",
+          "1.135",
+          "1.136",
+          "1.137",
+          "1.138",
+          "1.139",
+          "1.140",
+          "1.141",
+          "1.142",
+          "1.143",
+          "1.144",
+          "1.145",
+          "1.146",
+          "1.147",
+          "1.148",
+          "1.149",
+          "1.150",
+          "1.151",
+          "1.152",
+          "1.153",
+          "1.154",
+          "1.155",
+          "1.156",
+          "1.157",
+          "1.158",
+          "1.159",
+          "1.160",
+          "1.161",
+          "1.162",
+          "1.163",
+          "1.164",
+          "1.165",
+          "1.166",
+          "1.167",
+          "1.168",
+          "1.169",
+          "1.170",
+          "1.171",
+          "1.172",
+          "1.173",
+          "1.174",
+          "1.175",
+          "1.176",
+          "1.177",
+          "1.178",
+          "1.179",
+          "1.180",
+          "1.181",
+          "1.182",
+          "1.183",
+          "1.184",
+          "1.185",
+          "1.186",
+          "1.187",
+          "1.188",
+          "1.189",
+          "1.190",
+          "1.191",
+          "1.192",
+          "1.193",
+          "1.194",
+          "1.195",
+          "1.196",
+          "1.197",
+          "1.198",
+          "1.199",
+          "1.200",
+          "1.201",
+          "1.202",
+          "1.203",
+          "1.204",
+          "1.205",
+          "1.206",
+          "1.207",
+          "1.208",
+          "1.209",
+          "1.210",
+          "1.211",
+          "1.212",
+          "1.213",
+          "1.214",
+          "1.215",
+          "1.216",
+          "1.217",
+          "1.218",
+          "1.219",
+          "1.220",
+          "1.221",
+          "1.222",
+          "1.223",
+          "1.224",
+          "1.225",
+          "1.226",
+          "1.227",
+          "1.228",
+          "1.229",
+          "1.230",
+          "1.231",
+          "1.232",
+          "1.233",
+          "1.234",
+          "1.235",
+          "1.236",
+          "1.237",
+          "1.238",
+          "1.239",
+          "1.240",
+          "1.241",
+          "1.242",
+          "1.243",
+          "1.244",
+          "1.245",
+          "1.246",
+          "1.247",
+          "1.248",
+          "1.249",
+          "1.250",
+          "1.251",
+          "1.252",
+          "1.253",
+          "1.254",
+          "1.255",
+          "1.256",
+          "1.257",
+          "1.258",
+          "1.259",
+          "1.260",
+          "1.261",
+          "1.262",
+          "1.263",
+          "1.264",
+          "1.265",
+          "1.266",
+          "1.267",
+          "1.268",
+          "1.269",
+          "1.270",
+          "1.271",
+          "1.272",
+          "1.273",
+          "1.274",
+          "1.275",
+          "1.276",
+          "1.277",
+          "1.278",
+          "1.279",
+          "1.280",
+          "1.281",
+          "1.282",
+          "1.283",
+          "1.284",
+          "1.285",
+          "1.286",
+          "1.287",
+          "1.288",
+          "1.289",
+          "1.290",
+          "1.291",
+          "1.292",
+          "1.293"
+        ],
+        "2 core": [
+          "2.1",
+          "2.2",
+          "2.3",
+          "2.4",
+          "2.5",
+          "2.6",
+          "2.7",
+          "2.8",
+          "2.9",
+          "2.10",
+          "2.11",
+          "2.12",
+          "2.13",
+          "2.14",
+          "2.15",
+          "2.16",
+          "2.17",
+          "2.18",
+          "2.19",
+          "2.20",
+          "2.21",
+          "2.22",
+          "2.23"
+        ],
+        "3 stated_as": [
+          "3.1",
+          "3.2",
+          "3.3",
+          "3.4",
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8",
+          "3.9",
+          "3.10",
+          "3.11",
+          "3.12",
+          "3.13",
+          "3.14",
+          "3.15",
+          "3.16",
+          "3.17",
+          "3.18",
+          "3.19",
+          "3.20",
+          "3.21",
+          "3.22",
+          "3.23"
+        ],
+        "4 gap kind": [
+          "4.1",
+          "4.2",
+          "4.3"
+        ],
+        "5 pair drawn_by": [
+          "5.1",
+          "5.2"
+        ],
+        "6 resolution_period": [
+          "6.1"
+        ],
+        "7 gloss_relation": [
+          "7.1",
+          "7.2",
+          "7.3",
+          "7.4",
+          "7.5",
+          "7.6",
+          "7.7",
+          "7.8",
+          "7.9",
+          "7.10",
+          "7.11",
+          "7.12",
+          "7.13",
+          "7.14",
+          "7.15",
+          "7.16",
+          "7.17",
+          "7.18",
+          "7.19",
+          "7.20"
+        ]
+      }
+    }
+  },
+  "warnings": [
+    "F02 (row V.2), V description opens with a reporting or interpreting verb: 'The paper describes U.S. public crime laboratories as operat'",
+    "F04 (row V.4), V description opens with a reporting or interpreting verb: 'The paper reports a field infrastructure of general, laborat'",
+    "F45 (row V.45), V description opens with a reporting or interpreting verb: 'The paper describes a routine DNA workflow in which analysts'",
+    "F68 (row V.68), V description opens with a reporting or interpreting verb: 'The paper describes firearms technical review as a second ex'",
+    "F91 (row V.91), V description opens with a reporting or interpreting verb: 'The paper describes toxicology as high-volume instrument wor'",
+    "F108 (row V.108), V description opens with a reporting or interpreting verb: 'The paper describes GC/MS as an instrument method that separ'",
+    "F169 (row V.169), V description opens with a reporting or interpreting verb: 'The paper describes forensic scientists as making judgments '",
+    "F171 (row V.171), V description opens with a reporting or interpreting verb: 'The paper describes CMS as a firearms-identification method '",
+    "paper content matches a machinery word: [('V', 'V voice', 'V.63', '\\\\battack'), ('V', 'V voice', 'V.80', '\\\\battack'), ('V', 'V voice', 'V.90', '\\\\battack'), ('V', 'V voice', 'V.117', '\\\\battack'), ('B', '1 direction', '1.49', '\\\\battack'), ('B', '1 direction', '1.63', '\\\\battack'), ('B', '1 direction', '1.84', '\\\\battack'), ('B', '1 direction', '1.85', '\\\\battack'), ('B', '1 direction', '1.149', '\\\\battack'), ('B', '1 direction', '1.150', '\\\\battack'), ('B', '7 gloss_relation', '7.7', '\\\\battack'), ('B', '7 gloss_relation', '7.7', '\\\\battack'), ('B', '7 gloss_relation', '7.8', '\\\\battack'), ('B', '7 gloss_relation', '7.15', '\\\\battack'), ('B', '7 gloss_relation', '7.16', '\\\\battack')]"
+  ],
+  "V_descriptions_override": {
+    "source": "bechky_2020_v_descriptions.json",
+    "fragments": [
+      "F58",
+      "F81"
+    ]
+  },
+  "V_opening_removed": [
+    {
+      "row": "V.3",
+      "fragment_id": "F03",
+      "removed": "the paper reports that"
+    },
+    {
+      "row": "V.27",
+      "fragment_id": "F27",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.39",
+      "fragment_id": "F39",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.40",
+      "fragment_id": "F40",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.42",
+      "fragment_id": "F42",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.47",
+      "fragment_id": "F47",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.50",
+      "fragment_id": "F50",
+      "removed": "the paper explains that"
+    },
+    {
+      "row": "V.52",
+      "fragment_id": "F52",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.53",
+      "fragment_id": "F53",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.56",
+      "fragment_id": "F56",
+      "removed": "the paper explains that"
+    },
+    {
+      "row": "V.58",
+      "fragment_id": "F58",
+      "removed": "replaced by --v-descriptions"
+    },
+    {
+      "row": "V.59",
+      "fragment_id": "F59",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.61",
+      "fragment_id": "F61",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.63",
+      "fragment_id": "F63",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.65",
+      "fragment_id": "F65",
+      "removed": "the paper explains that"
+    },
+    {
+      "row": "V.70",
+      "fragment_id": "F70",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.71",
+      "fragment_id": "F71",
+      "removed": "the paper reports that"
+    },
+    {
+      "row": "V.75",
+      "fragment_id": "F75",
+      "removed": "the paper reports that"
+    },
+    {
+      "row": "V.77",
+      "fragment_id": "F77",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.81",
+      "fragment_id": "F81",
+      "removed": "replaced by --v-descriptions"
+    },
+    {
+      "row": "V.84",
+      "fragment_id": "F84",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.87",
+      "fragment_id": "F87",
+      "removed": "the paper explains that"
+    },
+    {
+      "row": "V.88",
+      "fragment_id": "F88",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.93",
+      "fragment_id": "F93",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.97",
+      "fragment_id": "F97",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.99",
+      "fragment_id": "F99",
+      "removed": "the paper explains that"
+    },
+    {
+      "row": "V.100",
+      "fragment_id": "F100",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.104",
+      "fragment_id": "F104",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.105",
+      "fragment_id": "F105",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.106",
+      "fragment_id": "F106",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.111",
+      "fragment_id": "F111",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.115",
+      "fragment_id": "F115",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.118",
+      "fragment_id": "F118",
+      "removed": "the paper reports that"
+    },
+    {
+      "row": "V.120",
+      "fragment_id": "F120",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.126",
+      "fragment_id": "F126",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.129",
+      "fragment_id": "F129",
+      "removed": "the paper explains that"
+    },
+    {
+      "row": "V.130",
+      "fragment_id": "F130",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.131",
+      "fragment_id": "F131",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.132",
+      "fragment_id": "F132",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.133",
+      "fragment_id": "F133",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.134",
+      "fragment_id": "F134",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.135",
+      "fragment_id": "F135",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.136",
+      "fragment_id": "F136",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.137",
+      "fragment_id": "F137",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.138",
+      "fragment_id": "F138",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.139",
+      "fragment_id": "F139",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.140",
+      "fragment_id": "F140",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.141",
+      "fragment_id": "F141",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.142",
+      "fragment_id": "F142",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.143",
+      "fragment_id": "F143",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.144",
+      "fragment_id": "F144",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.145",
+      "fragment_id": "F145",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.146",
+      "fragment_id": "F146",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.147",
+      "fragment_id": "F147",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.148",
+      "fragment_id": "F148",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.149",
+      "fragment_id": "F149",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.150",
+      "fragment_id": "F150",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.151",
+      "fragment_id": "F151",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.152",
+      "fragment_id": "F152",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.153",
+      "fragment_id": "F153",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.154",
+      "fragment_id": "F154",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.155",
+      "fragment_id": "F155",
+      "removed": "the paper explains that"
+    },
+    {
+      "row": "V.156",
+      "fragment_id": "F156",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.157",
+      "fragment_id": "F157",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.158",
+      "fragment_id": "F158",
+      "removed": "the paper explains that"
+    },
+    {
+      "row": "V.159",
+      "fragment_id": "F159",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.160",
+      "fragment_id": "F160",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.161",
+      "fragment_id": "F161",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.162",
+      "fragment_id": "F162",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.163",
+      "fragment_id": "F163",
+      "removed": "the paper explains that"
+    },
+    {
+      "row": "V.164",
+      "fragment_id": "F164",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.165",
+      "fragment_id": "F165",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.166",
+      "fragment_id": "F166",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.167",
+      "fragment_id": "F167",
+      "removed": "the paper explains that"
+    },
+    {
+      "row": "V.168",
+      "fragment_id": "F168",
+      "removed": "the author's account is that"
+    },
+    {
+      "row": "V.172",
+      "fragment_id": "F172",
+      "removed": "the author's account is that"
+    }
+  ],
+  "pair_texts": {
+    "source": "override: bechky_2020_pairs.json for ['CP02']",
+    "texts": {
+      "CP01": [
+        "MCCL firearms examiners received court-related criticism mostly through distant proceedings and retained their local method.",
+        "MCCL toxicologists faced a prospective challenge in their own jurisdiction and accelerated a reporting change."
+      ],
+      "CP02": [
+        "Toxicologists had an instrumented method and error-focused values that fit the standard they were measured against, and changed their reporting practice.",
+        "Narcotics analysts had an available instrumented alternative but valued craft, variety, and autonomy and retained crystal testing."
+      ]
+    }
+  },
+  "period_descriptions": {
+    "source": "override: bechky_2020_periods.json",
+    "descriptions": {
+      "P1": "The whole of the paper's account, as one period."
+    }
+  },
+  "gloss_neighbours": {
+    "F49": [
+      "F48",
+      "F50"
+    ],
+    "F51": [
+      "F50",
+      "F52"
+    ],
+    "F55": [
+      "F54",
+      "F56"
+    ],
+    "F57": [
+      "F56",
+      "F58"
+    ],
+    "F66": [
+      "F65",
+      "F67"
+    ],
+    "F69": [
+      "F68",
+      "F70"
+    ],
+    "F79": [
+      "F78",
+      "F80"
+    ],
+    "F80": [
+      "F79",
+      "F81"
+    ],
+    "F85": [
+      "F84",
+      "F86"
+    ],
+    "F94": [
+      "F93",
+      "F95"
+    ],
+    "F95": [
+      "F94",
+      "F96"
+    ],
+    "F96": [
+      "F95",
+      "F97"
+    ],
+    "F103": [
+      "F102",
+      "F104"
+    ],
+    "F114": [
+      "F113",
+      "F115"
+    ],
+    "F116": [
+      "F115",
+      "F117"
+    ],
+    "F117": [
+      "F116",
+      "F118"
+    ],
+    "F119": [
+      "F118",
+      "F120"
+    ],
+    "F122": [
+      "F121",
+      "F123"
+    ],
+    "F127": [
+      "F126",
+      "F128"
+    ],
+    "F128": [
+      "F127",
+      "F129"
+    ]
+  }
+}

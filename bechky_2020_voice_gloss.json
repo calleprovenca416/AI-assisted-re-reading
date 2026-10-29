@@ -1,0 +1,947 @@
+{
+  "paper_id": "bechky_2020",
+  "voice": [
+    {
+      "fragment_id": "F01",
+      "code": "reported",
+      "reason": "The page reports the content or action of a document, media item, or professional record rather than interpreting across episodes."
+    },
+    {
+      "fragment_id": "F02",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F03",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F04",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F05",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F06",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F07",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F08",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F09",
+      "code": "reported",
+      "reason": "This Table 1 cell directly reports a demographic characteristic of the laboratory unit."
+    },
+    {
+      "fragment_id": "F10",
+      "code": "reported",
+      "reason": "This Table 1 cell directly reports a demographic characteristic of the laboratory unit."
+    },
+    {
+      "fragment_id": "F11",
+      "code": "reported",
+      "reason": "This Table 1 cell directly reports a demographic characteristic of the laboratory unit."
+    },
+    {
+      "fragment_id": "F12",
+      "code": "reported",
+      "reason": "This Table 1 cell directly reports a demographic characteristic of the laboratory unit."
+    },
+    {
+      "fragment_id": "F13",
+      "code": "reported",
+      "reason": "This Table 1 cell directly reports a demographic characteristic of the laboratory unit."
+    },
+    {
+      "fragment_id": "F14",
+      "code": "reported",
+      "reason": "This Table 1 cell directly reports a demographic characteristic of the laboratory unit."
+    },
+    {
+      "fragment_id": "F15",
+      "code": "reported",
+      "reason": "This Table 1 cell directly reports a demographic characteristic of the laboratory unit."
+    },
+    {
+      "fragment_id": "F16",
+      "code": "reported",
+      "reason": "This Table 1 cell directly reports a demographic characteristic of the laboratory unit."
+    },
+    {
+      "fragment_id": "F17",
+      "code": "reported",
+      "reason": "This Table 1 cell directly reports a demographic characteristic of the laboratory unit."
+    },
+    {
+      "fragment_id": "F18",
+      "code": "reported",
+      "reason": "This Table 1 cell directly reports a demographic characteristic of the laboratory unit."
+    },
+    {
+      "fragment_id": "F19",
+      "code": "reported",
+      "reason": "This Table 1 cell directly reports a demographic characteristic of the laboratory unit."
+    },
+    {
+      "fragment_id": "F20",
+      "code": "reported",
+      "reason": "This Table 1 cell directly reports a demographic characteristic of the laboratory unit."
+    },
+    {
+      "fragment_id": "F21",
+      "code": "reported",
+      "reason": "This Table 1 cell directly reports a demographic characteristic of the laboratory unit."
+    },
+    {
+      "fragment_id": "F22",
+      "code": "reported",
+      "reason": "This Table 1 cell directly reports a demographic characteristic of the laboratory unit."
+    },
+    {
+      "fragment_id": "F23",
+      "code": "reported",
+      "reason": "This Table 1 cell directly reports a demographic characteristic of the laboratory unit."
+    },
+    {
+      "fragment_id": "F24",
+      "code": "reported",
+      "reason": "This Table 1 cell directly reports a demographic characteristic of the laboratory unit."
+    },
+    {
+      "fragment_id": "F25",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F26",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F27",
+      "code": "author_insight",
+      "reason": "The passage interprets several differences among the laboratory units as evidence that they function as neighboring but distinct occupations."
+    },
+    {
+      "fragment_id": "F28",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F29",
+      "code": "reported",
+      "reason": "The page reports what firearms examiners did in conference presentations during the study rather than explaining those actions."
+    },
+    {
+      "fragment_id": "F30",
+      "code": "reported",
+      "reason": "The page reports recurring discussions by narcotics analysts about their preferred method rather than supplying an explanation of those discussions."
+    },
+    {
+      "fragment_id": "F31",
+      "code": "reported",
+      "reason": "The page reports what toxicologists talked about during fieldwork rather than interpreting why they did so."
+    },
+    {
+      "fragment_id": "F32",
+      "code": "reported",
+      "reason": "The page reports the content or action of a document, media item, or professional record rather than interpreting across episodes."
+    },
+    {
+      "fragment_id": "F33",
+      "code": "reported",
+      "reason": "The page reports the content or action of a document, media item, or professional record rather than interpreting across episodes."
+    },
+    {
+      "fragment_id": "F34",
+      "code": "reported",
+      "reason": "The page reports the content or action of a document, media item, or professional record rather than interpreting across episodes."
+    },
+    {
+      "fragment_id": "F35",
+      "code": "reported",
+      "reason": "The page reports the content or action of a document, media item, or professional record rather than interpreting across episodes."
+    },
+    {
+      "fragment_id": "F36",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F37",
+      "code": "reported",
+      "reason": "The page reports the content or action of a document, media item, or professional record rather than interpreting across episodes."
+    },
+    {
+      "fragment_id": "F38",
+      "code": "reported",
+      "reason": "The page reports the content or action of a document, media item, or professional record rather than interpreting across episodes."
+    },
+    {
+      "fragment_id": "F39",
+      "code": "author_insight",
+      "reason": "The passage links the elevated standing of DNA to pressure on other specialties, which is the author's cross-field interpretation."
+    },
+    {
+      "fragment_id": "F40",
+      "code": "author_insight",
+      "reason": "The passage interprets variation across MCCL groups and characterizes DNA as an informal benchmark, rather than recounting one episode."
+    },
+    {
+      "fragment_id": "F41",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F42",
+      "code": "author_insight",
+      "reason": "The passage explains cross-occupation variation through different institutional routes, so it is an analytic synthesis."
+    },
+    {
+      "fragment_id": "F43",
+      "code": "reported",
+      "reason": "The page reports the content or action of a document, media item, or professional record rather than interpreting across episodes."
+    },
+    {
+      "fragment_id": "F44",
+      "code": "reported",
+      "reason": "The page reports the content or action of a document, media item, or professional record rather than interpreting across episodes."
+    },
+    {
+      "fragment_id": "F45",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F46",
+      "code": "reported",
+      "reason": "The page reports the content or action of a document, media item, or professional record rather than interpreting across episodes."
+    },
+    {
+      "fragment_id": "F47",
+      "code": "author_insight",
+      "reason": "The passage interprets several features of DNA outputs as producing an appearance of scientific objectivity."
+    },
+    {
+      "fragment_id": "F48",
+      "code": "reported",
+      "reason": "The page reports DNA analysts' own view of the work and the concrete problems they encountered, rather than explaining that view for them."
+    },
+    {
+      "fragment_id": "F49",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F50",
+      "code": "author_insight",
+      "reason": "The passage generalizes across review activity to explain DNA reporting as an interpretive and collective process."
+    },
+    {
+      "fragment_id": "F51",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F52",
+      "code": "author_insight",
+      "reason": "The passage states the broader meaning assigned to DNA by external audiences, rather than reporting one discrete encounter."
+    },
+    {
+      "fragment_id": "F53",
+      "code": "author_insight",
+      "reason": "The passage names and interprets a field-wide pattern of envy surrounding DNA's privileged standing."
+    },
+    {
+      "fragment_id": "F54",
+      "code": "reported",
+      "reason": "The page reports repeated comments by members of other units about the resources available to DNA work."
+    },
+    {
+      "fragment_id": "F55",
+      "code": "reported",
+      "reason": "The page reports the content or action of a document, media item, or professional record rather than interpreting across episodes."
+    },
+    {
+      "fragment_id": "F56",
+      "code": "author_insight",
+      "reason": "The passage explains how the NAS comparison produced field-wide tensions that moved through institutions and occupational cultures."
+    },
+    {
+      "fragment_id": "F57",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F58",
+      "code": "reported",
+      "reason": "The passage interprets training, methods, and relations with the justice system as producing distinct occupational cultures."
+    },
+    {
+      "fragment_id": "F59",
+      "code": "author_insight",
+      "reason": "The passage identifies the institutional routes through which firearms examiners encountered comparison pressure, which is an analytic synthesis."
+    },
+    {
+      "fragment_id": "F60",
+      "code": "reported",
+      "reason": "The page reports the content or action of a document, media item, or professional record rather than interpreting across episodes."
+    },
+    {
+      "fragment_id": "F61",
+      "code": "author_insight",
+      "reason": "The passage interprets public criticism as evaluative pressure on firearms examination rather than recounting one criticism."
+    },
+    {
+      "fragment_id": "F62",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F63",
+      "code": "author_insight",
+      "reason": "The passage synthesizes courtroom challenges into an interpretation about the discipline's credibility and legitimacy."
+    },
+    {
+      "fragment_id": "F64",
+      "code": "reported",
+      "reason": "The page describes observed work or a concrete workplace occurrence rather than offering a cross-event interpretation."
+    },
+    {
+      "fragment_id": "F65",
+      "code": "author_insight",
+      "reason": "The passage explains what image documentation accomplishes for firearms judgments in court, rather than merely describing the images."
+    },
+    {
+      "fragment_id": "F66",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F67",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F68",
+      "code": "reported",
+      "reason": "The page describes observed work or a concrete workplace occurrence rather than offering a cross-event interpretation."
+    },
+    {
+      "fragment_id": "F69",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F70",
+      "code": "author_insight",
+      "reason": "The passage interprets several work practices and discussions as evidence of firearms examiners' occupational values."
+    },
+    {
+      "fragment_id": "F71",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F72",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F73",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F74",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F75",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F76",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F77",
+      "code": "author_insight",
+      "reason": "The passage summarizes across training and method discussions to characterize what counted as a good firearms examiner."
+    },
+    {
+      "fragment_id": "F78",
+      "code": "reported",
+      "reason": "The page reports the content or action of a document, media item, or professional record rather than interpreting across episodes."
+    },
+    {
+      "fragment_id": "F79",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F80",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F81",
+      "code": "reported",
+      "reason": "The passage synthesizes several field reactions into the author's conclusion that admissibility had become a concern."
+    },
+    {
+      "fragment_id": "F82",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F83",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F84",
+      "code": "author_insight",
+      "reason": "The passage explains the absence of local practice change by connecting it to the distance of the criticism and lack of a local challenge."
+    },
+    {
+      "fragment_id": "F85",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F86",
+      "code": "reported",
+      "reason": "The passage immediately characterizes the Tom-and-Pete exchange; under the brief's single-event rule, that interpretation belongs with the reported episode."
+    },
+    {
+      "fragment_id": "F87",
+      "code": "author_insight",
+      "reason": "The passage combines pathway distance, technique, and values to explain why MCCL firearms practice did not change."
+    },
+    {
+      "fragment_id": "F88",
+      "code": "author_insight",
+      "reason": "The passage explains the toxicology change as a response to an imminent local courtroom challenge."
+    },
+    {
+      "fragment_id": "F89",
+      "code": "reported",
+      "reason": "The page reports the content or action of a document, media item, or professional record rather than interpreting across episodes."
+    },
+    {
+      "fragment_id": "F90",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F91",
+      "code": "reported",
+      "reason": "The page describes observed work or a concrete workplace occurrence rather than offering a cross-event interpretation."
+    },
+    {
+      "fragment_id": "F92",
+      "code": "reported",
+      "reason": "The page describes observed work or a concrete workplace occurrence rather than offering a cross-event interpretation."
+    },
+    {
+      "fragment_id": "F93",
+      "code": "author_insight",
+      "reason": "The passage generalizes from the described workflow to characterize toxicology work as standardized, instrument-based, and legally familiar."
+    },
+    {
+      "fragment_id": "F94",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F95",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F96",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F97",
+      "code": "author_insight",
+      "reason": "The passage interprets several observed routines as defining the valued qualities of a good toxicologist."
+    },
+    {
+      "fragment_id": "F98",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F99",
+      "code": "author_insight",
+      "reason": "The passage contrasts institutional routes to explain how toxicologists encountered the DNA comparison."
+    },
+    {
+      "fragment_id": "F100",
+      "code": "author_insight",
+      "reason": "The passage explains why the measurement-uncertainty demand fit toxicologists' existing work and values."
+    },
+    {
+      "fragment_id": "F101",
+      "code": "reported",
+      "reason": "The page reports the content or action of a document, media item, or professional record rather than interpreting across episodes."
+    },
+    {
+      "fragment_id": "F102",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F103",
+      "code": "reported",
+      "reason": "The page describes observed work or a concrete workplace occurrence rather than offering a cross-event interpretation."
+    },
+    {
+      "fragment_id": "F104",
+      "code": "author_insight",
+      "reason": "The passage interprets the anticipated court challenge as unusually immediate because it would reach an MCCL analyst directly."
+    },
+    {
+      "fragment_id": "F105",
+      "code": "author_insight",
+      "reason": "The passage synthesizes several arenas to explain why narcotics pressure arrived mainly through the professional community."
+    },
+    {
+      "fragment_id": "F106",
+      "code": "author_insight",
+      "reason": "The passage combines regional method differences, instrument outputs, and analyst concern into an interpretation of the narcotics debate."
+    },
+    {
+      "fragment_id": "F107",
+      "code": "reported",
+      "reason": "The page describes observed work or a concrete workplace occurrence rather than offering a cross-event interpretation."
+    },
+    {
+      "fragment_id": "F108",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F109",
+      "code": "reported",
+      "reason": "The page describes observed work or a concrete workplace occurrence rather than offering a cross-event interpretation."
+    },
+    {
+      "fragment_id": "F110",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F111",
+      "code": "author_insight",
+      "reason": "The passage interprets multiple work features as the occupational values of narcotics analysts."
+    },
+    {
+      "fragment_id": "F112",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F113",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F114",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F115",
+      "code": "author_insight",
+      "reason": "The passage characterizes the unit's concern with scientific precision across more than one event."
+    },
+    {
+      "fragment_id": "F116",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F117",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F118",
+      "code": "reported",
+      "reason": "The page describes observed work or a concrete workplace occurrence rather than offering a cross-event interpretation."
+    },
+    {
+      "fragment_id": "F119",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F120",
+      "code": "author_insight",
+      "reason": "The passage synthesizes several episodes into the author's account of what good narcotics work required."
+    },
+    {
+      "fragment_id": "F121",
+      "code": "reported",
+      "reason": "The page reports analysts' concern and their belief about professional-group influence; I treat this aggregated participant reasoning as reported."
+    },
+    {
+      "fragment_id": "F122",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F123",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F124",
+      "code": "reported",
+      "reason": "The page reports the content or action of a document, media item, or professional record rather than interpreting across episodes."
+    },
+    {
+      "fragment_id": "F125",
+      "code": "reported",
+      "reason": "The page recounts a specific utterance or exchange in the study setting."
+    },
+    {
+      "fragment_id": "F126",
+      "code": "author_insight",
+      "reason": "The passage states what a move toward instrumentation meant to analysts in general, so it is an authorial interpretation of occupational values."
+    },
+    {
+      "fragment_id": "F127",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F128",
+      "code": "reported",
+      "reason": "The page reports a setting fact, recurring practice, or participant account rather than supplying the author's cross-event interpretation."
+    },
+    {
+      "fragment_id": "F129",
+      "code": "author_insight",
+      "reason": "The passage combines values and the professional pathway to explain why narcotics analysts resisted changing practice."
+    },
+    {
+      "fragment_id": "F130",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F131",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F132",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F133",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F134",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F135",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F136",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F137",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F138",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F139",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F140",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F141",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F142",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F143",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F144",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F145",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F146",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F147",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F148",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F149",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F150",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F151",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F152",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F153",
+      "code": "author_insight",
+      "reason": "This Table 2 cell is part of the paper's comparative analytic framework across occupations rather than a single reported episode."
+    },
+    {
+      "fragment_id": "F154",
+      "code": "author_insight",
+      "reason": "The discussion synthesizes evidence across episodes or occupations into the author's interpretation rather than reporting one event."
+    },
+    {
+      "fragment_id": "F155",
+      "code": "author_insight",
+      "reason": "The discussion synthesizes evidence across episodes or occupations into the author's interpretation rather than reporting one event."
+    },
+    {
+      "fragment_id": "F156",
+      "code": "author_insight",
+      "reason": "The discussion synthesizes evidence across episodes or occupations into the author's interpretation rather than reporting one event."
+    },
+    {
+      "fragment_id": "F157",
+      "code": "author_insight",
+      "reason": "The discussion synthesizes evidence across episodes or occupations into the author's interpretation rather than reporting one event."
+    },
+    {
+      "fragment_id": "F158",
+      "code": "author_insight",
+      "reason": "The discussion synthesizes evidence across episodes or occupations into the author's interpretation rather than reporting one event."
+    },
+    {
+      "fragment_id": "F159",
+      "code": "author_insight",
+      "reason": "The discussion synthesizes evidence across episodes or occupations into the author's interpretation rather than reporting one event."
+    },
+    {
+      "fragment_id": "F160",
+      "code": "author_insight",
+      "reason": "The discussion synthesizes evidence across episodes or occupations into the author's interpretation rather than reporting one event."
+    },
+    {
+      "fragment_id": "F161",
+      "code": "author_insight",
+      "reason": "The discussion synthesizes evidence across episodes or occupations into the author's interpretation rather than reporting one event."
+    },
+    {
+      "fragment_id": "F162",
+      "code": "author_insight",
+      "reason": "The discussion synthesizes evidence across episodes or occupations into the author's interpretation rather than reporting one event."
+    },
+    {
+      "fragment_id": "F163",
+      "code": "author_insight",
+      "reason": "The discussion synthesizes evidence across episodes or occupations into the author's interpretation rather than reporting one event."
+    },
+    {
+      "fragment_id": "F164",
+      "code": "author_insight",
+      "reason": "The discussion synthesizes evidence across episodes or occupations into the author's interpretation rather than reporting one event."
+    },
+    {
+      "fragment_id": "F165",
+      "code": "author_insight",
+      "reason": "The discussion synthesizes evidence across episodes or occupations into the author's interpretation rather than reporting one event."
+    },
+    {
+      "fragment_id": "F166",
+      "code": "author_insight",
+      "reason": "The discussion synthesizes evidence across episodes or occupations into the author's interpretation rather than reporting one event."
+    },
+    {
+      "fragment_id": "F167",
+      "code": "author_insight",
+      "reason": "The discussion synthesizes evidence across episodes or occupations into the author's interpretation rather than reporting one event."
+    },
+    {
+      "fragment_id": "F168",
+      "code": "author_insight",
+      "reason": "The discussion synthesizes evidence across episodes or occupations into the author's interpretation rather than reporting one event."
+    }
+  ],
+  "gloss_relation": [
+    {
+      "fragment_id": "F49",
+      "code": "goes_beyond",
+      "reason": "The event supports the contamination problem and a clean rerun, but the gloss additionally attributes the process to judgment."
+    },
+    {
+      "fragment_id": "F51",
+      "code": "goes_beyond",
+      "reason": "The remark reports wider laboratory participation; calling that participation shared judgment adds an interpretive step without contradicting it."
+    },
+    {
+      "fragment_id": "F55",
+      "code": "consistent",
+      "reason": "Formation of the association and its complaint about DNA's favored position directly support the gloss about resentment appearing in professional organizations."
+    },
+    {
+      "fragment_id": "F57",
+      "code": "consistent",
+      "reason": "The director's statement that criminalists should work across units directly supports the gloss about an expectation of interchangeability."
+    },
+    {
+      "fragment_id": "F66",
+      "code": "goes_beyond",
+      "reason": "The event supports confidence in documentation, but the later reading adds that this confidence helps explain why distant challenges lacked local urgency."
+    },
+    {
+      "fragment_id": "F69",
+      "code": "consistent",
+      "reason": "The review episode shows collaborative visual judgment, image selection, and agreement, matching the gloss about joint judgment and persuasive documentation."
+    },
+    {
+      "fragment_id": "F79",
+      "code": "consistent",
+      "reason": "The speaker's attack on critics and account of harder testimony support the gloss that the presentation was a defensive response to legitimacy pressure."
+    },
+    {
+      "fragment_id": "F80",
+      "code": "consistent",
+      "reason": "The examiner explicitly used defense questioning as a reason to reconsider practice, supporting both the immediate and later glosses about motivation for change."
+    },
+    {
+      "fragment_id": "F85",
+      "code": "consistent",
+      "reason": "Tom and Pete directly describe the absence of numerical population-style support and the difficulty of translating firearms judgment into a DNA-like form."
+    },
+    {
+      "fragment_id": "F94",
+      "code": "consistent",
+      "reason": "The unit's self-description and repeated identity checks directly support the gloss about intense organization and error avoidance."
+    },
+    {
+      "fragment_id": "F95",
+      "code": "consistent",
+      "reason": "The exchange treats disorder and missing labels as violations of expected conduct, supporting the gloss that meticulous organization was an occupational virtue."
+    },
+    {
+      "fragment_id": "F96",
+      "code": "consistent",
+      "reason": "Jason's warning connects a tiny procedural check to a ruined sample and consequences for the analyst, directly supporting the gloss about vigilance."
+    },
+    {
+      "fragment_id": "F103",
+      "code": "goes_beyond",
+      "reason": "The observation shows pride in the new quantified report, while the gloss additionally links that pride to broader established technique and occupational values."
+    },
+    {
+      "fragment_id": "F114",
+      "code": "goes_beyond",
+      "reason": "Taylor's career story shows his own dislike of routine toxicology work, while the gloss generalizes that preference to the narcotics group."
+    },
+    {
+      "fragment_id": "F116",
+      "code": "consistent",
+      "reason": "Tim both rejects imprecise wording and refuses an unsupported claim about purity, directly supporting the gloss about precision and bounded conclusions."
+    },
+    {
+      "fragment_id": "F117",
+      "code": "goes_beyond",
+      "reason": "The exchange shows Tim and Taylor valuing redundant documentation, but the gloss extends that value to the laboratory as a whole."
+    },
+    {
+      "fragment_id": "F119",
+      "code": "goes_beyond",
+      "reason": "The meeting clearly shows concern with processing speed, while the gloss additionally positions efficiency alongside the unit's broader commitment to thorough analysis."
+    },
+    {
+      "fragment_id": "F122",
+      "code": "consistent",
+      "reason": "Jodi directly links the possible loss of crystal testing to reviewability, speed, and a likely shift toward slower instrument work, matching the gloss."
+    },
+    {
+      "fragment_id": "F127",
+      "code": "goes_beyond",
+      "reason": "Taylor contrasts specialized crystal training with easy instrument operation; the gloss adds the broader meaning of that contrast for craft expertise and judgment."
+    },
+    {
+      "fragment_id": "F128",
+      "code": "consistent",
+      "reason": "Billie explicitly ties her preference for crystal work to practicing chemistry and avoiding repetitive instrument work, matching the gloss about variety and craft involvement."
+    }
+  ]
+}

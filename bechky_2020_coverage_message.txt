@@ -1,0 +1,25 @@
+I've attached five files: EXTRACTION_BRIEF.md, a PDF of a published research paper, and three files an earlier session produced from that paper under the brief: bechky_2020_corpus.json, bechky_2020_voice_gloss.json and bechky_2020_extraction_log.md. The earlier session completed all six passes.
+
+A coverage check found the passages listed at the end of this message, which produced no fragment or no claim. Read the brief in full first, then the whole paper, then the three files. Then extract the listed passages following the brief — fragments, claims, links, voice and gloss — numbering on from the last id in each list. Do not change anything already recorded unless a new record requires it. If a listed passage holds no fragment and no claim under the brief, say why. Record every addition and change in the log under a heading "Coverage additions", and give me the three updated files.
+
+Work only from the attached PDF. Do not search the web, and set aside anything you know about this paper or its author from elsewhere.
+
+paper_id: bechky_2020
+citation: Bechky, B. A. 2020. Evaluative spillovers from technological change: The effects of "DNA envy" on occupational practices in forensic science. Administrative Science Quarterly, 65(3): 606–643.
+
+Passages:
+pp. 606–607, the paragraph that runs over the page
+p. 607, second full paragraph
+p. 608, first full paragraph
+p. 609, third full paragraph
+p. 610, the paragraph above the subheading
+pp. 610–611, the paragraph that runs over the page
+p. 611, first full paragraph
+pp. 611–612, the paragraph that runs over the page
+p. 612, footnote 1
+p. 621, footnote 4
+pp. 622–623, the paragraph that runs over the page
+p. 633, Table 2, row "Values", column "Toxicology"
+p. 636, third full paragraph
+pp. 637–638, the paragraph that runs over the page
+p. 638, first full paragraph

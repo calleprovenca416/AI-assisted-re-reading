@@ -1,0 +1,9860 @@
+{
+ "plan": "SECOND_EXTRACTION_PLAN.md",
+ "seed": 20261018,
+ "draw": "random.Random(20261018).choice([\"first\", \"new\"])",
+ "P": "first",
+ "Q": "new",
+ "sources": {
+  "first": {
+   "corpus": "bechky_2020_corpus.json",
+   "corpus_sha256": "7ce0e382bb5659552a63d65b889035674ed7ddbd112bdef37295a520b20f5acc",
+   "voice": "bechky_2020_voice_gloss.json",
+   "voice_sha256": "6ded1283ccfbba25e6e6a3f1c4b145d0a8cce9fec5bffb8cbd1330e499e06d67"
+  },
+  "new": {
+   "corpus": "bechky_2020_x2_corpus.json",
+   "corpus_sha256": "326c0d2f0bd8ef078ad9b32853b94a0037ce6ba3f82694f47fa53d94e08424fe",
+   "voice": "bechky_2020_x2_voice_gloss.json",
+   "voice_sha256": "eb043562e90e10f7523105071fab49af0ac08defe5bfa3d699ebc11416a2dad3"
+  }
+ },
+ "claims": {
+  "PC01": {
+   "return": "first",
+   "id": "C01",
+   "location": "p. 606; pp. 607–608; p. 634; p. 638",
+   "pages": [
+    606,
+    607,
+    608,
+    634,
+    638
+   ],
+   "core": true,
+   "stated_as": "established"
+  },
+  "PC02": {
+   "return": "first",
+   "id": "C02",
+   "location": "p. 606; pp. 607–608; pp. 615–617; p. 619; p. 634",
+   "pages": [
+    606,
+    607,
+    608,
+    615,
+    616,
+    617,
+    619,
+    634
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "PC03": {
+   "return": "first",
+   "id": "C03",
+   "location": "p. 606; p. 608; p. 617; p. 620; pp. 624–625; pp. 627–628; p. 632; pp. 633–636",
+   "pages": [
+    606,
+    608,
+    617,
+    620,
+    624,
+    625,
+    627,
+    628,
+    632,
+    633,
+    634,
+    635,
+    636
+   ],
+   "core": true,
+   "stated_as": "established"
+  },
+  "PC04": {
+   "return": "first",
+   "id": "C04",
+   "location": "p. 606; p. 608; p. 617; p. 620; p. 625; pp. 627–628; p. 632; pp. 633–637",
+   "pages": [
+    606,
+    608,
+    617,
+    620,
+    625,
+    627,
+    628,
+    632,
+    633,
+    634,
+    635,
+    636,
+    637
+   ],
+   "core": true,
+   "stated_as": "established"
+  },
+  "PC05": {
+   "return": "first",
+   "id": "C05",
+   "location": "p. 606; p. 608; p. 617; p. 620; p. 625; pp. 627–628; p. 632; pp. 633–637",
+   "pages": [
+    606,
+    608,
+    617,
+    620,
+    625,
+    627,
+    628,
+    632,
+    633,
+    634,
+    635,
+    636,
+    637
+   ],
+   "core": true,
+   "stated_as": "established"
+  },
+  "PC06": {
+   "return": "first",
+   "id": "C06",
+   "location": "pp. 608–609",
+   "pages": [
+    608,
+    609
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "PC07": {
+   "return": "first",
+   "id": "C07",
+   "location": "pp. 608–609",
+   "pages": [
+    608,
+    609
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "PC08": {
+   "return": "first",
+   "id": "C08",
+   "location": "pp. 608–609",
+   "pages": [
+    608,
+    609
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "PC09": {
+   "return": "first",
+   "id": "C09",
+   "location": "p. 610",
+   "pages": [
+    610
+   ],
+   "core": false,
+   "stated_as": "ventured"
+  },
+  "PC10": {
+   "return": "first",
+   "id": "C10",
+   "location": "p. 611; p. 615; p. 620; p. 637",
+   "pages": [
+    611,
+    615,
+    620,
+    637
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "PC11": {
+   "return": "first",
+   "id": "C11",
+   "location": "p. 611",
+   "pages": [
+    611
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "PC12": {
+   "return": "first",
+   "id": "C12",
+   "location": "p. 613",
+   "pages": [
+    613
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "PC13": {
+   "return": "first",
+   "id": "C13",
+   "location": "p. 617; p. 634",
+   "pages": [
+    617,
+    634
+   ],
+   "core": true,
+   "stated_as": "established"
+  },
+  "PC14": {
+   "return": "first",
+   "id": "C14",
+   "location": "pp. 618–619",
+   "pages": [
+    618,
+    619
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "PC15": {
+   "return": "first",
+   "id": "C15",
+   "location": "p. 619",
+   "pages": [
+    619
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "PC16": {
+   "return": "first",
+   "id": "C20",
+   "location": "p. 620; p. 637",
+   "pages": [
+    620,
+    637
+   ],
+   "core": true,
+   "stated_as": "established"
+  },
+  "PC17": {
+   "return": "first",
+   "id": "C16",
+   "location": "pp. 624–625; pp. 633–637",
+   "pages": [
+    624,
+    625,
+    633,
+    634,
+    635,
+    636,
+    637
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "PC18": {
+   "return": "first",
+   "id": "C17",
+   "location": "p. 625; pp. 627–628; pp. 633–637",
+   "pages": [
+    625,
+    627,
+    628,
+    633,
+    634,
+    635,
+    636,
+    637
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "PC19": {
+   "return": "first",
+   "id": "C18",
+   "location": "p. 628; p. 632; pp. 633–637",
+   "pages": [
+    628,
+    632,
+    633,
+    634,
+    635,
+    636,
+    637
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "PC20": {
+   "return": "first",
+   "id": "C19",
+   "location": "p. 634; p. 636",
+   "pages": [
+    634,
+    636
+   ],
+   "core": false,
+   "stated_as": "ventured"
+  },
+  "PC21": {
+   "return": "first",
+   "id": "C21",
+   "location": "p. 637",
+   "pages": [
+    637
+   ],
+   "core": true,
+   "stated_as": "established"
+  },
+  "PC22": {
+   "return": "first",
+   "id": "C22",
+   "location": "p. 638",
+   "pages": [
+    638
+   ],
+   "core": false,
+   "stated_as": "ventured"
+  },
+  "PC23": {
+   "return": "first",
+   "id": "C23",
+   "location": "p. 638",
+   "pages": [
+    638
+   ],
+   "core": false,
+   "stated_as": "ventured"
+  },
+  "QC01": {
+   "return": "new",
+   "id": "C01",
+   "location": "pp. 606–608, 609–610, 632, 634, 638",
+   "pages": [
+    606,
+    607,
+    608,
+    609,
+    610,
+    632,
+    634,
+    638
+   ],
+   "core": true,
+   "stated_as": "established"
+  },
+  "QC02": {
+   "return": "new",
+   "id": "C02",
+   "location": "pp. 606–607, 615–617, 619–621, 634",
+   "pages": [
+    606,
+    607,
+    615,
+    616,
+    617,
+    619,
+    620,
+    621,
+    634
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC03": {
+   "return": "new",
+   "id": "C03",
+   "location": "pp. 606, 608, 611, 615, 617, 625, 627–628, 632–634, 636–637",
+   "pages": [
+    606,
+    608,
+    611,
+    615,
+    617,
+    625,
+    627,
+    628,
+    632,
+    633,
+    634,
+    636,
+    637
+   ],
+   "core": true,
+   "stated_as": "established"
+  },
+  "QC04": {
+   "return": "new",
+   "id": "C04",
+   "location": "pp. 606, 608, 615, 617, 620, 624–625, 627–628, 632–634, 637",
+   "pages": [
+    606,
+    608,
+    615,
+    617,
+    620,
+    624,
+    625,
+    627,
+    628,
+    632,
+    633,
+    634,
+    637
+   ],
+   "core": true,
+   "stated_as": "established"
+  },
+  "QC05": {
+   "return": "new",
+   "id": "C05",
+   "location": "pp. 606, 608, 610–611, 615, 617, 619–620, 633–636",
+   "pages": [
+    606,
+    608,
+    610,
+    611,
+    615,
+    617,
+    619,
+    620,
+    633,
+    634,
+    635,
+    636
+   ],
+   "core": true,
+   "stated_as": "established"
+  },
+  "QC06": {
+   "return": "new",
+   "id": "C06",
+   "location": "pp. 606, 608–609, 634",
+   "pages": [
+    606,
+    608,
+    609,
+    634
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC07": {
+   "return": "new",
+   "id": "C07",
+   "location": "pp. 608–609",
+   "pages": [
+    608,
+    609
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC08": {
+   "return": "new",
+   "id": "C08",
+   "location": "pp. 608–609",
+   "pages": [
+    608,
+    609
+   ],
+   "core": false,
+   "stated_as": "ventured"
+  },
+  "QC09": {
+   "return": "new",
+   "id": "C09",
+   "location": "pp. 609–610, 634",
+   "pages": [
+    609,
+    610,
+    634
+   ],
+   "core": false,
+   "stated_as": "ventured"
+  },
+  "QC10": {
+   "return": "new",
+   "id": "C10",
+   "location": "pp. 610–611, 636–637",
+   "pages": [
+    610,
+    611,
+    636,
+    637
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC11": {
+   "return": "new",
+   "id": "C11",
+   "location": "p. 611",
+   "pages": [
+    611
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC12": {
+   "return": "new",
+   "id": "C12",
+   "location": "pp. 611–612",
+   "pages": [
+    611,
+    612
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC13": {
+   "return": "new",
+   "id": "C13",
+   "location": "p. 613",
+   "pages": [
+    613
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC14": {
+   "return": "new",
+   "id": "C14",
+   "location": "pp. 615–617, 619",
+   "pages": [
+    615,
+    616,
+    617,
+    619
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC15": {
+   "return": "new",
+   "id": "C15",
+   "location": "pp. 616–617",
+   "pages": [
+    616,
+    617
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC16": {
+   "return": "new",
+   "id": "C16",
+   "location": "pp. 617, 633–634",
+   "pages": [
+    617,
+    633,
+    634
+   ],
+   "core": true,
+   "stated_as": "established"
+  },
+  "QC17": {
+   "return": "new",
+   "id": "C17",
+   "location": "pp. 617–619, 634",
+   "pages": [
+    617,
+    618,
+    619,
+    634
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC18": {
+   "return": "new",
+   "id": "C18",
+   "location": "p. 619",
+   "pages": [
+    619
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC19": {
+   "return": "new",
+   "id": "C19",
+   "location": "p. 619",
+   "pages": [
+    619
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC20": {
+   "return": "new",
+   "id": "C20",
+   "location": "p. 619",
+   "pages": [
+    619
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC21": {
+   "return": "new",
+   "id": "C21",
+   "location": "pp. 620, 633, 637",
+   "pages": [
+    620,
+    633,
+    637
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC22": {
+   "return": "new",
+   "id": "C22",
+   "location": "pp. 620–621, 623–625",
+   "pages": [
+    620,
+    621,
+    623,
+    624,
+    625
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC23": {
+   "return": "new",
+   "id": "C23",
+   "location": "pp. 621–622",
+   "pages": [
+    621,
+    622
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC24": {
+   "return": "new",
+   "id": "C24",
+   "location": "pp. 622–623, 625",
+   "pages": [
+    622,
+    623,
+    625
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC25": {
+   "return": "new",
+   "id": "C25",
+   "location": "pp. 624–625, 633",
+   "pages": [
+    624,
+    625,
+    633
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC26": {
+   "return": "new",
+   "id": "C26",
+   "location": "pp. 624–625, 628, 631–636",
+   "pages": [
+    624,
+    625,
+    628,
+    631,
+    632,
+    633,
+    634,
+    635,
+    636
+   ],
+   "core": true,
+   "stated_as": "established"
+  },
+  "QC27": {
+   "return": "new",
+   "id": "C27",
+   "location": "pp. 625, 627–628, 633, 635–636",
+   "pages": [
+    625,
+    627,
+    628,
+    633,
+    635,
+    636
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC28": {
+   "return": "new",
+   "id": "C28",
+   "location": "pp. 627–628, 635",
+   "pages": [
+    627,
+    628,
+    635
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC29": {
+   "return": "new",
+   "id": "C29",
+   "location": "pp. 627–628, 633, 637",
+   "pages": [
+    627,
+    628,
+    633,
+    637
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC30": {
+   "return": "new",
+   "id": "C30",
+   "location": "pp. 628, 631–632, 635",
+   "pages": [
+    628,
+    631,
+    632,
+    635
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC31": {
+   "return": "new",
+   "id": "C31",
+   "location": "pp. 628–630, 632–634",
+   "pages": [
+    628,
+    629,
+    630,
+    632,
+    633,
+    634
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC32": {
+   "return": "new",
+   "id": "C32",
+   "location": "pp. 629, 631–632",
+   "pages": [
+    629,
+    631,
+    632
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC33": {
+   "return": "new",
+   "id": "C33",
+   "location": "pp. 630–632, 633, 637",
+   "pages": [
+    630,
+    631,
+    632,
+    633,
+    637
+   ],
+   "core": false,
+   "stated_as": "established"
+  },
+  "QC34": {
+   "return": "new",
+   "id": "C34",
+   "location": "pp. 632, 636–637",
+   "pages": [
+    632,
+    636,
+    637
+   ],
+   "core": true,
+   "stated_as": "established"
+  },
+  "QC35": {
+   "return": "new",
+   "id": "C35",
+   "location": "pp. 635–636",
+   "pages": [
+    635,
+    636
+   ],
+   "core": true,
+   "stated_as": "established"
+  },
+  "QC36": {
+   "return": "new",
+   "id": "C36",
+   "location": "p. 636",
+   "pages": [
+    636
+   ],
+   "core": false,
+   "stated_as": "ventured"
+  },
+  "QC37": {
+   "return": "new",
+   "id": "C37",
+   "location": "pp. 636–637",
+   "pages": [
+    636,
+    637
+   ],
+   "core": true,
+   "stated_as": "established"
+  },
+  "QC38": {
+   "return": "new",
+   "id": "C38",
+   "location": "pp. 637–638",
+   "pages": [
+    637,
+    638
+   ],
+   "core": false,
+   "stated_as": "ventured"
+  },
+  "QC39": {
+   "return": "new",
+   "id": "C39",
+   "location": "p. 638",
+   "pages": [
+    638
+   ],
+   "core": false,
+   "stated_as": "ventured"
+  }
+ },
+ "passages": {
+  "PP001": {
+   "return": "first",
+   "id": "F01",
+   "location": "p. 607",
+   "pages": [
+    607
+   ],
+   "first_page": 607,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP002": {
+   "return": "first",
+   "id": "F02",
+   "location": "p. 612",
+   "pages": [
+    612
+   ],
+   "first_page": 612,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP003": {
+   "return": "first",
+   "id": "F03",
+   "location": "p. 612",
+   "pages": [
+    612
+   ],
+   "first_page": 612,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP004": {
+   "return": "first",
+   "id": "F04",
+   "location": "p. 612",
+   "pages": [
+    612
+   ],
+   "first_page": 612,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP005": {
+   "return": "first",
+   "id": "F05",
+   "location": "p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP006": {
+   "return": "first",
+   "id": "F06",
+   "location": "p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP007": {
+   "return": "first",
+   "id": "F07",
+   "location": "p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP008": {
+   "return": "first",
+   "id": "F08",
+   "location": "pp. 613–614",
+   "pages": [
+    613,
+    614
+   ],
+   "first_page": 613,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP009": {
+   "return": "first",
+   "id": "F09",
+   "location": "Table 1, Number of members — forensic biology (DNA), p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "PP010": {
+   "return": "first",
+   "id": "F10",
+   "location": "Table 1, Number of members — firearms, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "PP011": {
+   "return": "first",
+   "id": "F11",
+   "location": "Table 1, Number of members — toxicology, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "PP012": {
+   "return": "first",
+   "id": "F12",
+   "location": "Table 1, Number of members — controlled substances (narcotics), p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "PP013": {
+   "return": "first",
+   "id": "F13",
+   "location": "Table 1, Gender — forensic biology (DNA), p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "PP014": {
+   "return": "first",
+   "id": "F14",
+   "location": "Table 1, Gender — firearms, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "PP015": {
+   "return": "first",
+   "id": "F15",
+   "location": "Table 1, Gender — toxicology, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "PP016": {
+   "return": "first",
+   "id": "F16",
+   "location": "Table 1, Gender — controlled substances (narcotics), p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "PP017": {
+   "return": "first",
+   "id": "F17",
+   "location": "Table 1, Age range — forensic biology (DNA), p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "PP018": {
+   "return": "first",
+   "id": "F18",
+   "location": "Table 1, Age range — firearms, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "PP019": {
+   "return": "first",
+   "id": "F19",
+   "location": "Table 1, Age range — toxicology, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "PP020": {
+   "return": "first",
+   "id": "F20",
+   "location": "Table 1, Age range — controlled substances (narcotics), p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "PP021": {
+   "return": "first",
+   "id": "F21",
+   "location": "Table 1, Education — forensic biology (DNA), p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "PP022": {
+   "return": "first",
+   "id": "F22",
+   "location": "Table 1, Education — firearms, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "PP023": {
+   "return": "first",
+   "id": "F23",
+   "location": "Table 1, Education — toxicology, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "PP024": {
+   "return": "first",
+   "id": "F24",
+   "location": "Table 1, Education — controlled substances (narcotics), p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "PP025": {
+   "return": "first",
+   "id": "F25",
+   "location": "p. 614",
+   "pages": [
+    614
+   ],
+   "first_page": 614,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP026": {
+   "return": "first",
+   "id": "F26",
+   "location": "p. 614",
+   "pages": [
+    614
+   ],
+   "first_page": 614,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP027": {
+   "return": "first",
+   "id": "F27",
+   "location": "p. 614",
+   "pages": [
+    614
+   ],
+   "first_page": 614,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP028": {
+   "return": "first",
+   "id": "F28",
+   "location": "p. 615",
+   "pages": [
+    615
+   ],
+   "first_page": 615,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP029": {
+   "return": "first",
+   "id": "F29",
+   "location": "p. 615",
+   "pages": [
+    615
+   ],
+   "first_page": 615,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP030": {
+   "return": "first",
+   "id": "F30",
+   "location": "p. 615",
+   "pages": [
+    615
+   ],
+   "first_page": 615,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP031": {
+   "return": "first",
+   "id": "F31",
+   "location": "p. 615",
+   "pages": [
+    615
+   ],
+   "first_page": 615,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP032": {
+   "return": "first",
+   "id": "F32",
+   "location": "p. 616",
+   "pages": [
+    616
+   ],
+   "first_page": 616,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP033": {
+   "return": "first",
+   "id": "F33",
+   "location": "p. 616",
+   "pages": [
+    616
+   ],
+   "first_page": 616,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP034": {
+   "return": "first",
+   "id": "F34",
+   "location": "p. 616",
+   "pages": [
+    616
+   ],
+   "first_page": 616,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP035": {
+   "return": "first",
+   "id": "F35",
+   "location": "p. 616",
+   "pages": [
+    616
+   ],
+   "first_page": 616,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP036": {
+   "return": "first",
+   "id": "F36",
+   "location": "p. 616",
+   "pages": [
+    616
+   ],
+   "first_page": 616,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP037": {
+   "return": "first",
+   "id": "F37",
+   "location": "p. 616",
+   "pages": [
+    616
+   ],
+   "first_page": 616,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP038": {
+   "return": "first",
+   "id": "F38",
+   "location": "p. 616",
+   "pages": [
+    616
+   ],
+   "first_page": 616,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP039": {
+   "return": "first",
+   "id": "F39",
+   "location": "p. 616",
+   "pages": [
+    616
+   ],
+   "first_page": 616,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP040": {
+   "return": "first",
+   "id": "F40",
+   "location": "pp. 616–617",
+   "pages": [
+    616,
+    617
+   ],
+   "first_page": 616,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP041": {
+   "return": "first",
+   "id": "F41",
+   "location": "p. 617",
+   "pages": [
+    617
+   ],
+   "first_page": 617,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP042": {
+   "return": "first",
+   "id": "F42",
+   "location": "p. 617",
+   "pages": [
+    617
+   ],
+   "first_page": 617,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP043": {
+   "return": "first",
+   "id": "F43",
+   "location": "p. 617",
+   "pages": [
+    617
+   ],
+   "first_page": 617,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP044": {
+   "return": "first",
+   "id": "F44",
+   "location": "p. 617",
+   "pages": [
+    617
+   ],
+   "first_page": 617,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP045": {
+   "return": "first",
+   "id": "F45",
+   "location": "pp. 617–618",
+   "pages": [
+    617,
+    618
+   ],
+   "first_page": 617,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP046": {
+   "return": "first",
+   "id": "F46",
+   "location": "p. 618",
+   "pages": [
+    618
+   ],
+   "first_page": 618,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP047": {
+   "return": "first",
+   "id": "F47",
+   "location": "pp. 618–619",
+   "pages": [
+    618,
+    619
+   ],
+   "first_page": 618,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP048": {
+   "return": "first",
+   "id": "F48",
+   "location": "p. 619",
+   "pages": [
+    619
+   ],
+   "first_page": 619,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP049": {
+   "return": "first",
+   "id": "F49",
+   "location": "p. 619",
+   "pages": [
+    619
+   ],
+   "first_page": 619,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP050": {
+   "return": "first",
+   "id": "F50",
+   "location": "p. 619",
+   "pages": [
+    619
+   ],
+   "first_page": 619,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP051": {
+   "return": "first",
+   "id": "F51",
+   "location": "p. 619",
+   "pages": [
+    619
+   ],
+   "first_page": 619,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP052": {
+   "return": "first",
+   "id": "F52",
+   "location": "p. 619",
+   "pages": [
+    619
+   ],
+   "first_page": 619,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP053": {
+   "return": "first",
+   "id": "F53",
+   "location": "p. 619",
+   "pages": [
+    619
+   ],
+   "first_page": 619,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP054": {
+   "return": "first",
+   "id": "F54",
+   "location": "p. 619",
+   "pages": [
+    619
+   ],
+   "first_page": 619,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP055": {
+   "return": "first",
+   "id": "F55",
+   "location": "p. 619",
+   "pages": [
+    619
+   ],
+   "first_page": 619,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP056": {
+   "return": "first",
+   "id": "F56",
+   "location": "p. 619",
+   "pages": [
+    619
+   ],
+   "first_page": 619,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP057": {
+   "return": "first",
+   "id": "F57",
+   "location": "pp. 619–620",
+   "pages": [
+    619,
+    620
+   ],
+   "first_page": 619,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP058": {
+   "return": "first",
+   "id": "F58",
+   "location": "p. 620",
+   "pages": [
+    620
+   ],
+   "first_page": 620,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP059": {
+   "return": "first",
+   "id": "F59",
+   "location": "p. 620",
+   "pages": [
+    620
+   ],
+   "first_page": 620,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP060": {
+   "return": "first",
+   "id": "F60",
+   "location": "p. 620",
+   "pages": [
+    620
+   ],
+   "first_page": 620,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP061": {
+   "return": "first",
+   "id": "F61",
+   "location": "p. 620",
+   "pages": [
+    620
+   ],
+   "first_page": 620,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP062": {
+   "return": "first",
+   "id": "F62",
+   "location": "p. 621",
+   "pages": [
+    621
+   ],
+   "first_page": 621,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP063": {
+   "return": "first",
+   "id": "F63",
+   "location": "p. 621",
+   "pages": [
+    621
+   ],
+   "first_page": 621,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP064": {
+   "return": "first",
+   "id": "F64",
+   "location": "p. 621",
+   "pages": [
+    621
+   ],
+   "first_page": 621,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP065": {
+   "return": "first",
+   "id": "F65",
+   "location": "p. 621",
+   "pages": [
+    621
+   ],
+   "first_page": 621,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP066": {
+   "return": "first",
+   "id": "F66",
+   "location": "p. 621",
+   "pages": [
+    621
+   ],
+   "first_page": 621,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP067": {
+   "return": "first",
+   "id": "F67",
+   "location": "p. 622",
+   "pages": [
+    622
+   ],
+   "first_page": 622,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP068": {
+   "return": "first",
+   "id": "F68",
+   "location": "p. 622",
+   "pages": [
+    622
+   ],
+   "first_page": 622,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP069": {
+   "return": "first",
+   "id": "F69",
+   "location": "p. 622",
+   "pages": [
+    622
+   ],
+   "first_page": 622,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP070": {
+   "return": "first",
+   "id": "F70",
+   "location": "p. 622",
+   "pages": [
+    622
+   ],
+   "first_page": 622,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP071": {
+   "return": "first",
+   "id": "F71",
+   "location": "p. 623",
+   "pages": [
+    623
+   ],
+   "first_page": 623,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP072": {
+   "return": "first",
+   "id": "F72",
+   "location": "p. 623",
+   "pages": [
+    623
+   ],
+   "first_page": 623,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP073": {
+   "return": "first",
+   "id": "F73",
+   "location": "p. 623",
+   "pages": [
+    623
+   ],
+   "first_page": 623,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP074": {
+   "return": "first",
+   "id": "F74",
+   "location": "p. 623",
+   "pages": [
+    623
+   ],
+   "first_page": 623,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP075": {
+   "return": "first",
+   "id": "F75",
+   "location": "p. 623",
+   "pages": [
+    623
+   ],
+   "first_page": 623,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP076": {
+   "return": "first",
+   "id": "F76",
+   "location": "p. 623",
+   "pages": [
+    623
+   ],
+   "first_page": 623,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP077": {
+   "return": "first",
+   "id": "F77",
+   "location": "p. 623",
+   "pages": [
+    623
+   ],
+   "first_page": 623,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP078": {
+   "return": "first",
+   "id": "F78",
+   "location": "p. 623",
+   "pages": [
+    623
+   ],
+   "first_page": 623,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP079": {
+   "return": "first",
+   "id": "F79",
+   "location": "p. 623",
+   "pages": [
+    623
+   ],
+   "first_page": 623,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP080": {
+   "return": "first",
+   "id": "F80",
+   "location": "pp. 623–624",
+   "pages": [
+    623,
+    624
+   ],
+   "first_page": 623,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP081": {
+   "return": "first",
+   "id": "F81",
+   "location": "p. 624",
+   "pages": [
+    624
+   ],
+   "first_page": 624,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP082": {
+   "return": "first",
+   "id": "F82",
+   "location": "p. 624",
+   "pages": [
+    624
+   ],
+   "first_page": 624,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP083": {
+   "return": "first",
+   "id": "F83",
+   "location": "p. 624",
+   "pages": [
+    624
+   ],
+   "first_page": 624,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP084": {
+   "return": "first",
+   "id": "F84",
+   "location": "p. 624",
+   "pages": [
+    624
+   ],
+   "first_page": 624,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP085": {
+   "return": "first",
+   "id": "F85",
+   "location": "p. 624",
+   "pages": [
+    624
+   ],
+   "first_page": 624,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP086": {
+   "return": "first",
+   "id": "F86",
+   "location": "p. 624",
+   "pages": [
+    624
+   ],
+   "first_page": 624,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP087": {
+   "return": "first",
+   "id": "F87",
+   "location": "pp. 624–625",
+   "pages": [
+    624,
+    625
+   ],
+   "first_page": 624,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP088": {
+   "return": "first",
+   "id": "F88",
+   "location": "p. 625",
+   "pages": [
+    625
+   ],
+   "first_page": 625,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP089": {
+   "return": "first",
+   "id": "F89",
+   "location": "p. 625",
+   "pages": [
+    625
+   ],
+   "first_page": 625,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP090": {
+   "return": "first",
+   "id": "F90",
+   "location": "p. 625",
+   "pages": [
+    625
+   ],
+   "first_page": 625,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP091": {
+   "return": "first",
+   "id": "F91",
+   "location": "p. 625",
+   "pages": [
+    625
+   ],
+   "first_page": 625,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP092": {
+   "return": "first",
+   "id": "F92",
+   "location": "pp. 625–626",
+   "pages": [
+    625,
+    626
+   ],
+   "first_page": 625,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP093": {
+   "return": "first",
+   "id": "F93",
+   "location": "p. 626",
+   "pages": [
+    626
+   ],
+   "first_page": 626,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP094": {
+   "return": "first",
+   "id": "F94",
+   "location": "p. 626",
+   "pages": [
+    626
+   ],
+   "first_page": 626,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP095": {
+   "return": "first",
+   "id": "F95",
+   "location": "p. 626",
+   "pages": [
+    626
+   ],
+   "first_page": 626,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP096": {
+   "return": "first",
+   "id": "F96",
+   "location": "pp. 626–627",
+   "pages": [
+    626,
+    627
+   ],
+   "first_page": 626,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP097": {
+   "return": "first",
+   "id": "F97",
+   "location": "p. 627",
+   "pages": [
+    627
+   ],
+   "first_page": 627,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP098": {
+   "return": "first",
+   "id": "F98",
+   "location": "p. 627",
+   "pages": [
+    627
+   ],
+   "first_page": 627,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP099": {
+   "return": "first",
+   "id": "F99",
+   "location": "p. 627",
+   "pages": [
+    627
+   ],
+   "first_page": 627,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP100": {
+   "return": "first",
+   "id": "F100",
+   "location": "p. 627",
+   "pages": [
+    627
+   ],
+   "first_page": 627,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP101": {
+   "return": "first",
+   "id": "F101",
+   "location": "p. 627",
+   "pages": [
+    627
+   ],
+   "first_page": 627,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP102": {
+   "return": "first",
+   "id": "F102",
+   "location": "pp. 627–628",
+   "pages": [
+    627,
+    628
+   ],
+   "first_page": 627,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP103": {
+   "return": "first",
+   "id": "F103",
+   "location": "p. 628",
+   "pages": [
+    628
+   ],
+   "first_page": 628,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP104": {
+   "return": "first",
+   "id": "F104",
+   "location": "p. 628",
+   "pages": [
+    628
+   ],
+   "first_page": 628,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP105": {
+   "return": "first",
+   "id": "F105",
+   "location": "p. 628",
+   "pages": [
+    628
+   ],
+   "first_page": 628,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP106": {
+   "return": "first",
+   "id": "F106",
+   "location": "p. 628",
+   "pages": [
+    628
+   ],
+   "first_page": 628,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP107": {
+   "return": "first",
+   "id": "F107",
+   "location": "pp. 628–629",
+   "pages": [
+    628,
+    629
+   ],
+   "first_page": 628,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP108": {
+   "return": "first",
+   "id": "F108",
+   "location": "p. 629",
+   "pages": [
+    629
+   ],
+   "first_page": 629,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP109": {
+   "return": "first",
+   "id": "F109",
+   "location": "p. 629",
+   "pages": [
+    629
+   ],
+   "first_page": 629,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP110": {
+   "return": "first",
+   "id": "F110",
+   "location": "pp. 629–630",
+   "pages": [
+    629,
+    630
+   ],
+   "first_page": 629,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP111": {
+   "return": "first",
+   "id": "F111",
+   "location": "p. 630",
+   "pages": [
+    630
+   ],
+   "first_page": 630,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP112": {
+   "return": "first",
+   "id": "F112",
+   "location": "p. 630",
+   "pages": [
+    630
+   ],
+   "first_page": 630,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP113": {
+   "return": "first",
+   "id": "F113",
+   "location": "p. 630",
+   "pages": [
+    630
+   ],
+   "first_page": 630,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP114": {
+   "return": "first",
+   "id": "F114",
+   "location": "p. 630",
+   "pages": [
+    630
+   ],
+   "first_page": 630,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP115": {
+   "return": "first",
+   "id": "F115",
+   "location": "p. 630",
+   "pages": [
+    630
+   ],
+   "first_page": 630,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP116": {
+   "return": "first",
+   "id": "F116",
+   "location": "p. 631",
+   "pages": [
+    631
+   ],
+   "first_page": 631,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP117": {
+   "return": "first",
+   "id": "F117",
+   "location": "p. 631",
+   "pages": [
+    631
+   ],
+   "first_page": 631,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP118": {
+   "return": "first",
+   "id": "F118",
+   "location": "p. 631",
+   "pages": [
+    631
+   ],
+   "first_page": 631,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP119": {
+   "return": "first",
+   "id": "F119",
+   "location": "p. 631",
+   "pages": [
+    631
+   ],
+   "first_page": 631,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP120": {
+   "return": "first",
+   "id": "F120",
+   "location": "p. 631",
+   "pages": [
+    631
+   ],
+   "first_page": 631,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP121": {
+   "return": "first",
+   "id": "F121",
+   "location": "p. 631",
+   "pages": [
+    631
+   ],
+   "first_page": 631,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP122": {
+   "return": "first",
+   "id": "F122",
+   "location": "p. 631",
+   "pages": [
+    631
+   ],
+   "first_page": 631,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP123": {
+   "return": "first",
+   "id": "F123",
+   "location": "p. 632",
+   "pages": [
+    632
+   ],
+   "first_page": 632,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP124": {
+   "return": "first",
+   "id": "F124",
+   "location": "p. 632",
+   "pages": [
+    632
+   ],
+   "first_page": 632,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP125": {
+   "return": "first",
+   "id": "F125",
+   "location": "p. 632",
+   "pages": [
+    632
+   ],
+   "first_page": 632,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP126": {
+   "return": "first",
+   "id": "F126",
+   "location": "p. 632",
+   "pages": [
+    632
+   ],
+   "first_page": 632,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP127": {
+   "return": "first",
+   "id": "F127",
+   "location": "p. 632",
+   "pages": [
+    632
+   ],
+   "first_page": 632,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP128": {
+   "return": "first",
+   "id": "F128",
+   "location": "p. 632",
+   "pages": [
+    632
+   ],
+   "first_page": 632,
+   "table": null,
+   "voice": "reported"
+  },
+  "PP129": {
+   "return": "first",
+   "id": "F129",
+   "location": "p. 632",
+   "pages": [
+    632
+   ],
+   "first_page": 632,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP130": {
+   "return": "first",
+   "id": "F130",
+   "location": "Table 2, Institutional pathways of spillover — firearms, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP131": {
+   "return": "first",
+   "id": "F131",
+   "location": "Table 2, Institutional pathways of spillover — toxicology, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP132": {
+   "return": "first",
+   "id": "F132",
+   "location": "Table 2, Institutional pathways of spillover — controlled substances (narcotics), p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP133": {
+   "return": "first",
+   "id": "F133",
+   "location": "Table 2, Scientific — firearms, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP134": {
+   "return": "first",
+   "id": "F134",
+   "location": "Table 2, Scientific — toxicology, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP135": {
+   "return": "first",
+   "id": "F135",
+   "location": "Table 2, Scientific — controlled substances (narcotics), p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP136": {
+   "return": "first",
+   "id": "F136",
+   "location": "Table 2, Public — firearms, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP137": {
+   "return": "first",
+   "id": "F137",
+   "location": "Table 2, Public — toxicology, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP138": {
+   "return": "first",
+   "id": "F138",
+   "location": "Table 2, Public — controlled substances (narcotics), p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP139": {
+   "return": "first",
+   "id": "F139",
+   "location": "Table 2, Courts — firearms, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP140": {
+   "return": "first",
+   "id": "F140",
+   "location": "Table 2, Courts — toxicology, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP141": {
+   "return": "first",
+   "id": "F141",
+   "location": "Table 2, Courts — controlled substances (narcotics), p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP142": {
+   "return": "first",
+   "id": "F142",
+   "location": "Table 2, Professional association — firearms, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP143": {
+   "return": "first",
+   "id": "F143",
+   "location": "Table 2, Professional association — toxicology, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP144": {
+   "return": "first",
+   "id": "F144",
+   "location": "Table 2, Professional association — controlled substances (narcotics), p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP145": {
+   "return": "first",
+   "id": "F145",
+   "location": "Table 2, Technique — firearms, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP146": {
+   "return": "first",
+   "id": "F146",
+   "location": "Table 2, Technique — toxicology, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP147": {
+   "return": "first",
+   "id": "F147",
+   "location": "Table 2, Technique — controlled substances (narcotics), p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP148": {
+   "return": "first",
+   "id": "F148",
+   "location": "Table 2, Values — firearms, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP149": {
+   "return": "first",
+   "id": "F149",
+   "location": "Table 2, Values — toxicology, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP150": {
+   "return": "first",
+   "id": "F150",
+   "location": "Table 2, Values — controlled substances (narcotics), p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP151": {
+   "return": "first",
+   "id": "F151",
+   "location": "Table 2, Response of group at MCCL — firearms, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP152": {
+   "return": "first",
+   "id": "F152",
+   "location": "Table 2, Response of group at MCCL — toxicology, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP153": {
+   "return": "first",
+   "id": "F153",
+   "location": "Table 2, Response of group at MCCL — controlled substances (narcotics), p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "PP154": {
+   "return": "first",
+   "id": "F154",
+   "location": "p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP155": {
+   "return": "first",
+   "id": "F155",
+   "location": "pp. 633–634",
+   "pages": [
+    633,
+    634
+   ],
+   "first_page": 633,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP156": {
+   "return": "first",
+   "id": "F156",
+   "location": "p. 634",
+   "pages": [
+    634
+   ],
+   "first_page": 634,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP157": {
+   "return": "first",
+   "id": "F157",
+   "location": "p. 634",
+   "pages": [
+    634
+   ],
+   "first_page": 634,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP158": {
+   "return": "first",
+   "id": "F158",
+   "location": "p. 634",
+   "pages": [
+    634
+   ],
+   "first_page": 634,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP159": {
+   "return": "first",
+   "id": "F159",
+   "location": "pp. 634–635",
+   "pages": [
+    634,
+    635
+   ],
+   "first_page": 634,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP160": {
+   "return": "first",
+   "id": "F160",
+   "location": "pp. 634–635",
+   "pages": [
+    634,
+    635
+   ],
+   "first_page": 634,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP161": {
+   "return": "first",
+   "id": "F161",
+   "location": "p. 635",
+   "pages": [
+    635
+   ],
+   "first_page": 635,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP162": {
+   "return": "first",
+   "id": "F162",
+   "location": "p. 635",
+   "pages": [
+    635
+   ],
+   "first_page": 635,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP163": {
+   "return": "first",
+   "id": "F163",
+   "location": "p. 635",
+   "pages": [
+    635
+   ],
+   "first_page": 635,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP164": {
+   "return": "first",
+   "id": "F164",
+   "location": "pp. 635–636",
+   "pages": [
+    635,
+    636
+   ],
+   "first_page": 635,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP165": {
+   "return": "first",
+   "id": "F165",
+   "location": "p. 636",
+   "pages": [
+    636
+   ],
+   "first_page": 636,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP166": {
+   "return": "first",
+   "id": "F166",
+   "location": "p. 637",
+   "pages": [
+    637
+   ],
+   "first_page": 637,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP167": {
+   "return": "first",
+   "id": "F167",
+   "location": "p. 637",
+   "pages": [
+    637
+   ],
+   "first_page": 637,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "PP168": {
+   "return": "first",
+   "id": "F168",
+   "location": "p. 637",
+   "pages": [
+    637
+   ],
+   "first_page": 637,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "QP001": {
+   "return": "new",
+   "id": "F145",
+   "location": "p. 606",
+   "pages": [
+    606
+   ],
+   "first_page": 606,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP002": {
+   "return": "new",
+   "id": "F01",
+   "location": "pp. 607, 616",
+   "pages": [
+    607,
+    616
+   ],
+   "first_page": 607,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP003": {
+   "return": "new",
+   "id": "F146",
+   "location": "p. 607",
+   "pages": [
+    607
+   ],
+   "first_page": 607,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP004": {
+   "return": "new",
+   "id": "F147",
+   "location": "p. 607",
+   "pages": [
+    607
+   ],
+   "first_page": 607,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP005": {
+   "return": "new",
+   "id": "F148",
+   "location": "p. 607",
+   "pages": [
+    607
+   ],
+   "first_page": 607,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP006": {
+   "return": "new",
+   "id": "F149",
+   "location": "p. 607",
+   "pages": [
+    607
+   ],
+   "first_page": 607,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP007": {
+   "return": "new",
+   "id": "F150",
+   "location": "p. 608",
+   "pages": [
+    608
+   ],
+   "first_page": 608,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP008": {
+   "return": "new",
+   "id": "F151",
+   "location": "p. 608",
+   "pages": [
+    608
+   ],
+   "first_page": 608,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP009": {
+   "return": "new",
+   "id": "F152",
+   "location": "pp. 608, 611",
+   "pages": [
+    608,
+    611
+   ],
+   "first_page": 608,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP010": {
+   "return": "new",
+   "id": "F153",
+   "location": "p. 608",
+   "pages": [
+    608
+   ],
+   "first_page": 608,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP011": {
+   "return": "new",
+   "id": "F154",
+   "location": "pp. 608–609",
+   "pages": [
+    608,
+    609
+   ],
+   "first_page": 608,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP012": {
+   "return": "new",
+   "id": "F155",
+   "location": "pp. 608–609",
+   "pages": [
+    608,
+    609
+   ],
+   "first_page": 608,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP013": {
+   "return": "new",
+   "id": "F168",
+   "location": "p. 608",
+   "pages": [
+    608
+   ],
+   "first_page": 608,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP014": {
+   "return": "new",
+   "id": "F156",
+   "location": "p. 609",
+   "pages": [
+    609
+   ],
+   "first_page": 609,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP015": {
+   "return": "new",
+   "id": "F157",
+   "location": "p. 609",
+   "pages": [
+    609
+   ],
+   "first_page": 609,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP016": {
+   "return": "new",
+   "id": "F158",
+   "location": "p. 609",
+   "pages": [
+    609
+   ],
+   "first_page": 609,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP017": {
+   "return": "new",
+   "id": "F159",
+   "location": "p. 610",
+   "pages": [
+    610
+   ],
+   "first_page": 610,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP018": {
+   "return": "new",
+   "id": "F160",
+   "location": "p. 610",
+   "pages": [
+    610
+   ],
+   "first_page": 610,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP019": {
+   "return": "new",
+   "id": "F161",
+   "location": "p. 610",
+   "pages": [
+    610
+   ],
+   "first_page": 610,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP020": {
+   "return": "new",
+   "id": "F162",
+   "location": "p. 610",
+   "pages": [
+    610
+   ],
+   "first_page": 610,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP021": {
+   "return": "new",
+   "id": "F163",
+   "location": "p. 610",
+   "pages": [
+    610
+   ],
+   "first_page": 610,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP022": {
+   "return": "new",
+   "id": "F164",
+   "location": "p. 611",
+   "pages": [
+    611
+   ],
+   "first_page": 611,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP023": {
+   "return": "new",
+   "id": "F165",
+   "location": "p. 611",
+   "pages": [
+    611
+   ],
+   "first_page": 611,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP024": {
+   "return": "new",
+   "id": "F166",
+   "location": "p. 611",
+   "pages": [
+    611
+   ],
+   "first_page": 611,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP025": {
+   "return": "new",
+   "id": "F02",
+   "location": "p. 612, footnote 1",
+   "pages": [
+    612
+   ],
+   "first_page": 612,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP026": {
+   "return": "new",
+   "id": "F03",
+   "location": "p. 612",
+   "pages": [
+    612
+   ],
+   "first_page": 612,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP027": {
+   "return": "new",
+   "id": "F04",
+   "location": "p. 612",
+   "pages": [
+    612
+   ],
+   "first_page": 612,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP028": {
+   "return": "new",
+   "id": "F05",
+   "location": "Table 1, membership × forensic biology, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "QP029": {
+   "return": "new",
+   "id": "F06",
+   "location": "Table 1, membership × firearms, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "QP030": {
+   "return": "new",
+   "id": "F07",
+   "location": "Table 1, membership × toxicology, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "QP031": {
+   "return": "new",
+   "id": "F08",
+   "location": "Table 1, membership × narcotics, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "QP032": {
+   "return": "new",
+   "id": "F09",
+   "location": "Table 1, gender × forensic biology, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "QP033": {
+   "return": "new",
+   "id": "F10",
+   "location": "Table 1, gender × firearms, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "QP034": {
+   "return": "new",
+   "id": "F11",
+   "location": "Table 1, gender × toxicology, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "QP035": {
+   "return": "new",
+   "id": "F12",
+   "location": "Table 1, gender × narcotics, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "QP036": {
+   "return": "new",
+   "id": "F13",
+   "location": "Table 1, age × forensic biology, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "QP037": {
+   "return": "new",
+   "id": "F14",
+   "location": "Table 1, age × firearms, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "QP038": {
+   "return": "new",
+   "id": "F15",
+   "location": "Table 1, age × toxicology, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "QP039": {
+   "return": "new",
+   "id": "F16",
+   "location": "Table 1, age × narcotics, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "QP040": {
+   "return": "new",
+   "id": "F17",
+   "location": "Table 1, education × forensic biology, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "QP041": {
+   "return": "new",
+   "id": "F18",
+   "location": "Table 1, education × firearms, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "QP042": {
+   "return": "new",
+   "id": "F19",
+   "location": "Table 1, education × toxicology, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "QP043": {
+   "return": "new",
+   "id": "F20",
+   "location": "Table 1, education × narcotics, p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": "Table 1",
+   "voice": "reported"
+  },
+  "QP044": {
+   "return": "new",
+   "id": "F21",
+   "location": "p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP045": {
+   "return": "new",
+   "id": "F22",
+   "location": "p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP046": {
+   "return": "new",
+   "id": "F23",
+   "location": "p. 613",
+   "pages": [
+    613
+   ],
+   "first_page": 613,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP047": {
+   "return": "new",
+   "id": "F24",
+   "location": "p. 614",
+   "pages": [
+    614
+   ],
+   "first_page": 614,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP048": {
+   "return": "new",
+   "id": "F25",
+   "location": "p. 614",
+   "pages": [
+    614
+   ],
+   "first_page": 614,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP049": {
+   "return": "new",
+   "id": "F26",
+   "location": "p. 614",
+   "pages": [
+    614
+   ],
+   "first_page": 614,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP050": {
+   "return": "new",
+   "id": "F27",
+   "location": "p. 614",
+   "pages": [
+    614
+   ],
+   "first_page": 614,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP051": {
+   "return": "new",
+   "id": "F28",
+   "location": "p. 615",
+   "pages": [
+    615
+   ],
+   "first_page": 615,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP052": {
+   "return": "new",
+   "id": "F29",
+   "location": "p. 615",
+   "pages": [
+    615
+   ],
+   "first_page": 615,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP053": {
+   "return": "new",
+   "id": "F30",
+   "location": "p. 616",
+   "pages": [
+    616
+   ],
+   "first_page": 616,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP054": {
+   "return": "new",
+   "id": "F31",
+   "location": "p. 616",
+   "pages": [
+    616
+   ],
+   "first_page": 616,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP055": {
+   "return": "new",
+   "id": "F32",
+   "location": "p. 616",
+   "pages": [
+    616
+   ],
+   "first_page": 616,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP056": {
+   "return": "new",
+   "id": "F33",
+   "location": "p. 616",
+   "pages": [
+    616
+   ],
+   "first_page": 616,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP057": {
+   "return": "new",
+   "id": "F34",
+   "location": "p. 616",
+   "pages": [
+    616
+   ],
+   "first_page": 616,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP058": {
+   "return": "new",
+   "id": "F35",
+   "location": "p. 616",
+   "pages": [
+    616
+   ],
+   "first_page": 616,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP059": {
+   "return": "new",
+   "id": "F36",
+   "location": "p. 616",
+   "pages": [
+    616
+   ],
+   "first_page": 616,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP060": {
+   "return": "new",
+   "id": "F37",
+   "location": "p. 616",
+   "pages": [
+    616
+   ],
+   "first_page": 616,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP061": {
+   "return": "new",
+   "id": "F38",
+   "location": "p. 617",
+   "pages": [
+    617
+   ],
+   "first_page": 617,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP062": {
+   "return": "new",
+   "id": "F39",
+   "location": "p. 617",
+   "pages": [
+    617
+   ],
+   "first_page": 617,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "QP063": {
+   "return": "new",
+   "id": "F40",
+   "location": "p. 617",
+   "pages": [
+    617
+   ],
+   "first_page": 617,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP064": {
+   "return": "new",
+   "id": "F41",
+   "location": "p. 617",
+   "pages": [
+    617
+   ],
+   "first_page": 617,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP065": {
+   "return": "new",
+   "id": "F42",
+   "location": "p. 617",
+   "pages": [
+    617
+   ],
+   "first_page": 617,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP066": {
+   "return": "new",
+   "id": "F43",
+   "location": "p. 617",
+   "pages": [
+    617
+   ],
+   "first_page": 617,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP067": {
+   "return": "new",
+   "id": "F44",
+   "location": "Figure 1, p. 618",
+   "pages": [
+    618
+   ],
+   "first_page": 618,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP068": {
+   "return": "new",
+   "id": "F45",
+   "location": "Figure 2, p. 618",
+   "pages": [
+    618
+   ],
+   "first_page": 618,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP069": {
+   "return": "new",
+   "id": "F46",
+   "location": "p. 618",
+   "pages": [
+    618
+   ],
+   "first_page": 618,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP070": {
+   "return": "new",
+   "id": "F47",
+   "location": "p. 619",
+   "pages": [
+    619
+   ],
+   "first_page": 619,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP071": {
+   "return": "new",
+   "id": "F48",
+   "location": "p. 619",
+   "pages": [
+    619
+   ],
+   "first_page": 619,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP072": {
+   "return": "new",
+   "id": "F49",
+   "location": "p. 619",
+   "pages": [
+    619
+   ],
+   "first_page": 619,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP073": {
+   "return": "new",
+   "id": "F50",
+   "location": "p. 619",
+   "pages": [
+    619
+   ],
+   "first_page": 619,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP074": {
+   "return": "new",
+   "id": "F51",
+   "location": "p. 619",
+   "pages": [
+    619
+   ],
+   "first_page": 619,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP075": {
+   "return": "new",
+   "id": "F52",
+   "location": "p. 619",
+   "pages": [
+    619
+   ],
+   "first_page": 619,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP076": {
+   "return": "new",
+   "id": "F53",
+   "location": "pp. 619–620",
+   "pages": [
+    619,
+    620
+   ],
+   "first_page": 619,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP077": {
+   "return": "new",
+   "id": "F54",
+   "location": "p. 620",
+   "pages": [
+    620
+   ],
+   "first_page": 620,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP078": {
+   "return": "new",
+   "id": "F55",
+   "location": "p. 620",
+   "pages": [
+    620
+   ],
+   "first_page": 620,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP079": {
+   "return": "new",
+   "id": "F56",
+   "location": "p. 621",
+   "pages": [
+    621
+   ],
+   "first_page": 621,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP080": {
+   "return": "new",
+   "id": "F57",
+   "location": "p. 621",
+   "pages": [
+    621
+   ],
+   "first_page": 621,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP081": {
+   "return": "new",
+   "id": "F58",
+   "location": "p. 621",
+   "pages": [
+    621
+   ],
+   "first_page": 621,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP082": {
+   "return": "new",
+   "id": "F59",
+   "location": "p. 621",
+   "pages": [
+    621
+   ],
+   "first_page": 621,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP083": {
+   "return": "new",
+   "id": "F60",
+   "location": "Figure 3, p. 621",
+   "pages": [
+    621
+   ],
+   "first_page": 621,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP084": {
+   "return": "new",
+   "id": "F167",
+   "location": "Footnote 4, p. 621",
+   "pages": [
+    621
+   ],
+   "first_page": 621,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP085": {
+   "return": "new",
+   "id": "F61",
+   "location": "p. 622",
+   "pages": [
+    622
+   ],
+   "first_page": 622,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP086": {
+   "return": "new",
+   "id": "F62",
+   "location": "p. 622",
+   "pages": [
+    622
+   ],
+   "first_page": 622,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP087": {
+   "return": "new",
+   "id": "F63",
+   "location": "p. 622",
+   "pages": [
+    622
+   ],
+   "first_page": 622,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP088": {
+   "return": "new",
+   "id": "F64",
+   "location": "p. 622",
+   "pages": [
+    622
+   ],
+   "first_page": 622,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP089": {
+   "return": "new",
+   "id": "F65",
+   "location": "p. 622",
+   "pages": [
+    622
+   ],
+   "first_page": 622,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP090": {
+   "return": "new",
+   "id": "F66",
+   "location": "pp. 622–623",
+   "pages": [
+    622,
+    623
+   ],
+   "first_page": 622,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP091": {
+   "return": "new",
+   "id": "F67",
+   "location": "p. 623",
+   "pages": [
+    623
+   ],
+   "first_page": 623,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP092": {
+   "return": "new",
+   "id": "F68",
+   "location": "p. 623",
+   "pages": [
+    623
+   ],
+   "first_page": 623,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP093": {
+   "return": "new",
+   "id": "F69",
+   "location": "p. 623",
+   "pages": [
+    623
+   ],
+   "first_page": 623,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP094": {
+   "return": "new",
+   "id": "F70",
+   "location": "p. 623",
+   "pages": [
+    623
+   ],
+   "first_page": 623,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP095": {
+   "return": "new",
+   "id": "F71",
+   "location": "p. 623",
+   "pages": [
+    623
+   ],
+   "first_page": 623,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP096": {
+   "return": "new",
+   "id": "F72",
+   "location": "p. 623",
+   "pages": [
+    623
+   ],
+   "first_page": 623,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP097": {
+   "return": "new",
+   "id": "F73",
+   "location": "p. 623",
+   "pages": [
+    623
+   ],
+   "first_page": 623,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP098": {
+   "return": "new",
+   "id": "F74",
+   "location": "pp. 623–624",
+   "pages": [
+    623,
+    624
+   ],
+   "first_page": 623,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP099": {
+   "return": "new",
+   "id": "F75",
+   "location": "p. 624",
+   "pages": [
+    624
+   ],
+   "first_page": 624,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP100": {
+   "return": "new",
+   "id": "F76",
+   "location": "p. 624",
+   "pages": [
+    624
+   ],
+   "first_page": 624,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP101": {
+   "return": "new",
+   "id": "F77",
+   "location": "p. 624",
+   "pages": [
+    624
+   ],
+   "first_page": 624,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP102": {
+   "return": "new",
+   "id": "F78",
+   "location": "p. 624",
+   "pages": [
+    624
+   ],
+   "first_page": 624,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP103": {
+   "return": "new",
+   "id": "F79",
+   "location": "p. 625",
+   "pages": [
+    625
+   ],
+   "first_page": 625,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP104": {
+   "return": "new",
+   "id": "F80",
+   "location": "p. 625",
+   "pages": [
+    625
+   ],
+   "first_page": 625,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP105": {
+   "return": "new",
+   "id": "F81",
+   "location": "p. 625",
+   "pages": [
+    625
+   ],
+   "first_page": 625,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP106": {
+   "return": "new",
+   "id": "F82",
+   "location": "pp. 625–626",
+   "pages": [
+    625,
+    626
+   ],
+   "first_page": 625,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP107": {
+   "return": "new",
+   "id": "F83",
+   "location": "p. 626",
+   "pages": [
+    626
+   ],
+   "first_page": 626,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP108": {
+   "return": "new",
+   "id": "F84",
+   "location": "p. 626",
+   "pages": [
+    626
+   ],
+   "first_page": 626,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP109": {
+   "return": "new",
+   "id": "F85",
+   "location": "p. 626",
+   "pages": [
+    626
+   ],
+   "first_page": 626,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP110": {
+   "return": "new",
+   "id": "F86",
+   "location": "pp. 626–627",
+   "pages": [
+    626,
+    627
+   ],
+   "first_page": 626,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP111": {
+   "return": "new",
+   "id": "F87",
+   "location": "p. 627",
+   "pages": [
+    627
+   ],
+   "first_page": 627,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP112": {
+   "return": "new",
+   "id": "F88",
+   "location": "p. 627",
+   "pages": [
+    627
+   ],
+   "first_page": 627,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP113": {
+   "return": "new",
+   "id": "F89",
+   "location": "p. 627",
+   "pages": [
+    627
+   ],
+   "first_page": 627,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP114": {
+   "return": "new",
+   "id": "F90",
+   "location": "pp. 627–628",
+   "pages": [
+    627,
+    628
+   ],
+   "first_page": 627,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP115": {
+   "return": "new",
+   "id": "F91",
+   "location": "p. 628",
+   "pages": [
+    628
+   ],
+   "first_page": 628,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP116": {
+   "return": "new",
+   "id": "F92",
+   "location": "p. 628",
+   "pages": [
+    628
+   ],
+   "first_page": 628,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP117": {
+   "return": "new",
+   "id": "F93",
+   "location": "p. 628",
+   "pages": [
+    628
+   ],
+   "first_page": 628,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP118": {
+   "return": "new",
+   "id": "F94",
+   "location": "p. 628",
+   "pages": [
+    628
+   ],
+   "first_page": 628,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "QP119": {
+   "return": "new",
+   "id": "F95",
+   "location": "p. 628",
+   "pages": [
+    628
+   ],
+   "first_page": 628,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP120": {
+   "return": "new",
+   "id": "F96",
+   "location": "pp. 628–629",
+   "pages": [
+    628,
+    629
+   ],
+   "first_page": 628,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP121": {
+   "return": "new",
+   "id": "F97",
+   "location": "Figure 4, p. 629",
+   "pages": [
+    629
+   ],
+   "first_page": 629,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP122": {
+   "return": "new",
+   "id": "F98",
+   "location": "p. 629",
+   "pages": [
+    629
+   ],
+   "first_page": 629,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP123": {
+   "return": "new",
+   "id": "F99",
+   "location": "p. 629",
+   "pages": [
+    629
+   ],
+   "first_page": 629,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP124": {
+   "return": "new",
+   "id": "F100",
+   "location": "p. 629",
+   "pages": [
+    629
+   ],
+   "first_page": 629,
+   "table": null,
+   "voice": "author_insight"
+  },
+  "QP125": {
+   "return": "new",
+   "id": "F101",
+   "location": "p. 629",
+   "pages": [
+    629
+   ],
+   "first_page": 629,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP126": {
+   "return": "new",
+   "id": "F102",
+   "location": "Figure 5, p. 630",
+   "pages": [
+    630
+   ],
+   "first_page": 630,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP127": {
+   "return": "new",
+   "id": "F103",
+   "location": "p. 630",
+   "pages": [
+    630
+   ],
+   "first_page": 630,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP128": {
+   "return": "new",
+   "id": "F104",
+   "location": "p. 630",
+   "pages": [
+    630
+   ],
+   "first_page": 630,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP129": {
+   "return": "new",
+   "id": "F105",
+   "location": "p. 630",
+   "pages": [
+    630
+   ],
+   "first_page": 630,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP130": {
+   "return": "new",
+   "id": "F106",
+   "location": "p. 630",
+   "pages": [
+    630
+   ],
+   "first_page": 630,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP131": {
+   "return": "new",
+   "id": "F107",
+   "location": "p. 631",
+   "pages": [
+    631
+   ],
+   "first_page": 631,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP132": {
+   "return": "new",
+   "id": "F108",
+   "location": "p. 631",
+   "pages": [
+    631
+   ],
+   "first_page": 631,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP133": {
+   "return": "new",
+   "id": "F109",
+   "location": "p. 631",
+   "pages": [
+    631
+   ],
+   "first_page": 631,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP134": {
+   "return": "new",
+   "id": "F110",
+   "location": "p. 631",
+   "pages": [
+    631
+   ],
+   "first_page": 631,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP135": {
+   "return": "new",
+   "id": "F111",
+   "location": "pp. 631–632",
+   "pages": [
+    631,
+    632
+   ],
+   "first_page": 631,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP136": {
+   "return": "new",
+   "id": "F112",
+   "location": "p. 632",
+   "pages": [
+    632
+   ],
+   "first_page": 632,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP137": {
+   "return": "new",
+   "id": "F113",
+   "location": "p. 632",
+   "pages": [
+    632
+   ],
+   "first_page": 632,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP138": {
+   "return": "new",
+   "id": "F114",
+   "location": "p. 632",
+   "pages": [
+    632
+   ],
+   "first_page": 632,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP139": {
+   "return": "new",
+   "id": "F115",
+   "location": "p. 632",
+   "pages": [
+    632
+   ],
+   "first_page": 632,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP140": {
+   "return": "new",
+   "id": "F116",
+   "location": "p. 632",
+   "pages": [
+    632
+   ],
+   "first_page": 632,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP141": {
+   "return": "new",
+   "id": "F117",
+   "location": "p. 632",
+   "pages": [
+    632
+   ],
+   "first_page": 632,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP142": {
+   "return": "new",
+   "id": "F118",
+   "location": "Table 2, pathway summary, firearms column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP143": {
+   "return": "new",
+   "id": "F119",
+   "location": "Table 2, pathway summary, toxicology column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP144": {
+   "return": "new",
+   "id": "F120",
+   "location": "Table 2, pathway summary, narcotics column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP145": {
+   "return": "new",
+   "id": "F121",
+   "location": "Table 2, scientific channel, firearms column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP146": {
+   "return": "new",
+   "id": "F122",
+   "location": "Table 2, scientific channel, toxicology column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP147": {
+   "return": "new",
+   "id": "F123",
+   "location": "Table 2, scientific channel, narcotics column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP148": {
+   "return": "new",
+   "id": "F124",
+   "location": "Table 2, public channel, firearms column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP149": {
+   "return": "new",
+   "id": "F125",
+   "location": "Table 2, public channel, toxicology column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP150": {
+   "return": "new",
+   "id": "F126",
+   "location": "Table 2, public channel, narcotics column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP151": {
+   "return": "new",
+   "id": "F127",
+   "location": "Table 2, court channel, firearms column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP152": {
+   "return": "new",
+   "id": "F128",
+   "location": "Table 2, court channel, toxicology column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP153": {
+   "return": "new",
+   "id": "F129",
+   "location": "Table 2, court channel, narcotics column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP154": {
+   "return": "new",
+   "id": "F130",
+   "location": "Table 2, professional association channel, firearms column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP155": {
+   "return": "new",
+   "id": "F131",
+   "location": "Table 2, professional association channel, toxicology column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP156": {
+   "return": "new",
+   "id": "F132",
+   "location": "Table 2, professional association channel, narcotics column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP157": {
+   "return": "new",
+   "id": "F133",
+   "location": "Table 2, technical comparability, firearms column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP158": {
+   "return": "new",
+   "id": "F134",
+   "location": "Table 2, technical comparability, toxicology column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP159": {
+   "return": "new",
+   "id": "F135",
+   "location": "Table 2, technical comparability, narcotics column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP160": {
+   "return": "new",
+   "id": "F136",
+   "location": "Table 2, occupational values, firearms column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP161": {
+   "return": "new",
+   "id": "F137",
+   "location": "Table 2, occupational values, toxicology column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP162": {
+   "return": "new",
+   "id": "F138",
+   "location": "Table 2, occupational values, narcotics column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP163": {
+   "return": "new",
+   "id": "F139",
+   "location": "Table 2, occupational values, toxicology quotation, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "reported"
+  },
+  "QP164": {
+   "return": "new",
+   "id": "F140",
+   "location": "Table 2, local response, firearms column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP165": {
+   "return": "new",
+   "id": "F141",
+   "location": "Table 2, local response, toxicology column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP166": {
+   "return": "new",
+   "id": "F142",
+   "location": "Table 2, local response, narcotics column, p. 633",
+   "pages": [
+    633
+   ],
+   "first_page": 633,
+   "table": "Table 2",
+   "voice": "author_insight"
+  },
+  "QP167": {
+   "return": "new",
+   "id": "F143",
+   "location": "pp. 637–638",
+   "pages": [
+    637,
+    638
+   ],
+   "first_page": 637,
+   "table": null,
+   "voice": "reported"
+  },
+  "QP168": {
+   "return": "new",
+   "id": "F144",
+   "location": "p. 638",
+   "pages": [
+    638
+   ],
+   "first_page": 638,
+   "table": null,
+   "voice": "author_insight"
+  }
+ },
+ "links": {
+  "first": [
+   [
+    "C02",
+    "F01",
+    "with"
+   ],
+   [
+    "C10",
+    "F27",
+    "with"
+   ],
+   [
+    "C19",
+    "F27",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F30",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F31",
+    "with"
+   ],
+   [
+    "C02",
+    "F32",
+    "with"
+   ],
+   [
+    "C03",
+    "F33",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F34",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F35",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F36",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F37",
+    "with"
+   ],
+   [
+    "C03",
+    "F37",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F38",
+    "with"
+   ],
+   [
+    "C03",
+    "F38",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F39",
+    "with"
+   ],
+   [
+    "C02",
+    "F39",
+    "with"
+   ],
+   [
+    "C01",
+    "F40",
+    "illustrates"
+   ],
+   [
+    "C11",
+    "F40",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F42",
+    "illustrates"
+   ],
+   [
+    "C11",
+    "F42",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F44",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F45",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F46",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F47",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F47",
+    "with"
+   ],
+   [
+    "C14",
+    "F48",
+    "qualifies"
+   ],
+   [
+    "C14",
+    "F49",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F50",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F51",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F52",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F52",
+    "with"
+   ],
+   [
+    "C14",
+    "F52",
+    "with"
+   ],
+   [
+    "C09",
+    "F53",
+    "with"
+   ],
+   [
+    "C15",
+    "F53",
+    "with"
+   ],
+   [
+    "C15",
+    "F54",
+    "illustrates"
+   ],
+   [
+    "C15",
+    "F55",
+    "with"
+   ],
+   [
+    "C01",
+    "F56",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F56",
+    "with"
+   ],
+   [
+    "C19",
+    "F57",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F58",
+    "with"
+   ],
+   [
+    "C02",
+    "F59",
+    "with"
+   ],
+   [
+    "C03",
+    "F59",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F59",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F60",
+    "with"
+   ],
+   [
+    "C02",
+    "F61",
+    "with"
+   ],
+   [
+    "C16",
+    "F61",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F62",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F62",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F63",
+    "with"
+   ],
+   [
+    "C04",
+    "F64",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F69",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F70",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F70",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F70",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F70",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F75",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F76",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F77",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F77",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F77",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F77",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F79",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F80",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F82",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F83",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F84",
+    "with"
+   ],
+   [
+    "C16",
+    "F84",
+    "with"
+   ],
+   [
+    "C04",
+    "F85",
+    "illustrates"
+   ],
+   [
+    "C11",
+    "F85",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F85",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F85",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F86",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F86",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F86",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F87",
+    "qualifies"
+   ],
+   [
+    "C03",
+    "F87",
+    "with"
+   ],
+   [
+    "C04",
+    "F87",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F87",
+    "with"
+   ],
+   [
+    "C16",
+    "F87",
+    "with"
+   ],
+   [
+    "C03",
+    "F88",
+    "with"
+   ],
+   [
+    "C17",
+    "F88",
+    "with"
+   ],
+   [
+    "C02",
+    "F89",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F89",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F90",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F90",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F91",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F91",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F92",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F92",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F93",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F93",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F94",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F94",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F94",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F95",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F95",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F95",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F96",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F96",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F96",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F97",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F97",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F97",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F97",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F98",
+    "with"
+   ],
+   [
+    "C03",
+    "F98",
+    "with"
+   ],
+   [
+    "C17",
+    "F98",
+    "with"
+   ],
+   [
+    "C03",
+    "F99",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F99",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F100",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F100",
+    "illustrates"
+   ],
+   [
+    "C11",
+    "F100",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F100",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F100",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F101",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F101",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F102",
+    "with"
+   ],
+   [
+    "C17",
+    "F103",
+    "with"
+   ],
+   [
+    "C03",
+    "F104",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F104",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F105",
+    "qualifies"
+   ],
+   [
+    "C03",
+    "F105",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F105",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F106",
+    "illustrates"
+   ],
+   [
+    "C11",
+    "F106",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F106",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F106",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F107",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F108",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F108",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F109",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F109",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F109",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F110",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F111",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F111",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F111",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F111",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F113",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F113",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F113",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F114",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F114",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F114",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F115",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F115",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F116",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F116",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F117",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F117",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F118",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F119",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F119",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F120",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F120",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F120",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F121",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F121",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F122",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F122",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F122",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F123",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F123",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F123",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F124",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F124",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F125",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F125",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F125",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F126",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F126",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F126",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F127",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F127",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F127",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F128",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F128",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F128",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F129",
+    "qualifies"
+   ],
+   [
+    "C03",
+    "F129",
+    "with"
+   ],
+   [
+    "C05",
+    "F129",
+    "with"
+   ],
+   [
+    "C18",
+    "F129",
+    "with"
+   ],
+   [
+    "C03",
+    "F130",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F130",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F131",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F131",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F132",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F132",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F133",
+    "with"
+   ],
+   [
+    "C03",
+    "F133",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F133",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F134",
+    "qualifies"
+   ],
+   [
+    "C03",
+    "F134",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F135",
+    "qualifies"
+   ],
+   [
+    "C03",
+    "F135",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F135",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F136",
+    "with"
+   ],
+   [
+    "C03",
+    "F136",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F136",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F137",
+    "qualifies"
+   ],
+   [
+    "C03",
+    "F137",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F138",
+    "qualifies"
+   ],
+   [
+    "C03",
+    "F138",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F138",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F139",
+    "with"
+   ],
+   [
+    "C03",
+    "F139",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F139",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F140",
+    "with"
+   ],
+   [
+    "C03",
+    "F140",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F140",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F141",
+    "qualifies"
+   ],
+   [
+    "C03",
+    "F141",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F141",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F142",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F143",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F143",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F144",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F144",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F145",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F145",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F145",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F145",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F146",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F146",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F146",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F146",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F147",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F147",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F147",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F147",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F148",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F148",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F148",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F148",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F149",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F149",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F149",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F149",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F150",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F150",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F150",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F150",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F151",
+    "with"
+   ],
+   [
+    "C05",
+    "F151",
+    "with"
+   ],
+   [
+    "C16",
+    "F151",
+    "with"
+   ],
+   [
+    "C03",
+    "F152",
+    "with"
+   ],
+   [
+    "C05",
+    "F152",
+    "with"
+   ],
+   [
+    "C17",
+    "F152",
+    "with"
+   ],
+   [
+    "C03",
+    "F153",
+    "with"
+   ],
+   [
+    "C05",
+    "F153",
+    "with"
+   ],
+   [
+    "C18",
+    "F153",
+    "with"
+   ],
+   [
+    "C10",
+    "F154",
+    "with"
+   ],
+   [
+    "C11",
+    "F154",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F154",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F155",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F155",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F156",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F156",
+    "with"
+   ],
+   [
+    "C19",
+    "F156",
+    "illustrates"
+   ],
+   [
+    "C11",
+    "F157",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F157",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F158",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F158",
+    "illustrates"
+   ],
+   [
+    "C11",
+    "F158",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F159",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F160",
+    "with"
+   ],
+   [
+    "C16",
+    "F160",
+    "with"
+   ],
+   [
+    "C03",
+    "F161",
+    "with"
+   ],
+   [
+    "C17",
+    "F161",
+    "with"
+   ],
+   [
+    "C03",
+    "F162",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F162",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F163",
+    "illustrates"
+   ],
+   [
+    "C11",
+    "F163",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F164",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F164",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F164",
+    "illustrates"
+   ],
+   [
+    "C19",
+    "F165",
+    "qualifies"
+   ],
+   [
+    "C01",
+    "F166",
+    "with"
+   ],
+   [
+    "C04",
+    "F166",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F166",
+    "with"
+   ],
+   [
+    "C10",
+    "F166",
+    "illustrates"
+   ],
+   [
+    "C11",
+    "F166",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F166",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F166",
+    "with"
+   ],
+   [
+    "C17",
+    "F166",
+    "with"
+   ],
+   [
+    "C18",
+    "F166",
+    "with"
+   ],
+   [
+    "C20",
+    "F166",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F166",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F167",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F168",
+    "illustrates"
+   ]
+  ],
+  "new": [
+   [
+    "C01",
+    "F01",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F01",
+    "with"
+   ],
+   [
+    "C05",
+    "F01",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F01",
+    "illustrates"
+   ],
+   [
+    "C22",
+    "F01",
+    "illustrates"
+   ],
+   [
+    "C36",
+    "F01",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F03",
+    "illustrates"
+   ],
+   [
+    "C36",
+    "F03",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F04",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F04",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F04",
+    "illustrates"
+   ],
+   [
+    "C36",
+    "F04",
+    "illustrates"
+   ],
+   [
+    "C19",
+    "F05",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F17",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F18",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F19",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F20",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F21",
+    "illustrates"
+   ],
+   [
+    "C36",
+    "F21",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F22",
+    "illustrates"
+   ],
+   [
+    "C19",
+    "F22",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F22",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F23",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F23",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F24",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F24",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F25",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F25",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F26",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F26",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F26",
+    "with"
+   ],
+   [
+    "C36",
+    "F26",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F26",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F27",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F28",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F28",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F28",
+    "illustrates"
+   ],
+   [
+    "C19",
+    "F28",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F28",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F29",
+    "with"
+   ],
+   [
+    "C03",
+    "F29",
+    "with"
+   ],
+   [
+    "C13",
+    "F29",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F30",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F30",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F30",
+    "illustrates"
+   ],
+   [
+    "C36",
+    "F30",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F31",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F31",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F31",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F32",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F32",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F32",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F32",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F33",
+    "with"
+   ],
+   [
+    "C05",
+    "F33",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F33",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F34",
+    "with"
+   ],
+   [
+    "C05",
+    "F34",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F34",
+    "illustrates"
+   ],
+   [
+    "C22",
+    "F34",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F35",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F35",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F35",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F35",
+    "illustrates"
+   ],
+   [
+    "C15",
+    "F35",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F35",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F35",
+    "illustrates"
+   ],
+   [
+    "C36",
+    "F35",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F36",
+    "with"
+   ],
+   [
+    "C05",
+    "F36",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F36",
+    "illustrates"
+   ],
+   [
+    "C22",
+    "F36",
+    "illustrates"
+   ],
+   [
+    "C36",
+    "F36",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F37",
+    "with"
+   ],
+   [
+    "C05",
+    "F37",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F37",
+    "illustrates"
+   ],
+   [
+    "C22",
+    "F37",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F38",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F38",
+    "with"
+   ],
+   [
+    "C05",
+    "F38",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F38",
+    "with"
+   ],
+   [
+    "C14",
+    "F38",
+    "with"
+   ],
+   [
+    "C15",
+    "F38",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F38",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F38",
+    "illustrates"
+   ],
+   [
+    "C36",
+    "F38",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F39",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F39",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F39",
+    "with"
+   ],
+   [
+    "C15",
+    "F39",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F39",
+    "illustrates"
+   ],
+   [
+    "C36",
+    "F39",
+    "illustrates"
+   ],
+   [
+    "C39",
+    "F39",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F40",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F40",
+    "illustrates"
+   ],
+   [
+    "C15",
+    "F40",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F40",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F40",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F40",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F41",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F41",
+    "illustrates"
+   ],
+   [
+    "C15",
+    "F41",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F41",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F41",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F41",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F42",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F42",
+    "illustrates"
+   ],
+   [
+    "C15",
+    "F42",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F42",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F42",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F42",
+    "illustrates"
+   ],
+   [
+    "C25",
+    "F42",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F43",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F43",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F43",
+    "illustrates"
+   ],
+   [
+    "C15",
+    "F43",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F43",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F43",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F43",
+    "illustrates"
+   ],
+   [
+    "C25",
+    "F43",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F44",
+    "illustrates"
+   ],
+   [
+    "C15",
+    "F44",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F44",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F44",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F44",
+    "illustrates"
+   ],
+   [
+    "C25",
+    "F44",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F45",
+    "illustrates"
+   ],
+   [
+    "C15",
+    "F45",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F45",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F45",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F45",
+    "illustrates"
+   ],
+   [
+    "C25",
+    "F45",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F46",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F46",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F46",
+    "illustrates"
+   ],
+   [
+    "C15",
+    "F46",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F46",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F46",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F46",
+    "illustrates"
+   ],
+   [
+    "C25",
+    "F46",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F47",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F47",
+    "illustrates"
+   ],
+   [
+    "C15",
+    "F47",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F47",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F47",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F47",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F48",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F48",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F49",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F49",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F50",
+    "illustrates"
+   ],
+   [
+    "C18",
+    "F50",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F51",
+    "illustrates"
+   ],
+   [
+    "C19",
+    "F51",
+    "with"
+   ],
+   [
+    "C20",
+    "F51",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F52",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F52",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F52",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F52",
+    "illustrates"
+   ],
+   [
+    "C19",
+    "F52",
+    "illustrates"
+   ],
+   [
+    "C20",
+    "F52",
+    "with"
+   ],
+   [
+    "C13",
+    "F53",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F53",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F54",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F54",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F54",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F55",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F55",
+    "with"
+   ],
+   [
+    "C05",
+    "F55",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F55",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F55",
+    "illustrates"
+   ],
+   [
+    "C22",
+    "F55",
+    "illustrates"
+   ],
+   [
+    "C25",
+    "F55",
+    "illustrates"
+   ],
+   [
+    "C36",
+    "F55",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F56",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F56",
+    "with"
+   ],
+   [
+    "C05",
+    "F56",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F56",
+    "illustrates"
+   ],
+   [
+    "C22",
+    "F56",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F56",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F56",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F57",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F57",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F57",
+    "illustrates"
+   ],
+   [
+    "C23",
+    "F57",
+    "illustrates"
+   ],
+   [
+    "C24",
+    "F57",
+    "illustrates"
+   ],
+   [
+    "C25",
+    "F57",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F57",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F58",
+    "illustrates"
+   ],
+   [
+    "C23",
+    "F58",
+    "with"
+   ],
+   [
+    "C12",
+    "F59",
+    "illustrates"
+   ],
+   [
+    "C22",
+    "F59",
+    "illustrates"
+   ],
+   [
+    "C23",
+    "F59",
+    "with"
+   ],
+   [
+    "C23",
+    "F60",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F61",
+    "illustrates"
+   ],
+   [
+    "C23",
+    "F61",
+    "illustrates"
+   ],
+   [
+    "C24",
+    "F61",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F61",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F62",
+    "illustrates"
+   ],
+   [
+    "C23",
+    "F62",
+    "with"
+   ],
+   [
+    "C10",
+    "F63",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F63",
+    "illustrates"
+   ],
+   [
+    "C23",
+    "F63",
+    "with"
+   ],
+   [
+    "C24",
+    "F63",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F63",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F64",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F64",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F64",
+    "illustrates"
+   ],
+   [
+    "C23",
+    "F64",
+    "with"
+   ],
+   [
+    "C24",
+    "F64",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F64",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F65",
+    "illustrates"
+   ],
+   [
+    "C23",
+    "F65",
+    "illustrates"
+   ],
+   [
+    "C24",
+    "F65",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F65",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F66",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F66",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F66",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F66",
+    "illustrates"
+   ],
+   [
+    "C23",
+    "F66",
+    "illustrates"
+   ],
+   [
+    "C24",
+    "F66",
+    "illustrates"
+   ],
+   [
+    "C25",
+    "F66",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F67",
+    "with"
+   ],
+   [
+    "C24",
+    "F67",
+    "with"
+   ],
+   [
+    "C37",
+    "F67",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F68",
+    "illustrates"
+   ],
+   [
+    "C23",
+    "F68",
+    "illustrates"
+   ],
+   [
+    "C24",
+    "F68",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F69",
+    "with"
+   ],
+   [
+    "C15",
+    "F69",
+    "illustrates"
+   ],
+   [
+    "C24",
+    "F69",
+    "with"
+   ],
+   [
+    "C37",
+    "F69",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F70",
+    "illustrates"
+   ],
+   [
+    "C23",
+    "F70",
+    "illustrates"
+   ],
+   [
+    "C24",
+    "F70",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F70",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F71",
+    "illustrates"
+   ],
+   [
+    "C24",
+    "F71",
+    "illustrates"
+   ],
+   [
+    "C25",
+    "F71",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F71",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F72",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F72",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F72",
+    "illustrates"
+   ],
+   [
+    "C24",
+    "F72",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F72",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F73",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F73",
+    "with"
+   ],
+   [
+    "C05",
+    "F73",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F73",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F73",
+    "illustrates"
+   ],
+   [
+    "C22",
+    "F73",
+    "with"
+   ],
+   [
+    "C26",
+    "F73",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F73",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F74",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F74",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F74",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F74",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F74",
+    "illustrates"
+   ],
+   [
+    "C22",
+    "F74",
+    "with"
+   ],
+   [
+    "C23",
+    "F74",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F74",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F74",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F75",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F75",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F75",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F75",
+    "illustrates"
+   ],
+   [
+    "C15",
+    "F75",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F75",
+    "illustrates"
+   ],
+   [
+    "C22",
+    "F75",
+    "illustrates"
+   ],
+   [
+    "C25",
+    "F75",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F75",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F76",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F76",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F76",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F76",
+    "illustrates"
+   ],
+   [
+    "C15",
+    "F76",
+    "illustrates"
+   ],
+   [
+    "C22",
+    "F76",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F76",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F77",
+    "against"
+   ],
+   [
+    "C05",
+    "F77",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F77",
+    "illustrates"
+   ],
+   [
+    "C22",
+    "F77",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F77",
+    "with"
+   ],
+   [
+    "C35",
+    "F77",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F78",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F78",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F78",
+    "illustrates"
+   ],
+   [
+    "C15",
+    "F78",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F78",
+    "illustrates"
+   ],
+   [
+    "C24",
+    "F78",
+    "illustrates"
+   ],
+   [
+    "C25",
+    "F78",
+    "with"
+   ],
+   [
+    "C37",
+    "F78",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F79",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F79",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F79",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F79",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F79",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F79",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F79",
+    "illustrates"
+   ],
+   [
+    "C27",
+    "F79",
+    "illustrates"
+   ],
+   [
+    "C28",
+    "F79",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F79",
+    "illustrates"
+   ],
+   [
+    "C36",
+    "F79",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F80",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F80",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F80",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F80",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F80",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F80",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F80",
+    "illustrates"
+   ],
+   [
+    "C27",
+    "F80",
+    "illustrates"
+   ],
+   [
+    "C28",
+    "F80",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F80",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F81",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F81",
+    "illustrates"
+   ],
+   [
+    "C27",
+    "F81",
+    "illustrates"
+   ],
+   [
+    "C29",
+    "F81",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F81",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F82",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F82",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F82",
+    "illustrates"
+   ],
+   [
+    "C27",
+    "F82",
+    "illustrates"
+   ],
+   [
+    "C29",
+    "F82",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F82",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F83",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F83",
+    "illustrates"
+   ],
+   [
+    "C27",
+    "F83",
+    "illustrates"
+   ],
+   [
+    "C29",
+    "F83",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F83",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F84",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F84",
+    "illustrates"
+   ],
+   [
+    "C27",
+    "F84",
+    "illustrates"
+   ],
+   [
+    "C29",
+    "F84",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F84",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F85",
+    "illustrates"
+   ],
+   [
+    "C27",
+    "F85",
+    "illustrates"
+   ],
+   [
+    "C29",
+    "F85",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F85",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F86",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F86",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F86",
+    "illustrates"
+   ],
+   [
+    "C27",
+    "F86",
+    "illustrates"
+   ],
+   [
+    "C29",
+    "F86",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F86",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F87",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F87",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F87",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F87",
+    "illustrates"
+   ],
+   [
+    "C27",
+    "F87",
+    "illustrates"
+   ],
+   [
+    "C28",
+    "F87",
+    "illustrates"
+   ],
+   [
+    "C29",
+    "F87",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F87",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F88",
+    "with"
+   ],
+   [
+    "C03",
+    "F88",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F88",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F88",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F88",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F88",
+    "with"
+   ],
+   [
+    "C27",
+    "F88",
+    "illustrates"
+   ],
+   [
+    "C28",
+    "F88",
+    "with"
+   ],
+   [
+    "C29",
+    "F88",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F88",
+    "with"
+   ],
+   [
+    "C03",
+    "F89",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F89",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F89",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F89",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F89",
+    "illustrates"
+   ],
+   [
+    "C27",
+    "F89",
+    "illustrates"
+   ],
+   [
+    "C28",
+    "F89",
+    "illustrates"
+   ],
+   [
+    "C29",
+    "F89",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F89",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F89",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F90",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F90",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F90",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F90",
+    "illustrates"
+   ],
+   [
+    "C27",
+    "F90",
+    "illustrates"
+   ],
+   [
+    "C28",
+    "F90",
+    "illustrates"
+   ],
+   [
+    "C29",
+    "F90",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F90",
+    "with"
+   ],
+   [
+    "C04",
+    "F91",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F91",
+    "illustrates"
+   ],
+   [
+    "C27",
+    "F91",
+    "illustrates"
+   ],
+   [
+    "C28",
+    "F91",
+    "illustrates"
+   ],
+   [
+    "C29",
+    "F91",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F91",
+    "with"
+   ],
+   [
+    "C01",
+    "F92",
+    "with"
+   ],
+   [
+    "C03",
+    "F92",
+    "with"
+   ],
+   [
+    "C04",
+    "F92",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F92",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F92",
+    "with"
+   ],
+   [
+    "C27",
+    "F92",
+    "with"
+   ],
+   [
+    "C28",
+    "F92",
+    "illustrates"
+   ],
+   [
+    "C29",
+    "F92",
+    "with"
+   ],
+   [
+    "C35",
+    "F92",
+    "with"
+   ],
+   [
+    "C03",
+    "F93",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F93",
+    "illustrates"
+   ],
+   [
+    "C15",
+    "F93",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F93",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F93",
+    "illustrates"
+   ],
+   [
+    "C30",
+    "F93",
+    "illustrates"
+   ],
+   [
+    "C31",
+    "F93",
+    "illustrates"
+   ],
+   [
+    "C32",
+    "F93",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F93",
+    "illustrates"
+   ],
+   [
+    "C34",
+    "F93",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F94",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F94",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F94",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F94",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F94",
+    "illustrates"
+   ],
+   [
+    "C15",
+    "F94",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F94",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F94",
+    "illustrates"
+   ],
+   [
+    "C30",
+    "F94",
+    "illustrates"
+   ],
+   [
+    "C31",
+    "F94",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F94",
+    "illustrates"
+   ],
+   [
+    "C36",
+    "F94",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F95",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F95",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F95",
+    "illustrates"
+   ],
+   [
+    "C30",
+    "F95",
+    "illustrates"
+   ],
+   [
+    "C32",
+    "F95",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F95",
+    "illustrates"
+   ],
+   [
+    "C34",
+    "F95",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F95",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F96",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F96",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F96",
+    "illustrates"
+   ],
+   [
+    "C30",
+    "F96",
+    "illustrates"
+   ],
+   [
+    "C31",
+    "F96",
+    "illustrates"
+   ],
+   [
+    "C32",
+    "F96",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F96",
+    "illustrates"
+   ],
+   [
+    "C34",
+    "F96",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F96",
+    "illustrates"
+   ],
+   [
+    "C30",
+    "F97",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F97",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F98",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F98",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F98",
+    "illustrates"
+   ],
+   [
+    "C30",
+    "F98",
+    "illustrates"
+   ],
+   [
+    "C31",
+    "F98",
+    "illustrates"
+   ],
+   [
+    "C32",
+    "F98",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F98",
+    "illustrates"
+   ],
+   [
+    "C34",
+    "F98",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F99",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F99",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F99",
+    "illustrates"
+   ],
+   [
+    "C30",
+    "F99",
+    "illustrates"
+   ],
+   [
+    "C31",
+    "F99",
+    "illustrates"
+   ],
+   [
+    "C32",
+    "F99",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F99",
+    "illustrates"
+   ],
+   [
+    "C34",
+    "F99",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F99",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F100",
+    "illustrates"
+   ],
+   [
+    "C32",
+    "F100",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F100",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F100",
+    "illustrates"
+   ],
+   [
+    "C30",
+    "F101",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F101",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F102",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F102",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F102",
+    "illustrates"
+   ],
+   [
+    "C30",
+    "F102",
+    "illustrates"
+   ],
+   [
+    "C31",
+    "F102",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F103",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F103",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F103",
+    "illustrates"
+   ],
+   [
+    "C30",
+    "F103",
+    "illustrates"
+   ],
+   [
+    "C31",
+    "F103",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F103",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F103",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F104",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F104",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F104",
+    "illustrates"
+   ],
+   [
+    "C34",
+    "F104",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F104",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F105",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F105",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F105",
+    "illustrates"
+   ],
+   [
+    "C34",
+    "F105",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F105",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F106",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F106",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F106",
+    "illustrates"
+   ],
+   [
+    "C34",
+    "F106",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F106",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F107",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F107",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F107",
+    "illustrates"
+   ],
+   [
+    "C12",
+    "F108",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F108",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F108",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F108",
+    "illustrates"
+   ],
+   [
+    "C13",
+    "F110",
+    "illustrates"
+   ],
+   [
+    "C32",
+    "F110",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F110",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F110",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F111",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F111",
+    "with"
+   ],
+   [
+    "C03",
+    "F111",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F111",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F111",
+    "with"
+   ],
+   [
+    "C16",
+    "F111",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F111",
+    "illustrates"
+   ],
+   [
+    "C30",
+    "F111",
+    "with"
+   ],
+   [
+    "C31",
+    "F111",
+    "illustrates"
+   ],
+   [
+    "C32",
+    "F111",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F111",
+    "illustrates"
+   ],
+   [
+    "C34",
+    "F111",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F111",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F112",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F112",
+    "with"
+   ],
+   [
+    "C05",
+    "F112",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F112",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F112",
+    "illustrates"
+   ],
+   [
+    "C30",
+    "F112",
+    "illustrates"
+   ],
+   [
+    "C32",
+    "F112",
+    "with"
+   ],
+   [
+    "C33",
+    "F112",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F113",
+    "with"
+   ],
+   [
+    "C05",
+    "F113",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F113",
+    "illustrates"
+   ],
+   [
+    "C30",
+    "F113",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F113",
+    "illustrates"
+   ],
+   [
+    "C34",
+    "F113",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F113",
+    "against"
+   ],
+   [
+    "C03",
+    "F114",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F114",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F114",
+    "illustrates"
+   ],
+   [
+    "C30",
+    "F114",
+    "illustrates"
+   ],
+   [
+    "C32",
+    "F114",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F114",
+    "illustrates"
+   ],
+   [
+    "C34",
+    "F114",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F114",
+    "with"
+   ],
+   [
+    "C03",
+    "F115",
+    "with"
+   ],
+   [
+    "C04",
+    "F115",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F115",
+    "illustrates"
+   ],
+   [
+    "C32",
+    "F115",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F115",
+    "with"
+   ],
+   [
+    "C34",
+    "F115",
+    "with"
+   ],
+   [
+    "C37",
+    "F115",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F116",
+    "with"
+   ],
+   [
+    "C04",
+    "F116",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F116",
+    "illustrates"
+   ],
+   [
+    "C32",
+    "F116",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F116",
+    "with"
+   ],
+   [
+    "C34",
+    "F116",
+    "with"
+   ],
+   [
+    "C37",
+    "F116",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F117",
+    "against"
+   ],
+   [
+    "C03",
+    "F117",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F117",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F117",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F117",
+    "with"
+   ],
+   [
+    "C33",
+    "F117",
+    "illustrates"
+   ],
+   [
+    "C34",
+    "F117",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F118",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F118",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F118",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F118",
+    "illustrates"
+   ],
+   [
+    "C15",
+    "F118",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F118",
+    "illustrates"
+   ],
+   [
+    "C22",
+    "F118",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F118",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F118",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F119",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F119",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F119",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F119",
+    "illustrates"
+   ],
+   [
+    "C15",
+    "F119",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F119",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F119",
+    "illustrates"
+   ],
+   [
+    "C27",
+    "F119",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F119",
+    "illustrates"
+   ],
+   [
+    "C36",
+    "F119",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F120",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F120",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F120",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F120",
+    "illustrates"
+   ],
+   [
+    "C15",
+    "F120",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F120",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F120",
+    "illustrates"
+   ],
+   [
+    "C30",
+    "F120",
+    "illustrates"
+   ],
+   [
+    "C31",
+    "F120",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F120",
+    "illustrates"
+   ],
+   [
+    "C36",
+    "F120",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F121",
+    "with"
+   ],
+   [
+    "C05",
+    "F121",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F121",
+    "illustrates"
+   ],
+   [
+    "C22",
+    "F121",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F122",
+    "qualifies"
+   ],
+   [
+    "C05",
+    "F122",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F122",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F123",
+    "qualifies"
+   ],
+   [
+    "C05",
+    "F123",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F123",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F124",
+    "with"
+   ],
+   [
+    "C05",
+    "F124",
+    "illustrates"
+   ],
+   [
+    "C22",
+    "F124",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F125",
+    "qualifies"
+   ],
+   [
+    "C05",
+    "F125",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F126",
+    "qualifies"
+   ],
+   [
+    "C05",
+    "F126",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F127",
+    "with"
+   ],
+   [
+    "C05",
+    "F127",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F127",
+    "illustrates"
+   ],
+   [
+    "C22",
+    "F127",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F127",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F127",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F128",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F128",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F128",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F128",
+    "illustrates"
+   ],
+   [
+    "C27",
+    "F128",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F128",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F129",
+    "qualifies"
+   ],
+   [
+    "C05",
+    "F129",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F129",
+    "illustrates"
+   ],
+   [
+    "C30",
+    "F129",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F129",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F130",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F130",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F130",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F130",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F131",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F131",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F131",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F131",
+    "illustrates"
+   ],
+   [
+    "C27",
+    "F131",
+    "illustrates"
+   ],
+   [
+    "C28",
+    "F131",
+    "illustrates"
+   ],
+   [
+    "C29",
+    "F131",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F131",
+    "illustrates"
+   ],
+   [
+    "C02",
+    "F132",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F132",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F132",
+    "illustrates"
+   ],
+   [
+    "C14",
+    "F132",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F132",
+    "illustrates"
+   ],
+   [
+    "C30",
+    "F132",
+    "illustrates"
+   ],
+   [
+    "C31",
+    "F132",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F132",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F133",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F133",
+    "with"
+   ],
+   [
+    "C15",
+    "F133",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F133",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F133",
+    "illustrates"
+   ],
+   [
+    "C25",
+    "F133",
+    "with"
+   ],
+   [
+    "C01",
+    "F134",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F134",
+    "with"
+   ],
+   [
+    "C15",
+    "F134",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F134",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F134",
+    "illustrates"
+   ],
+   [
+    "C27",
+    "F134",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F135",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F135",
+    "illustrates"
+   ],
+   [
+    "C15",
+    "F135",
+    "illustrates"
+   ],
+   [
+    "C16",
+    "F135",
+    "illustrates"
+   ],
+   [
+    "C17",
+    "F135",
+    "illustrates"
+   ],
+   [
+    "C30",
+    "F135",
+    "illustrates"
+   ],
+   [
+    "C31",
+    "F135",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F135",
+    "illustrates"
+   ],
+   [
+    "C34",
+    "F135",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F136",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F136",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F136",
+    "illustrates"
+   ],
+   [
+    "C24",
+    "F136",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F136",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F137",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F137",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F137",
+    "illustrates"
+   ],
+   [
+    "C27",
+    "F137",
+    "illustrates"
+   ],
+   [
+    "C29",
+    "F137",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F137",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F138",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F138",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F138",
+    "illustrates"
+   ],
+   [
+    "C21",
+    "F138",
+    "illustrates"
+   ],
+   [
+    "C30",
+    "F138",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F138",
+    "illustrates"
+   ],
+   [
+    "C34",
+    "F138",
+    "illustrates"
+   ],
+   [
+    "C37",
+    "F138",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F139",
+    "illustrates"
+   ],
+   [
+    "C27",
+    "F139",
+    "with"
+   ],
+   [
+    "C28",
+    "F139",
+    "illustrates"
+   ],
+   [
+    "C29",
+    "F139",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F140",
+    "against"
+   ],
+   [
+    "C03",
+    "F140",
+    "with"
+   ],
+   [
+    "C05",
+    "F140",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F140",
+    "with"
+   ],
+   [
+    "C35",
+    "F140",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F141",
+    "with"
+   ],
+   [
+    "C03",
+    "F141",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F141",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F141",
+    "with"
+   ],
+   [
+    "C27",
+    "F141",
+    "illustrates"
+   ],
+   [
+    "C29",
+    "F141",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F141",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F142",
+    "against"
+   ],
+   [
+    "C03",
+    "F142",
+    "illustrates"
+   ],
+   [
+    "C04",
+    "F142",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F142",
+    "illustrates"
+   ],
+   [
+    "C26",
+    "F142",
+    "with"
+   ],
+   [
+    "C30",
+    "F142",
+    "illustrates"
+   ],
+   [
+    "C33",
+    "F142",
+    "illustrates"
+   ],
+   [
+    "C34",
+    "F142",
+    "illustrates"
+   ],
+   [
+    "C35",
+    "F142",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F143",
+    "illustrates"
+   ],
+   [
+    "C05",
+    "F143",
+    "illustrates"
+   ],
+   [
+    "C36",
+    "F143",
+    "illustrates"
+   ],
+   [
+    "C38",
+    "F143",
+    "illustrates"
+   ],
+   [
+    "C39",
+    "F143",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F144",
+    "illustrates"
+   ],
+   [
+    "C36",
+    "F144",
+    "with"
+   ],
+   [
+    "C39",
+    "F144",
+    "illustrates"
+   ],
+   [
+    "C06",
+    "F145",
+    "illustrates"
+   ],
+   [
+    "C06",
+    "F147",
+    "illustrates"
+   ],
+   [
+    "C06",
+    "F148",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F149",
+    "illustrates"
+   ],
+   [
+    "C06",
+    "F150",
+    "illustrates"
+   ],
+   [
+    "C06",
+    "F151",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F151",
+    "illustrates"
+   ],
+   [
+    "C06",
+    "F152",
+    "illustrates"
+   ],
+   [
+    "C03",
+    "F152",
+    "with"
+   ],
+   [
+    "C37",
+    "F152",
+    "illustrates"
+   ],
+   [
+    "C06",
+    "F153",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F153",
+    "illustrates"
+   ],
+   [
+    "C06",
+    "F154",
+    "illustrates"
+   ],
+   [
+    "C07",
+    "F154",
+    "illustrates"
+   ],
+   [
+    "C06",
+    "F155",
+    "illustrates"
+   ],
+   [
+    "C07",
+    "F155",
+    "illustrates"
+   ],
+   [
+    "C08",
+    "F155",
+    "illustrates"
+   ],
+   [
+    "C06",
+    "F156",
+    "illustrates"
+   ],
+   [
+    "C08",
+    "F156",
+    "illustrates"
+   ],
+   [
+    "C01",
+    "F157",
+    "with"
+   ],
+   [
+    "C06",
+    "F157",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F159",
+    "illustrates"
+   ],
+   [
+    "C09",
+    "F160",
+    "illustrates"
+   ],
+   [
+    "C07",
+    "F161",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F161",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F162",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F163",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F164",
+    "illustrates"
+   ],
+   [
+    "C10",
+    "F165",
+    "illustrates"
+   ],
+   [
+    "C11",
+    "F166",
+    "with"
+   ],
+   [
+    "C05",
+    "F167",
+    "illustrates"
+   ],
+   [
+    "C22",
+    "F167",
+    "illustrates"
+   ],
+   [
+    "C06",
+    "F168",
+    "illustrates"
+   ],
+   [
+    "C07",
+    "F168",
+    "illustrates"
+   ]
+  ]
+ },
+ "removed": {
+  "PP003": "the paper reports that",
+  "PP027": "the author's account is that",
+  "PP039": "the author's account is that",
+  "PP040": "the author's account is that",
+  "PP042": "the author's account is that",
+  "PP047": "the author's account is that",
+  "PP050": "the paper explains that",
+  "PP052": "the author's account is that",
+  "PP053": "the author's account is that",
+  "PP056": "the paper explains that",
+  "PP058": "the author's account is that",
+  "PP059": "the author's account is that",
+  "PP061": "the author's account is that",
+  "PP063": "the author's account is that",
+  "PP065": "the paper explains that",
+  "PP070": "the author's account is that",
+  "PP071": "the paper reports that",
+  "PP075": "the paper reports that",
+  "PP077": "the author's account is that",
+  "PP081": "the author's account is that",
+  "PP084": "the author's account is that",
+  "PP087": "the paper explains that",
+  "PP088": "the author's account is that",
+  "PP093": "the author's account is that",
+  "PP097": "the author's account is that",
+  "PP099": "the paper explains that",
+  "PP100": "the author's account is that",
+  "PP104": "the author's account is that",
+  "PP105": "the author's account is that",
+  "PP106": "the author's account is that",
+  "PP111": "the author's account is that",
+  "PP115": "the author's account is that",
+  "PP118": "the paper reports that",
+  "PP120": "the author's account is that",
+  "PP126": "the author's account is that",
+  "PP129": "the paper explains that",
+  "PP130": "the author's account is that",
+  "PP131": "the author's account is that",
+  "PP132": "the author's account is that",
+  "PP133": "the author's account is that",
+  "PP134": "the author's account is that",
+  "PP135": "the author's account is that",
+  "PP136": "the author's account is that",
+  "PP137": "the author's account is that",
+  "PP138": "the author's account is that",
+  "PP139": "the author's account is that",
+  "PP140": "the author's account is that",
+  "PP141": "the author's account is that",
+  "PP142": "the author's account is that",
+  "PP143": "the author's account is that",
+  "PP144": "the author's account is that",
+  "PP145": "the author's account is that",
+  "PP146": "the author's account is that",
+  "PP147": "the author's account is that",
+  "PP148": "the author's account is that",
+  "PP149": "the author's account is that",
+  "PP150": "the author's account is that",
+  "PP151": "the author's account is that",
+  "PP152": "the author's account is that",
+  "PP153": "the author's account is that",
+  "PP154": "the author's account is that",
+  "PP155": "the paper explains that",
+  "PP156": "the author's account is that",
+  "PP157": "the author's account is that",
+  "PP158": "the paper explains that",
+  "PP159": "the author's account is that",
+  "PP160": "the author's account is that",
+  "PP161": "the author's account is that",
+  "PP162": "the author's account is that",
+  "PP163": "the paper explains that",
+  "PP164": "the author's account is that",
+  "PP165": "the author's account is that",
+  "PP166": "the author's account is that",
+  "PP167": "the paper explains that",
+  "PP168": "the author's account is that",
+  "QP062": "the author's account is that",
+  "QP118": "the paper explains that",
+  "QP124": "the author's account is that",
+  "QP142": "the author's account is that",
+  "QP143": "the author's account is that",
+  "QP144": "the author's account is that",
+  "QP145": "the author's account is that",
+  "QP146": "the author's account is that",
+  "QP147": "the author's account is that",
+  "QP148": "the author's account is that",
+  "QP149": "the author's account is that",
+  "QP150": "the author's account is that",
+  "QP151": "the author's account is that",
+  "QP152": "the author's account is that",
+  "QP153": "the author's account is that",
+  "QP154": "the author's account is that",
+  "QP155": "the author's account is that",
+  "QP156": "the author's account is that",
+  "QP157": "the author's account is that",
+  "QP158": "the author's account is that",
+  "QP159": "the author's account is that",
+  "QP160": "the author's account is that",
+  "QP161": "the author's account is that",
+  "QP162": "the author's account is that",
+  "QP164": "the author's account is that",
+  "QP165": "the author's account is that",
+  "QP166": "the author's account is that",
+  "QP168": "the paper explains that"
+ },
+ "warnings": [
+  "PP002 (first:F02): opens with a reporting or interpreting verb: 'The paper describes U.S. public crime laboratories as operat'",
+  "PP004 (first:F04): opens with a reporting or interpreting verb: 'The paper reports a field infrastructure of general, laborat'",
+  "PP045 (first:F45): opens with a reporting or interpreting verb: 'The paper describes a routine DNA workflow in which analysts'",
+  "PP068 (first:F68): opens with a reporting or interpreting verb: 'The paper describes firearms technical review as a second ex'",
+  "PP091 (first:F91): opens with a reporting or interpreting verb: 'The paper describes toxicology as high-volume instrument wor'",
+  "PP108 (first:F108): opens with a reporting or interpreting verb: 'The paper describes GC/MS as an instrument method that separ'"
+ ],
+ "lists_sha256": "8ffba0ddbaa3d4f74780483623f267ef263808f01ffd47c6bc07cc74c461e5ea",
+ "descriptions_replaced": []
+}

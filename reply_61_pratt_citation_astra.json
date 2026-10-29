@@ -1,0 +1,94 @@
+{
+  "paper": "Pratt, M. G. 2000",
+  "what_you_know": "I know the paper's subject at a general level: organizational identification and ambivalence among Amway distributors, including the possibility of simultaneous attraction to and distance from an organization. I do not reliably remember its passages, observations, or journal page locations; the readings below are conditional wagers, not claims that I have verified the paper's evidence.",
+  "readings": [
+    {
+      "reading_id": "R1",
+      "wager": "What looks like ambivalence toward one organization may be a mismatch between the organizations a distributor has in mind. A person can feel loyal to a sponsor, immediate distributor group, or imagined entrepreneurial community while mistrusting Amway as a corporate name. On this reading, the central process is switching among identification targets, rather than managing two opposing feelings about a single target.",
+      "evidence": [
+        {
+          "page": "not recalled",
+          "job": "A passage, if present, that distinguishes attachment to a local sponsor or distributor group from judgments of Amway as a corporation would do the main work: it would show that the favorable and unfavorable identifications point at different objects. I cannot recall or authenticate such a passage or its page."
+        }
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "The same distributor explicitly praises a particular sponsor or group and criticizes the corporation, and closer questioning shows that apparent contradictions lessen when the object of identification is held constant. I cannot tell from memory whether the paper prints this within-person comparison.",
+        "printed": null,
+        "pages": []
+      },
+      "strains_against": [
+        {
+          "page": "not recalled",
+          "why": "A distributor's clearly simultaneous affection for and rejection of the very same, specifically identified organization would defeat the claim that changing referents accounts for the ambivalence. I cannot say whether the paper presents such a case."
+        }
+      ],
+      "who_could_complete_it": "A qualitative researcher able to recode the original interview passages by the organizational referent of each positive and negative statement, alongside distributors familiar with the sponsor-group structure."
+    },
+    {
+      "reading_id": "R2",
+      "wager": "Distributors' mixed identification may be a sensible way to manage an uncertain economic commitment. Expressing belief in the opportunity sustains selling and recruitment, while maintaining doubts preserves a story about oneself that can survive disappointment or departure. Ambivalence then functions as a practical hedge, not simply an uncomfortable identity state to be resolved.",
+      "evidence": [
+        {
+          "page": "not recalled",
+          "job": "A passage, if present, in which a distributor combines enthusiasm or public commitment with acknowledged doubts about returns, work, or continued participation would make the coexistence of belief and reservation intelligible as risk management. I cannot recall a specific passage or page."
+        }
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Accounts or longitudinal observations connect stronger doubts to income uncertainty, unrecovered investment, or plans to reduce involvement, while showing that optimistic self-descriptions help distributors continue prospecting. I do not know whether the paper reports that sequence.",
+        "printed": null,
+        "pages": []
+      },
+      "strains_against": [
+        {
+          "page": "not recalled",
+          "why": "If the paper documents ambivalence persisting despite secure returns, or driven predominantly by ethical and relational concerns unrelated to economic exposure, an economic-hedge account would be inadequate. I cannot locate or verify any such case."
+        }
+      ],
+      "who_could_complete_it": "A researcher with longitudinal interviews and contemporaneous distributor earnings, expenditures, recruitment activity, and exit histories."
+    },
+    {
+      "reading_id": "R3",
+      "wager": "Negative public judgments of Amway may not merely threaten distributors' identification; they may help produce its intensity. Being treated as outsiders can give members a shared grievance and a reason to trust insiders more than nonmembers. On this reading, the apparent opposition between attraction and aversion is part of a boundary-making cycle through which criticism from outside strengthens commitment inside.",
+      "evidence": [
+        {
+          "page": "not recalled",
+          "job": "A passage, if present, where distributors describe skepticism or stigma from outsiders together with heightened trust in fellow distributors would anchor the proposed feedback loop. I do not recall where, or whether, this juxtaposition appears."
+        }
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "After disparaging encounters with outsiders, distributors turn to insider meetings or peers for reassurance and subsequently articulate stronger group belonging, rather than simply weakening their commitment. Whether this before-and-after pattern is printed is unknown to me.",
+        "printed": null,
+        "pages": []
+      },
+      "strains_against": [
+        {
+          "page": "not recalled",
+          "why": "Outsider criticism that leads directly to distancing or exit, without a compensating increase in solidarity, would cut against the proposed cycle. I cannot identify an actual printed instance from memory."
+        }
+      ],
+      "who_could_complete_it": "An ethnographer who could observe recruitment encounters and group meetings over time, supplemented by accounts from active and former distributors."
+    },
+    {
+      "reading_id": "R4",
+      "wager": "The contradictory identifications may reside less in enduring inner attitudes than in the different explanations distributors must give to different audiences. One account of membership is persuasive among recruits or fellow distributors; another is needed with skeptical relatives or friends. Ambivalence would then be something accomplished in conversations to sustain credibility across incompatible audiences.",
+      "evidence": [
+        {
+          "page": "not recalled",
+          "job": "A passage, if present, contrasting how one distributor speaks about Amway in a recruiting setting with how that distributor speaks to outsiders would support an audience-dependent account. I do not remember a specific passage or page."
+        }
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Directly observed talk by the same distributor changes systematically by audience, and the most apparently inconsistent claims become coherent when the interactional purpose of each is considered. I cannot establish whether the paper prints paired observations of this sort.",
+        "printed": null,
+        "pages": []
+      },
+      "strains_against": [
+        {
+          "page": "not recalled",
+          "why": "Sustained, private, unprompted expressions of contradictory feelings that do not vary with interlocutor would suggest an internal conflict rather than mainly an audience-sensitive performance. I cannot determine whether such material is in the paper."
+        }
+      ],
+      "who_could_complete_it": "A conversation analyst or ethnographer with recordings of the same distributors speaking in training sessions, recruitment encounters, and private conversations."
+    }
+  ]
+}

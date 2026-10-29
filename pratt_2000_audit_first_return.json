@@ -1,0 +1,1957 @@
+{
+  "paper_id": "pratt_2000",
+  "citation": "Pratt, M. G. 2000. The good, the bad, and the ambivalent: Managing identification among Amway distributors. Administrative Science Quarterly, 45(3): 456\u2013493.",
+  "schema_version": 4,
+  "claim_layer_status": "extracted",
+  "measures": [
+    {
+      "name": "coupling_uniformity",
+      "scored": false,
+      "score": null,
+      "coverage": 0.167,
+      "detail": {
+        "claims": [
+          {
+            "claim_id": "C02",
+            "construct": "positive identification, sensebreaking, sensegiving",
+            "core": true,
+            "n_directional": 1,
+            "with": 1,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F87"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F21",
+                "F27",
+                "F86",
+                "F88",
+                "F109"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C03",
+            "construct": "sensebreaking, sensegiving, deidentification, disidentification, ambivalent identification",
+            "core": false,
+            "n_directional": 2,
+            "with": 2,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F96",
+              "F101"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F21",
+                "F27",
+                "F88",
+                "F99",
+                "F107",
+                "F109"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C04",
+            "construct": "strong cultures, organizational values, social control",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C06",
+            "construct": "identification types, positive identification, disidentification, ambivalent identification, deidentification, emotional evaluation",
+            "core": false,
+            "n_directional": 4,
+            "with": 4,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F87",
+              "F92",
+              "F101",
+              "F104"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F18",
+                "F107",
+                "F111"
+              ],
+              "against": []
+            },
+            "majority_share": 1.0,
+            "assessed": true,
+            "seam": false
+          },
+          {
+            "claim_id": "C07",
+            "construct": "dream building, positive programming, identification types",
+            "core": false,
+            "n_directional": 1,
+            "with": 1,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F96"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F19",
+                "F21",
+                "F27",
+                "F86",
+                "F88",
+                "F99",
+                "F107"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C08",
+            "construct": "prospecting, organizational identification",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [
+                "F20"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C09",
+            "construct": "financial success, identification types",
+            "core": false,
+            "n_directional": 1,
+            "with": 1,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F22"
+            ],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C10",
+            "construct": "visible demographic variables, identification types",
+            "core": false,
+            "n_directional": 1,
+            "with": 1,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F26"
+            ],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C11",
+            "construct": "motivated sensemaking, identification types",
+            "core": true,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [
+                "F18",
+                "F21",
+                "F27",
+                "F86",
+                "F88",
+                "F99",
+                "F107",
+                "F108",
+                "F109"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C12",
+            "construct": "sensebreaking, seekership, sense of self",
+            "core": true,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [
+                "F48",
+                "F49",
+                "F89",
+                "F108",
+                "F109"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C13",
+            "construct": "dream building, sensebreaking, identity deficits, seekership",
+            "core": true,
+            "n_directional": 1,
+            "with": 1,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F94"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F48",
+                "F49"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C14",
+            "construct": "dream building, choice, familiarity, emotion, self-concept",
+            "core": false,
+            "n_directional": 1,
+            "with": 1,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F39"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F49"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C15",
+            "construct": "identity deficits, current self, ideal self",
+            "core": false,
+            "n_directional": 4,
+            "with": 4,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F41",
+              "F50",
+              "F94",
+              "F95"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F40",
+                "F49"
+              ],
+              "against": []
+            },
+            "majority_share": 1.0,
+            "assessed": true,
+            "seam": false
+          },
+          {
+            "claim_id": "C16",
+            "construct": "identity deficits, current identity, crisis",
+            "core": false,
+            "n_directional": 2,
+            "with": 2,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F41",
+              "F91"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F89"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C17",
+            "construct": "dream building, seekership, self-validation",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [
+                "F48"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C18",
+            "construct": "dream building, distributor identity",
+            "core": false,
+            "n_directional": 2,
+            "with": 2,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F33",
+              "F34"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F48"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C19",
+            "construct": "seekership, sensemaking",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [
+                "F48",
+                "F49"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C20",
+            "construct": "positive programming, sensegiving, encapsulated sensemaking",
+            "core": true,
+            "n_directional": 1,
+            "with": 0,
+            "against": 1,
+            "against_ids": [
+              "F93"
+            ],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [
+                "F73",
+                "F79",
+                "F99",
+                "F107",
+                "F109"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C21",
+            "construct": "mentor-protege relationships, upline distributors, economic support, emotional support",
+            "core": false,
+            "n_directional": 9,
+            "with": 8,
+            "against": 1,
+            "against_ids": [
+              "F98"
+            ],
+            "with_ids": [
+              "F57",
+              "F61",
+              "F62",
+              "F80",
+              "F81",
+              "F97",
+              "F103",
+              "F117"
+            ],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": 0.889,
+            "assessed": true,
+            "seam": false
+          },
+          {
+            "claim_id": "C22",
+            "construct": "relationship barriers, revaluing, social encapsulation, ideological encapsulation",
+            "core": false,
+            "n_directional": 5,
+            "with": 5,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F67",
+              "F71",
+              "F76",
+              "F84",
+              "F106"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F72",
+                "F73",
+                "F79",
+                "F107"
+              ],
+              "against": []
+            },
+            "majority_share": 1.0,
+            "assessed": true,
+            "seam": false
+          },
+          {
+            "claim_id": "C23",
+            "construct": "encapsulation, sensemaking, upline distributors, dirty work",
+            "core": false,
+            "n_directional": 4,
+            "with": 3,
+            "against": 1,
+            "against_ids": [
+              "F93"
+            ],
+            "with_ids": [
+              "F83",
+              "F84",
+              "F85"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F53",
+                "F63",
+                "F73",
+                "F79",
+                "F99",
+                "F107"
+              ],
+              "against": []
+            },
+            "majority_share": 0.75,
+            "assessed": true,
+            "seam": false
+          },
+          {
+            "claim_id": "C24",
+            "construct": "commitment, distributor identity, sensemaking",
+            "core": false,
+            "n_directional": 1,
+            "with": 1,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F83"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F77"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C25",
+            "construct": "positive programming, self-fulfilling prophecies, relationship standard",
+            "core": false,
+            "n_directional": 2,
+            "with": 2,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F84",
+              "F85"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F78"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C26",
+            "construct": "positive identification, dream building, sensebreaking",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [
+                "F86"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C27",
+            "construct": "sensebreaking, seekership, deidentification",
+            "core": true,
+            "n_directional": 4,
+            "with": 4,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F90",
+              "F91",
+              "F92",
+              "F93"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F88",
+                "F89",
+                "F109"
+              ],
+              "against": []
+            },
+            "majority_share": 1.0,
+            "assessed": true,
+            "seam": false
+          },
+          {
+            "claim_id": "C28",
+            "construct": "sensebreaking, sensegiving, disidentification",
+            "core": true,
+            "n_directional": 2,
+            "with": 2,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F96",
+              "F100"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F21",
+                "F88",
+                "F99",
+                "F109"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C29",
+            "construct": "sensebreaking, sensegiving, ambivalent identification",
+            "core": true,
+            "n_directional": 4,
+            "with": 4,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F101",
+              "F102",
+              "F104",
+              "F105"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F88",
+                "F107",
+                "F109"
+              ],
+              "against": []
+            },
+            "majority_share": 1.0,
+            "assessed": true,
+            "seam": false
+          },
+          {
+            "claim_id": "C30",
+            "construct": "seekership, selection, identification management",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C31",
+            "construct": "encapsulated sensemaking, in-group/out-group barriers, sensegiving",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [
+                "F70"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C32",
+            "construct": "positive identification, compliance",
+            "core": false,
+            "n_directional": 2,
+            "with": 2,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F50",
+              "F51"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F86"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C33",
+            "construct": "positive identification, sensebreaking, sensegiving",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [
+                "F86"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C35",
+            "construct": "current self, ideal self, identification, motivation",
+            "core": false,
+            "n_directional": 2,
+            "with": 2,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F91",
+              "F94"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F89",
+                "F108"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C36",
+            "construct": "identification, sensemaking",
+            "core": false,
+            "n_directional": 3,
+            "with": 3,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F83",
+              "F84",
+              "F85"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F99"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C38",
+            "construct": "multiplex bonds, organizational identification",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C39",
+            "construct": "sensebreaking, sensegiving, professional identification",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C40",
+            "construct": "encapsulated sensemaking, common purpose",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [
+                "F111"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C41",
+            "construct": "positive identification, organizational functioning",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C42",
+            "construct": "identification management, positive identification",
+            "core": false,
+            "n_directional": 13,
+            "with": 13,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F67",
+              "F74",
+              "F75",
+              "F76",
+              "F90",
+              "F91",
+              "F92",
+              "F96",
+              "F97",
+              "F98",
+              "F100",
+              "F105",
+              "F106"
+            ],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": 1.0,
+            "assessed": true,
+            "seam": false
+          },
+          {
+            "claim_id": "C43",
+            "construct": "positive identification, community, purpose",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [
+                "F111"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C44",
+            "construct": "strong cultures, loyalty, commitment, job security",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C45",
+            "construct": "extreme cases, theory building",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C46",
+            "construct": "triangulation, multiple data sources",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C47",
+            "construct": "semiovert participant observation, trust",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C48",
+            "construct": "semiovert participant observation",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C49",
+            "construct": "positive programming, balance theory, sensemaking",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [
+                "F78"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C50",
+            "construct": "seekership, part-time workers, contingent workers, voluntary membership",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C51",
+            "construct": "seekership, professional socialization",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C52",
+            "construct": "identification management, turnover, labor pool",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          }
+        ],
+        "directional_claims": 48,
+        "assessed_claims": 8,
+        "seams": [],
+        "seam_detail": []
+      },
+      "reading": "no seam in the assessed claims"
+    },
+    {
+      "name": "coupling_asymmetry",
+      "scored": true,
+      "score": 0.05,
+      "coverage": 1.0,
+      "detail": {
+        "usable_fragments": 121,
+        "unattached_ids": [
+          "F01",
+          "F07",
+          "F08",
+          "F12",
+          "F16",
+          "F120"
+        ],
+        "unsupported_claims": [
+          "C05",
+          "C30",
+          "C39",
+          "C41",
+          "C44",
+          "C45",
+          "C46",
+          "C47",
+          "C48",
+          "C51",
+          "C52"
+        ],
+        "most_cited": [
+          "F107 (11)",
+          "F109 (10)",
+          "F99 (9)",
+          "F48 (8)",
+          "F86 (8)"
+        ]
+      },
+      "reading": "low"
+    }
+  ],
+  "voice_facts": {
+    "core_claims": [
+      "C01",
+      "C02",
+      "C11",
+      "C12",
+      "C13",
+      "C20",
+      "C27",
+      "C28",
+      "C29",
+      "C34"
+    ],
+    "computable": true,
+    "speech_fragments_in_corpus": 35,
+    "units_in_corpus": [
+      "current and former distributors",
+      "distributors",
+      "former distributors",
+      "inactive distributors",
+      "non-distributors",
+      "upline distributors"
+    ],
+    "per_core_claim": {
+      "C01": {
+        "speech_fragments": 33,
+        "identified": 33,
+        "units": {
+          "distributors": 13,
+          "former distributors": 8,
+          "inactive distributors": 6,
+          "upline distributors": 5,
+          "non-distributors": 1
+        }
+      },
+      "C02": {
+        "speech_fragments": 1,
+        "identified": 1,
+        "units": {
+          "inactive distributors": 1
+        }
+      },
+      "C11": {
+        "speech_fragments": 0,
+        "identified": 0,
+        "units": {}
+      },
+      "C12": {
+        "speech_fragments": 0,
+        "identified": 0,
+        "units": {}
+      },
+      "C13": {
+        "speech_fragments": 7,
+        "identified": 7,
+        "units": {
+          "distributors": 3,
+          "former distributors": 2,
+          "upline distributors": 1,
+          "inactive distributors": 1
+        }
+      },
+      "C20": {
+        "speech_fragments": 4,
+        "identified": 4,
+        "units": {
+          "upline distributors": 1,
+          "distributors": 1,
+          "former distributors": 1,
+          "inactive distributors": 1
+        }
+      },
+      "C27": {
+        "speech_fragments": 4,
+        "identified": 4,
+        "units": {
+          "former distributors": 4
+        }
+      },
+      "C28": {
+        "speech_fragments": 2,
+        "identified": 2,
+        "units": {
+          "former distributors": 2
+        }
+      },
+      "C29": {
+        "speech_fragments": 5,
+        "identified": 5,
+        "units": {
+          "inactive distributors": 5
+        }
+      },
+      "C34": {
+        "speech_fragments": 3,
+        "identified": 3,
+        "units": {
+          "upline distributors": 1,
+          "former distributors": 1,
+          "inactive distributors": 1
+        }
+      }
+    },
+    "present_but_never_load_bearing": [
+      "current and former distributors"
+    ],
+    "basis": "units beneath core claims, counted over speech fragments only; unattributed speech is excluded, not imputed"
+  },
+  "bounds": {
+    "computable": true,
+    "episode_start_period": "P1",
+    "resolution_period": null,
+    "resolution_basis": "The paper analyzes an ongoing identification-management process rather than a bounded episode that becomes settled; its conclusion closes the argument analytically but does not report a temporal resolution of the process.",
+    "reports_outcome_after_resolution": false,
+    "before": [],
+    "after": [],
+    "at_resolution": [],
+    "why": "no resolution_period declared; only the start boundary is testable"
+  },
+  "voice_rule": {
+    "applied": true,
+    "source": "pratt_2000_voice_gloss.json",
+    "rule": "a fragment coded voice author_insight never counts as with or against (SCHEMA_v5.md; applied before v5, from 27 Sep 2026)",
+    "fragments": {
+      "reported": 92,
+      "author_insight": 29
+    },
+    "excluded_with": 83,
+    "excluded_against": 0,
+    "excluded_links": [
+      {
+        "fragment_id": "F18",
+        "claim_id": "C06",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F18",
+        "claim_id": "C11",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F19",
+        "claim_id": "C07",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F20",
+        "claim_id": "C08",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F21",
+        "claim_id": "C02",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F21",
+        "claim_id": "C03",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F21",
+        "claim_id": "C07",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F21",
+        "claim_id": "C11",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F21",
+        "claim_id": "C28",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F27",
+        "claim_id": "C02",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F27",
+        "claim_id": "C03",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F27",
+        "claim_id": "C07",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F27",
+        "claim_id": "C11",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F40",
+        "claim_id": "C15",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F48",
+        "claim_id": "C12",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F48",
+        "claim_id": "C13",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F48",
+        "claim_id": "C17",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F48",
+        "claim_id": "C18",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F48",
+        "claim_id": "C19",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F49",
+        "claim_id": "C12",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F49",
+        "claim_id": "C13",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F49",
+        "claim_id": "C14",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F49",
+        "claim_id": "C15",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F49",
+        "claim_id": "C19",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F53",
+        "claim_id": "C23",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F63",
+        "claim_id": "C23",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F70",
+        "claim_id": "C31",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F72",
+        "claim_id": "C22",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F73",
+        "claim_id": "C20",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F73",
+        "claim_id": "C22",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F73",
+        "claim_id": "C23",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F77",
+        "claim_id": "C24",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F78",
+        "claim_id": "C25",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F78",
+        "claim_id": "C49",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F79",
+        "claim_id": "C20",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F79",
+        "claim_id": "C22",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F79",
+        "claim_id": "C23",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F86",
+        "claim_id": "C02",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F86",
+        "claim_id": "C07",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F86",
+        "claim_id": "C11",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F86",
+        "claim_id": "C26",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F86",
+        "claim_id": "C32",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F86",
+        "claim_id": "C33",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F88",
+        "claim_id": "C02",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F88",
+        "claim_id": "C03",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F88",
+        "claim_id": "C07",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F88",
+        "claim_id": "C11",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F88",
+        "claim_id": "C27",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F88",
+        "claim_id": "C28",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F88",
+        "claim_id": "C29",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F89",
+        "claim_id": "C12",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F89",
+        "claim_id": "C16",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F89",
+        "claim_id": "C27",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F89",
+        "claim_id": "C35",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F99",
+        "claim_id": "C03",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F99",
+        "claim_id": "C07",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F99",
+        "claim_id": "C11",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F99",
+        "claim_id": "C20",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F99",
+        "claim_id": "C23",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F99",
+        "claim_id": "C28",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F99",
+        "claim_id": "C36",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F107",
+        "claim_id": "C03",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F107",
+        "claim_id": "C06",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F107",
+        "claim_id": "C07",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F107",
+        "claim_id": "C11",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F107",
+        "claim_id": "C20",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F107",
+        "claim_id": "C22",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F107",
+        "claim_id": "C23",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F107",
+        "claim_id": "C29",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F108",
+        "claim_id": "C11",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F108",
+        "claim_id": "C12",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F108",
+        "claim_id": "C35",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F109",
+        "claim_id": "C02",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F109",
+        "claim_id": "C03",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F109",
+        "claim_id": "C11",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F109",
+        "claim_id": "C12",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F109",
+        "claim_id": "C20",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F109",
+        "claim_id": "C27",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F109",
+        "claim_id": "C28",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F109",
+        "claim_id": "C29",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F111",
+        "claim_id": "C06",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F111",
+        "claim_id": "C40",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F111",
+        "claim_id": "C43",
+        "direction": "with"
+      }
+    ]
+  },
+  "seams_detected": [],
+  "sensitivity": {
+    "grid": [
+      {
+        "min_links": 3,
+        "floor": 0.8,
+        "min_minority": 1,
+        "assessed": 9,
+        "seams": [
+          "C23"
+        ]
+      },
+      {
+        "min_links": 3,
+        "floor": 0.8,
+        "min_minority": 2,
+        "assessed": 9,
+        "seams": []
+      },
+      {
+        "min_links": 3,
+        "floor": 0.85,
+        "min_minority": 1,
+        "assessed": 9,
+        "seams": [
+          "C23"
+        ]
+      },
+      {
+        "min_links": 3,
+        "floor": 0.85,
+        "min_minority": 2,
+        "assessed": 9,
+        "seams": []
+      },
+      {
+        "min_links": 3,
+        "floor": 0.9,
+        "min_minority": 1,
+        "assessed": 9,
+        "seams": [
+          "C21",
+          "C23"
+        ]
+      },
+      {
+        "min_links": 3,
+        "floor": 0.9,
+        "min_minority": 2,
+        "assessed": 9,
+        "seams": []
+      },
+      {
+        "min_links": 4,
+        "floor": 0.8,
+        "min_minority": 1,
+        "assessed": 8,
+        "seams": [
+          "C23"
+        ]
+      },
+      {
+        "min_links": 4,
+        "floor": 0.8,
+        "min_minority": 2,
+        "assessed": 8,
+        "seams": []
+      },
+      {
+        "min_links": 4,
+        "floor": 0.85,
+        "min_minority": 1,
+        "assessed": 8,
+        "seams": [
+          "C23"
+        ]
+      },
+      {
+        "min_links": 4,
+        "floor": 0.85,
+        "min_minority": 2,
+        "assessed": 8,
+        "seams": []
+      },
+      {
+        "min_links": 4,
+        "floor": 0.9,
+        "min_minority": 1,
+        "assessed": 8,
+        "seams": [
+          "C21",
+          "C23"
+        ]
+      },
+      {
+        "min_links": 4,
+        "floor": 0.9,
+        "min_minority": 2,
+        "assessed": 8,
+        "seams": []
+      },
+      {
+        "min_links": 5,
+        "floor": 0.8,
+        "min_minority": 1,
+        "assessed": 3,
+        "seams": []
+      },
+      {
+        "min_links": 5,
+        "floor": 0.8,
+        "min_minority": 2,
+        "assessed": 3,
+        "seams": []
+      },
+      {
+        "min_links": 5,
+        "floor": 0.85,
+        "min_minority": 1,
+        "assessed": 3,
+        "seams": []
+      },
+      {
+        "min_links": 5,
+        "floor": 0.85,
+        "min_minority": 2,
+        "assessed": 3,
+        "seams": []
+      },
+      {
+        "min_links": 5,
+        "floor": 0.9,
+        "min_minority": 1,
+        "assessed": 3,
+        "seams": [
+          "C21"
+        ]
+      },
+      {
+        "min_links": 5,
+        "floor": 0.9,
+        "min_minority": 2,
+        "assessed": 3,
+        "seams": []
+      }
+    ],
+    "at_current_settings": [],
+    "settings_agreeing_with_current": "11/18"
+  },
+  "move_parameters": {
+    "construct_inversion": [
+      {
+        "trigger": "from_pair",
+        "pair": "CP01",
+        "drawn_by_authors": true,
+        "differs_in": "The first pathway loses the need to seek change and ends in detachment; the second retains aspiration but loses organizational sensegiving and ends in opposition.",
+        "fragments": [
+          "F91",
+          "F94",
+          "F96",
+          "F97",
+          "F99"
+        ],
+        "note": ""
+      },
+      {
+        "trigger": "from_pair",
+        "pair": "CP02",
+        "drawn_by_authors": true,
+        "differs_in": "The former distributor reports failed support and disenchantment, whereas the inactive distributor reports durable support despite weak participation.",
+        "fragments": [
+          "F97",
+          "F103"
+        ],
+        "note": ""
+      },
+      {
+        "trigger": "from_pair",
+        "pair": "CP03",
+        "drawn_by_authors": false,
+        "differs_in": "The first episode strengthens reliance on organizational interpretation, while the second produces immediate distancing from the organization.",
+        "fragments": [
+          "F85",
+          "F104"
+        ],
+        "note": "analyst-constructed pair: a weaker licence than one the authors drew"
+      }
+    ],
+    "counterfactual_ending": {
+      "ventured_claims": [
+        "C04",
+        "C10",
+        "C25",
+        "C30",
+        "C31",
+        "C32",
+        "C33",
+        "C36",
+        "C38",
+        "C39",
+        "C40",
+        "C41",
+        "C42",
+        "C44",
+        "C49",
+        "C50",
+        "C51",
+        "C52"
+      ],
+      "unresolved_question_gaps": []
+    },
+    "focalization_shift": {
+      "units": [
+        "current and former distributors"
+      ],
+      "fragments_by_unit": {
+        "current and former distributors": [
+          "F23"
+        ]
+      }
+    },
+    "seed_fragments": [
+      "F01",
+      "F07",
+      "F08",
+      "F12",
+      "F16",
+      "F120"
+    ],
+    "research_questions_only": [
+      "A01",
+      "A02",
+      "A03"
+    ]
+  },
+  "readiness": {
+    "moves_parameterised": [
+      "construct_inversion",
+      "counterfactual_ending",
+      "focalization_shift"
+    ],
+    "has_seed_fragments": true,
+    "ready": true,
+    "reason": "3 move(s) parameterised"
+  },
+  "thresholds": {
+    "MIN_LINKS_FOR_UNIFORMITY": 4,
+    "UNIFORMITY_FLOOR": 0.85,
+    "MIN_MINORITY": 2,
+    "MIN_COVERAGE": 0.6
+  },
+  "coding_status": {
+    "double_coded": [],
+    "single_coded": [
+      "ClaimLink.direction",
+      "Claim.core",
+      "Claim.stated_as",
+      "DeclaredGap.kind",
+      "ContrastPair.drawn_by_authors",
+      "PaperMeta.resolution_period"
+    ],
+    "second_coder": null
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "C05: no fragments beneath this claim -- either an extraction miss or an unsupported assertion",
+      "C30: no fragments beneath this claim -- either an extraction miss or an unsupported assertion",
+      "C39: no fragments beneath this claim -- either an extraction miss or an unsupported assertion",
+      "C41: no fragments beneath this claim -- either an extraction miss or an unsupported assertion",
+      "C44: no fragments beneath this claim -- either an extraction miss or an unsupported assertion",
+      "C45: no fragments beneath this claim -- either an extraction miss or an unsupported assertion",
+      "C46: no fragments beneath this claim -- either an extraction miss or an unsupported assertion",
+      "C47: no fragments beneath this claim -- either an extraction miss or an unsupported assertion",
+      "C48: no fragments beneath this claim -- either an extraction miss or an unsupported assertion",
+      "C51: no fragments beneath this claim -- either an extraction miss or an unsupported assertion",
+      "C52: no fragments beneath this claim -- either an extraction miss or an unsupported assertion",
+      "6 fragments attached to no claim: F01, F07, F08, F12, F120, F16",
+      "single-coded trigger fields: ClaimLink.direction, Claim.core, Claim.stated_as, DeclaredGap.kind, ContrastPair.drawn_by_authors, PaperMeta.resolution_period. Each can switch a move on by itself. Report kappa by field; no number from a single-coded field should be published."
+    ]
+  }
+}

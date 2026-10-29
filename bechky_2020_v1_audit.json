@@ -1,0 +1,1113 @@
+{
+  "paper_id": "bechky_2020",
+  "citation": "Bechky, B. A. 2020. Evaluative spillovers from technological change: The effects of \"DNA envy\" on occupational practices in forensic science. Administrative Science Quarterly, 65(3): 606\u2013643.",
+  "schema_version": 4,
+  "claim_layer_status": "extracted",
+  "measures": [
+    {
+      "name": "coupling_uniformity",
+      "scored": false,
+      "score": null,
+      "coverage": 0.111,
+      "detail": {
+        "claims": [
+          {
+            "claim_id": "C01",
+            "construct": "evaluative spillovers, technological change, neighboring occupations, occupational practices",
+            "core": true,
+            "n_directional": 1,
+            "with": 1,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F98"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F39",
+                "F166"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C02",
+            "construct": "occupational legitimacy, DNA profiling, evaluative spillovers",
+            "core": false,
+            "n_directional": 5,
+            "with": 5,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F01",
+              "F32",
+              "F37",
+              "F38",
+              "F60"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F39",
+                "F56",
+                "F59",
+                "F61",
+                "F63",
+                "F133",
+                "F136",
+                "F139",
+                "F140",
+                "F156"
+              ],
+              "against": []
+            },
+            "majority_share": 1.0,
+            "assessed": true,
+            "seam": false
+          },
+          {
+            "claim_id": "C03",
+            "construct": "institutional pathways, evaluative spillovers, occupational change",
+            "core": true,
+            "n_directional": 1,
+            "with": 1,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F98"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F84",
+                "F87",
+                "F88",
+                "F129",
+                "F151",
+                "F152",
+                "F153",
+                "F160",
+                "F161"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C04",
+            "construct": "technique, evaluative spillovers, occupational change",
+            "core": true,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C05",
+            "construct": "occupational values, evaluative spillovers, occupational change",
+            "core": true,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [
+                "F87",
+                "F129",
+                "F151",
+                "F152",
+                "F153",
+                "F166"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C06",
+            "construct": "technology adoption, occupational boundaries, resources, status",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C08",
+            "construct": "professional power, professional authority, task change",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C09",
+            "construct": "technology, symbolic legitimacy, occupational legitimacy",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [
+                "F52",
+                "F53"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C10",
+            "construct": "occupational communities, occupational culture, work practices, occupational values",
+            "core": false,
+            "n_directional": 1,
+            "with": 1,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F58"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F27",
+                "F154"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C12",
+            "construct": "ethnography, institutional discourse, meaning making",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C14",
+            "construct": "DNA profiling, representation, objectivity, legitimacy",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [
+                "F47",
+                "F52"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C15",
+            "construct": "DNA envy, occupational legitimacy, resources, DNA profiling",
+            "core": false,
+            "n_directional": 1,
+            "with": 1,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F55"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F53"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C16",
+            "construct": "firearms examination, institutional pathways, technique, occupational values, evaluative spillovers",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [
+                "F84",
+                "F87",
+                "F151",
+                "F160",
+                "F166"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C17",
+            "construct": "toxicology, institutional pathways, technique, occupational values, evaluative spillovers",
+            "core": false,
+            "n_directional": 4,
+            "with": 4,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [
+              "F31",
+              "F98",
+              "F102",
+              "F103"
+            ],
+            "author_voice_excluded": {
+              "with": [
+                "F88",
+                "F152",
+                "F161",
+                "F166"
+              ],
+              "against": []
+            },
+            "majority_share": 1.0,
+            "assessed": true,
+            "seam": false
+          },
+          {
+            "claim_id": "C18",
+            "construct": "narcotics analysis, institutional pathways, technique, occupational values, evaluative spillovers",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [
+                "F129",
+                "F153",
+                "F166"
+              ],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C19",
+            "construct": "neighboring occupations, evaluative spillovers, evaluating audiences",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C22",
+            "construct": "evaluative spillovers, occupational values, institutional pathways",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          },
+          {
+            "claim_id": "C23",
+            "construct": "digital technologies, evaluative spillovers, occupational change",
+            "core": false,
+            "n_directional": 0,
+            "with": 0,
+            "against": 0,
+            "against_ids": [],
+            "with_ids": [],
+            "author_voice_excluded": {
+              "with": [],
+              "against": []
+            },
+            "majority_share": null,
+            "assessed": false,
+            "seam": false,
+            "note": "fewer than 4 directionally coded fragments; not assessed"
+          }
+        ],
+        "directional_claims": 18,
+        "assessed_claims": 2,
+        "seams": [],
+        "seam_detail": []
+      },
+      "reading": "no seam in the assessed claims"
+    },
+    {
+      "name": "coupling_asymmetry",
+      "scored": true,
+      "score": 0.25,
+      "coverage": 1.0,
+      "detail": {
+        "usable_fragments": 172,
+        "unattached_ids": [
+          "F02",
+          "F03",
+          "F04",
+          "F05",
+          "F06",
+          "F07",
+          "F08",
+          "F09",
+          "F10",
+          "F11",
+          "F12",
+          "F13",
+          "F14",
+          "F15",
+          "F16",
+          "F17",
+          "F18",
+          "F19",
+          "F20",
+          "F21",
+          "F22",
+          "F23",
+          "F24",
+          "F25",
+          "F26",
+          "F28",
+          "F29",
+          "F41",
+          "F43",
+          "F65",
+          "F66",
+          "F67",
+          "F68",
+          "F71",
+          "F72",
+          "F73",
+          "F74",
+          "F78",
+          "F81",
+          "F112",
+          "F169",
+          "F170",
+          "F171"
+        ],
+        "unsupported_claims": [
+          "C06",
+          "C07",
+          "C08",
+          "C12",
+          "C22",
+          "C23"
+        ],
+        "most_cited": [
+          "F166 (11)",
+          "F87 (5)",
+          "F100 (5)",
+          "F70 (4)",
+          "F77 (4)"
+        ]
+      },
+      "reading": "moderate"
+    }
+  ],
+  "voice_facts": {
+    "core_claims": [
+      "C01",
+      "C03",
+      "C04",
+      "C05",
+      "C13",
+      "C20",
+      "C21"
+    ],
+    "computable": true,
+    "speech_fragments_in_corpus": 20,
+    "units_in_corpus": [
+      "controlled substances (narcotics)",
+      "firearms",
+      "forensic biology (DNA)",
+      "laboratory management",
+      "toxicology"
+    ],
+    "per_core_claim": {
+      "C01": {
+        "speech_fragments": 0,
+        "identified": 0,
+        "units": {}
+      },
+      "C03": {
+        "speech_fragments": 3,
+        "identified": 3,
+        "units": {
+          "firearms": 2,
+          "laboratory management": 1
+        }
+      },
+      "C04": {
+        "speech_fragments": 2,
+        "identified": 2,
+        "units": {
+          "firearms": 1,
+          "controlled substances (narcotics)": 1
+        }
+      },
+      "C05": {
+        "speech_fragments": 6,
+        "identified": 6,
+        "units": {
+          "toxicology": 3,
+          "controlled substances (narcotics)": 3
+        }
+      },
+      "C13": {
+        "speech_fragments": 1,
+        "identified": 1,
+        "units": {
+          "firearms": 1
+        }
+      },
+      "C20": {
+        "speech_fragments": 8,
+        "identified": 8,
+        "units": {
+          "controlled substances (narcotics)": 4,
+          "toxicology": 3,
+          "firearms": 1
+        }
+      },
+      "C21": {
+        "speech_fragments": 0,
+        "identified": 0,
+        "units": {}
+      }
+    },
+    "present_but_never_load_bearing": [
+      "forensic biology (DNA)"
+    ],
+    "basis": "units beneath core claims, counted over speech fragments only; unattributed speech is excluded, not imputed"
+  },
+  "bounds": {
+    "computable": true,
+    "episode_start_period": "P1",
+    "resolution_period": null,
+    "resolution_basis": "The empirical account closes with different contemporaneous responses across the three occupations and then moves to discussion; it does not identify a later point at which the spillover process or those responses became settled.",
+    "reports_outcome_after_resolution": false,
+    "before": [],
+    "after": [],
+    "at_resolution": [],
+    "why": "no resolution_period declared; only the start boundary is testable"
+  },
+  "voice_rule": {
+    "applied": true,
+    "source": "bechky_2020_v1_voice_gloss.json",
+    "rule": "a fragment coded voice author_insight never counts as with or against (SCHEMA_v5.md; applied before v5, from 27 Sep 2026)",
+    "fragments": {
+      "reported": 102,
+      "author_insight": 70
+    },
+    "excluded_with": 46,
+    "excluded_against": 0,
+    "excluded_links": [
+      {
+        "fragment_id": "F27",
+        "claim_id": "C10",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F39",
+        "claim_id": "C01",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F39",
+        "claim_id": "C02",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F47",
+        "claim_id": "C14",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F52",
+        "claim_id": "C09",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F52",
+        "claim_id": "C14",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F53",
+        "claim_id": "C09",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F53",
+        "claim_id": "C15",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F56",
+        "claim_id": "C02",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F59",
+        "claim_id": "C02",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F61",
+        "claim_id": "C02",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F63",
+        "claim_id": "C02",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F84",
+        "claim_id": "C03",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F84",
+        "claim_id": "C16",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F87",
+        "claim_id": "C03",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F87",
+        "claim_id": "C05",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F87",
+        "claim_id": "C16",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F88",
+        "claim_id": "C03",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F88",
+        "claim_id": "C17",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F129",
+        "claim_id": "C03",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F129",
+        "claim_id": "C05",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F129",
+        "claim_id": "C18",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F133",
+        "claim_id": "C02",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F136",
+        "claim_id": "C02",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F139",
+        "claim_id": "C02",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F140",
+        "claim_id": "C02",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F151",
+        "claim_id": "C03",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F151",
+        "claim_id": "C05",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F151",
+        "claim_id": "C16",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F152",
+        "claim_id": "C03",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F152",
+        "claim_id": "C05",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F152",
+        "claim_id": "C17",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F153",
+        "claim_id": "C03",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F153",
+        "claim_id": "C05",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F153",
+        "claim_id": "C18",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F154",
+        "claim_id": "C10",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F156",
+        "claim_id": "C02",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F160",
+        "claim_id": "C03",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F160",
+        "claim_id": "C16",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F161",
+        "claim_id": "C03",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F161",
+        "claim_id": "C17",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F166",
+        "claim_id": "C01",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F166",
+        "claim_id": "C05",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F166",
+        "claim_id": "C16",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F166",
+        "claim_id": "C17",
+        "direction": "with"
+      },
+      {
+        "fragment_id": "F166",
+        "claim_id": "C18",
+        "direction": "with"
+      }
+    ]
+  },
+  "seams_detected": [],
+  "sensitivity": {
+    "grid": [
+      {
+        "min_links": 3,
+        "floor": 0.8,
+        "min_minority": 1,
+        "assessed": 2,
+        "seams": []
+      },
+      {
+        "min_links": 3,
+        "floor": 0.8,
+        "min_minority": 2,
+        "assessed": 2,
+        "seams": []
+      },
+      {
+        "min_links": 3,
+        "floor": 0.85,
+        "min_minority": 1,
+        "assessed": 2,
+        "seams": []
+      },
+      {
+        "min_links": 3,
+        "floor": 0.85,
+        "min_minority": 2,
+        "assessed": 2,
+        "seams": []
+      },
+      {
+        "min_links": 3,
+        "floor": 0.9,
+        "min_minority": 1,
+        "assessed": 2,
+        "seams": []
+      },
+      {
+        "min_links": 3,
+        "floor": 0.9,
+        "min_minority": 2,
+        "assessed": 2,
+        "seams": []
+      },
+      {
+        "min_links": 4,
+        "floor": 0.8,
+        "min_minority": 1,
+        "assessed": 2,
+        "seams": []
+      },
+      {
+        "min_links": 4,
+        "floor": 0.8,
+        "min_minority": 2,
+        "assessed": 2,
+        "seams": []
+      },
+      {
+        "min_links": 4,
+        "floor": 0.85,
+        "min_minority": 1,
+        "assessed": 2,
+        "seams": []
+      },
+      {
+        "min_links": 4,
+        "floor": 0.85,
+        "min_minority": 2,
+        "assessed": 2,
+        "seams": []
+      },
+      {
+        "min_links": 4,
+        "floor": 0.9,
+        "min_minority": 1,
+        "assessed": 2,
+        "seams": []
+      },
+      {
+        "min_links": 4,
+        "floor": 0.9,
+        "min_minority": 2,
+        "assessed": 2,
+        "seams": []
+      },
+      {
+        "min_links": 5,
+        "floor": 0.8,
+        "min_minority": 1,
+        "assessed": 1,
+        "seams": []
+      },
+      {
+        "min_links": 5,
+        "floor": 0.8,
+        "min_minority": 2,
+        "assessed": 1,
+        "seams": []
+      },
+      {
+        "min_links": 5,
+        "floor": 0.85,
+        "min_minority": 1,
+        "assessed": 1,
+        "seams": []
+      },
+      {
+        "min_links": 5,
+        "floor": 0.85,
+        "min_minority": 2,
+        "assessed": 1,
+        "seams": []
+      },
+      {
+        "min_links": 5,
+        "floor": 0.9,
+        "min_minority": 1,
+        "assessed": 1,
+        "seams": []
+      },
+      {
+        "min_links": 5,
+        "floor": 0.9,
+        "min_minority": 2,
+        "assessed": 1,
+        "seams": []
+      }
+    ],
+    "at_current_settings": [],
+    "settings_agreeing_with_current": "18/18"
+  },
+  "move_parameters": {
+    "construct_inversion": [
+      {
+        "trigger": "from_pair",
+        "pair": "CP01",
+        "drawn_by_authors": true,
+        "differs_in": "The firearms challenge was remote and produced no local practice change, whereas the toxicology challenge was immediate and accompanied by a local reporting change.",
+        "fragments": [
+          "F84",
+          "F87",
+          "F160",
+          "F88",
+          "F98",
+          "F161"
+        ],
+        "note": ""
+      },
+      {
+        "trigger": "from_pair",
+        "pair": "CP02",
+        "drawn_by_authors": true,
+        "differs_in": "Toxicology combined technical and value alignment with adaptation, while narcotics combined technical compatibility with value conflict and resistance.",
+        "fragments": [
+          "F146",
+          "F149",
+          "F152",
+          "F161",
+          "F147",
+          "F150",
+          "F153",
+          "F162"
+        ],
+        "note": ""
+      }
+    ],
+    "counterfactual_ending": {
+      "ventured_claims": [
+        "C09",
+        "C19",
+        "C22",
+        "C23"
+      ],
+      "unresolved_question_gaps": [
+        "DG02"
+      ]
+    },
+    "focalization_shift": {
+      "units": [
+        "forensic biology (DNA)"
+      ],
+      "fragments_by_unit": {
+        "forensic biology (DNA)": [
+          "F07",
+          "F09",
+          "F13",
+          "F17",
+          "F21",
+          "F28",
+          "F43",
+          "F45",
+          "F46",
+          "F47",
+          "F48",
+          "F49",
+          "F50",
+          "F51"
+        ]
+      }
+    },
+    "seed_fragments": [
+      "F02",
+      "F03",
+      "F04",
+      "F05",
+      "F06",
+      "F07",
+      "F08",
+      "F09",
+      "F10",
+      "F11",
+      "F12",
+      "F13",
+      "F14",
+      "F15",
+      "F16",
+      "F17",
+      "F18",
+      "F19",
+      "F20",
+      "F21",
+      "F22",
+      "F23",
+      "F24",
+      "F25",
+      "F26",
+      "F28",
+      "F29",
+      "F41",
+      "F43",
+      "F65",
+      "F66",
+      "F67",
+      "F68",
+      "F71",
+      "F72",
+      "F73",
+      "F74",
+      "F78",
+      "F81",
+      "F112",
+      "F169",
+      "F170",
+      "F171"
+    ],
+    "research_questions_only": [
+      "A01"
+    ]
+  },
+  "readiness": {
+    "moves_parameterised": [
+      "construct_inversion",
+      "counterfactual_ending",
+      "focalization_shift"
+    ],
+    "has_seed_fragments": true,
+    "ready": true,
+    "reason": "3 move(s) parameterised"
+  },
+  "thresholds": {
+    "MIN_LINKS_FOR_UNIFORMITY": 4,
+    "UNIFORMITY_FLOOR": 0.85,
+    "MIN_MINORITY": 2,
+    "MIN_COVERAGE": 0.6
+  },
+  "coding_status": {
+    "double_coded": [],
+    "single_coded": [
+      "ClaimLink.direction",
+      "Claim.core",
+      "Claim.stated_as",
+      "DeclaredGap.kind",
+      "ContrastPair.drawn_by_authors",
+      "PaperMeta.resolution_period"
+    ],
+    "second_coder": null
+  },
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "C06: no fragments beneath this claim -- either an extraction miss or an unsupported assertion",
+      "C07: no fragments beneath this claim -- either an extraction miss or an unsupported assertion",
+      "C08: no fragments beneath this claim -- either an extraction miss or an unsupported assertion",
+      "C12: no fragments beneath this claim -- either an extraction miss or an unsupported assertion",
+      "C22: no fragments beneath this claim -- either an extraction miss or an unsupported assertion",
+      "C23: no fragments beneath this claim -- either an extraction miss or an unsupported assertion",
+      "43 fragments attached to no claim: F02, F03, F04, F05, F06, F07, F08, F09, F10, F11, F112, F12 ...",
+      "single-coded trigger fields: ClaimLink.direction, Claim.core, Claim.stated_as, DeclaredGap.kind, ContrastPair.drawn_by_authors, PaperMeta.resolution_period. Each can switch a move on by itself. Report kappa by field; no number from a single-coded field should be published."
+    ]
+  }
+}

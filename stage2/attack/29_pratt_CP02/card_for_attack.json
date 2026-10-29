@@ -1,0 +1,82 @@
+{
+  "card_id": "pratt_2000_construct_inversion_CP02_01",
+  "paper_id": "pratt_2000",
+  "move": "construct_inversion",
+  "trigger": "from_pair CP02",
+  "claim": "C21",
+  "incumbent_reading": "The paper holds that the former distributor's disenchantment came from an upline that failed to support him, while the inactive distributor's continuing attachment came from a sponsor whose support held.",
+  "wager": {
+    "statement": "The paper sets the two men side by side as failed support and durable support. The stubs print something narrower: what each upline did with a member the pair holds to have been less than fully active. In F97 what the upline offered came through the program: it relied mainly on more meetings. In F103 what the sponsor offered stood apart from the program: the support went on while he repeatedly failed to attend functions, prepare lists, recruit or use the products consistently, and the sponsor used a kinship term for him. Elsewhere what uplines give is printed as running through the work. The researcher's upline tolerated his interviewing so long as he kept selling and trying to recruit (F16), and one distributor wanted the Pearl level partly so that he could join golf trips with upline members he liked (F62). Read this way, the pair differs in whether the upline's dealings with the member depended on the work, not in how much was given. Where they did, the member left and blames the upline (F97). Where they did not, he stayed, values the sponsor, and still does not do the work (F103). The second half is the inversion. The tie the paper counts as the strong one is printed beside none of the conduct a strong upline tie is supposed to bring about (C20). On this reading that tie holds because it did not depend on the work; it is what an idle member is left holding, and not a cause of anything he does. The tie in F97 is the ordinary, work-bound one, meeting a man it did not move.",
+    "seed_fragments": [
+      "F97",
+      "F103",
+      "F16",
+      "F62"
+    ],
+    "what_it_would_take_to_cohere": {
+      "observation": "What each upline asked of the member once he was not doing the work: whether the sponsor in F103 went on asking for the functions, lists and recruiting or let them go, and whether the upline in F97 offered him anything besides meetings.",
+      "printed": false,
+      "printed_fragments": [],
+      "basis": "Absent. F103 says the support continued through his failures and not what the sponsor said about them. F97 says the upline relied mainly on more meetings and nothing about what else there was. Both relationships are known only from the member's own interview. I checked the other fragments on these two groups (F96, F99, F101 to F107) and the author's remark that marginal members could long remain insiders (F70); none says what was asked of them."
+    },
+    "strains_against": [
+      "F80 -- a distributor says staying active generally depended on a close upline relationship; there the tie is what carries the work, the opposite of a tie that holds apart from it.",
+      "F62 -- time with upline members reserved for those who reach a rank is printed as a reason to achieve; a work-bound tie draws this man in where the reading has it losing the man in F97.",
+      "F60 -- sponsors quietly gave a couple a turkey when food was short, and the couple tell it at a function; help given apart from the business is printed beside people who went on taking part, as also in F57 and F59.",
+      "F107 -- the author's account is that ambivalent distributors had bursts of activity between long idle stretches; if the man in F103 had such bursts when his sponsor was near, the tie does cause conduct.",
+      "F121 -- upline distributors commonly cast their downline as children; the kinship term in F103 may belong to the program's own idiom and not stand apart from it.",
+      "F16 -- the tolerance printed there is of a researcher's interviewing, an unusual thing to need leave for; it may say little about how an ordinary idle member was treated."
+    ],
+    "who_could_complete_it": "The sponsor's or upline's side of either relationship, or a member's account that records what was asked of him after he stopped working as well as how he was treated."
+  },
+  "fragment_jobs": {
+    "F97": "prints an upline whose answer to a member it had not moved was more of the program, and a member who left blaming it.",
+    "F103": "prints, in one account, support that went on apart from the program, a kinship term, a member who stayed, and the work still undone.",
+    "F16": "prints upline tolerance that lasted only so long as the selling and recruiting went on, the work-bound form of regard that the reading sets against F103.",
+    "F62": "prints time with admired upline members as something a rank gives access to, a second place where the tie runs through the work."
+  },
+  "grounded_in": [
+    {
+      "kind": "divergence",
+      "items": [
+        "F16",
+        "F103"
+      ],
+      "how": "F16 has upline tolerance last so long as the member kept selling and trying to recruit; F103 has a sponsor's support continue through repeated failure to attend, list, recruit or use the products. They point different ways on whether what an upline gives depends on doing the work."
+    },
+    {
+      "kind": "missing_fact",
+      "question": "Did the sponsor in F103 keep asking him for the functions, lists and recruiting he was missing, or let them go?",
+      "bears_on": "C21",
+      "if_one_way": "If the sponsor kept asking and the support was valued all the same, C21 would read as written: help and care together make the bond, and the difference from F97 lies in the manner of the upline, not in what the bond depended on.",
+      "if_the_other": "If the sponsor let the work go, the strong bond in C21 would read as one that held by being cut loose from the practices C20 expects it to carry."
+    },
+    {
+      "kind": "missing_fact",
+      "question": "Apart from meetings, did the upline in F97 show him the personal care printed for other members (F57, F59, F60)?",
+      "bears_on": "C21",
+      "if_one_way": "If it did and he still blames it, C21 would read as failing in his case: care was enacted and no bond followed.",
+      "if_the_other": "If meetings were all there was, C21 would read as written for him, and the pair would differ in the amount of support after all."
+    }
+  ],
+  "reach": {
+    "same_construct": [
+      "F61",
+      "F80",
+      "F81"
+    ],
+    "same_outcome": [
+      "F96",
+      "F101"
+    ],
+    "feature_elsewhere": [
+      "F60",
+      "F70"
+    ],
+    "orphans_used": [
+      "F16"
+    ]
+  },
+  "split": null,
+  "for_attack": true
+}

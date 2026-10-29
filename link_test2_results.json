@@ -1,0 +1,8102 @@
+{
+ "awaited": [],
+ "bar": {
+  "1": {
+   "kappa": {
+    "counts": {
+     "no / no": 88,
+     "no / yes": 5,
+     "yes / no": 9,
+     "yes / yes": 18
+    },
+    "k": "513/793",
+    "n": 120,
+    "po": "53/60"
+   },
+   "passed": true
+  },
+  "2": {
+   "kappa": {
+    "counts": {
+     "no / no": 90,
+     "no / yes": 17,
+     "yes / no": 3,
+     "yes / yes": 10
+    },
+    "k": "283/683",
+    "n": 120,
+    "po": "5/6"
+   },
+   "passed": false
+  },
+  "3": {
+   "a": 5,
+   "b": 9,
+   "interval": {
+    "hi": 0.5569620253164557,
+    "lo": -0.047619047619047616,
+    "valid": 2000
+   },
+   "kappa": {
+    "counts": {
+     "neither / neither": 108,
+     "neither / with": 7,
+     "with / neither": 3,
+     "with / with": 2
+    },
+    "k": "13/53",
+    "n": 120,
+    "po": "11/12"
+   },
+   "result": "not passed",
+   "union": 12
+  },
+  "4": {
+   "agreed": 13,
+   "chance_mean": 6.36585,
+   "chance_p95": 10,
+   "holds": true,
+   "left_out": [],
+   "of": 18,
+   "rows": [
+    {
+     "agreed": true,
+     "author_account": false,
+     "coder_1": "illustrates",
+     "coder_2": "illustrates",
+     "figure_or_cell": false,
+     "flags_1": [
+      "condition only"
+     ],
+     "flags_2": [
+      "negative case"
+     ],
+     "marker_source": false,
+     "pair": [
+      "F93",
+      "C20"
+     ],
+     "row": "R058"
+    },
+    {
+     "agreed": true,
+     "author_account": false,
+     "coder_1": "no link",
+     "coder_2": "no link",
+     "figure_or_cell": false,
+     "flags_1": [],
+     "flags_2": [],
+     "marker_source": false,
+     "pair": [
+      "F93",
+      "C23"
+     ],
+     "row": "R133"
+    },
+    {
+     "agreed": false,
+     "author_account": false,
+     "coder_1": "no link",
+     "coder_2": "illustrates",
+     "figure_or_cell": false,
+     "flags_1": [],
+     "flags_2": [
+      "outcome other way, condition unknown"
+     ],
+     "marker_source": false,
+     "pair": [
+      "F97",
+      "C21"
+     ],
+     "row": "R063"
+    },
+    {
+     "agreed": false,
+     "author_account": false,
+     "coder_1": "no link",
+     "coder_2": "illustrates",
+     "figure_or_cell": false,
+     "flags_1": [],
+     "flags_2": [
+      "outcome other way, condition unknown"
+     ],
+     "marker_source": false,
+     "pair": [
+      "F98",
+      "C21"
+     ],
+     "row": "R002"
+    },
+    {
+     "agreed": true,
+     "author_account": true,
+     "coder_1": "illustrates",
+     "coder_2": "illustrates",
+     "figure_or_cell": false,
+     "flags_1": [
+      "condition only"
+     ],
+     "flags_2": [
+      "negative case"
+     ],
+     "marker_source": false,
+     "pair": [
+      "F99",
+      "C20"
+     ],
+     "row": "R097"
+    },
+    {
+     "agreed": false,
+     "author_account": true,
+     "coder_1": "no link",
+     "coder_2": "illustrates",
+     "figure_or_cell": false,
+     "flags_1": [],
+     "flags_2": [
+      "outcome other way, condition unknown"
+     ],
+     "marker_source": false,
+     "pair": [
+      "F99",
+      "C23"
+     ],
+     "row": "R130"
+    },
+    {
+     "agreed": true,
+     "author_account": true,
+     "coder_1": "no link",
+     "coder_2": "no link",
+     "figure_or_cell": false,
+     "flags_1": [
+      "a restatement"
+     ],
+     "flags_2": [
+      "a restatement"
+     ],
+     "marker_source": false,
+     "pair": [
+      "F20",
+      "C08"
+     ],
+     "row": "R092"
+    },
+    {
+     "agreed": true,
+     "author_account": true,
+     "coder_1": "no link",
+     "coder_2": "no link",
+     "figure_or_cell": true,
+     "flags_1": [
+      "a reading"
+     ],
+     "flags_2": [
+      "a reading"
+     ],
+     "marker_source": false,
+     "pair": [
+      "F88",
+      "C27"
+     ],
+     "row": "R059"
+    },
+    {
+     "agreed": true,
+     "author_account": true,
+     "coder_1": "no link",
+     "coder_2": "no link",
+     "figure_or_cell": true,
+     "flags_1": [
+      "a reading"
+     ],
+     "flags_2": [
+      "a reading"
+     ],
+     "marker_source": false,
+     "pair": [
+      "F109",
+      "C29"
+     ],
+     "row": "R117"
+    },
+    {
+     "agreed": false,
+     "author_account": false,
+     "coder_1": "no link",
+     "coder_2": "illustrates",
+     "figure_or_cell": false,
+     "flags_1": [],
+     "flags_2": [
+      "condition only"
+     ],
+     "marker_source": false,
+     "pair": [
+      "F24",
+      "C09"
+     ],
+     "row": "R077"
+    },
+    {
+     "agreed": true,
+     "author_account": false,
+     "coder_1": "no link",
+     "coder_2": "no link",
+     "figure_or_cell": false,
+     "flags_1": [],
+     "flags_2": [],
+     "marker_source": false,
+     "pair": [
+      "F25",
+      "C09"
+     ],
+     "row": "R051"
+    },
+    {
+     "agreed": true,
+     "author_account": false,
+     "coder_1": "no link",
+     "coder_2": "no link",
+     "figure_or_cell": false,
+     "flags_1": [],
+     "flags_2": [],
+     "marker_source": false,
+     "pair": [
+      "F29",
+      "C13"
+     ],
+     "row": "R113"
+    },
+    {
+     "agreed": true,
+     "author_account": false,
+     "coder_1": "no link",
+     "coder_2": "no link",
+     "figure_or_cell": false,
+     "flags_1": [],
+     "flags_2": [],
+     "marker_source": false,
+     "pair": [
+      "F10",
+      "C20"
+     ],
+     "row": "R094"
+    },
+    {
+     "agreed": true,
+     "author_account": false,
+     "coder_1": "no link",
+     "coder_2": "no link",
+     "figure_or_cell": false,
+     "flags_1": [],
+     "flags_2": [],
+     "marker_source": false,
+     "pair": [
+      "F12",
+      "C20"
+     ],
+     "row": "R062"
+    },
+    {
+     "agreed": false,
+     "author_account": false,
+     "coder_1": "no link",
+     "coder_2": "with",
+     "figure_or_cell": false,
+     "flags_1": [],
+     "flags_2": [
+      "outcome only"
+     ],
+     "marker_source": false,
+     "pair": [
+      "F83",
+      "C20"
+     ],
+     "row": "R049"
+    },
+    {
+     "agreed": true,
+     "author_account": true,
+     "coder_1": "no link",
+     "coder_2": "no link",
+     "figure_or_cell": false,
+     "flags_1": [],
+     "flags_2": [],
+     "marker_source": false,
+     "pair": [
+      "F72",
+      "C20"
+     ],
+     "row": "R142"
+    },
+    {
+     "agreed": true,
+     "author_account": true,
+     "coder_1": "no link",
+     "coder_2": "no link",
+     "figure_or_cell": false,
+     "flags_1": [
+      "a reading"
+     ],
+     "flags_2": [
+      "a reading"
+     ],
+     "marker_source": false,
+     "pair": [
+      "F73",
+      "C20"
+     ],
+     "row": "R104"
+    },
+    {
+     "agreed": true,
+     "author_account": false,
+     "coder_1": "with",
+     "coder_2": "with",
+     "figure_or_cell": false,
+     "flags_1": [
+      "outcome only"
+     ],
+     "flags_2": [
+      "outcome only"
+     ],
+     "marker_source": false,
+     "pair": [
+      "F96",
+      "C28"
+     ],
+     "row": "R080"
+    }
+   ],
+   "twin_splits": {
+    "1": [],
+    "2": []
+   }
+  },
+  "5": {
+   "holds": true,
+   "limit": 6,
+   "missing": {
+    "1": [],
+    "2": []
+   },
+   "not_found": {
+    "1": [],
+    "2": []
+   }
+  },
+  "first_verdict": "not passed: the rules",
+  "rows": 120,
+  "top_up": null,
+  "verdict": "not passed: the rules",
+  "without_not_found": null
+ },
+ "bar_counting": "main; names counted; patterns as reports; carried-out markers not counted",
+ "beside": {
+  "author_account_fragments": {
+   "fragments": [
+    "F17",
+    "F18",
+    "F21",
+    "F27",
+    "F28",
+    "F40",
+    "F48",
+    "F49",
+    "F53",
+    "F63",
+    "F70",
+    "F77",
+    "F79",
+    "F86",
+    "F88",
+    "F89",
+    "F107",
+    "F108",
+    "F109",
+    "F111"
+   ],
+   "rows_of_the_120": 43,
+   "stub_opens": 29
+  },
+  "fields": {
+   "all 120 rows": {
+    "bounded": {
+     "ac1": 1.0,
+     "agree": 120,
+     "agreement": 1.0,
+     "counts": {
+      "no / no": 120
+     },
+     "interval": null,
+     "kappa": null,
+     "kappa_exact": null,
+     "n": 120
+    },
+    "condition": {
+     "ac1": 0.859815813555032,
+     "agree": 105,
+     "agreement": 0.875,
+     "counts": {
+      "absent / absent": 1,
+      "absent / not shown": 1,
+      "not shown / absent": 2,
+      "not shown / not shown": 98,
+      "not shown / present": 10,
+      "present / not shown": 2,
+      "present / present": 6
+     },
+     "interval": {
+      "hi": 0.643146796431468,
+      "lo": 0.18088737201365188,
+      "valid": 2000
+     },
+     "kappa": 0.4296577946768061,
+     "kappa_exact": "113/263",
+     "n": 120
+    },
+    "condition_named": {
+     "ac1": 0.9263351749539595,
+     "agree": 112,
+     "agreement": 0.9333333333333333,
+     "counts": {
+      "no / no": 110,
+      "no / yes": 5,
+      "yes / no": 3,
+      "yes / yes": 2
+     },
+     "interval": {
+      "hi": 0.6511627906976745,
+      "lo": -0.043478260869565216,
+      "valid": 2000
+     },
+     "kappa": 0.29927007299270075,
+     "kappa_exact": "41/137",
+     "n": 120
+    },
+    "condition_with_named": {
+     "ac1": 0.8588455847891414,
+     "agree": 104,
+     "agreement": 0.8666666666666667,
+     "counts": {
+      "absent / absent": 1,
+      "absent / not shown": 1,
+      "not shown / absent": 2,
+      "not shown / not shown": 98,
+      "not shown / present": 5,
+      "not shown / present, named": 5,
+      "present / present": 3,
+      "present, named / not shown": 2,
+      "present, named / present": 1,
+      "present, named / present, named": 2
+     },
+     "interval": {
+      "hi": 0.6127896743913172,
+      "lo": 0.16831683168316833,
+      "valid": 2000
+     },
+     "kappa": 0.40409683426443205,
+     "kappa_exact": "217/537",
+     "n": 120
+    },
+    "kind": {
+     "ac1": 0.9405219201506778,
+     "agree": 115,
+     "agreement": 0.9583333333333334,
+     "counts": {
+      "pattern / pattern": 50,
+      "pattern / report": 2,
+      "reading / pattern": 3,
+      "reading / reading": 13,
+      "report / report": 52
+     },
+     "interval": {
+      "hi": 0.9859138396525414,
+      "lo": 0.8620213866850638,
+      "valid": 2000
+     },
+     "kappa": 0.9304589707927677,
+     "kappa_exact": "669/719",
+     "n": 120
+    },
+    "other_cause": {
+     "ac1": 0.9915969328805014,
+     "agree": 119,
+     "agreement": 0.9916666666666667,
+     "counts": {
+      "no / no": 119,
+      "no / yes": 1
+     },
+     "interval": {
+      "hi": 0.0,
+      "lo": 0.0,
+      "valid": 1258
+     },
+     "kappa": 0.0,
+     "kappa_exact": "0",
+     "n": 120
+    },
+    "outcome": {
+     "ac1": 0.8688626961205215,
+     "agree": 106,
+     "agreement": 0.8833333333333333,
+     "counts": {
+      "as asserted / as asserted": 8,
+      "as asserted / not shown": 4,
+      "not shown / as asserted": 8,
+      "not shown / not shown": 98,
+      "not shown / other way": 2
+     },
+     "interval": {
+      "hi": 0.6883116883116883,
+      "lo": 0.21568627450980393,
+      "valid": 2000
+     },
+     "kappa": 0.47368421052631576,
+     "kappa_exact": "9/19",
+     "n": 120
+    },
+    "outcome_named": {
+     "ac1": 0.9360754918001598,
+     "agree": 113,
+     "agreement": 0.9416666666666667,
+     "counts": {
+      "no / no": 111,
+      "no / yes": 3,
+      "yes / no": 4,
+      "yes / yes": 2
+     },
+     "interval": {
+      "hi": 0.696969696969697,
+      "lo": -0.038461538461538464,
+      "valid": 2000
+     },
+     "kappa": 0.3333333333333333,
+     "kappa_exact": "1/3",
+     "n": 120
+    },
+    "outcome_with_named": {
+     "ac1": 0.8586377315773489,
+     "agree": 104,
+     "agreement": 0.8666666666666667,
+     "counts": {
+      "as asserted / as asserted": 4,
+      "as asserted / not shown": 2,
+      "as asserted, named / as asserted": 2,
+      "as asserted, named / as asserted, named": 2,
+      "as asserted, named / not shown": 2,
+      "not shown / as asserted": 5,
+      "not shown / as asserted, named": 3,
+      "not shown / not shown": 98,
+      "not shown / other way": 2
+     },
+     "interval": {
+      "hi": 0.620253164556962,
+      "lo": 0.18866709594333547,
+      "valid": 2000
+     },
+     "kappa": 0.41605839416058393,
+     "kappa_exact": "57/137",
+     "n": 120
+    },
+    "statement": {
+     "ac1": 0.9721459244071338,
+     "agree": 117,
+     "agreement": 0.975,
+     "counts": {
+      "no / no": 112,
+      "no / yes": 2,
+      "yes / no": 1,
+      "yes / yes": 5
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 0.3877551020408163,
+      "valid": 2000
+     },
+     "kappa": 0.7560975609756098,
+     "kappa_exact": "31/41",
+     "n": 120
+    },
+    "use": {
+     "ac1": 0.8552259413665062,
+     "agree": 105,
+     "agreement": 0.875,
+     "counts": {
+      "evidence / evidence": 18,
+      "evidence / none": 8,
+      "evidence / restatement": 1,
+      "none / evidence": 4,
+      "none / none": 82,
+      "none / restatement": 1,
+      "restatement / evidence": 1,
+      "restatement / restatement": 5
+     },
+     "interval": {
+      "hi": 0.8252957233848953,
+      "lo": 0.5385460538362937,
+      "valid": 2000
+     },
+     "kappa": 0.6952767902488572,
+     "kappa_exact": "1369/1969",
+     "n": 120
+    }
+   },
+   "the 60 linked rows": {
+    "bounded": {
+     "ac1": 1.0,
+     "agree": 60,
+     "agreement": 1.0,
+     "counts": {
+      "no / no": 60
+     },
+     "interval": null,
+     "kappa": null,
+     "kappa_exact": null,
+     "n": 60
+    },
+    "condition": {
+     "ac1": 0.8309991393474689,
+     "agree": 51,
+     "agreement": 0.85,
+     "counts": {
+      "absent / absent": 1,
+      "not shown / absent": 2,
+      "not shown / not shown": 48,
+      "not shown / present": 5,
+      "present / not shown": 2,
+      "present / present": 2
+     },
+     "interval": {
+      "hi": 0.6518375241779497,
+      "lo": -0.04529616724738676,
+      "valid": 2000
+     },
+     "kappa": 0.34065934065934067,
+     "kappa_exact": "31/91",
+     "n": 60
+    },
+    "condition_named": {
+     "ac1": 0.909433962264151,
+     "agree": 55,
+     "agreement": 0.9166666666666666,
+     "counts": {
+      "no / no": 55,
+      "no / yes": 2,
+      "yes / no": 3
+     },
+     "interval": {
+      "hi": 0.0,
+      "lo": -0.08,
+      "valid": 1987
+     },
+     "kappa": -0.041666666666666664,
+     "kappa_exact": "-1/24",
+     "n": 60
+    },
+    "condition_with_named": {
+     "ac1": 0.8232109314574049,
+     "agree": 50,
+     "agreement": 0.8333333333333334,
+     "counts": {
+      "absent / absent": 1,
+      "not shown / absent": 2,
+      "not shown / not shown": 48,
+      "not shown / present": 3,
+      "not shown / present, named": 2,
+      "present / present": 1,
+      "present, named / not shown": 2,
+      "present, named / present": 1
+     },
+     "interval": {
+      "hi": 0.5577395577395577,
+      "lo": -0.034482758620689655,
+      "valid": 2000
+     },
+     "kappa": 0.2822966507177033,
+     "kappa_exact": "59/209",
+     "n": 60
+    },
+    "kind": {
+     "ac1": 0.9528857479387515,
+     "agree": 58,
+     "agreement": 0.9666666666666667,
+     "counts": {
+      "pattern / pattern": 26,
+      "pattern / report": 2,
+      "reading / reading": 6,
+      "report / report": 26
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 0.8541565386485173,
+      "valid": 2000
+     },
+     "kappa": 0.9430740037950665,
+     "kappa_exact": "497/527",
+     "n": 60
+    },
+    "other_cause": {
+     "ac1": 0.9830532410676458,
+     "agree": 59,
+     "agreement": 0.9833333333333333,
+     "counts": {
+      "no / no": 59,
+      "no / yes": 1
+     },
+     "interval": {
+      "hi": 0.0,
+      "lo": 0.0,
+      "valid": 1256
+     },
+     "kappa": 0.0,
+     "kappa_exact": "0",
+     "n": 60
+    },
+    "outcome": {
+     "ac1": 0.8221783156334898,
+     "agree": 51,
+     "agreement": 0.85,
+     "counts": {
+      "as asserted / as asserted": 7,
+      "as asserted / not shown": 3,
+      "not shown / as asserted": 5,
+      "not shown / not shown": 44,
+      "not shown / other way": 1
+     },
+     "interval": {
+      "hi": 0.7773654916512059,
+      "lo": 0.22727272727272727,
+      "valid": 2000
+     },
+     "kappa": 0.5221238938053098,
+     "kappa_exact": "59/113",
+     "n": 60
+    },
+    "outcome_named": {
+     "ac1": 0.9238578680203046,
+     "agree": 56,
+     "agreement": 0.9333333333333333,
+     "counts": {
+      "no / no": 54,
+      "no / yes": 1,
+      "yes / no": 3,
+      "yes / yes": 2
+     },
+     "interval": {
+      "hi": 0.88,
+      "lo": -0.034482758620689655,
+      "valid": 1997
+     },
+     "kappa": 0.4666666666666667,
+     "kappa_exact": "7/15",
+     "n": 60
+    },
+    "outcome_with_named": {
+     "ac1": 0.8184225458672215,
+     "agree": 50,
+     "agreement": 0.8333333333333334,
+     "counts": {
+      "as asserted / as asserted": 4,
+      "as asserted / not shown": 1,
+      "as asserted, named / as asserted": 1,
+      "as asserted, named / as asserted, named": 2,
+      "as asserted, named / not shown": 2,
+      "not shown / as asserted": 4,
+      "not shown / as asserted, named": 1,
+      "not shown / not shown": 44,
+      "not shown / other way": 1
+     },
+     "interval": {
+      "hi": 0.7371303395399781,
+      "lo": 0.20374707259953162,
+      "valid": 2000
+     },
+     "kappa": 0.4957983193277311,
+     "kappa_exact": "59/119",
+     "n": 60
+    },
+    "statement": {
+     "ac1": 0.938027199173696,
+     "agree": 57,
+     "agreement": 0.95,
+     "counts": {
+      "no / no": 52,
+      "no / yes": 2,
+      "yes / no": 1,
+      "yes / yes": 5
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 0.34782608695652173,
+      "valid": 1999
+     },
+     "kappa": 0.7413793103448276,
+     "kappa_exact": "43/58",
+     "n": 60
+    },
+    "use": {
+     "ac1": 0.7112905997594088,
+     "agree": 46,
+     "agreement": 0.7666666666666667,
+     "counts": {
+      "evidence / evidence": 15,
+      "evidence / none": 7,
+      "evidence / restatement": 1,
+      "none / evidence": 4,
+      "none / none": 26,
+      "none / restatement": 1,
+      "restatement / evidence": 1,
+      "restatement / restatement": 5
+     },
+     "interval": {
+      "hi": 0.7567567567567568,
+      "lo": 0.38643702906350913,
+      "valid": 2000
+     },
+     "kappa": 0.5951807228915663,
+     "kappa_exact": "247/415",
+     "n": 60
+    }
+   }
+  },
+  "figure_and_cell_fragments": {
+   "fragments": [
+    "F30",
+    "F31",
+    "F32",
+    "F33",
+    "F34",
+    "F88",
+    "F109"
+   ],
+   "rows_of_the_120": 7
+  },
+  "links": {
+   "all 120 rows": {
+    "author_link": {
+     "ac1": 0.8259067357512954,
+     "agree": 106,
+     "agreement": 0.8833333333333333,
+     "counts": {
+      "no / no": 88,
+      "no / yes": 5,
+      "yes / no": 9,
+      "yes / yes": 18
+     },
+     "interval": {
+      "hi": 0.804028307022319,
+      "lo": 0.45255474452554745,
+      "valid": 2000
+     },
+     "kappa": 0.6469104665825978,
+     "kappa_exact": "513/793",
+     "n": 120
+    },
+    "code": {
+     "ac1": 0.8112995619454116,
+     "agree": 99,
+     "agreement": 0.825,
+     "counts": {
+      "illustrates / illustrates": 7,
+      "illustrates / no link": 1,
+      "no link / illustrates": 10,
+      "no link / no link": 90,
+      "no link / with": 7,
+      "with / illustrates": 1,
+      "with / no link": 2,
+      "with / with": 2
+     },
+     "interval": {
+      "hi": 0.5970695970695971,
+      "lo": 0.19289749798224373,
+      "valid": 2000
+     },
+     "kappa": 0.4084507042253521,
+     "kappa_exact": "29/71",
+     "n": 120
+    },
+    "code3": {
+     "ac1": 0.9118230582702623,
+     "agree": 110,
+     "agreement": 0.9166666666666666,
+     "counts": {
+      "neither / neither": 108,
+      "neither / with": 7,
+      "with / neither": 3,
+      "with / with": 2
+     },
+     "interval": {
+      "hi": 0.5569620253164557,
+      "lo": -0.047619047619047616,
+      "valid": 2000
+     },
+     "kappa": 0.24528301886792453,
+     "kappa_exact": "13/53",
+     "n": 120
+    },
+    "evidence_link": {
+     "ac1": 0.7692307692307693,
+     "agree": 100,
+     "agreement": 0.8333333333333334,
+     "counts": {
+      "no / no": 90,
+      "no / yes": 17,
+      "yes / no": 3,
+      "yes / yes": 10
+     },
+     "interval": {
+      "hi": 0.6097560975609756,
+      "lo": 0.19080919080919082,
+      "valid": 2000
+     },
+     "kappa": 0.4143484626647145,
+     "kappa_exact": "283/683",
+     "n": 120
+    }
+   },
+   "the 120 rows with the marker-source rows": {
+    "author_link": {
+     "ac1": 0.8190045248868778,
+     "agree": 114,
+     "agreement": 0.8769230769230769,
+     "counts": {
+      "no / no": 96,
+      "no / yes": 5,
+      "yes / no": 11,
+      "yes / yes": 18
+     },
+     "interval": {
+      "hi": 0.7747400847131305,
+      "lo": 0.4262295081967213,
+      "valid": 2000
+     },
+     "kappa": 0.6166605234058238,
+     "kappa_exact": "1673/2713",
+     "n": 130
+    },
+    "code": {
+     "ac1": 0.8073127703622552,
+     "agree": 107,
+     "agreement": 0.823076923076923,
+     "counts": {
+      "illustrates / illustrates": 10,
+      "illustrates / no link": 2,
+      "no link / illustrates": 10,
+      "no link / no link": 94,
+      "no link / with": 7,
+      "with / illustrates": 1,
+      "with / no link": 3,
+      "with / with": 3
+     },
+     "interval": {
+      "hi": 0.6347107438016529,
+      "lo": 0.2758467023172905,
+      "valid": 2000
+     },
+     "kappa": 0.46502057613168724,
+     "kappa_exact": "113/243",
+     "n": 130
+    },
+    "code3": {
+     "ac1": 0.9098772629157541,
+     "agree": 119,
+     "agreement": 0.9153846153846154,
+     "counts": {
+      "neither / neither": 116,
+      "neither / with": 7,
+      "with / neither": 4,
+      "with / with": 3
+     },
+     "interval": {
+      "hi": 0.6027501909854851,
+      "lo": -0.035398230088495575,
+      "valid": 2000
+     },
+     "kappa": 0.30917874396135264,
+     "kappa_exact": "64/207",
+     "n": 130
+    },
+    "evidence_link": {
+     "ac1": 0.7545064377682403,
+     "agree": 108,
+     "agreement": 0.8307692307692308,
+     "counts": {
+      "no / no": 94,
+      "no / yes": 17,
+      "yes / no": 5,
+      "yes / yes": 14
+     },
+     "interval": {
+      "hi": 0.6428571428571429,
+      "lo": 0.2616104243234213,
+      "valid": 2000
+     },
+     "kappa": 0.46260804208944006,
+     "kappa_exact": "1231/2661",
+     "n": 130
+    }
+   },
+   "the 120 rows without those on a figure or a table cell": {
+    "author_link": {
+     "ac1": 0.8284379562043795,
+     "agree": 100,
+     "agreement": 0.8849557522123894,
+     "counts": {
+      "no / no": 83,
+      "no / yes": 4,
+      "yes / no": 9,
+      "yes / yes": 17
+     },
+     "interval": {
+      "hi": 0.8126726837354946,
+      "lo": 0.4474327628361858,
+      "valid": 2000
+     },
+     "kappa": 0.6518132258829107,
+     "kappa_exact": "2750/4219",
+     "n": 113
+    },
+    "code": {
+     "ac1": 0.7995269071555293,
+     "agree": 92,
+     "agreement": 0.8141592920353983,
+     "counts": {
+      "illustrates / illustrates": 7,
+      "illustrates / no link": 1,
+      "no link / illustrates": 10,
+      "no link / no link": 84,
+      "no link / with": 7,
+      "with / illustrates": 1,
+      "with / no link": 2,
+      "with / with": 1
+     },
+     "interval": {
+      "hi": 0.5591319190441356,
+      "lo": 0.1669124152167502,
+      "valid": 2000
+     },
+     "kappa": 0.3765107724645297,
+     "kappa_exact": "1433/3806",
+     "n": 113
+    },
+    "code3": {
+     "ac1": 0.9068194936917622,
+     "agree": 103,
+     "agreement": 0.911504424778761,
+     "counts": {
+      "neither / neither": 102,
+      "neither / with": 7,
+      "with / neither": 3,
+      "with / with": 1
+     },
+     "interval": {
+      "hi": 0.4240570846075433,
+      "lo": -0.06032171581769437,
+      "valid": 2000
+     },
+     "kappa": 0.12538699690402477,
+     "kappa_exact": "81/646",
+     "n": 113
+    },
+    "evidence_link": {
+     "ac1": 0.7542676959878221,
+     "agree": 93,
+     "agreement": 0.8230088495575221,
+     "counts": {
+      "no / no": 84,
+      "no / yes": 17,
+      "yes / no": 3,
+      "yes / yes": 9
+     },
+     "interval": {
+      "hi": 0.5782532968400099,
+      "lo": 0.16210687803630786,
+      "valid": 2000
+     },
+     "kappa": 0.38419618528610355,
+     "kappa_exact": "141/367",
+     "n": 113
+    }
+   },
+   "the 120 rows without those on the 29 author's-account fragments": {
+    "author_link": {
+     "ac1": 0.7563641593556738,
+     "agree": 66,
+     "agreement": 0.8571428571428571,
+     "counts": {
+      "no / no": 49,
+      "no / yes": 4,
+      "yes / no": 7,
+      "yes / yes": 17
+     },
+     "interval": {
+      "hi": 0.825923134890731,
+      "lo": 0.44930584770719395,
+      "valid": 2000
+     },
+     "kappa": 0.6552706552706553,
+     "kappa_exact": "230/351",
+     "n": 77
+    },
+    "code": {
+     "ac1": 0.819672131147541,
+     "agree": 64,
+     "agreement": 0.8311688311688312,
+     "counts": {
+      "illustrates / illustrates": 2,
+      "no link / illustrates": 7,
+      "no link / no link": 60,
+      "no link / with": 5,
+      "with / illustrates": 1,
+      "with / with": 2
+     },
+     "interval": {
+      "hi": 0.5971223021582733,
+      "lo": 0.10613598673300166,
+      "valid": 2000
+     },
+     "kappa": 0.36160714285714285,
+     "kappa_exact": "81/224",
+     "n": 77
+    },
+    "code3": {
+     "ac1": 0.9170407613575148,
+     "agree": 71,
+     "agreement": 0.922077922077922,
+     "counts": {
+      "neither / neither": 69,
+      "neither / with": 5,
+      "with / neither": 1,
+      "with / with": 2
+     },
+     "interval": {
+      "hi": 0.7363013698630136,
+      "lo": -0.038535645472061654,
+      "valid": 2000
+     },
+     "kappa": 0.36538461538461536,
+     "kappa_exact": "19/52",
+     "n": 77
+    },
+    "evidence_link": {
+     "ac1": 0.7936117936117936,
+     "agree": 65,
+     "agreement": 0.8441558441558441,
+     "counts": {
+      "no / no": 60,
+      "no / yes": 12,
+      "yes / yes": 5
+     },
+     "interval": {
+      "hi": 0.6479425212279556,
+      "lo": 0.11180124223602485,
+      "valid": 2000
+     },
+     "kappa": 0.3937007874015748,
+     "kappa_exact": "50/127",
+     "n": 77
+    }
+   },
+   "the 60 linked rows": {
+    "author_link": {
+     "ac1": 0.5988686037541785,
+     "agree": 47,
+     "agreement": 0.7833333333333333,
+     "counts": {
+      "no / no": 32,
+      "no / yes": 5,
+      "yes / no": 8,
+      "yes / yes": 15
+     },
+     "interval": {
+      "hi": 0.7265625,
+      "lo": 0.2892768079800499,
+      "valid": 2000
+     },
+     "kappa": 0.5301204819277109,
+     "kappa_exact": "44/83",
+     "n": 60
+    },
+    "code": {
+     "ac1": 0.8009350022621022,
+     "agree": 49,
+     "agreement": 0.8166666666666667,
+     "counts": {
+      "illustrates / illustrates": 3,
+      "no link / illustrates": 5,
+      "no link / no link": 44,
+      "no link / with": 4,
+      "with / illustrates": 1,
+      "with / no link": 1,
+      "with / with": 2
+     },
+     "interval": {
+      "hi": 0.6798780487804879,
+      "lo": 0.15562913907284767,
+      "valid": 2000
+     },
+     "kappa": 0.4329896907216495,
+     "kappa_exact": "42/97",
+     "n": 60
+    },
+    "code3": {
+     "ac1": 0.8917293233082707,
+     "agree": 54,
+     "agreement": 0.9,
+     "counts": {
+      "neither / neither": 52,
+      "neither / with": 4,
+      "with / neither": 2,
+      "with / with": 2
+     },
+     "interval": {
+      "hi": 0.7333333333333333,
+      "lo": -0.06060606060606061,
+      "valid": 2000
+     },
+     "kappa": 0.34782608695652173,
+     "kappa_exact": "8/23",
+     "n": 60
+    },
+    "evidence_link": {
+     "ac1": 0.7620935765265662,
+     "agree": 50,
+     "agreement": 0.8333333333333334,
+     "counts": {
+      "no / no": 44,
+      "no / yes": 9,
+      "yes / no": 1,
+      "yes / yes": 6
+     },
+     "interval": {
+      "hi": 0.7126436781609196,
+      "lo": 0.16521739130434782,
+      "valid": 2000
+     },
+     "kappa": 0.4594594594594595,
+     "kappa_exact": "17/37",
+     "n": 60
+    }
+   },
+   "the 60 near rows": {
+    "author_link": {
+     "ac1": 0.9812763301607115,
+     "agree": 59,
+     "agreement": 0.9833333333333333,
+     "counts": {
+      "no / no": 56,
+      "yes / no": 1,
+      "yes / yes": 3
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 0.0,
+      "valid": 1970
+     },
+     "kappa": 0.8484848484848485,
+     "kappa_exact": "28/33",
+     "n": 60
+    },
+    "code": {
+     "ac1": 0.8216143897725583,
+     "agree": 50,
+     "agreement": 0.8333333333333334,
+     "counts": {
+      "illustrates / illustrates": 4,
+      "illustrates / no link": 1,
+      "no link / illustrates": 5,
+      "no link / no link": 46,
+      "no link / with": 3,
+      "with / no link": 1
+     },
+     "interval": {
+      "hi": 0.6610169491525424,
+      "lo": 0.06832298136645963,
+      "valid": 2000
+     },
+     "kappa": 0.375,
+     "kappa_exact": "3/8",
+     "n": 60
+    },
+    "code3": {
+     "ac1": 0.931113662456946,
+     "agree": 56,
+     "agreement": 0.9333333333333333,
+     "counts": {
+      "neither / neither": 56,
+      "neither / with": 3,
+      "with / neither": 1
+     },
+     "interval": {
+      "hi": 0.0,
+      "lo": -0.06060606060606061,
+      "valid": 1964
+     },
+     "kappa": -0.02564102564102564,
+     "kappa_exact": "-1/39",
+     "n": 60
+    },
+    "evidence_link": {
+     "ac1": 0.7762863534675615,
+     "agree": 50,
+     "agreement": 0.8333333333333334,
+     "counts": {
+      "no / no": 46,
+      "no / yes": 8,
+      "yes / no": 2,
+      "yes / yes": 4
+     },
+     "interval": {
+      "hi": 0.6575342465753424,
+      "lo": 0.05263157894736842,
+      "valid": 2000
+     },
+     "kappa": 0.358974358974359,
+     "kappa_exact": "14/39",
+     "n": 60
+    }
+   },
+   "the rows on a figure or a table cell": {
+    "author_link": {
+     "ac1": 0.7846153846153846,
+     "agree": 6,
+     "agreement": 0.8571428571428571,
+     "counts": {
+      "no / no": 5,
+      "no / yes": 1,
+      "yes / yes": 1
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 0.0,
+      "valid": 1771
+     },
+     "kappa": 0.5882352941176471,
+     "kappa_exact": "10/17",
+     "n": 7
+    },
+    "code": {
+     "ac1": 1.0,
+     "agree": 7,
+     "agreement": 1.0,
+     "counts": {
+      "no link / no link": 6,
+      "with / with": 1
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 1.0,
+      "valid": 1337
+     },
+     "kappa": 1.0,
+     "kappa_exact": "1",
+     "n": 7
+    },
+    "code3": {
+     "ac1": 1.0,
+     "agree": 7,
+     "agreement": 1.0,
+     "counts": {
+      "neither / neither": 6,
+      "with / with": 1
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 1.0,
+      "valid": 1337
+     },
+     "kappa": 1.0,
+     "kappa_exact": "1",
+     "n": 7
+    },
+    "evidence_link": {
+     "ac1": 1.0,
+     "agree": 7,
+     "agreement": 1.0,
+     "counts": {
+      "no / no": 6,
+      "yes / yes": 1
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 1.0,
+      "valid": 1337
+     },
+     "kappa": 1.0,
+     "kappa_exact": "1",
+     "n": 7
+    }
+   },
+   "the rows on the 29 author's-account fragments": {
+    "author_link": {
+     "ac1": 0.9216519890677194,
+     "agree": 40,
+     "agreement": 0.9302325581395349,
+     "counts": {
+      "no / no": 39,
+      "no / yes": 1,
+      "yes / no": 2,
+      "yes / yes": 1
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": -0.059113300492610835,
+      "valid": 1967
+     },
+     "kappa": 0.3645320197044335,
+     "kappa_exact": "74/203",
+     "n": 43
+    },
+    "code": {
+     "ac1": 0.7963291888691534,
+     "agree": 35,
+     "agreement": 0.813953488372093,
+     "counts": {
+      "illustrates / illustrates": 5,
+      "illustrates / no link": 1,
+      "no link / illustrates": 3,
+      "no link / no link": 30,
+      "no link / with": 2,
+      "with / no link": 2
+     },
+     "interval": {
+      "hi": 0.7470588235294118,
+      "lo": 0.1126984126984127,
+      "valid": 2000
+     },
+     "kappa": 0.46417445482866043,
+     "kappa_exact": "149/321",
+     "n": 43
+    },
+    "code3": {
+     "ac1": 0.9026598754951896,
+     "agree": 39,
+     "agreement": 0.9069767441860465,
+     "counts": {
+      "neither / neither": 39,
+      "neither / with": 2,
+      "with / neither": 2
+     },
+     "interval": {
+      "hi": 0.0,
+      "lo": -0.09554140127388536,
+      "valid": 1970
+     },
+     "kappa": -0.04878048780487805,
+     "kappa_exact": "-2/41",
+     "n": 43
+    },
+    "evidence_link": {
+     "ac1": 0.7219078415521423,
+     "agree": 35,
+     "agreement": 0.813953488372093,
+     "counts": {
+      "no / no": 30,
+      "no / yes": 5,
+      "yes / no": 3,
+      "yes / yes": 5
+     },
+     "interval": {
+      "hi": 0.7401812688821753,
+      "lo": 0.08185053380782918,
+      "valid": 2000
+     },
+     "kappa": 0.43973941368078173,
+     "kappa_exact": "135/307",
+     "n": 43
+    }
+   }
+  },
+  "marker_source_rows": [
+   {
+    "coder_1": "no link",
+    "coder_2": "no link",
+    "pair": [
+     "F18",
+     "C02"
+    ],
+    "row": "R012",
+    "stratum": "source_near"
+   },
+   {
+    "coder_1": "illustrates",
+    "coder_2": "illustrates",
+    "pair": [
+     "F86",
+     "C06"
+    ],
+    "row": "R017",
+    "stratum": "source_near"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "no link",
+    "pair": [
+     "F78",
+     "C25"
+    ],
+    "row": "R020",
+    "stratum": "source_linked"
+   },
+   {
+    "coder_1": "illustrates",
+    "coder_2": "no link",
+    "pair": [
+     "F49",
+     "C19"
+    ],
+    "row": "R022",
+    "stratum": "source_linked"
+   },
+   {
+    "coder_1": "with",
+    "coder_2": "with",
+    "pair": [
+     "F89",
+     "C03"
+    ],
+    "row": "R091",
+    "stratum": "source_near"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "no link",
+    "pair": [
+     "F77",
+     "C24"
+    ],
+    "row": "R096",
+    "stratum": "source_linked"
+   },
+   {
+    "coder_1": "illustrates",
+    "coder_2": "illustrates",
+    "pair": [
+     "F86",
+     "C41"
+    ],
+    "row": "R098",
+    "stratum": "source_near"
+   },
+   {
+    "coder_1": "with",
+    "coder_2": "no link",
+    "pair": [
+     "F107",
+     "C29"
+    ],
+    "row": "R109",
+    "stratum": "source_linked"
+   },
+   {
+    "coder_1": "illustrates",
+    "coder_2": "illustrates",
+    "pair": [
+     "F86",
+     "C32"
+    ],
+    "row": "R128",
+    "stratum": "source_linked"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "no link",
+    "pair": [
+     "F48",
+     "C18"
+    ],
+    "row": "R129",
+    "stratum": "source_linked"
+   }
+  ],
+  "named_absences": [
+   {
+    "code": "illustrates",
+    "code_with_names_not_counted": "illustrates",
+    "coder": 2,
+    "pair": [
+     "F99",
+     "C20"
+    ],
+    "row": "R097"
+   }
+  ],
+  "not_coded": [],
+  "row_sets": {
+   "all 120 rows": 120,
+   "the 120 rows with the marker-source rows": 130,
+   "the 120 rows without those on a figure or a table cell": 113,
+   "the 120 rows without those on the 29 author's-account fragments": 77,
+   "the 60 linked rows": 60,
+   "the 60 near rows": 60,
+   "the rows on a figure or a table cell": 7,
+   "the rows on the 29 author's-account fragments": 43
+  },
+  "sides_no_marker_can_show": {
+   "claims": {
+    "C16": {
+     "no_mapping_given": [],
+     "no_marker": [
+      "o"
+     ]
+    },
+    "C30": {
+     "no_mapping_given": [],
+     "no_marker": [
+      "o"
+     ]
+    },
+    "C32": {
+     "no_mapping_given": [],
+     "no_marker": [
+      "o"
+     ]
+    },
+    "C33": {
+     "no_mapping_given": [],
+     "no_marker": [
+      "o"
+     ]
+    },
+    "C36": {
+     "no_mapping_given": [],
+     "no_marker": [
+      "o"
+     ]
+    },
+    "C38": {
+     "no_mapping_given": [],
+     "no_marker": [
+      "o"
+     ]
+    },
+    "C39": {
+     "no_mapping_given": [],
+     "no_marker": [
+      "o"
+     ]
+    },
+    "C40": {
+     "no_mapping_given": [],
+     "no_marker": [
+      "c",
+      "o"
+     ]
+    },
+    "C41": {
+     "no_mapping_given": [],
+     "no_marker": [
+      "o"
+     ]
+    },
+    "C43": {
+     "no_mapping_given": [],
+     "no_marker": [
+      "o"
+     ]
+    },
+    "C44": {
+     "no_mapping_given": [],
+     "no_marker": [
+      "c"
+     ]
+    },
+    "C45": {
+     "no_mapping_given": [],
+     "no_marker": [
+      "c",
+      "o"
+     ]
+    },
+    "C46": {
+     "no_mapping_given": [],
+     "no_marker": [
+      "o"
+     ]
+    },
+    "C47": {
+     "no_mapping_given": [],
+     "no_marker": [
+      "o"
+     ]
+    },
+    "C49": {
+     "no_mapping_given": [],
+     "no_marker": [
+      "o"
+     ]
+    },
+    "C50": {
+     "no_mapping_given": [],
+     "no_marker": [
+      "c",
+      "o"
+     ]
+    },
+    "C52": {
+     "no_mapping_given": [],
+     "no_marker": [
+      "c",
+      "o"
+     ]
+    }
+   },
+   "links": {
+    "author_link": {
+     "ac1": 0.7815317286652079,
+     "agree": 83,
+     "agreement": 0.8645833333333334,
+     "counts": {
+      "no / no": 65,
+      "no / yes": 5,
+      "yes / no": 8,
+      "yes / yes": 18
+     },
+     "interval": {
+      "hi": 0.8028169014084507,
+      "lo": 0.4594594594594595,
+      "valid": 2000
+     },
+     "kappa": 0.6442417331812998,
+     "kappa_exact": "565/877",
+     "n": 96
+    },
+    "code3": {
+     "ac1": 0.8882811590829746,
+     "agree": 86,
+     "agreement": 0.8958333333333334,
+     "counts": {
+      "neither / neither": 84,
+      "neither / with": 7,
+      "with / neither": 3,
+      "with / with": 2
+     },
+     "interval": {
+      "hi": 0.5534883720930233,
+      "lo": -0.061224489795918366,
+      "valid": 2000
+     },
+     "kappa": 0.23444976076555024,
+     "kappa_exact": "49/209",
+     "n": 96
+    },
+    "evidence_link": {
+     "ac1": 0.7338197738051806,
+     "agree": 77,
+     "agreement": 0.8020833333333334,
+     "counts": {
+      "no / no": 72,
+      "no / yes": 16,
+      "yes / no": 3,
+      "yes / yes": 5
+     },
+     "interval": {
+      "hi": 0.4782608695652174,
+      "lo": 0.029787234042553193,
+      "valid": 2000
+     },
+     "kappa": 0.2549019607843137,
+     "kappa_exact": "13/51",
+     "n": 96
+    }
+   },
+   "links_on_those_rows": {
+    "author_link": {
+     "ac1": 0.9565610859728507,
+     "agree": 23,
+     "agreement": 0.9583333333333334,
+     "counts": {
+      "no / no": 23,
+      "yes / no": 1
+     },
+     "interval": {
+      "hi": 0.0,
+      "lo": 0.0,
+      "valid": 1288
+     },
+     "kappa": 0.0,
+     "kappa_exact": "0",
+     "n": 24
+    },
+    "code3": {
+     "ac1": 1.0,
+     "agree": 24,
+     "agreement": 1.0,
+     "counts": {
+      "neither / neither": 24
+     },
+     "interval": null,
+     "kappa": null,
+     "kappa_exact": null,
+     "n": 24
+    },
+    "evidence_link": {
+     "ac1": 0.9355704697986578,
+     "agree": 23,
+     "agreement": 0.9583333333333334,
+     "counts": {
+      "no / no": 18,
+      "no / yes": 1,
+      "yes / yes": 5
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 0.6,
+      "valid": 1996
+     },
+     "kappa": 0.8823529411764706,
+     "kappa_exact": "15/17",
+     "n": 24
+    }
+   },
+   "rows_of_the_120": 24,
+   "shown_without_a_name": []
+  },
+  "tagged": {
+   "claims": [
+    "C02",
+    "C12",
+    "C13",
+    "C20",
+    "C28",
+    "C29"
+   ],
+   "coded_by_both": 28,
+   "lists": [
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F18",
+      "C02"
+     ],
+     "row": "R012",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F52",
+      "C12"
+     ],
+     "row": "R013",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F53",
+      "C29"
+     ],
+     "row": "R016",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F95",
+      "C13"
+     ],
+     "row": "R037",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F105",
+      "C29"
+     ],
+     "row": "R039",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F33",
+      "C13"
+     ],
+     "row": "R042",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F104",
+      "C29"
+     ],
+     "row": "R044",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F109",
+      "C12"
+     ],
+     "row": "R045",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F83",
+      "C20"
+     ],
+     "row": "R049",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F109",
+      "C02"
+     ],
+     "row": "R054",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F93",
+      "C20"
+     ],
+     "row": "R058",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F12",
+      "C20"
+     ],
+     "row": "R062",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F56",
+      "C20"
+     ],
+     "row": "R065",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F40",
+      "C12"
+     ],
+     "row": "R068",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F96",
+      "C28"
+     ],
+     "row": "R080",
+     "same": true
+    },
+    {
+     "coder_1": [
+      "c2"
+     ],
+     "coder_2": [
+      "c2"
+     ],
+     "pair": [
+      "F58",
+      "C20"
+     ],
+     "row": "R082",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F61",
+      "C20"
+     ],
+     "row": "R083",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [
+      "c2"
+     ],
+     "pair": [
+      "F35",
+      "C13"
+     ],
+     "row": "R084",
+     "same": false
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F10",
+      "C20"
+     ],
+     "row": "R094",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F99",
+      "C20"
+     ],
+     "row": "R097",
+     "same": true
+    },
+    {
+     "coder_1": [
+      "c3"
+     ],
+     "coder_2": [],
+     "pair": [
+      "F73",
+      "C20"
+     ],
+     "row": "R104",
+     "same": false
+    },
+    {
+     "coder_1": [
+      "c1"
+     ],
+     "coder_2": [
+      "c1"
+     ],
+     "pair": [
+      "F107",
+      "C29"
+     ],
+     "row": "R109",
+     "same": true
+    },
+    {
+     "coder_1": [
+      "c3"
+     ],
+     "coder_2": [
+      "c3"
+     ],
+     "pair": [
+      "F64",
+      "C20"
+     ],
+     "row": "R111",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F29",
+      "C13"
+     ],
+     "row": "R113",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F51",
+      "C12"
+     ],
+     "row": "R114",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F109",
+      "C29"
+     ],
+     "row": "R117",
+     "same": true
+    },
+    {
+     "coder_1": [],
+     "coder_2": [],
+     "pair": [
+      "F101",
+      "C29"
+     ],
+     "row": "R140",
+     "same": true
+    },
+    {
+     "coder_1": [
+      "c4"
+     ],
+     "coder_2": [],
+     "pair": [
+      "F72",
+      "C20"
+     ],
+     "row": "R142",
+     "same": false
+    }
+   ],
+   "no_working_marker": [],
+   "resting_on_carried_out_only": [
+    {
+     "code": "no link",
+     "code_with_carried_out_counted": "illustrates",
+     "coder": 1,
+     "pair": [
+      "F58",
+      "C20"
+     ],
+     "row": "R082"
+    },
+    {
+     "code": "no link",
+     "code_with_carried_out_counted": "no link",
+     "coder": 1,
+     "pair": [
+      "F73",
+      "C20"
+     ],
+     "row": "R104"
+    },
+    {
+     "code": "no link",
+     "code_with_carried_out_counted": "illustrates",
+     "coder": 1,
+     "pair": [
+      "F64",
+      "C20"
+     ],
+     "row": "R111"
+    },
+    {
+     "code": "no link",
+     "code_with_carried_out_counted": "illustrates",
+     "coder": 1,
+     "pair": [
+      "F72",
+      "C20"
+     ],
+     "row": "R142"
+    },
+    {
+     "code": "no link",
+     "code_with_carried_out_counted": "illustrates",
+     "coder": 2,
+     "pair": [
+      "F58",
+      "C20"
+     ],
+     "row": "R082"
+    },
+    {
+     "code": "no link",
+     "code_with_carried_out_counted": "illustrates",
+     "coder": 2,
+     "pair": [
+      "F35",
+      "C13"
+     ],
+     "row": "R084"
+    },
+    {
+     "code": "no link",
+     "code_with_carried_out_counted": "illustrates",
+     "coder": 2,
+     "pair": [
+      "F64",
+      "C20"
+     ],
+     "row": "R111"
+    }
+   ],
+   "rows": 28,
+   "same_list": 25
+  },
+  "ways": [
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8112995619454116,
+      "agree": 99,
+      "agreement": 0.825,
+      "counts": {
+       "illustrates / illustrates": 7,
+       "illustrates / no link": 1,
+       "no link / illustrates": 10,
+       "no link / no link": 90,
+       "no link / with": 7,
+       "with / illustrates": 1,
+       "with / no link": 2,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.5970695970695971,
+       "lo": 0.19289749798224373,
+       "valid": 2000
+      },
+      "kappa": 0.4084507042253521,
+      "kappa_exact": "29/71",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9118230582702623,
+      "agree": 110,
+      "agreement": 0.9166666666666666,
+      "counts": {
+       "neither / neither": 108,
+       "neither / with": 7,
+       "with / neither": 3,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.5569620253164557,
+       "lo": -0.047619047619047616,
+       "valid": 2000
+      },
+      "kappa": 0.24528301886792453,
+      "kappa_exact": "13/53",
+      "n": 120
+     },
+     "condition_3": "not passed",
+     "evidence_link": {
+      "ac1": 0.7692307692307693,
+      "agree": 100,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "no / no": 90,
+       "no / yes": 17,
+       "yes / no": 3,
+       "yes / yes": 10
+      },
+      "interval": {
+       "hi": 0.6097560975609756,
+       "lo": 0.19080919080919082,
+       "valid": 2000
+      },
+      "kappa": 0.4143484626647145,
+      "kappa_exact": "283/683",
+      "n": 120
+     },
+     "with": [
+      5,
+      9
+     ],
+     "with_outcome_only": [
+      5,
+      6
+     ]
+    },
+    "bar": true,
+    "hard": {
+     "agreed": 13,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8009350022621022,
+      "agree": 49,
+      "agreement": 0.8166666666666667,
+      "counts": {
+       "illustrates / illustrates": 3,
+       "no link / illustrates": 5,
+       "no link / no link": 44,
+       "no link / with": 4,
+       "with / illustrates": 1,
+       "with / no link": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.6798780487804879,
+       "lo": 0.15562913907284767,
+       "valid": 2000
+      },
+      "kappa": 0.4329896907216495,
+      "kappa_exact": "42/97",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.8917293233082707,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "neither / neither": 52,
+       "neither / with": 4,
+       "with / neither": 2,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.7333333333333333,
+       "lo": -0.06060606060606061,
+       "valid": 2000
+      },
+      "kappa": 0.34782608695652173,
+      "kappa_exact": "8/23",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.7620935765265662,
+      "agree": 50,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "no / no": 44,
+       "no / yes": 9,
+       "yes / no": 1,
+       "yes / yes": 6
+      },
+      "interval": {
+       "hi": 0.7126436781609196,
+       "lo": 0.16521739130434782,
+       "valid": 2000
+      },
+      "kappa": 0.4594594594594595,
+      "kappa_exact": "17/37",
+      "n": 60
+     },
+     "with": [
+      4,
+      6
+     ],
+     "with_outcome_only": [
+      4,
+      4
+     ]
+    },
+    "way": "main; names counted; patterns as reports; carried-out markers not counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8007377984923248,
+      "agree": 98,
+      "agreement": 0.8166666666666667,
+      "counts": {
+       "illustrates / illustrates": 9,
+       "illustrates / no link": 1,
+       "no link / illustrates": 11,
+       "no link / no link": 87,
+       "no link / with": 7,
+       "with / illustrates": 1,
+       "with / no link": 2,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.6141479099678456,
+       "lo": 0.24016282225237448,
+       "valid": 2000
+      },
+      "kappa": 0.43769968051118213,
+      "kappa_exact": "137/313",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9118230582702623,
+      "agree": 110,
+      "agreement": 0.9166666666666666,
+      "counts": {
+       "neither / neither": 108,
+       "neither / with": 7,
+       "with / neither": 3,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.5569620253164557,
+       "lo": -0.047619047619047616,
+       "valid": 2000
+      },
+      "kappa": 0.24528301886792453,
+      "kappa_exact": "13/53",
+      "n": 120
+     },
+     "condition_3": "not passed",
+     "evidence_link": {
+      "ac1": 0.748314606741573,
+      "agree": 99,
+      "agreement": 0.825,
+      "counts": {
+       "no / no": 87,
+       "no / yes": 18,
+       "yes / no": 3,
+       "yes / yes": 12
+      },
+      "interval": {
+       "hi": 0.6276595744680851,
+       "lo": 0.23295454545454544,
+       "valid": 2000
+      },
+      "kappa": 0.44,
+      "kappa_exact": "11/25",
+      "n": 120
+     },
+     "with": [
+      5,
+      9
+     ],
+     "with_outcome_only": [
+      5,
+      6
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 12,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.7807802093244529,
+      "agree": 48,
+      "agreement": 0.8,
+      "counts": {
+       "illustrates / illustrates": 4,
+       "no link / illustrates": 6,
+       "no link / no link": 42,
+       "no link / with": 4,
+       "with / illustrates": 1,
+       "with / no link": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.6721311475409836,
+       "lo": 0.18629550321199143,
+       "valid": 2000
+      },
+      "kappa": 0.4444444444444444,
+      "kappa_exact": "4/9",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.8917293233082707,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "neither / neither": 52,
+       "neither / with": 4,
+       "with / neither": 2,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.7333333333333333,
+       "lo": -0.06060606060606061,
+       "valid": 2000
+      },
+      "kappa": 0.34782608695652173,
+      "kappa_exact": "8/23",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.7264248704663212,
+      "agree": 49,
+      "agreement": 0.8166666666666667,
+      "counts": {
+       "no / no": 42,
+       "no / yes": 10,
+       "yes / no": 1,
+       "yes / yes": 7
+      },
+      "interval": {
+       "hi": 0.7073170731707317,
+       "lo": 0.1891891891891892,
+       "valid": 2000
+      },
+      "kappa": 0.46254071661237783,
+      "kappa_exact": "142/307",
+      "n": 60
+     },
+     "with": [
+      4,
+      6
+     ],
+     "with_outcome_only": [
+      4,
+      4
+     ]
+    },
+    "way": "main; names counted; patterns as reports; carried-out markers counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8965322124323013,
+      "agree": 108,
+      "agreement": 0.9,
+      "counts": {
+       "no link / illustrates": 6,
+       "no link / no link": 106,
+       "no link / with": 5,
+       "with / illustrates": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.5150115473441108,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.2716236722306525,
+      "kappa_exact": "179/659",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9479204339963834,
+      "agree": 114,
+      "agreement": 0.95,
+      "counts": {
+       "neither / neither": 112,
+       "neither / with": 5,
+       "with / neither": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.7419354838709677,
+       "lo": -0.022727272727272728,
+       "valid": 2000
+      },
+      "kappa": 0.37823834196891193,
+      "kappa_exact": "73/193",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.8944380023191651,
+      "agree": 109,
+      "agreement": 0.9083333333333333,
+      "counts": {
+       "no / no": 106,
+       "no / yes": 11,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.6045197740112994,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.32515337423312884,
+      "kappa_exact": "53/163",
+      "n": 120
+     },
+     "with": [
+      3,
+      7
+     ],
+     "with_outcome_only": [
+      3,
+      6
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 15,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.877693651718113,
+      "agree": 53,
+      "agreement": 0.8833333333333333,
+      "counts": {
+       "no link / illustrates": 3,
+       "no link / no link": 51,
+       "no link / with": 3,
+       "with / illustrates": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.7014925373134329,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.3805309734513274,
+      "kappa_exact": "43/113",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.9289099526066351,
+      "agree": 56,
+      "agreement": 0.9333333333333333,
+      "counts": {
+       "neither / neither": 54,
+       "neither / with": 3,
+       "with / neither": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.88,
+       "lo": -0.034482758620689655,
+       "valid": 1997
+      },
+      "kappa": 0.4666666666666667,
+      "kappa_exact": "7/15",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.8780487804878049,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "no / no": 51,
+       "no / yes": 6,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.782608695652174,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4594594594594595,
+      "kappa_exact": "17/37",
+      "n": 60
+     },
+     "with": [
+      3,
+      5
+     ],
+     "with_outcome_only": [
+      3,
+      4
+     ]
+    },
+    "way": "main; names counted; patterns as readings; carried-out markers counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8965322124323013,
+      "agree": 108,
+      "agreement": 0.9,
+      "counts": {
+       "no link / illustrates": 6,
+       "no link / no link": 106,
+       "no link / with": 5,
+       "with / illustrates": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.5150115473441108,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.2716236722306525,
+      "kappa_exact": "179/659",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9479204339963834,
+      "agree": 114,
+      "agreement": 0.95,
+      "counts": {
+       "neither / neither": 112,
+       "neither / with": 5,
+       "with / neither": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.7419354838709677,
+       "lo": -0.022727272727272728,
+       "valid": 2000
+      },
+      "kappa": 0.37823834196891193,
+      "kappa_exact": "73/193",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.8944380023191651,
+      "agree": 109,
+      "agreement": 0.9083333333333333,
+      "counts": {
+       "no / no": 106,
+       "no / yes": 11,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.6045197740112994,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.32515337423312884,
+      "kappa_exact": "53/163",
+      "n": 120
+     },
+     "with": [
+      3,
+      7
+     ],
+     "with_outcome_only": [
+      3,
+      6
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 15,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.877693651718113,
+      "agree": 53,
+      "agreement": 0.8833333333333333,
+      "counts": {
+       "no link / illustrates": 3,
+       "no link / no link": 51,
+       "no link / with": 3,
+       "with / illustrates": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.7014925373134329,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.3805309734513274,
+      "kappa_exact": "43/113",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.9289099526066351,
+      "agree": 56,
+      "agreement": 0.9333333333333333,
+      "counts": {
+       "neither / neither": 54,
+       "neither / with": 3,
+       "with / neither": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.88,
+       "lo": -0.034482758620689655,
+       "valid": 1997
+      },
+      "kappa": 0.4666666666666667,
+      "kappa_exact": "7/15",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.8780487804878049,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "no / no": 51,
+       "no / yes": 6,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.782608695652174,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4594594594594595,
+      "kappa_exact": "17/37",
+      "n": 60
+     },
+     "with": [
+      3,
+      5
+     ],
+     "with_outcome_only": [
+      3,
+      4
+     ]
+    },
+    "way": "main; names counted; patterns as readings; carried-out markers not counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8407387950341472,
+      "agree": 102,
+      "agreement": 0.85,
+      "counts": {
+       "illustrates / illustrates": 4,
+       "illustrates / no link": 1,
+       "no link / illustrates": 10,
+       "no link / no link": 96,
+       "no link / with": 4,
+       "with / illustrates": 1,
+       "with / no link": 2,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.5753946652150245,
+       "lo": 0.1383219954648526,
+       "valid": 2000
+      },
+      "kappa": 0.3656387665198238,
+      "kappa_exact": "83/227",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9389989288502387,
+      "agree": 113,
+      "agreement": 0.9416666666666667,
+      "counts": {
+       "neither / neither": 111,
+       "neither / with": 4,
+       "with / neither": 3,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.6730245231607629,
+       "lo": -0.034482758620689655,
+       "valid": 2000
+      },
+      "kappa": 0.3333333333333333,
+      "kappa_exact": "1/3",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.8172124904798173,
+      "agree": 103,
+      "agreement": 0.8583333333333333,
+      "counts": {
+       "no / no": 96,
+       "no / yes": 14,
+       "yes / no": 3,
+       "yes / yes": 7
+      },
+      "interval": {
+       "hi": 0.5996663886572143,
+       "lo": 0.14012738853503184,
+       "valid": 2000
+      },
+      "kappa": 0.38181818181818183,
+      "kappa_exact": "21/55",
+      "n": 120
+     },
+     "with": [
+      5,
+      6
+     ],
+     "with_outcome_only": [
+      5,
+      5
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 12,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8022545972060972,
+      "agree": 49,
+      "agreement": 0.8166666666666667,
+      "counts": {
+       "illustrates / illustrates": 2,
+       "no link / illustrates": 6,
+       "no link / no link": 45,
+       "no link / with": 3,
+       "with / illustrates": 1,
+       "with / no link": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.6354166666666666,
+       "lo": 0.1111111111111111,
+       "valid": 2000
+      },
+      "kappa": 0.3877551020408163,
+      "kappa_exact": "19/49",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.9104544436982315,
+      "agree": 55,
+      "agreement": 0.9166666666666666,
+      "counts": {
+       "neither / neither": 53,
+       "neither / with": 3,
+       "with / neither": 2,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.7916666666666666,
+       "lo": -0.05263157894736842,
+       "valid": 1999
+      },
+      "kappa": 0.4,
+      "kappa_exact": "2/5",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.7692307692307693,
+      "agree": 50,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "no / no": 45,
+       "no / yes": 9,
+       "yes / no": 1,
+       "yes / yes": 5
+      },
+      "interval": {
+       "hi": 0.68,
+       "lo": 0.1111111111111111,
+       "valid": 2000
+      },
+      "kappa": 0.4186046511627907,
+      "kappa_exact": "18/43",
+      "n": 60
+     },
+     "with": [
+      4,
+      5
+     ],
+     "with_outcome_only": [
+      4,
+      4
+     ]
+    },
+    "way": "main; names not counted; patterns as reports; carried-out markers counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8509194215819715,
+      "agree": 103,
+      "agreement": 0.8583333333333333,
+      "counts": {
+       "illustrates / illustrates": 2,
+       "illustrates / no link": 1,
+       "no link / illustrates": 9,
+       "no link / no link": 99,
+       "no link / with": 4,
+       "with / illustrates": 1,
+       "with / no link": 2,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.5229357798165137,
+       "lo": 0.06056860321384425,
+       "valid": 2000
+      },
+      "kappa": 0.29896907216494845,
+      "kappa_exact": "29/97",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9389989288502387,
+      "agree": 113,
+      "agreement": 0.9416666666666667,
+      "counts": {
+       "neither / neither": 111,
+       "neither / with": 4,
+       "with / neither": 3,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.6730245231607629,
+       "lo": -0.034482758620689655,
+       "valid": 2000
+      },
+      "kappa": 0.3333333333333333,
+      "kappa_exact": "1/3",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.8347391977965226,
+      "agree": 104,
+      "agreement": 0.8666666666666667,
+      "counts": {
+       "no / no": 99,
+       "no / yes": 13,
+       "yes / no": 3,
+       "yes / yes": 5
+      },
+      "interval": {
+       "hi": 0.55,
+       "lo": 0.06367041198501873,
+       "valid": 2000
+      },
+      "kappa": 0.3220338983050847,
+      "kappa_exact": "19/59",
+      "n": 120
+     },
+     "with": [
+      5,
+      6
+     ],
+     "with_outcome_only": [
+      5,
+      5
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 13,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8220706527782926,
+      "agree": 50,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "illustrates / illustrates": 1,
+       "no link / illustrates": 5,
+       "no link / no link": 47,
+       "no link / with": 3,
+       "with / illustrates": 1,
+       "with / no link": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.628099173553719,
+       "lo": 0.046538024971623154,
+       "valid": 2000
+      },
+      "kappa": 0.35691318327974275,
+      "kappa_exact": "111/311",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.9104544436982315,
+      "agree": 55,
+      "agreement": 0.9166666666666666,
+      "counts": {
+       "neither / neither": 53,
+       "neither / with": 3,
+       "with / neither": 2,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.7916666666666666,
+       "lo": -0.05263157894736842,
+       "valid": 1999
+      },
+      "kappa": 0.4,
+      "kappa_exact": "2/5",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.8017984951367223,
+      "agree": 51,
+      "agreement": 0.85,
+      "counts": {
+       "no / no": 47,
+       "no / yes": 8,
+       "yes / no": 1,
+       "yes / yes": 4
+      },
+      "interval": {
+       "hi": 0.6774193548387096,
+       "lo": 0.07079646017699115,
+       "valid": 2000
+      },
+      "kappa": 0.4,
+      "kappa_exact": "2/5",
+      "n": 60
+     },
+     "with": [
+      4,
+      5
+     ],
+     "with_outcome_only": [
+      4,
+      4
+     ]
+    },
+    "way": "main; names not counted; patterns as reports; carried-out markers not counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.922848876665357,
+      "agree": 111,
+      "agreement": 0.925,
+      "counts": {
+       "no link / illustrates": 5,
+       "no link / no link": 109,
+       "no link / with": 3,
+       "with / illustrates": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.6153846153846154,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.3382352941176471,
+      "kappa_exact": "23/68",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.965556831228473,
+      "agree": 116,
+      "agreement": 0.9666666666666667,
+      "counts": {
+       "neither / neither": 114,
+       "neither / with": 3,
+       "with / neither": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.8529411764705882,
+       "lo": -0.01694915254237288,
+       "valid": 1996
+      },
+      "kappa": 0.4838709677419355,
+      "kappa_exact": "15/31",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.925105320642846,
+      "agree": 112,
+      "agreement": 0.9333333333333333,
+      "counts": {
+       "no / no": 109,
+       "no / yes": 8,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.7333333333333333,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4052044609665427,
+      "kappa_exact": "109/269",
+      "n": 120
+     },
+     "with": [
+      3,
+      5
+     ],
+     "with_outcome_only": [
+      3,
+      4
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 15,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8955499945598956,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "no link / illustrates": 3,
+       "no link / no link": 52,
+       "no link / with": 2,
+       "with / illustrates": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.7637795275590551,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4230769230769231,
+      "kappa_exact": "11/26",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.9470938349621574,
+      "agree": 57,
+      "agreement": 0.95,
+      "counts": {
+       "neither / neither": 55,
+       "neither / with": 2,
+       "with / neither": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 1.0,
+       "lo": -0.02857142857142857,
+       "valid": 1992
+      },
+      "kappa": 0.5454545454545454,
+      "kappa_exact": "6/11",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.9000166638893518,
+      "agree": 55,
+      "agreement": 0.9166666666666666,
+      "counts": {
+       "no / no": 52,
+       "no / yes": 5,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.8484848484848485,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.5098039215686274,
+      "kappa_exact": "26/51",
+      "n": 60
+     },
+     "with": [
+      3,
+      4
+     ],
+     "with_outcome_only": [
+      3,
+      3
+     ]
+    },
+    "way": "main; names not counted; patterns as readings; carried-out markers counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.922848876665357,
+      "agree": 111,
+      "agreement": 0.925,
+      "counts": {
+       "no link / illustrates": 5,
+       "no link / no link": 109,
+       "no link / with": 3,
+       "with / illustrates": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.6153846153846154,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.3382352941176471,
+      "kappa_exact": "23/68",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.965556831228473,
+      "agree": 116,
+      "agreement": 0.9666666666666667,
+      "counts": {
+       "neither / neither": 114,
+       "neither / with": 3,
+       "with / neither": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.8529411764705882,
+       "lo": -0.01694915254237288,
+       "valid": 1996
+      },
+      "kappa": 0.4838709677419355,
+      "kappa_exact": "15/31",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.925105320642846,
+      "agree": 112,
+      "agreement": 0.9333333333333333,
+      "counts": {
+       "no / no": 109,
+       "no / yes": 8,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.7333333333333333,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4052044609665427,
+      "kappa_exact": "109/269",
+      "n": 120
+     },
+     "with": [
+      3,
+      5
+     ],
+     "with_outcome_only": [
+      3,
+      4
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 15,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8955499945598956,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "no link / illustrates": 3,
+       "no link / no link": 52,
+       "no link / with": 2,
+       "with / illustrates": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.7637795275590551,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4230769230769231,
+      "kappa_exact": "11/26",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.9470938349621574,
+      "agree": 57,
+      "agreement": 0.95,
+      "counts": {
+       "neither / neither": 55,
+       "neither / with": 2,
+       "with / neither": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 1.0,
+       "lo": -0.02857142857142857,
+       "valid": 1992
+      },
+      "kappa": 0.5454545454545454,
+      "kappa_exact": "6/11",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.9000166638893518,
+      "agree": 55,
+      "agreement": 0.9166666666666666,
+      "counts": {
+       "no / no": 52,
+       "no / yes": 5,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.8484848484848485,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.5098039215686274,
+      "kappa_exact": "26/51",
+      "n": 60
+     },
+     "with": [
+      3,
+      4
+     ],
+     "with_outcome_only": [
+      3,
+      3
+     ]
+    },
+    "way": "main; names not counted; patterns as readings; carried-out markers not counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8103462873592414,
+      "agree": 99,
+      "agreement": 0.825,
+      "counts": {
+       "illustrates / illustrates": 12,
+       "illustrates / no link": 3,
+       "no link / illustrates": 15,
+       "no link / no link": 87,
+       "no link / with": 3
+      },
+      "interval": {
+       "hi": 0.6306982111944605,
+       "lo": 0.23847695390781562,
+       "valid": 2000
+      },
+      "kappa": 0.44554455445544555,
+      "kappa_exact": "45/101",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.97468754943838,
+      "agree": 117,
+      "agreement": 0.975,
+      "counts": {
+       "neither / neither": 117,
+       "neither / with": 3
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1904
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.748314606741573,
+      "agree": 99,
+      "agreement": 0.825,
+      "counts": {
+       "no / no": 87,
+       "no / yes": 18,
+       "yes / no": 3,
+       "yes / yes": 12
+      },
+      "interval": {
+       "hi": 0.6276595744680851,
+       "lo": 0.23295454545454544,
+       "valid": 2000
+      },
+      "kappa": 0.44,
+      "kappa_exact": "11/25",
+      "n": 120
+     },
+     "with": [
+      0,
+      3
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 12,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.7998407824405778,
+      "agree": 49,
+      "agreement": 0.8166666666666667,
+      "counts": {
+       "illustrates / illustrates": 7,
+       "illustrates / no link": 1,
+       "no link / illustrates": 8,
+       "no link / no link": 42,
+       "no link / with": 2
+      },
+      "interval": {
+       "hi": 0.7073170731707317,
+       "lo": 0.20461095100864554,
+       "valid": 2000
+      },
+      "kappa": 0.4694533762057878,
+      "kappa_exact": "146/311",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.9661112680033889,
+      "agree": 58,
+      "agreement": 0.9666666666666667,
+      "counts": {
+       "neither / neither": 58,
+       "neither / with": 2
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1722
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.7264248704663212,
+      "agree": 49,
+      "agreement": 0.8166666666666667,
+      "counts": {
+       "no / no": 42,
+       "no / yes": 10,
+       "yes / no": 1,
+       "yes / yes": 7
+      },
+      "interval": {
+       "hi": 0.7073170731707317,
+       "lo": 0.1891891891891892,
+       "valid": 2000
+      },
+      "kappa": 0.46254071661237783,
+      "kappa_exact": "142/307",
+      "n": 60
+     },
+     "with": [
+      0,
+      2
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "way": "strict; names counted; patterns as reports; carried-out markers counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8207098768314206,
+      "agree": 100,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "illustrates / illustrates": 10,
+       "illustrates / no link": 3,
+       "no link / illustrates": 14,
+       "no link / no link": 90,
+       "no link / with": 3
+      },
+      "interval": {
+       "hi": 0.6129032258064516,
+       "lo": 0.1991991991991992,
+       "valid": 2000
+      },
+      "kappa": 0.41986947063089197,
+      "kappa_exact": "579/1379",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.97468754943838,
+      "agree": 117,
+      "agreement": 0.975,
+      "counts": {
+       "neither / neither": 117,
+       "neither / with": 3
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1904
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.7692307692307693,
+      "agree": 100,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "no / no": 90,
+       "no / yes": 17,
+       "yes / no": 3,
+       "yes / yes": 10
+      },
+      "interval": {
+       "hi": 0.6097560975609756,
+       "lo": 0.19080919080919082,
+       "valid": 2000
+      },
+      "kappa": 0.4143484626647145,
+      "kappa_exact": "283/683",
+      "n": 120
+     },
+     "with": [
+      0,
+      3
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 13,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8195760036084799,
+      "agree": 50,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "illustrates / illustrates": 6,
+       "illustrates / no link": 1,
+       "no link / illustrates": 7,
+       "no link / no link": 44,
+       "no link / with": 2
+      },
+      "interval": {
+       "hi": 0.7169811320754716,
+       "lo": 0.1743119266055046,
+       "valid": 2000
+      },
+      "kappa": 0.46619217081850534,
+      "kappa_exact": "131/281",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.9661112680033889,
+      "agree": 58,
+      "agreement": 0.9666666666666667,
+      "counts": {
+       "neither / neither": 58,
+       "neither / with": 2
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1722
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.7620935765265662,
+      "agree": 50,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "no / no": 44,
+       "no / yes": 9,
+       "yes / no": 1,
+       "yes / yes": 6
+      },
+      "interval": {
+       "hi": 0.7126436781609196,
+       "lo": 0.16521739130434782,
+       "valid": 2000
+      },
+      "kappa": 0.4594594594594595,
+      "kappa_exact": "17/37",
+      "n": 60
+     },
+     "with": [
+      0,
+      2
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "way": "strict; names counted; patterns as reports; carried-out markers not counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.9052005063154777,
+      "agree": 109,
+      "agreement": 0.9083333333333333,
+      "counts": {
+       "illustrates / illustrates": 3,
+       "no link / illustrates": 10,
+       "no link / no link": 106,
+       "no link / with": 1
+      },
+      "interval": {
+       "hi": 0.6045197740112994,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.32618683001531396,
+      "kappa_exact": "213/653",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9916319450497725,
+      "agree": 119,
+      "agreement": 0.9916666666666667,
+      "counts": {
+       "neither / neither": 119,
+       "neither / with": 1
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1262
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.8944380023191651,
+      "agree": 109,
+      "agreement": 0.9083333333333333,
+      "counts": {
+       "no / no": 106,
+       "no / yes": 11,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.6045197740112994,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.32515337423312884,
+      "kappa_exact": "53/163",
+      "n": 120
+     },
+     "with": [
+      0,
+      1
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 15,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8952460626341251,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "illustrates / illustrates": 3,
+       "no link / illustrates": 5,
+       "no link / no link": 51,
+       "no link / with": 1
+      },
+      "interval": {
+       "hi": 0.7841726618705036,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4618834080717489,
+      "kappa_exact": "103/223",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.983194454169876,
+      "agree": 59,
+      "agreement": 0.9833333333333333,
+      "counts": {
+       "neither / neither": 59,
+       "neither / with": 1
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1270
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.8780487804878049,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "no / no": 51,
+       "no / yes": 6,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.782608695652174,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4594594594594595,
+      "kappa_exact": "17/37",
+      "n": 60
+     },
+     "with": [
+      0,
+      1
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "way": "strict; names counted; patterns as readings; carried-out markers counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.9052005063154777,
+      "agree": 109,
+      "agreement": 0.9083333333333333,
+      "counts": {
+       "illustrates / illustrates": 3,
+       "no link / illustrates": 10,
+       "no link / no link": 106,
+       "no link / with": 1
+      },
+      "interval": {
+       "hi": 0.6045197740112994,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.32618683001531396,
+      "kappa_exact": "213/653",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9916319450497725,
+      "agree": 119,
+      "agreement": 0.9916666666666667,
+      "counts": {
+       "neither / neither": 119,
+       "neither / with": 1
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1262
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.8944380023191651,
+      "agree": 109,
+      "agreement": 0.9083333333333333,
+      "counts": {
+       "no / no": 106,
+       "no / yes": 11,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.6045197740112994,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.32515337423312884,
+      "kappa_exact": "53/163",
+      "n": 120
+     },
+     "with": [
+      0,
+      1
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 15,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8952460626341251,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "illustrates / illustrates": 3,
+       "no link / illustrates": 5,
+       "no link / no link": 51,
+       "no link / with": 1
+      },
+      "interval": {
+       "hi": 0.7841726618705036,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4618834080717489,
+      "kappa_exact": "103/223",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.983194454169876,
+      "agree": 59,
+      "agreement": 0.9833333333333333,
+      "counts": {
+       "neither / neither": 59,
+       "neither / with": 1
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1270
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.8780487804878049,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "no / no": 51,
+       "no / yes": 6,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.782608695652174,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4594594594594595,
+      "kappa_exact": "17/37",
+      "n": 60
+     },
+     "with": [
+      0,
+      1
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "way": "strict; names counted; patterns as readings; carried-out markers not counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8498495735617484,
+      "agree": 103,
+      "agreement": 0.8583333333333333,
+      "counts": {
+       "illustrates / illustrates": 7,
+       "illustrates / no link": 3,
+       "no link / illustrates": 13,
+       "no link / no link": 96,
+       "no link / with": 1
+      },
+      "interval": {
+       "hi": 0.6,
+       "lo": 0.14480077745383868,
+       "valid": 2000
+      },
+      "kappa": 0.38368580060422963,
+      "kappa_exact": "127/331",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9916319450497725,
+      "agree": 119,
+      "agreement": 0.9916666666666667,
+      "counts": {
+       "neither / neither": 119,
+       "neither / with": 1
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1262
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.8172124904798173,
+      "agree": 103,
+      "agreement": 0.8583333333333333,
+      "counts": {
+       "no / no": 96,
+       "no / yes": 14,
+       "yes / no": 3,
+       "yes / yes": 7
+      },
+      "interval": {
+       "hi": 0.5996663886572143,
+       "lo": 0.14012738853503184,
+       "valid": 2000
+      },
+      "kappa": 0.38181818181818183,
+      "kappa_exact": "21/55",
+      "n": 120
+     },
+     "with": [
+      0,
+      1
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 12,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8207684552481237,
+      "agree": 50,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "illustrates / illustrates": 5,
+       "illustrates / no link": 1,
+       "no link / illustrates": 8,
+       "no link / no link": 45,
+       "no link / with": 1
+      },
+      "interval": {
+       "hi": 0.68,
+       "lo": 0.11764705882352941,
+       "valid": 2000
+      },
+      "kappa": 0.42196531791907516,
+      "kappa_exact": "73/173",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.983194454169876,
+      "agree": 59,
+      "agreement": 0.9833333333333333,
+      "counts": {
+       "neither / neither": 59,
+       "neither / with": 1
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1270
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.7692307692307693,
+      "agree": 50,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "no / no": 45,
+       "no / yes": 9,
+       "yes / no": 1,
+       "yes / yes": 5
+      },
+      "interval": {
+       "hi": 0.68,
+       "lo": 0.1111111111111111,
+       "valid": 2000
+      },
+      "kappa": 0.4186046511627907,
+      "kappa_exact": "18/43",
+      "n": 60
+     },
+     "with": [
+      0,
+      1
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "way": "strict; names not counted; patterns as reports; carried-out markers counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8598680789336837,
+      "agree": 104,
+      "agreement": 0.8666666666666667,
+      "counts": {
+       "illustrates / illustrates": 5,
+       "illustrates / no link": 3,
+       "no link / illustrates": 12,
+       "no link / no link": 99,
+       "no link / with": 1
+      },
+      "interval": {
+       "hi": 0.5514018691588785,
+       "lo": 0.06504065040650407,
+       "valid": 2000
+      },
+      "kappa": 0.323943661971831,
+      "kappa_exact": "23/71",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9916319450497725,
+      "agree": 119,
+      "agreement": 0.9916666666666667,
+      "counts": {
+       "neither / neither": 119,
+       "neither / with": 1
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1262
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.8347391977965226,
+      "agree": 104,
+      "agreement": 0.8666666666666667,
+      "counts": {
+       "no / no": 99,
+       "no / yes": 13,
+       "yes / no": 3,
+       "yes / yes": 5
+      },
+      "interval": {
+       "hi": 0.55,
+       "lo": 0.06367041198501873,
+       "valid": 2000
+      },
+      "kappa": 0.3220338983050847,
+      "kappa_exact": "19/59",
+      "n": 120
+     },
+     "with": [
+      0,
+      1
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 13,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8401953168349795,
+      "agree": 51,
+      "agreement": 0.85,
+      "counts": {
+       "illustrates / illustrates": 4,
+       "illustrates / no link": 1,
+       "no link / illustrates": 7,
+       "no link / no link": 47,
+       "no link / with": 1
+      },
+      "interval": {
+       "hi": 0.68,
+       "lo": 0.07692307692307693,
+       "valid": 2000
+      },
+      "kappa": 0.40331491712707185,
+      "kappa_exact": "73/181",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.983194454169876,
+      "agree": 59,
+      "agreement": 0.9833333333333333,
+      "counts": {
+       "neither / neither": 59,
+       "neither / with": 1
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1270
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.8017984951367223,
+      "agree": 51,
+      "agreement": 0.85,
+      "counts": {
+       "no / no": 47,
+       "no / yes": 8,
+       "yes / no": 1,
+       "yes / yes": 4
+      },
+      "interval": {
+       "hi": 0.6774193548387096,
+       "lo": 0.07079646017699115,
+       "valid": 2000
+      },
+      "kappa": 0.4,
+      "kappa_exact": "2/5",
+      "n": 60
+     },
+     "with": [
+      0,
+      1
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "way": "strict; names not counted; patterns as reports; carried-out markers not counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.9314426501700543,
+      "agree": 112,
+      "agreement": 0.9333333333333333,
+      "counts": {
+       "illustrates / illustrates": 3,
+       "no link / illustrates": 7,
+       "no link / no link": 109,
+       "no link / with": 1
+      },
+      "interval": {
+       "hi": 0.7333333333333333,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.40630797773654914,
+      "kappa_exact": "219/539",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9916319450497725,
+      "agree": 119,
+      "agreement": 0.9916666666666667,
+      "counts": {
+       "neither / neither": 119,
+       "neither / with": 1
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1262
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.925105320642846,
+      "agree": 112,
+      "agreement": 0.9333333333333333,
+      "counts": {
+       "no / no": 109,
+       "no / yes": 8,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.7333333333333333,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4052044609665427,
+      "kappa_exact": "109/269",
+      "n": 120
+     },
+     "with": [
+      0,
+      1
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 15,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.9130151136240078,
+      "agree": 55,
+      "agreement": 0.9166666666666666,
+      "counts": {
+       "illustrates / illustrates": 3,
+       "no link / illustrates": 4,
+       "no link / no link": 52,
+       "no link / with": 1
+      },
+      "interval": {
+       "hi": 0.8484848484848485,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.5121951219512195,
+      "kappa_exact": "21/41",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.983194454169876,
+      "agree": 59,
+      "agreement": 0.9833333333333333,
+      "counts": {
+       "neither / neither": 59,
+       "neither / with": 1
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1270
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.9000166638893518,
+      "agree": 55,
+      "agreement": 0.9166666666666666,
+      "counts": {
+       "no / no": 52,
+       "no / yes": 5,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.8484848484848485,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.5098039215686274,
+      "kappa_exact": "26/51",
+      "n": 60
+     },
+     "with": [
+      0,
+      1
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "way": "strict; names not counted; patterns as readings; carried-out markers counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.9314426501700543,
+      "agree": 112,
+      "agreement": 0.9333333333333333,
+      "counts": {
+       "illustrates / illustrates": 3,
+       "no link / illustrates": 7,
+       "no link / no link": 109,
+       "no link / with": 1
+      },
+      "interval": {
+       "hi": 0.7333333333333333,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.40630797773654914,
+      "kappa_exact": "219/539",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9916319450497725,
+      "agree": 119,
+      "agreement": 0.9916666666666667,
+      "counts": {
+       "neither / neither": 119,
+       "neither / with": 1
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1262
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.925105320642846,
+      "agree": 112,
+      "agreement": 0.9333333333333333,
+      "counts": {
+       "no / no": 109,
+       "no / yes": 8,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.7333333333333333,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4052044609665427,
+      "kappa_exact": "109/269",
+      "n": 120
+     },
+     "with": [
+      0,
+      1
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 15,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.9130151136240078,
+      "agree": 55,
+      "agreement": 0.9166666666666666,
+      "counts": {
+       "illustrates / illustrates": 3,
+       "no link / illustrates": 4,
+       "no link / no link": 52,
+       "no link / with": 1
+      },
+      "interval": {
+       "hi": 0.8484848484848485,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.5121951219512195,
+      "kappa_exact": "21/41",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.983194454169876,
+      "agree": 59,
+      "agreement": 0.9833333333333333,
+      "counts": {
+       "neither / neither": 59,
+       "neither / with": 1
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1270
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.9000166638893518,
+      "agree": 55,
+      "agreement": 0.9166666666666666,
+      "counts": {
+       "no / no": 52,
+       "no / yes": 5,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.8484848484848485,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.5098039215686274,
+      "kappa_exact": "26/51",
+      "n": 60
+     },
+     "with": [
+      0,
+      1
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "way": "strict; names not counted; patterns as readings; carried-out markers not counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8102784652882996,
+      "agree": 99,
+      "agreement": 0.825,
+      "counts": {
+       "illustrates / illustrates": 12,
+       "illustrates / no link": 3,
+       "no link / illustrates": 14,
+       "no link / no link": 87,
+       "no link / with": 4
+      },
+      "interval": {
+       "hi": 0.6309963099630996,
+       "lo": 0.24107142857142858,
+       "valid": 2000
+      },
+      "kappa": 0.4473684210526316,
+      "kappa_exact": "17/38",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9661112680033889,
+      "agree": 116,
+      "agreement": 0.9666666666666667,
+      "counts": {
+       "neither / neither": 116,
+       "neither / with": 4
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1971
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.748314606741573,
+      "agree": 99,
+      "agreement": 0.825,
+      "counts": {
+       "no / no": 87,
+       "no / yes": 18,
+       "yes / no": 3,
+       "yes / yes": 12
+      },
+      "interval": {
+       "hi": 0.6276595744680851,
+       "lo": 0.23295454545454544,
+       "valid": 2000
+      },
+      "kappa": 0.44,
+      "kappa_exact": "11/25",
+      "n": 120
+     },
+     "with": [
+      0,
+      4
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 10,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.7996889108084525,
+      "agree": 49,
+      "agreement": 0.8166666666666667,
+      "counts": {
+       "illustrates / illustrates": 7,
+       "illustrates / no link": 1,
+       "no link / illustrates": 7,
+       "no link / no link": 42,
+       "no link / with": 3
+      },
+      "interval": {
+       "hi": 0.7073170731707317,
+       "lo": 0.20987654320987653,
+       "valid": 2000
+      },
+      "kappa": 0.4728434504792332,
+      "kappa_exact": "148/313",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.948750800768738,
+      "agree": 57,
+      "agreement": 0.95,
+      "counts": {
+       "neither / neither": 57,
+       "neither / with": 3
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1906
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.7264248704663212,
+      "agree": 49,
+      "agreement": 0.8166666666666667,
+      "counts": {
+       "no / no": 42,
+       "no / yes": 10,
+       "yes / no": 1,
+       "yes / yes": 7
+      },
+      "interval": {
+       "hi": 0.7073170731707317,
+       "lo": 0.1891891891891892,
+       "valid": 2000
+      },
+      "kappa": 0.46254071661237783,
+      "kappa_exact": "142/307",
+      "n": 60
+     },
+     "with": [
+      0,
+      3
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "way": "covariation; names counted; patterns as reports; carried-out markers counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8206546106710506,
+      "agree": 100,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "illustrates / illustrates": 10,
+       "illustrates / no link": 3,
+       "no link / illustrates": 13,
+       "no link / no link": 90,
+       "no link / with": 4
+      },
+      "interval": {
+       "hi": 0.6141479099678456,
+       "lo": 0.2,
+       "valid": 2000
+      },
+      "kappa": 0.42168674698795183,
+      "kappa_exact": "35/83",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9661112680033889,
+      "agree": 116,
+      "agreement": 0.9666666666666667,
+      "counts": {
+       "neither / neither": 116,
+       "neither / with": 4
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1971
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.7692307692307693,
+      "agree": 100,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "no / no": 90,
+       "no / yes": 17,
+       "yes / no": 3,
+       "yes / yes": 10
+      },
+      "interval": {
+       "hi": 0.6097560975609756,
+       "lo": 0.19080919080919082,
+       "valid": 2000
+      },
+      "kappa": 0.4143484626647145,
+      "kappa_exact": "283/683",
+      "n": 120
+     },
+     "with": [
+      0,
+      4
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 11,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8194606386579908,
+      "agree": 50,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "illustrates / illustrates": 6,
+       "illustrates / no link": 1,
+       "no link / illustrates": 6,
+       "no link / no link": 44,
+       "no link / with": 3
+      },
+      "interval": {
+       "hi": 0.7169811320754716,
+       "lo": 0.17721518987341772,
+       "valid": 2000
+      },
+      "kappa": 0.46949602122015915,
+      "kappa_exact": "177/377",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.948750800768738,
+      "agree": 57,
+      "agreement": 0.95,
+      "counts": {
+       "neither / neither": 57,
+       "neither / with": 3
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1906
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.7620935765265662,
+      "agree": 50,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "no / no": 44,
+       "no / yes": 9,
+       "yes / no": 1,
+       "yes / yes": 6
+      },
+      "interval": {
+       "hi": 0.7126436781609196,
+       "lo": 0.16521739130434782,
+       "valid": 2000
+      },
+      "kappa": 0.4594594594594595,
+      "kappa_exact": "17/37",
+      "n": 60
+     },
+     "with": [
+      0,
+      3
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "way": "covariation; names counted; patterns as reports; carried-out markers not counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.9051885903087655,
+      "agree": 109,
+      "agreement": 0.9083333333333333,
+      "counts": {
+       "illustrates / illustrates": 3,
+       "no link / illustrates": 9,
+       "no link / no link": 106,
+       "no link / with": 2
+      },
+      "interval": {
+       "hi": 0.6056338028169014,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.327217125382263,
+      "kappa_exact": "107/327",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.983194454169876,
+      "agree": 118,
+      "agreement": 0.9833333333333333,
+      "counts": {
+       "neither / neither": 118,
+       "neither / with": 2
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1731
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.8944380023191651,
+      "agree": 109,
+      "agreement": 0.9083333333333333,
+      "counts": {
+       "no / no": 106,
+       "no / yes": 11,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.6045197740112994,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.32515337423312884,
+      "kappa_exact": "53/163",
+      "n": 120
+     },
+     "with": [
+      0,
+      2
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 14,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8952117595692038,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "illustrates / illustrates": 3,
+       "no link / illustrates": 4,
+       "no link / no link": 51,
+       "no link / with": 2
+      },
+      "interval": {
+       "hi": 0.7857142857142857,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4642857142857143,
+      "kappa_exact": "13/28",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.9661112680033889,
+      "agree": 58,
+      "agreement": 0.9666666666666667,
+      "counts": {
+       "neither / neither": 58,
+       "neither / with": 2
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1741
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.8780487804878049,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "no / no": 51,
+       "no / yes": 6,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.782608695652174,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4594594594594595,
+      "kappa_exact": "17/37",
+      "n": 60
+     },
+     "with": [
+      0,
+      2
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "way": "covariation; names counted; patterns as readings; carried-out markers counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.9051885903087655,
+      "agree": 109,
+      "agreement": 0.9083333333333333,
+      "counts": {
+       "illustrates / illustrates": 3,
+       "no link / illustrates": 9,
+       "no link / no link": 106,
+       "no link / with": 2
+      },
+      "interval": {
+       "hi": 0.6056338028169014,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.327217125382263,
+      "kappa_exact": "107/327",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.983194454169876,
+      "agree": 118,
+      "agreement": 0.9833333333333333,
+      "counts": {
+       "neither / neither": 118,
+       "neither / with": 2
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1731
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.8944380023191651,
+      "agree": 109,
+      "agreement": 0.9083333333333333,
+      "counts": {
+       "no / no": 106,
+       "no / yes": 11,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.6045197740112994,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.32515337423312884,
+      "kappa_exact": "53/163",
+      "n": 120
+     },
+     "with": [
+      0,
+      2
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 14,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8952117595692038,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "illustrates / illustrates": 3,
+       "no link / illustrates": 4,
+       "no link / no link": 51,
+       "no link / with": 2
+      },
+      "interval": {
+       "hi": 0.7857142857142857,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4642857142857143,
+      "kappa_exact": "13/28",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.9661112680033889,
+      "agree": 58,
+      "agreement": 0.9666666666666667,
+      "counts": {
+       "neither / neither": 58,
+       "neither / with": 2
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1741
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.8780487804878049,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "no / no": 51,
+       "no / yes": 6,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.782608695652174,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4594594594594595,
+      "kappa_exact": "17/37",
+      "n": 60
+     },
+     "with": [
+      0,
+      2
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "way": "covariation; names counted; patterns as readings; carried-out markers not counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8498108831893101,
+      "agree": 103,
+      "agreement": 0.8583333333333333,
+      "counts": {
+       "illustrates / illustrates": 7,
+       "illustrates / no link": 3,
+       "no link / illustrates": 12,
+       "no link / no link": 96,
+       "no link / with": 2
+      },
+      "interval": {
+       "hi": 0.6,
+       "lo": 0.14673561732385262,
+       "valid": 2000
+      },
+      "kappa": 0.3855421686746988,
+      "kappa_exact": "32/83",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.983194454169876,
+      "agree": 118,
+      "agreement": 0.9833333333333333,
+      "counts": {
+       "neither / neither": 118,
+       "neither / with": 2
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1731
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.8172124904798173,
+      "agree": 103,
+      "agreement": 0.8583333333333333,
+      "counts": {
+       "no / no": 96,
+       "no / yes": 14,
+       "yes / no": 3,
+       "yes / yes": 7
+      },
+      "interval": {
+       "hi": 0.5996663886572143,
+       "lo": 0.14012738853503184,
+       "valid": 2000
+      },
+      "kappa": 0.38181818181818183,
+      "kappa_exact": "21/55",
+      "n": 120
+     },
+     "with": [
+      0,
+      2
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 11,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8206546106710506,
+      "agree": 50,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "illustrates / illustrates": 5,
+       "illustrates / no link": 1,
+       "no link / illustrates": 7,
+       "no link / no link": 45,
+       "no link / with": 2
+      },
+      "interval": {
+       "hi": 0.68,
+       "lo": 0.12023460410557185,
+       "valid": 2000
+      },
+      "kappa": 0.42528735632183906,
+      "kappa_exact": "37/87",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.9661112680033889,
+      "agree": 58,
+      "agreement": 0.9666666666666667,
+      "counts": {
+       "neither / neither": 58,
+       "neither / with": 2
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1741
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.7692307692307693,
+      "agree": 50,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "no / no": 45,
+       "no / yes": 9,
+       "yes / no": 1,
+       "yes / yes": 5
+      },
+      "interval": {
+       "hi": 0.68,
+       "lo": 0.1111111111111111,
+       "valid": 2000
+      },
+      "kappa": 0.4186046511627907,
+      "kappa_exact": "18/43",
+      "n": 60
+     },
+     "with": [
+      0,
+      2
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "way": "covariation; names not counted; patterns as reports; carried-out markers counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8598386684673505,
+      "agree": 104,
+      "agreement": 0.8666666666666667,
+      "counts": {
+       "illustrates / illustrates": 5,
+       "illustrates / no link": 3,
+       "no link / illustrates": 11,
+       "no link / no link": 99,
+       "no link / with": 2
+      },
+      "interval": {
+       "hi": 0.5527950310559007,
+       "lo": 0.06718489727928928,
+       "valid": 2000
+      },
+      "kappa": 0.3258426966292135,
+      "kappa_exact": "29/89",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.983194454169876,
+      "agree": 118,
+      "agreement": 0.9833333333333333,
+      "counts": {
+       "neither / neither": 118,
+       "neither / with": 2
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1731
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.8347391977965226,
+      "agree": 104,
+      "agreement": 0.8666666666666667,
+      "counts": {
+       "no / no": 99,
+       "no / yes": 13,
+       "yes / no": 3,
+       "yes / yes": 5
+      },
+      "interval": {
+       "hi": 0.55,
+       "lo": 0.06367041198501873,
+       "valid": 2000
+      },
+      "kappa": 0.3220338983050847,
+      "kappa_exact": "19/59",
+      "n": 120
+     },
+     "with": [
+      0,
+      2
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 12,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.8401125134164847,
+      "agree": 51,
+      "agreement": 0.85,
+      "counts": {
+       "illustrates / illustrates": 4,
+       "illustrates / no link": 1,
+       "no link / illustrates": 6,
+       "no link / no link": 47,
+       "no link / with": 2
+      },
+      "interval": {
+       "hi": 0.6825396825396826,
+       "lo": 0.08096280087527352,
+       "valid": 2000
+      },
+      "kappa": 0.4065934065934066,
+      "kappa_exact": "37/91",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.9661112680033889,
+      "agree": 58,
+      "agreement": 0.9666666666666667,
+      "counts": {
+       "neither / neither": 58,
+       "neither / with": 2
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1741
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.8017984951367223,
+      "agree": 51,
+      "agreement": 0.85,
+      "counts": {
+       "no / no": 47,
+       "no / yes": 8,
+       "yes / no": 1,
+       "yes / yes": 4
+      },
+      "interval": {
+       "hi": 0.6774193548387096,
+       "lo": 0.07079646017699115,
+       "valid": 2000
+      },
+      "kappa": 0.4,
+      "kappa_exact": "2/5",
+      "n": 60
+     },
+     "with": [
+      0,
+      2
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "way": "covariation; names not counted; patterns as reports; carried-out markers not counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.9314359175802592,
+      "agree": 112,
+      "agreement": 0.9333333333333333,
+      "counts": {
+       "illustrates / illustrates": 3,
+       "no link / illustrates": 6,
+       "no link / no link": 109,
+       "no link / with": 2
+      },
+      "interval": {
+       "hi": 0.7342192691029901,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4074074074074074,
+      "kappa_exact": "11/27",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.983194454169876,
+      "agree": 118,
+      "agreement": 0.9833333333333333,
+      "counts": {
+       "neither / neither": 118,
+       "neither / with": 2
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1731
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.925105320642846,
+      "agree": 112,
+      "agreement": 0.9333333333333333,
+      "counts": {
+       "no / no": 109,
+       "no / yes": 8,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.7333333333333333,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4052044609665427,
+      "kappa_exact": "109/269",
+      "n": 120
+     },
+     "with": [
+      0,
+      2
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 14,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.9129898850741399,
+      "agree": 55,
+      "agreement": 0.9166666666666666,
+      "counts": {
+       "illustrates / illustrates": 3,
+       "no link / illustrates": 3,
+       "no link / no link": 52,
+       "no link / with": 2
+      },
+      "interval": {
+       "hi": 0.8484848484848485,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.5145631067961165,
+      "kappa_exact": "53/103",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.9661112680033889,
+      "agree": 58,
+      "agreement": 0.9666666666666667,
+      "counts": {
+       "neither / neither": 58,
+       "neither / with": 2
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1741
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.9000166638893518,
+      "agree": 55,
+      "agreement": 0.9166666666666666,
+      "counts": {
+       "no / no": 52,
+       "no / yes": 5,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.8484848484848485,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.5098039215686274,
+      "kappa_exact": "26/51",
+      "n": 60
+     },
+     "with": [
+      0,
+      2
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "way": "covariation; names not counted; patterns as readings; carried-out markers counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.9314359175802592,
+      "agree": 112,
+      "agreement": 0.9333333333333333,
+      "counts": {
+       "illustrates / illustrates": 3,
+       "no link / illustrates": 6,
+       "no link / no link": 109,
+       "no link / with": 2
+      },
+      "interval": {
+       "hi": 0.7342192691029901,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4074074074074074,
+      "kappa_exact": "11/27",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.983194454169876,
+      "agree": 118,
+      "agreement": 0.9833333333333333,
+      "counts": {
+       "neither / neither": 118,
+       "neither / with": 2
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1731
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.925105320642846,
+      "agree": 112,
+      "agreement": 0.9333333333333333,
+      "counts": {
+       "no / no": 109,
+       "no / yes": 8,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.7333333333333333,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4052044609665427,
+      "kappa_exact": "109/269",
+      "n": 120
+     },
+     "with": [
+      0,
+      2
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 14,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      0
+     ],
+     "code": {
+      "ac1": 0.9129898850741399,
+      "agree": 55,
+      "agreement": 0.9166666666666666,
+      "counts": {
+       "illustrates / illustrates": 3,
+       "no link / illustrates": 3,
+       "no link / no link": 52,
+       "no link / with": 2
+      },
+      "interval": {
+       "hi": 0.8484848484848485,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.5145631067961165,
+      "kappa_exact": "53/103",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.9661112680033889,
+      "agree": 58,
+      "agreement": 0.9666666666666667,
+      "counts": {
+       "neither / neither": 58,
+       "neither / with": 2
+      },
+      "interval": {
+       "hi": 0.0,
+       "lo": 0.0,
+       "valid": 1741
+      },
+      "kappa": 0.0,
+      "kappa_exact": "0",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.9000166638893518,
+      "agree": 55,
+      "agreement": 0.9166666666666666,
+      "counts": {
+       "no / no": 52,
+       "no / yes": 5,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.8484848484848485,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.5098039215686274,
+      "kappa_exact": "26/51",
+      "n": 60
+     },
+     "with": [
+      0,
+      2
+     ],
+     "with_outcome_only": [
+      0,
+      0
+     ]
+    },
+    "way": "covariation; names not counted; patterns as readings; carried-out markers not counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      3
+     ],
+     "code": {
+      "ac1": 0.8004949840358202,
+      "agree": 98,
+      "agreement": 0.8166666666666667,
+      "counts": {
+       "illustrates / illustrates": 7,
+       "illustrates / no link": 1,
+       "no link / against": 2,
+       "no link / illustrates": 8,
+       "no link / no link": 87,
+       "no link / with": 8,
+       "with / against": 1,
+       "with / no link": 2,
+       "with / with": 4
+      },
+      "interval": {
+       "hi": 0.6189052867550906,
+       "lo": 0.2430858806404658,
+       "valid": 2000
+      },
+      "kappa": 0.44374209860935526,
+      "kappa_exact": "351/791",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.8816994331431172,
+      "agree": 107,
+      "agreement": 0.8916666666666667,
+      "counts": {
+       "neither / against": 2,
+       "neither / neither": 103,
+       "neither / with": 8,
+       "with / against": 1,
+       "with / neither": 2,
+       "with / with": 4
+      },
+      "interval": {
+       "hi": 0.6048918156161807,
+       "lo": 0.09090909090909091,
+       "valid": 2000
+      },
+      "kappa": 0.3635250917992656,
+      "kappa_exact": "297/817",
+      "n": 120
+     },
+     "condition_3": "not passed",
+     "evidence_link": {
+      "ac1": 0.748314606741573,
+      "agree": 99,
+      "agreement": 0.825,
+      "counts": {
+       "no / no": 87,
+       "no / yes": 18,
+       "yes / no": 3,
+       "yes / yes": 12
+      },
+      "interval": {
+       "hi": 0.6276595744680851,
+       "lo": 0.23295454545454544,
+       "valid": 2000
+      },
+      "kappa": 0.44,
+      "kappa_exact": "11/25",
+      "n": 120
+     },
+     "with": [
+      7,
+      12
+     ],
+     "with_outcome_only": [
+      7,
+      9
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 10,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      2
+     ],
+     "code": {
+      "ac1": 0.7805630690692978,
+      "agree": 48,
+      "agreement": 0.8,
+      "counts": {
+       "illustrates / illustrates": 3,
+       "no link / against": 1,
+       "no link / illustrates": 4,
+       "no link / no link": 42,
+       "no link / with": 5,
+       "with / against": 1,
+       "with / no link": 1,
+       "with / with": 3
+      },
+      "interval": {
+       "hi": 0.6736596736596736,
+       "lo": 0.18604651162790697,
+       "valid": 2000
+      },
+      "kappa": 0.4474290099769762,
+      "kappa_exact": "583/1303",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.8499882803344011,
+      "agree": 52,
+      "agreement": 0.8666666666666667,
+      "counts": {
+       "neither / against": 1,
+       "neither / neither": 49,
+       "neither / with": 5,
+       "with / against": 1,
+       "with / neither": 1,
+       "with / with": 3
+      },
+      "interval": {
+       "hi": 0.7014925373134329,
+       "lo": 0.059233449477351915,
+       "valid": 2000
+      },
+      "kappa": 0.4074074074074074,
+      "kappa_exact": "11/27",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.7264248704663212,
+      "agree": 49,
+      "agreement": 0.8166666666666667,
+      "counts": {
+       "no / no": 42,
+       "no / yes": 10,
+       "yes / no": 1,
+       "yes / yes": 7
+      },
+      "interval": {
+       "hi": 0.7073170731707317,
+       "lo": 0.1891891891891892,
+       "valid": 2000
+      },
+      "kappa": 0.46254071661237783,
+      "kappa_exact": "142/307",
+      "n": 60
+     },
+     "with": [
+      5,
+      8
+     ],
+     "with_outcome_only": [
+      5,
+      6
+     ]
+    },
+    "way": "brief-v2 literal; names counted; patterns as reports; carried-out markers counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      3
+     ],
+     "code": {
+      "ac1": 0.8111422335053913,
+      "agree": 99,
+      "agreement": 0.825,
+      "counts": {
+       "illustrates / illustrates": 5,
+       "illustrates / no link": 1,
+       "no link / against": 2,
+       "no link / illustrates": 7,
+       "no link / no link": 90,
+       "no link / with": 8,
+       "with / against": 1,
+       "with / no link": 2,
+       "with / with": 4
+      },
+      "interval": {
+       "hi": 0.6026490066225165,
+       "lo": 0.19574216439976344,
+       "valid": 2000
+      },
+      "kappa": 0.4129979035639413,
+      "kappa_exact": "197/477",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.8816994331431172,
+      "agree": 107,
+      "agreement": 0.8916666666666667,
+      "counts": {
+       "neither / against": 2,
+       "neither / neither": 103,
+       "neither / with": 8,
+       "with / against": 1,
+       "with / neither": 2,
+       "with / with": 4
+      },
+      "interval": {
+       "hi": 0.6048918156161807,
+       "lo": 0.09090909090909091,
+       "valid": 2000
+      },
+      "kappa": 0.3635250917992656,
+      "kappa_exact": "297/817",
+      "n": 120
+     },
+     "condition_3": "not passed",
+     "evidence_link": {
+      "ac1": 0.7692307692307693,
+      "agree": 100,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "no / no": 90,
+       "no / yes": 17,
+       "yes / no": 3,
+       "yes / yes": 10
+      },
+      "interval": {
+       "hi": 0.6097560975609756,
+       "lo": 0.19080919080919082,
+       "valid": 2000
+      },
+      "kappa": 0.4143484626647145,
+      "kappa_exact": "283/683",
+      "n": 120
+     },
+     "with": [
+      7,
+      12
+     ],
+     "with_outcome_only": [
+      7,
+      9
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 11,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      2
+     ],
+     "code": {
+      "ac1": 0.8008524120242899,
+      "agree": 49,
+      "agreement": 0.8166666666666667,
+      "counts": {
+       "illustrates / illustrates": 2,
+       "no link / against": 1,
+       "no link / illustrates": 3,
+       "no link / no link": 44,
+       "no link / with": 5,
+       "with / against": 1,
+       "with / no link": 1,
+       "with / with": 3
+      },
+      "interval": {
+       "hi": 0.6794871794871795,
+       "lo": 0.15715539947322213,
+       "valid": 2000
+      },
+      "kappa": 0.4334763948497854,
+      "kappa_exact": "101/233",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.8499882803344011,
+      "agree": 52,
+      "agreement": 0.8666666666666667,
+      "counts": {
+       "neither / against": 1,
+       "neither / neither": 49,
+       "neither / with": 5,
+       "with / against": 1,
+       "with / neither": 1,
+       "with / with": 3
+      },
+      "interval": {
+       "hi": 0.7014925373134329,
+       "lo": 0.059233449477351915,
+       "valid": 2000
+      },
+      "kappa": 0.4074074074074074,
+      "kappa_exact": "11/27",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.7620935765265662,
+      "agree": 50,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "no / no": 44,
+       "no / yes": 9,
+       "yes / no": 1,
+       "yes / yes": 6
+      },
+      "interval": {
+       "hi": 0.7126436781609196,
+       "lo": 0.16521739130434782,
+       "valid": 2000
+      },
+      "kappa": 0.4594594594594595,
+      "kappa_exact": "17/37",
+      "n": 60
+     },
+     "with": [
+      5,
+      8
+     ],
+     "with_outcome_only": [
+      5,
+      6
+     ]
+    },
+    "way": "brief-v2 literal; names counted; patterns as reports; carried-out markers not counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      3
+     ],
+     "code": {
+      "ac1": 0.8965275657031994,
+      "agree": 108,
+      "agreement": 0.9,
+      "counts": {
+       "no link / against": 2,
+       "no link / illustrates": 3,
+       "no link / no link": 106,
+       "no link / with": 6,
+       "with / against": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.5150115473441108,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.270516717325228,
+      "kappa_exact": "89/329",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9205926143778835,
+      "agree": 111,
+      "agreement": 0.925,
+      "counts": {
+       "neither / against": 2,
+       "neither / neither": 109,
+       "neither / with": 6,
+       "with / against": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.6074766355140186,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.3345656192236599,
+      "kappa_exact": "181/541",
+      "n": 120
+     },
+     "condition_3": "not passed",
+     "evidence_link": {
+      "ac1": 0.8944380023191651,
+      "agree": 109,
+      "agreement": 0.9083333333333333,
+      "counts": {
+       "no / no": 106,
+       "no / yes": 11,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.6045197740112994,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.32515337423312884,
+      "kappa_exact": "53/163",
+      "n": 120
+     },
+     "with": [
+      3,
+      8
+     ],
+     "with_outcome_only": [
+      3,
+      7
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 14,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      2
+     ],
+     "code": {
+      "ac1": 0.8777070063694268,
+      "agree": 53,
+      "agreement": 0.8833333333333333,
+      "counts": {
+       "no link / against": 1,
+       "no link / illustrates": 1,
+       "no link / no link": 51,
+       "no link / with": 4,
+       "with / against": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.6992481203007519,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.37777777777777777,
+      "kappa_exact": "17/45",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.890768413866343,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "neither / against": 1,
+       "neither / neither": 52,
+       "neither / with": 4,
+       "with / against": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.7457627118644068,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4174757281553398,
+      "kappa_exact": "43/103",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.8780487804878049,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "no / no": 51,
+       "no / yes": 6,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.782608695652174,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4594594594594595,
+      "kappa_exact": "17/37",
+      "n": 60
+     },
+     "with": [
+      3,
+      6
+     ],
+     "with_outcome_only": [
+      3,
+      5
+     ]
+    },
+    "way": "brief-v2 literal; names counted; patterns as readings; carried-out markers counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      3
+     ],
+     "code": {
+      "ac1": 0.8965275657031994,
+      "agree": 108,
+      "agreement": 0.9,
+      "counts": {
+       "no link / against": 2,
+       "no link / illustrates": 3,
+       "no link / no link": 106,
+       "no link / with": 6,
+       "with / against": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.5150115473441108,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.270516717325228,
+      "kappa_exact": "89/329",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9205926143778835,
+      "agree": 111,
+      "agreement": 0.925,
+      "counts": {
+       "neither / against": 2,
+       "neither / neither": 109,
+       "neither / with": 6,
+       "with / against": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.6074766355140186,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.3345656192236599,
+      "kappa_exact": "181/541",
+      "n": 120
+     },
+     "condition_3": "not passed",
+     "evidence_link": {
+      "ac1": 0.8944380023191651,
+      "agree": 109,
+      "agreement": 0.9083333333333333,
+      "counts": {
+       "no / no": 106,
+       "no / yes": 11,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.6045197740112994,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.32515337423312884,
+      "kappa_exact": "53/163",
+      "n": 120
+     },
+     "with": [
+      3,
+      8
+     ],
+     "with_outcome_only": [
+      3,
+      7
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 14,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      2
+     ],
+     "code": {
+      "ac1": 0.8777070063694268,
+      "agree": 53,
+      "agreement": 0.8833333333333333,
+      "counts": {
+       "no link / against": 1,
+       "no link / illustrates": 1,
+       "no link / no link": 51,
+       "no link / with": 4,
+       "with / against": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.6992481203007519,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.37777777777777777,
+      "kappa_exact": "17/45",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.890768413866343,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "neither / against": 1,
+       "neither / neither": 52,
+       "neither / with": 4,
+       "with / against": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.7457627118644068,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4174757281553398,
+      "kappa_exact": "43/103",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.8780487804878049,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "no / no": 51,
+       "no / yes": 6,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.782608695652174,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4594594594594595,
+      "kappa_exact": "17/37",
+      "n": 60
+     },
+     "with": [
+      3,
+      6
+     ],
+     "with_outcome_only": [
+      3,
+      5
+     ]
+    },
+    "way": "brief-v2 literal; names counted; patterns as readings; carried-out markers not counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      3
+     ],
+     "code": {
+      "ac1": 0.8406521458475499,
+      "agree": 102,
+      "agreement": 0.85,
+      "counts": {
+       "illustrates / illustrates": 4,
+       "illustrates / no link": 1,
+       "no link / against": 2,
+       "no link / illustrates": 6,
+       "no link / no link": 96,
+       "no link / with": 6,
+       "with / against": 1,
+       "with / no link": 2,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.5780362456045443,
+       "lo": 0.14027149321266968,
+       "valid": 2000
+      },
+      "kappa": 0.3684210526315789,
+      "kappa_exact": "7/19",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9021805583859792,
+      "agree": 109,
+      "agreement": 0.9083333333333333,
+      "counts": {
+       "neither / against": 2,
+       "neither / neither": 107,
+       "neither / with": 6,
+       "with / against": 1,
+       "with / neither": 2,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.5419847328244275,
+       "lo": -0.021897810218978103,
+       "valid": 2000
+      },
+      "kappa": 0.27671232876712326,
+      "kappa_exact": "101/365",
+      "n": 120
+     },
+     "condition_3": "not passed",
+     "evidence_link": {
+      "ac1": 0.8172124904798173,
+      "agree": 103,
+      "agreement": 0.8583333333333333,
+      "counts": {
+       "no / no": 96,
+       "no / yes": 14,
+       "yes / no": 3,
+       "yes / yes": 7
+      },
+      "interval": {
+       "hi": 0.5996663886572143,
+       "lo": 0.14012738853503184,
+       "valid": 2000
+      },
+      "kappa": 0.38181818181818183,
+      "kappa_exact": "21/55",
+      "n": 120
+     },
+     "with": [
+      5,
+      8
+     ],
+     "with_outcome_only": [
+      5,
+      7
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 10,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      2
+     ],
+     "code": {
+      "ac1": 0.8021286163993404,
+      "agree": 49,
+      "agreement": 0.8166666666666667,
+      "counts": {
+       "illustrates / illustrates": 2,
+       "no link / against": 1,
+       "no link / illustrates": 4,
+       "no link / no link": 45,
+       "no link / with": 4,
+       "with / against": 1,
+       "with / no link": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.6359223300970874,
+       "lo": 0.10964550700741962,
+       "valid": 2000
+      },
+      "kappa": 0.3888888888888889,
+      "kappa_exact": "7/18",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.8715988994191379,
+      "agree": 53,
+      "agreement": 0.8833333333333333,
+      "counts": {
+       "neither / against": 1,
+       "neither / neither": 51,
+       "neither / with": 4,
+       "with / against": 1,
+       "with / neither": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.6785714285714286,
+       "lo": -0.02564102564102564,
+       "valid": 2000
+      },
+      "kappa": 0.3674698795180723,
+      "kappa_exact": "61/166",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.7692307692307693,
+      "agree": 50,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "no / no": 45,
+       "no / yes": 9,
+       "yes / no": 1,
+       "yes / yes": 5
+      },
+      "interval": {
+       "hi": 0.68,
+       "lo": 0.1111111111111111,
+       "valid": 2000
+      },
+      "kappa": 0.4186046511627907,
+      "kappa_exact": "18/43",
+      "n": 60
+     },
+     "with": [
+      4,
+      6
+     ],
+     "with_outcome_only": [
+      4,
+      5
+     ]
+    },
+    "way": "brief-v2 literal; names not counted; patterns as reports; carried-out markers counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      3
+     ],
+     "code": {
+      "ac1": 0.8508731050741523,
+      "agree": 103,
+      "agreement": 0.8583333333333333,
+      "counts": {
+       "illustrates / illustrates": 2,
+       "illustrates / no link": 1,
+       "no link / against": 2,
+       "no link / illustrates": 5,
+       "no link / no link": 99,
+       "no link / with": 6,
+       "with / against": 1,
+       "with / no link": 2,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.5227765726681128,
+       "lo": 0.06213364595545135,
+       "valid": 2000
+      },
+      "kappa": 0.30017152658662094,
+      "kappa_exact": "175/583",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9021805583859792,
+      "agree": 109,
+      "agreement": 0.9083333333333333,
+      "counts": {
+       "neither / against": 2,
+       "neither / neither": 107,
+       "neither / with": 6,
+       "with / against": 1,
+       "with / neither": 2,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.5419847328244275,
+       "lo": -0.021897810218978103,
+       "valid": 2000
+      },
+      "kappa": 0.27671232876712326,
+      "kappa_exact": "101/365",
+      "n": 120
+     },
+     "condition_3": "not passed",
+     "evidence_link": {
+      "ac1": 0.8347391977965226,
+      "agree": 104,
+      "agreement": 0.8666666666666667,
+      "counts": {
+       "no / no": 99,
+       "no / yes": 13,
+       "yes / no": 3,
+       "yes / yes": 5
+      },
+      "interval": {
+       "hi": 0.55,
+       "lo": 0.06367041198501873,
+       "valid": 2000
+      },
+      "kappa": 0.3220338983050847,
+      "kappa_exact": "19/59",
+      "n": 120
+     },
+     "with": [
+      5,
+      8
+     ],
+     "with_outcome_only": [
+      5,
+      7
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 11,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      2
+     ],
+     "code": {
+      "ac1": 0.8220178723719826,
+      "agree": 50,
+      "agreement": 0.8333333333333334,
+      "counts": {
+       "illustrates / illustrates": 1,
+       "no link / against": 1,
+       "no link / illustrates": 3,
+       "no link / no link": 47,
+       "no link / with": 4,
+       "with / against": 1,
+       "with / no link": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.628482972136223,
+       "lo": 0.045454545454545456,
+       "valid": 2000
+      },
+      "kappa": 0.3562231759656652,
+      "kappa_exact": "83/233",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.8715988994191379,
+      "agree": 53,
+      "agreement": 0.8833333333333333,
+      "counts": {
+       "neither / against": 1,
+       "neither / neither": 51,
+       "neither / with": 4,
+       "with / against": 1,
+       "with / neither": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.6785714285714286,
+       "lo": -0.02564102564102564,
+       "valid": 2000
+      },
+      "kappa": 0.3674698795180723,
+      "kappa_exact": "61/166",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.8017984951367223,
+      "agree": 51,
+      "agreement": 0.85,
+      "counts": {
+       "no / no": 47,
+       "no / yes": 8,
+       "yes / no": 1,
+       "yes / yes": 4
+      },
+      "interval": {
+       "hi": 0.6774193548387096,
+       "lo": 0.07079646017699115,
+       "valid": 2000
+      },
+      "kappa": 0.4,
+      "kappa_exact": "2/5",
+      "n": 60
+     },
+     "with": [
+      4,
+      6
+     ],
+     "with_outcome_only": [
+      4,
+      5
+     ]
+    },
+    "way": "brief-v2 literal; names not counted; patterns as reports; carried-out markers not counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      3
+     ],
+     "code": {
+      "ac1": 0.9228468098406036,
+      "agree": 111,
+      "agreement": 0.925,
+      "counts": {
+       "no link / against": 2,
+       "no link / illustrates": 2,
+       "no link / no link": 109,
+       "no link / with": 4,
+       "with / against": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.6153846153846154,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.3370165745856354,
+      "kappa_exact": "61/181",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9387275015044587,
+      "agree": 113,
+      "agreement": 0.9416666666666667,
+      "counts": {
+       "neither / against": 2,
+       "neither / neither": 111,
+       "neither / with": 4,
+       "with / against": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.7160883280757098,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.3978494623655914,
+      "kappa_exact": "37/93",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.925105320642846,
+      "agree": 112,
+      "agreement": 0.9333333333333333,
+      "counts": {
+       "no / no": 109,
+       "no / yes": 8,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.7333333333333333,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4052044609665427,
+      "kappa_exact": "109/269",
+      "n": 120
+     },
+     "with": [
+      3,
+      6
+     ],
+     "with_outcome_only": [
+      3,
+      5
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 14,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      2
+     ],
+     "code": {
+      "ac1": 0.8955575702629193,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "no link / against": 1,
+       "no link / illustrates": 1,
+       "no link / no link": 52,
+       "no link / with": 3,
+       "with / against": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.7637795275590551,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.42028985507246375,
+      "kappa_exact": "29/69",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.9096657633242999,
+      "agree": 55,
+      "agreement": 0.9166666666666666,
+      "counts": {
+       "neither / against": 1,
+       "neither / neither": 53,
+       "neither / with": 3,
+       "with / against": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.7982062780269058,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.46808510638297873,
+      "kappa_exact": "22/47",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.9000166638893518,
+      "agree": 55,
+      "agreement": 0.9166666666666666,
+      "counts": {
+       "no / no": 52,
+       "no / yes": 5,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.8484848484848485,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.5098039215686274,
+      "kappa_exact": "26/51",
+      "n": 60
+     },
+     "with": [
+      3,
+      5
+     ],
+     "with_outcome_only": [
+      3,
+      4
+     ]
+    },
+    "way": "brief-v2 literal; names not counted; patterns as readings; carried-out markers counted"
+   },
+   {
+    "all 120 rows": {
+     "against": [
+      0,
+      3
+     ],
+     "code": {
+      "ac1": 0.9228468098406036,
+      "agree": 111,
+      "agreement": 0.925,
+      "counts": {
+       "no link / against": 2,
+       "no link / illustrates": 2,
+       "no link / no link": 109,
+       "no link / with": 4,
+       "with / against": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.6153846153846154,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.3370165745856354,
+      "kappa_exact": "61/181",
+      "n": 120
+     },
+     "code3": {
+      "ac1": 0.9387275015044587,
+      "agree": 113,
+      "agreement": 0.9416666666666667,
+      "counts": {
+       "neither / against": 2,
+       "neither / neither": 111,
+       "neither / with": 4,
+       "with / against": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.7160883280757098,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.3978494623655914,
+      "kappa_exact": "37/93",
+      "n": 120
+     },
+     "condition_3": "too few",
+     "evidence_link": {
+      "ac1": 0.925105320642846,
+      "agree": 112,
+      "agreement": 0.9333333333333333,
+      "counts": {
+       "no / no": 109,
+       "no / yes": 8,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.7333333333333333,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.4052044609665427,
+      "kappa_exact": "109/269",
+      "n": 120
+     },
+     "with": [
+      3,
+      6
+     ],
+     "with_outcome_only": [
+      3,
+      5
+     ]
+    },
+    "bar": false,
+    "hard": {
+     "agreed": 14,
+     "of": 18,
+     "twin_splits": 0
+    },
+    "the 60 linked rows": {
+     "against": [
+      0,
+      2
+     ],
+     "code": {
+      "ac1": 0.8955575702629193,
+      "agree": 54,
+      "agreement": 0.9,
+      "counts": {
+       "no link / against": 1,
+       "no link / illustrates": 1,
+       "no link / no link": 52,
+       "no link / with": 3,
+       "with / against": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.7637795275590551,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.42028985507246375,
+      "kappa_exact": "29/69",
+      "n": 60
+     },
+     "code3": {
+      "ac1": 0.9096657633242999,
+      "agree": 55,
+      "agreement": 0.9166666666666666,
+      "counts": {
+       "neither / against": 1,
+       "neither / neither": 53,
+       "neither / with": 3,
+       "with / against": 1,
+       "with / with": 2
+      },
+      "interval": {
+       "hi": 0.7982062780269058,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.46808510638297873,
+      "kappa_exact": "22/47",
+      "n": 60
+     },
+     "condition_3": null,
+     "evidence_link": {
+      "ac1": 0.9000166638893518,
+      "agree": 55,
+      "agreement": 0.9166666666666666,
+      "counts": {
+       "no / no": 52,
+       "no / yes": 5,
+       "yes / yes": 3
+      },
+      "interval": {
+       "hi": 0.8484848484848485,
+       "lo": 0.0,
+       "valid": 2000
+      },
+      "kappa": 0.5098039215686274,
+      "kappa_exact": "26/51",
+      "n": 60
+     },
+     "with": [
+      3,
+      5
+     ],
+     "with_outcome_only": [
+      3,
+      4
+     ]
+    },
+    "way": "brief-v2 literal; names not counted; patterns as readings; carried-out markers not counted"
+   }
+  ],
+  "with_split": {
+   "all 120 rows": {
+    "1": {
+     "against": 0,
+     "coded": 120,
+     "condition_with_outcome": 0,
+     "illustrates": 8,
+     "no link": 107,
+     "outcome_only": 5,
+     "qualifies": 0,
+     "with": 5
+    },
+    "2": {
+     "against": 0,
+     "coded": 120,
+     "condition_with_outcome": 3,
+     "illustrates": 18,
+     "no link": 93,
+     "outcome_only": 6,
+     "qualifies": 0,
+     "with": 9
+    }
+   },
+   "every row": {
+    "1": {
+     "against": 0,
+     "coded": 148,
+     "condition_with_outcome": 2,
+     "illustrates": 14,
+     "no link": 126,
+     "outcome_only": 6,
+     "qualifies": 0,
+     "with": 8
+    },
+    "2": {
+     "against": 0,
+     "coded": 148,
+     "condition_with_outcome": 4,
+     "illustrates": 27,
+     "no link": 109,
+     "outcome_only": 8,
+     "qualifies": 0,
+     "with": 12
+    }
+   },
+   "the 60 linked rows": {
+    "1": {
+     "against": 0,
+     "coded": 60,
+     "condition_with_outcome": 0,
+     "illustrates": 3,
+     "no link": 53,
+     "outcome_only": 4,
+     "qualifies": 0,
+     "with": 4
+    },
+    "2": {
+     "against": 0,
+     "coded": 60,
+     "condition_with_outcome": 2,
+     "illustrates": 9,
+     "no link": 45,
+     "outcome_only": 4,
+     "qualifies": 0,
+     "with": 6
+    }
+   },
+   "the hard rows": {
+    "1": {
+     "against": 0,
+     "coded": 18,
+     "condition_with_outcome": 0,
+     "illustrates": 2,
+     "no link": 15,
+     "outcome_only": 1,
+     "qualifies": 0,
+     "with": 1
+    },
+    "2": {
+     "against": 0,
+     "coded": 18,
+     "condition_with_outcome": 0,
+     "illustrates": 6,
+     "no link": 10,
+     "outcome_only": 2,
+     "qualifies": 0,
+     "with": 2
+    }
+   }
+  }
+ },
+ "chats": {
+  "C1a": {
+   "coder": 1,
+   "first_line": "Reply 1 GPT 5.6 Sol",
+   "format_request": [],
+   "format_request_answer": null,
+   "no_answer": null,
+   "problems": [
+    "49 file name(s) or citation mark(s) left by the chat's citations were taken out of the replies: 'Asq_Pratt-GoodBadAmbivalent-2000' (3), 'table_1' (46)",
+    "5 other line(s) not read (headings, remarks)"
+   ],
+   "restart": null,
+   "sha256": "16f3dfe085d8fa55f64fc16f8929da119880f4a33079ff7a45bbbe1056eddf2e",
+   "source": "reply_C1a.txt",
+   "table": 1
+  },
+  "C1b": {
+   "coder": 1,
+   "first_line": "Reply 1 GPT 5.6 Sol",
+   "format_request": [],
+   "format_request_answer": null,
+   "no_answer": null,
+   "problems": [
+    "123 file name(s) or citation mark(s) left by the chat's citations were taken out of the replies: 'Asq_Pratt-GoodBadAmbivalent-2000' (44), 'table_2' (79)",
+    "5 other line(s) not read (headings, remarks)"
+   ],
+   "restart": null,
+   "sha256": "6239961f223dd8339209dc86725dfd5f451b9981ea164499da4f97e09c565c00",
+   "source": "reply_C1b.txt",
+   "table": 2
+  },
+  "C2a": {
+   "coder": 2,
+   "first_line": "Reply 1 Opus 5.5 Extra",
+   "format_request": [],
+   "format_request_answer": null,
+   "no_answer": null,
+   "problems": [
+    "6 other line(s) not read (headings, remarks)"
+   ],
+   "restart": null,
+   "sha256": "b9d083840b363d801cf9091f888de6aacb609cfe500871ffd3d715c12130bd98",
+   "source": "reply_C2a.txt",
+   "table": 1
+  },
+  "C2b": {
+   "coder": 2,
+   "first_line": "Reply 1 Opus 5.5 Extra",
+   "format_request": [],
+   "format_request_answer": null,
+   "no_answer": null,
+   "problems": [
+    "5 other line(s) not read (headings, remarks)"
+   ],
+   "restart": null,
+   "sha256": "cd5c65c78c7e8cd40b7cd8faa7d24656db9dda138a85d9d090282775bbf7474e",
+   "source": "reply_C2b.txt",
+   "table": 2
+  }
+ },
+ "checks": [],
+ "final": true,
+ "notes_on_claims": {
+  "1": [],
+  "2": [
+   {
+    "chat": "C2a",
+    "claim": "C08",
+    "note": "the footnote's reason is that every member had already been successfully recruited, so the practice did not vary among them; c1 instead marks a member's own sponsoring of others, which is not the condition as the paper states it"
+   },
+   {
+    "chat": "C2a",
+    "claim": "C42",
+    "note": "the paper ties o1 to o8 to strong positive identification (\"[6 words of Pratt (2000), p. 487]\", p. 487) and only o9 to the practices; c1 is taken from the physicians example on p. 486, not from Amway"
+   },
+   {
+    "chat": "C2b",
+    "claim": "C08",
+    "note": "marker c1 describes a member doing the sponsoring, but the claim rests on every member having been recruited, so the condition did not vary among those studied; the \"no relationship\" is closer to no variation than to an observed absence of effect"
+   },
+   {
+    "chat": "C2b",
+    "claim": "C25",
+    "note": "the condition as printed covers both responses a prospect can give, so it cannot fail once a prospect is approached; the paper's operative condition is promoting the relationship standard while prospecting family and friends"
+   }
+  ]
+ },
+ "odd": [],
+ "open_format_requests": {},
+ "read_at_utc": "2026-10-05T08:27:25+00:00",
+ "sample": {
+  "before_the_freeze": {
+   "fixes": {
+    "listed": 2,
+    "miscopied": 5,
+    "place": 2,
+    "print": 17,
+    "remove marker": 2
+   },
+   "fixes_on_a_hard_row": 3,
+   "listed": [
+    "K001:overlap:K002",
+    "K015:overlap:K016"
+   ],
+   "notes": [
+    "Chat M1 (the markers) and chat P (the passages) were each run once, on 4 Oct 2026, in ChatGPT (GPT 5.6 Sol, a Temporary Chat), as the PI confirmed. Neither return was set aside, and no second run was made.",
+    "Read before the freeze independently and by the PI. The independent reading's clear flags were three markers' opening words, which are corrected, and a closing quotation mark left off the last words of three passages, which changes the print of one (K092, corrected). Its doubtful points stayed as written, apart from the two markers the PI flagged.",
+    "Removed under fix 1, on the PI's flags: C40 c1 and C50 c1, each a sign of one part of a condition worded with a setting. Both claims are left with no marker on either side.",
+    "Stays as written: C28 and C29 each join sensebreaking succeeding with a second state, and each has one `working` marker and no `carried out` marker, where the rules ask for both kinds. No marker may be added. Flagged by the independent reader, 4 Oct.",
+    "Stays as written: C29 c1 gives the sensebreaking half of its joint condition by the paper's abstract term (`engage in seekership`). The rest of the sign is observable, and is the sign the marker session gave for the same condition at C07 k4c1 and C11 k4c1. No marker may be reworded, and removing it would leave the claim with no condition marker. Flagged by the PI, and left by a decision of 4 Oct.",
+    "Stays as written: C24 o1 carries the condition inside the outcome's sign (`as they behave more like one`), so the two sides are not kept fully apart. None of the five fixes applies: no marker may be reworded. Flagged by the PI, and left by a decision of 4 Oct.",
+    "The print: the text of the five cells of Table 1 was read off the page image by machine and compared with the page. Twelve other passages' print was corrected where the scan's text layer misreads the page. A dash is printed as a hyphen throughout, as the text layer has it."
+   ],
+   "touched": {
+    "a_quarter_of_the_markers": 33.0,
+    "markers_returned": 132,
+    "markers_touched": 7,
+    "markers_with_a_listed_finding": 0,
+    "markers_with_a_page_or_words_corrected": 5,
+    "markers_with_fix_1_2_or_3": 2,
+    "passages": 121,
+    "passages_limit": 30,
+    "passages_touched": 2,
+    "passages_with_a_listed_finding": 2,
+    "passages_with_pages_corrected": 0,
+    "passages_with_words_moved": 0
+   }
+  },
+  "cap": {
+   "linked": {
+    "at_the_cap": [
+     {
+      "claim": "C01",
+      "expected_with_no_cap": 16.4,
+      "pairs_in_the_pool": 96,
+      "rows": 6
+     }
+    ],
+    "pool": 351,
+    "rows_per_claim": {
+     "C01": 6,
+     "C02": 1,
+     "C04": 1,
+     "C06": 2,
+     "C07": 2,
+     "C11": 3,
+     "C12": 2,
+     "C13": 3,
+     "C14": 4,
+     "C15": 2,
+     "C16": 1,
+     "C18": 1,
+     "C20": 3,
+     "C21": 3,
+     "C22": 5,
+     "C23": 3,
+     "C26": 1,
+     "C29": 3,
+     "C31": 1,
+     "C32": 1,
+     "C34": 3,
+     "C35": 2,
+     "C37": 4,
+     "C38": 1,
+     "C40": 1,
+     "C42": 1
+    }
+   },
+   "near": {
+    "at_the_cap": [
+     {
+      "claim": "C07",
+      "expected_with_no_cap": 5.4,
+      "pairs_in_the_pool": 43,
+      "rows": 6
+     }
+    ],
+    "pool": 477,
+    "rows_per_claim": {
+     "C03": 2,
+     "C07": 6,
+     "C08": 1,
+     "C12": 2,
+     "C14": 3,
+     "C17": 3,
+     "C18": 3,
+     "C19": 1,
+     "C20": 1,
+     "C23": 1,
+     "C24": 1,
+     "C25": 2,
+     "C26": 3,
+     "C27": 1,
+     "C29": 1,
+     "C30": 3,
+     "C31": 2,
+     "C32": 1,
+     "C33": 3,
+     "C35": 5,
+     "C36": 4,
+     "C40": 1,
+     "C41": 2,
+     "C42": 1,
+     "C49": 2,
+     "C50": 1,
+     "C51": 1,
+     "C52": 3
+    }
+   }
+  },
+  "hard": 18,
+  "hard_left_out": [],
+  "linked": 60,
+  "lost_fragments": [],
+  "marker_source_extra": 10,
+  "markers_with_no_place": [],
+  "near": 60,
+  "of_the_bar": 120,
+  "pools": {
+   "linked": 385,
+   "near": 481
+  },
+  "prep_sha256": "d25fad6d9b8b9b9d7c8a47928a7203a66ad7506c125d64959bd17eec5b2b4f82",
+  "python": {
+   "the draw": "3.13.16",
+   "this reading": "3.13.16"
+  },
+  "rows": 148,
+  "seed_from": "the recorded seed",
+  "short": {
+   "linked": 0,
+   "near": 0
+  },
+  "top_up": 0,
+  "top_up_seed_from": null
+ },
+ "sheet": {
+  "against": {
+   "1": {
+    "author_link": {
+     "ac1": 0.8275862068965517,
+     "agree": 18,
+     "agreement": 0.9,
+     "counts": {
+      "no / no": 13,
+      "no / yes": 1,
+      "yes / no": 1,
+      "yes / yes": 5
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 0.375,
+      "valid": 2000
+     },
+     "kappa": 0.7619047619047619,
+     "kappa_exact": "16/21",
+     "n": 20
+    },
+    "code": {
+     "ac1": 0.726775956284153,
+     "agree": 15,
+     "agreement": 0.75,
+     "counts": {
+      "illustrates / no link": 3,
+      "illustrates / with": 1,
+      "no link / no link": 14,
+      "with / no link": 1,
+      "with / with": 1
+     },
+     "interval": {
+      "hi": 0.6721311475409836,
+      "lo": 0.0,
+      "valid": 2000
+     },
+     "kappa": 0.3055555555555556,
+     "kappa_exact": "11/36",
+     "n": 20
+    },
+    "code3": {
+     "ac1": 0.8901098901098901,
+     "agree": 18,
+     "agreement": 0.9,
+     "counts": {
+      "neither / neither": 17,
+      "neither / with": 1,
+      "with / neither": 1,
+      "with / with": 1
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": -0.1111111111111111,
+      "valid": 1927
+     },
+     "kappa": 0.4444444444444444,
+     "kappa_exact": "4/9",
+     "n": 20
+    },
+    "condition": {
+     "ac1": 0.7192982456140351,
+     "agree": 15,
+     "agreement": 0.75,
+     "counts": {
+      "not shown / not shown": 15,
+      "not shown / present": 1,
+      "present / not shown": 4
+     },
+     "interval": {
+      "hi": 0.0,
+      "lo": -0.20689655172413793,
+      "valid": 1992
+     },
+     "kappa": -0.08695652173913043,
+     "kappa_exact": "-2/23",
+     "n": 20
+    },
+    "evidence_link": {
+     "ac1": 0.7058823529411765,
+     "agree": 16,
+     "agreement": 0.8,
+     "counts": {
+      "no / no": 14,
+      "yes / no": 4,
+      "yes / yes": 2
+     },
+     "interval": {
+      "hi": 0.8275862068965517,
+      "lo": 0.0,
+      "valid": 2000
+     },
+     "kappa": 0.4117647058823529,
+     "kappa_exact": "7/17",
+     "n": 20
+    },
+    "kind": {
+     "ac1": 0.8607484769364665,
+     "agree": 18,
+     "agreement": 0.9,
+     "counts": {
+      "pattern / pattern": 5,
+      "pattern / reading": 1,
+      "reading / reading": 2,
+      "report / pattern": 1,
+      "report / report": 11
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 0.5370370370370371,
+      "valid": 2000
+     },
+     "kappa": 0.8230088495575221,
+     "kappa_exact": "93/113",
+     "n": 20
+    },
+    "outcome": {
+     "ac1": 0.8111723052714398,
+     "agree": 17,
+     "agreement": 0.85,
+     "counts": {
+      "as asserted / as asserted": 4,
+      "as asserted / not shown": 1,
+      "not shown / as asserted": 1,
+      "not shown / not shown": 13,
+      "other way / not shown": 1
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 0.1794871794871795,
+      "valid": 2000
+     },
+     "kappa": 0.6363636363636364,
+     "kappa_exact": "7/11",
+     "n": 20
+    },
+    "use": {
+     "ac1": 0.812206572769953,
+     "agree": 17,
+     "agreement": 0.85,
+     "counts": {
+      "evidence / evidence": 5,
+      "evidence / none": 1,
+      "none / evidence": 1,
+      "none / none": 9,
+      "restatement / none": 1,
+      "restatement / restatement": 3
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 0.43661971830985913,
+      "valid": 2000
+     },
+     "kappa": 0.7520661157024794,
+     "kappa_exact": "91/121",
+     "n": 20
+    }
+   },
+   "2": {
+    "author_link": {
+     "ac1": 0.8165137614678899,
+     "agree": 18,
+     "agreement": 0.9,
+     "counts": {
+      "no / no": 12,
+      "no / yes": 2,
+      "yes / yes": 6
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 0.42857142857142855,
+      "valid": 2000
+     },
+     "kappa": 0.782608695652174,
+     "kappa_exact": "18/23",
+     "n": 20
+    },
+    "code": {
+     "ac1": 1.0,
+     "agree": 20,
+     "agreement": 1.0,
+     "counts": {
+      "illustrates / illustrates": 4,
+      "no link / no link": 14,
+      "with / with": 2
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 1.0,
+      "valid": 2000
+     },
+     "kappa": 1.0,
+     "kappa_exact": "1",
+     "n": 20
+    },
+    "code3": {
+     "ac1": 1.0,
+     "agree": 20,
+     "agreement": 1.0,
+     "counts": {
+      "neither / neither": 18,
+      "with / with": 2
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 1.0,
+      "valid": 1784
+     },
+     "kappa": 1.0,
+     "kappa_exact": "1",
+     "n": 20
+    },
+    "condition": {
+     "ac1": 0.8803290949887809,
+     "agree": 18,
+     "agreement": 0.9,
+     "counts": {
+      "not shown / absent": 1,
+      "not shown / not shown": 15,
+      "present / not shown": 1,
+      "present / present": 3
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 0.0,
+      "valid": 1993
+     },
+     "kappa": 0.696969696969697,
+     "kappa_exact": "23/33",
+     "n": 20
+    },
+    "evidence_link": {
+     "ac1": 1.0,
+     "agree": 20,
+     "agreement": 1.0,
+     "counts": {
+      "no / no": 14,
+      "yes / yes": 6
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 1.0,
+      "valid": 2000
+     },
+     "kappa": 1.0,
+     "kappa_exact": "1",
+     "n": 20
+    },
+    "kind": {
+     "ac1": 0.9308556611927399,
+     "agree": 19,
+     "agreement": 0.95,
+     "counts": {
+      "pattern / pattern": 6,
+      "reading / reading": 2,
+      "report / pattern": 1,
+      "report / report": 11
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 0.6666666666666666,
+      "valid": 2000
+     },
+     "kappa": 0.9099099099099099,
+     "kappa_exact": "101/111",
+     "n": 20
+    },
+    "outcome": {
+     "ac1": 1.0,
+     "agree": 20,
+     "agreement": 1.0,
+     "counts": {
+      "as asserted / as asserted": 5,
+      "not shown / not shown": 14,
+      "other way / other way": 1
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 1.0,
+      "valid": 1998
+     },
+     "kappa": 1.0,
+     "kappa_exact": "1",
+     "n": 20
+    },
+    "use": {
+     "ac1": 0.8731501057082452,
+     "agree": 18,
+     "agreement": 0.9,
+     "counts": {
+      "evidence / evidence": 6,
+      "none / evidence": 2,
+      "none / none": 8,
+      "restatement / restatement": 4
+     },
+     "interval": {
+      "hi": 1.0,
+      "lo": 0.5934959349593496,
+      "valid": 2000
+     },
+     "kappa": 0.84375,
+     "kappa_exact": "27/32",
+     "n": 20
+    }
+   }
+  },
+  "file": "link_test2_human_sheet_filled.xlsx",
+  "missing": [],
+  "not_found": [],
+  "problems": [],
+  "rows": 20,
+  "rows_detail": [
+   {
+    "coder_1": "no link",
+    "coder_2": "no link",
+    "pair": [
+     "F118",
+     "C14"
+    ],
+    "pi": "no link",
+    "row": "R001",
+    "stratum": "near"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "no link",
+    "pair": [
+     "F27",
+     "C52"
+    ],
+    "pi": "no link",
+    "row": "R004",
+    "stratum": "near"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "no link",
+    "pair": [
+     "F110",
+     "C42"
+    ],
+    "pi": "no link",
+    "row": "R006",
+    "stratum": "near"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "no link",
+    "pair": [
+     "F52",
+     "C12"
+    ],
+    "pi": "no link",
+    "row": "R013",
+    "stratum": "near"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "no link",
+    "pair": [
+     "F66",
+     "C22"
+    ],
+    "pi": "no link",
+    "row": "R032",
+    "stratum": "linked"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "no link",
+    "pair": [
+     "F95",
+     "C13"
+    ],
+    "pi": "no link",
+    "row": "R037",
+    "stratum": "linked"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "no link",
+    "pair": [
+     "F25",
+     "C09"
+    ],
+    "pi": "no link",
+    "row": "R051",
+    "stratum": "hard"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "with",
+    "pair": [
+     "F103",
+     "C03"
+    ],
+    "pi": "with",
+    "row": "R057",
+    "stratum": "near"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "no link",
+    "pair": [
+     "F40",
+     "C12"
+    ],
+    "pi": "no link",
+    "row": "R068",
+    "stratum": "linked"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "illustrates",
+    "pair": [
+     "F110",
+     "C08"
+    ],
+    "pi": "illustrates",
+    "row": "R069",
+    "stratum": "near"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "illustrates",
+    "pair": [
+     "F24",
+     "C09"
+    ],
+    "pi": "illustrates",
+    "row": "R077",
+    "stratum": "hard"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "no link",
+    "pair": [
+     "F20",
+     "C08"
+    ],
+    "pi": "no link",
+    "row": "R092",
+    "stratum": "hard"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "no link",
+    "pair": [
+     "F108",
+     "C11"
+    ],
+    "pi": "no link",
+    "row": "R093",
+    "stratum": "linked"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "illustrates",
+    "pair": [
+     "F51",
+     "C27"
+    ],
+    "pi": "illustrates",
+    "row": "R101",
+    "stratum": "near"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "no link",
+    "pair": [
+     "F29",
+     "C13"
+    ],
+    "pi": "no link",
+    "row": "R113",
+    "stratum": "hard"
+   },
+   {
+    "coder_1": "with",
+    "coder_2": "with",
+    "pair": [
+     "F34",
+     "C14"
+    ],
+    "pi": "with",
+    "row": "R118",
+    "stratum": "linked"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "no link",
+    "pair": [
+     "F100",
+     "C01"
+    ],
+    "pi": "no link",
+    "row": "R120",
+    "stratum": "linked"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "no link",
+    "pair": [
+     "F46",
+     "C14"
+    ],
+    "pi": "no link",
+    "row": "R127",
+    "stratum": "near"
+   },
+   {
+    "coder_1": "with",
+    "coder_2": "illustrates",
+    "pair": [
+     "F101",
+     "C29"
+    ],
+    "pi": "illustrates",
+    "row": "R140",
+    "stratum": "linked"
+   },
+   {
+    "coder_1": "no link",
+    "coder_2": "no link",
+    "pair": [
+     "F88",
+     "C07"
+    ],
+    "pi": "no link",
+    "row": "R147",
+    "stratum": "linked"
+   }
+  ],
+  "sha256": {
+   "bytes": 24642,
+   "sha256": "20c2421bb35088a0c694d9266efebf87e5e4193752986052a241efed1f34777f"
+  }
+ },
+ "trial": false,
+ "unclear": {
+  "1": [],
+  "2": [
+   "R002",
+   "R005",
+   "R008",
+   "R009",
+   "R011",
+   "R013",
+   "R014",
+   "R015",
+   "R018",
+   "R019",
+   "R020",
+   "R021",
+   "R022",
+   "R028",
+   "R032",
+   "R033",
+   "R034",
+   "R037",
+   "R041",
+   "R042",
+   "R043",
+   "R044",
+   "R047",
+   "R049",
+   "R051",
+   "R053",
+   "R055",
+   "R056",
+   "R057",
+   "R058",
+   "R063",
+   "R065",
+   "R068",
+   "R069",
+   "R070",
+   "R072",
+   "R074",
+   "R077",
+   "R079",
+   "R083",
+   "R084",
+   "R086",
+   "R091",
+   "R096",
+   "R097",
+   "R101",
+   "R104",
+   "R109",
+   "R110",
+   "R113",
+   "R118",
+   "R121",
+   "R133",
+   "R134",
+   "R136",
+   "R140",
+   "R143",
+   "R147"
+  ]
+ }
+}

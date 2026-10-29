@@ -1,0 +1,890 @@
+{
+ "builder_sha256": "3dd00b533f75fb69330aee9f28176f6d88b0bc3c183fc16ae55985b2304c5bb4",
+ "core": {
+  "C01": {
+   "constructs": [
+    {
+     "canonical": "evaluative spillovers",
+     "other_claims": [
+      "C02",
+      "C03",
+      "C04",
+      "C05",
+      "C13",
+      "C16",
+      "C17",
+      "C18",
+      "C19",
+      "C22",
+      "C23"
+     ]
+    },
+    {
+     "canonical": "technological change",
+     "other_claims": []
+    },
+    {
+     "canonical": "neighboring occupations",
+     "other_claims": [
+      "C19"
+     ]
+    },
+    {
+     "canonical": "occupational practices",
+     "other_claims": [
+      "C07",
+      "C10",
+      "C11"
+     ]
+    }
+   ],
+   "edges_in": [
+    {
+     "base": "C02",
+     "strength": "necessary",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C09",
+     "strength": "contributing",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C14",
+     "strength": "contributing",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C17",
+     "strength": "necessary",
+     "type": "evidential"
+    }
+   ],
+   "evidence": {
+    "by_data_type": {
+     "unspecified": 9
+    },
+    "by_direction": {
+     "illustrates": 4,
+     "qualifies": 2,
+     "with": 3
+    },
+    "by_direction_and_voice": {
+     "illustrates": {
+      "author_insight": 4
+     },
+     "qualifies": {
+      "author_insight": 2
+     },
+     "with": {
+      "author_insight": 2,
+      "reported": 1
+     }
+    },
+    "by_unit": {
+     "Metropolitan County Crime Lab": 1,
+     "controlled substances (narcotics)": 1,
+     "firearms": 1,
+     "forensic science field": 5,
+     "toxicology": 1
+    },
+    "passages": 9
+   },
+   "openings": {
+    "absences": [],
+    "against": [],
+    "declared_gaps": [
+     "DG01"
+    ],
+    "qualifying": [
+     "F87",
+     "F129"
+    ],
+    "ventured": false,
+    "ventured_bases": [
+     "C09"
+    ]
+   },
+   "scope": {
+    "scope_limits": [
+     "DG01"
+    ],
+    "units": [
+     "Metropolitan County Crime Lab",
+     "controlled substances (narcotics)",
+     "firearms",
+     "forensic science field",
+     "toxicology"
+    ]
+   },
+   "statement": "Evaluative spillovers allow a technology to reshape the work of adjacent occupations even when those groups do not adopt the technology.",
+   "timing": {
+    "passages_by_period": {
+     "P1": 9
+    },
+    "periods": [
+     "P1"
+    ],
+    "reports_outcome_after_resolution": false,
+    "resolution_basis": "The empirical account closes with different contemporaneous responses across the three occupations and then moves to discussion; it does not identify a later point at which the spillover process or those responses became settled.",
+    "resolution_period": null
+   }
+  },
+  "C03": {
+   "constructs": [
+    {
+     "canonical": "institutional pathways",
+     "other_claims": [
+      "C16",
+      "C17",
+      "C18",
+      "C22"
+     ]
+    },
+    {
+     "canonical": "evaluative spillovers",
+     "other_claims": [
+      "C01",
+      "C02",
+      "C04",
+      "C05",
+      "C13",
+      "C16",
+      "C17",
+      "C18",
+      "C19",
+      "C22",
+      "C23"
+     ]
+    },
+    {
+     "canonical": "occupational change",
+     "other_claims": [
+      "C04",
+      "C05",
+      "C21",
+      "C23"
+     ]
+    }
+   ],
+   "edges_in": [
+    {
+     "base": "C02",
+     "strength": "necessary",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C16",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C17",
+     "strength": "necessary",
+     "type": "evidential"
+    },
+    {
+     "base": "C18",
+     "strength": "contributing",
+     "type": "evidential"
+    }
+   ],
+   "evidence": {
+    "by_data_type": {
+     "archival": 5,
+     "quoted_speech_in_situ": 3,
+     "unspecified": 37
+    },
+    "by_direction": {
+     "illustrates": 35,
+     "with": 10
+    },
+    "by_direction_and_voice": {
+     "illustrates": {
+      "author_insight": 25,
+      "reported": 10
+     },
+     "with": {
+      "author_insight": 9,
+      "reported": 1
+     }
+    },
+    "by_unit": {
+     "controlled substances (narcotics)": 10,
+     "defense attorneys": 1,
+     "firearms": 12,
+     "forensic science field": 5,
+     "forensic science professional associations": 3,
+     "laboratory management": 1,
+     "media": 2,
+     "toxicology": 11
+    },
+    "passages": 45
+   },
+   "openings": {
+    "absences": [
+     "A01"
+    ],
+    "against": [],
+    "declared_gaps": [
+     "DG01",
+     "DG03"
+    ],
+    "qualifying": [],
+    "ventured": false,
+    "ventured_bases": []
+   },
+   "scope": {
+    "scope_limits": [
+     "DG01"
+    ],
+    "units": [
+     "controlled substances (narcotics)",
+     "defense attorneys",
+     "firearms",
+     "forensic science field",
+     "forensic science professional associations",
+     "laboratory management",
+     "media",
+     "toxicology"
+    ]
+   },
+   "statement": "Institutional pathways shape how evaluative spillovers are encountered and acted on; locally immediate routes create a stronger impetus for local practice change than remote or nonurgent routes.",
+   "timing": {
+    "passages_by_period": {
+     "P1": 45
+    },
+    "periods": [
+     "P1"
+    ],
+    "reports_outcome_after_resolution": false,
+    "resolution_basis": "The empirical account closes with different contemporaneous responses across the three occupations and then moves to discussion; it does not identify a later point at which the spillover process or those responses became settled.",
+    "resolution_period": null
+   }
+  },
+  "C04": {
+   "constructs": [
+    {
+     "canonical": "technique",
+     "other_claims": [
+      "C13",
+      "C16",
+      "C17",
+      "C18",
+      "C20",
+      "C21"
+     ]
+    },
+    {
+     "canonical": "evaluative spillovers",
+     "other_claims": [
+      "C01",
+      "C02",
+      "C03",
+      "C05",
+      "C13",
+      "C16",
+      "C17",
+      "C18",
+      "C19",
+      "C22",
+      "C23"
+     ]
+    },
+    {
+     "canonical": "occupational change",
+     "other_claims": [
+      "C03",
+      "C05",
+      "C21",
+      "C23"
+     ]
+    }
+   ],
+   "edges_in": [
+    {
+     "base": "C02",
+     "strength": "necessary",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C16",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C17",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C18",
+     "strength": "necessary",
+     "type": "evidential"
+    }
+   ],
+   "evidence": {
+    "by_data_type": {
+     "archival": 1,
+     "group_interview": 1,
+     "observation": 3,
+     "quoted_speech_in_situ": 1,
+     "unspecified": 14
+    },
+    "by_direction": {
+     "illustrates": 20
+    },
+    "by_direction_and_voice": {
+     "illustrates": {
+      "author_insight": 10,
+      "reported": 10
+     }
+    },
+    "by_unit": {
+     "controlled substances (narcotics)": 7,
+     "firearms": 5,
+     "forensic science field": 3,
+     "toxicology": 5
+    },
+    "passages": 20
+   },
+   "openings": {
+    "absences": [],
+    "against": [],
+    "declared_gaps": [
+     "DG01"
+    ],
+    "qualifying": [],
+    "ventured": false,
+    "ventured_bases": []
+   },
+   "scope": {
+    "scope_limits": [
+     "DG01"
+    ],
+    "units": [
+     "controlled substances (narcotics)",
+     "firearms",
+     "forensic science field",
+     "toxicology"
+    ]
+   },
+   "statement": "The technical compatibility between a benchmark technology and an occupation’s existing method shapes how feasible adaptation is, although compatibility by itself does not guarantee change.",
+   "timing": {
+    "passages_by_period": {
+     "P1": 20
+    },
+    "periods": [
+     "P1"
+    ],
+    "reports_outcome_after_resolution": false,
+    "resolution_basis": "The empirical account closes with different contemporaneous responses across the three occupations and then moves to discussion; it does not identify a later point at which the spillover process or those responses became settled.",
+    "resolution_period": null
+   }
+  },
+  "C05": {
+   "constructs": [
+    {
+     "canonical": "occupational values",
+     "other_claims": [
+      "C10",
+      "C16",
+      "C17",
+      "C18",
+      "C20",
+      "C21",
+      "C22"
+     ]
+    },
+    {
+     "canonical": "evaluative spillovers",
+     "other_claims": [
+      "C01",
+      "C02",
+      "C03",
+      "C04",
+      "C13",
+      "C16",
+      "C17",
+      "C18",
+      "C19",
+      "C22",
+      "C23"
+     ]
+    },
+    {
+     "canonical": "occupational change",
+     "other_claims": [
+      "C03",
+      "C04",
+      "C21",
+      "C23"
+     ]
+    }
+   ],
+   "edges_in": [
+    {
+     "base": "C02",
+     "strength": "necessary",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C16",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C17",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C18",
+     "strength": "contributing",
+     "type": "evidential"
+    }
+   ],
+   "evidence": {
+    "by_data_type": {
+     "observation": 1,
+     "quoted_speech_in_situ": 6,
+     "unspecified": 24
+    },
+    "by_direction": {
+     "illustrates": 25,
+     "with": 6
+    },
+    "by_direction_and_voice": {
+     "illustrates": {
+      "author_insight": 13,
+      "reported": 12
+     },
+     "with": {
+      "author_insight": 6
+     }
+    },
+    "by_unit": {
+     "controlled substances (narcotics)": 15,
+     "firearms": 6,
+     "forensic science field": 3,
+     "toxicology": 7
+    },
+    "passages": 31
+   },
+   "openings": {
+    "absences": [],
+    "against": [],
+    "declared_gaps": [
+     "DG01"
+    ],
+    "qualifying": [],
+    "ventured": false,
+    "ventured_bases": []
+   },
+   "scope": {
+    "scope_limits": [
+     "DG01"
+    ],
+    "units": [
+     "controlled substances (narcotics)",
+     "firearms",
+     "forensic science field",
+     "toxicology"
+    ]
+   },
+   "statement": "Occupational values filter evaluative comparisons: alignment with valued ways of doing good work supports adaptation, whereas a threat to those values promotes resistance.",
+   "timing": {
+    "passages_by_period": {
+     "P1": 31
+    },
+    "periods": [
+     "P1"
+    ],
+    "reports_outcome_after_resolution": false,
+    "resolution_basis": "The empirical account closes with different contemporaneous responses across the three occupations and then moves to discussion; it does not identify a later point at which the spillover process or those responses became settled.",
+    "resolution_period": null
+   }
+  },
+  "C13": {
+   "constructs": [
+    {
+     "canonical": "DNA profiling",
+     "other_claims": [
+      "C02",
+      "C14",
+      "C15"
+     ]
+    },
+    {
+     "canonical": "evaluative spillovers",
+     "other_claims": [
+      "C01",
+      "C02",
+      "C03",
+      "C04",
+      "C05",
+      "C16",
+      "C17",
+      "C18",
+      "C19",
+      "C22",
+      "C23"
+     ]
+    },
+    {
+     "canonical": "technique",
+     "other_claims": [
+      "C04",
+      "C16",
+      "C17",
+      "C18",
+      "C20",
+      "C21"
+     ]
+    },
+    {
+     "canonical": "meaning making",
+     "other_claims": [
+      "C11",
+      "C12"
+     ]
+    }
+   ],
+   "edges_in": [
+    {
+     "base": "C02",
+     "strength": "necessary",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C14",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C16",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C17",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C18",
+     "strength": "contributing",
+     "type": "evidential"
+    }
+   ],
+   "evidence": {
+    "by_data_type": {
+     "group_interview": 1,
+     "unspecified": 11
+    },
+    "by_direction": {
+     "illustrates": 12
+    },
+    "by_direction_and_voice": {
+     "illustrates": {
+      "author_insight": 11,
+      "reported": 1
+     }
+    },
+    "by_unit": {
+     "controlled substances (narcotics)": 3,
+     "firearms": 3,
+     "forensic science field": 3,
+     "toxicology": 3
+    },
+    "passages": 12
+   },
+   "openings": {
+    "absences": [],
+    "against": [],
+    "declared_gaps": [],
+    "qualifying": [],
+    "ventured": false,
+    "ventured_bases": []
+   },
+   "scope": {
+    "scope_limits": [],
+    "units": [
+     "controlled substances (narcotics)",
+     "firearms",
+     "forensic science field",
+     "toxicology"
+    ]
+   },
+   "statement": "A benchmark technology is not interpreted as one fixed standard; neighboring occupations select different features of it when comparing the technology with their own work.",
+   "timing": {
+    "passages_by_period": {
+     "P1": 12
+    },
+    "periods": [
+     "P1"
+    ],
+    "reports_outcome_after_resolution": false,
+    "resolution_basis": "The empirical account closes with different contemporaneous responses across the three occupations and then moves to discussion; it does not identify a later point at which the spillover process or those responses became settled.",
+    "resolution_period": null
+   }
+  },
+  "C20": {
+   "constructs": [
+    {
+     "canonical": "occupational values",
+     "other_claims": [
+      "C05",
+      "C10",
+      "C16",
+      "C17",
+      "C18",
+      "C21",
+      "C22"
+     ]
+    },
+    {
+     "canonical": "technique",
+     "other_claims": [
+      "C04",
+      "C13",
+      "C16",
+      "C17",
+      "C18",
+      "C21"
+     ]
+    },
+    {
+     "canonical": "occupational culture",
+     "other_claims": [
+      "C10"
+     ]
+    }
+   ],
+   "edges_in": [
+    {
+     "base": "C04",
+     "strength": "contributing",
+     "type": "significance"
+    },
+    {
+     "base": "C05",
+     "strength": "necessary",
+     "type": "significance"
+    },
+    {
+     "base": "C10",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C16",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C17",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C18",
+     "strength": "contributing",
+     "type": "evidential"
+    }
+   ],
+   "evidence": {
+    "by_data_type": {
+     "archival": 1,
+     "observation": 3,
+     "quoted_speech_in_situ": 8,
+     "unspecified": 25
+    },
+    "by_direction": {
+     "illustrates": 37
+    },
+    "by_direction_and_voice": {
+     "illustrates": {
+      "author_insight": 15,
+      "reported": 22
+     }
+    },
+    "by_unit": {
+     "controlled substances (narcotics)": 21,
+     "firearms": 7,
+     "forensic science field": 2,
+     "toxicology": 7
+    },
+    "passages": 37
+   },
+   "openings": {
+    "absences": [],
+    "against": [],
+    "declared_gaps": [],
+    "qualifying": [],
+    "ventured": false,
+    "ventured_bases": []
+   },
+   "scope": {
+    "scope_limits": [],
+    "units": [
+     "controlled substances (narcotics)",
+     "firearms",
+     "forensic science field",
+     "toxicology"
+    ]
+   },
+   "statement": "Occupational values and technique are intertwined in practice because values are rooted in what the work requires and reveals to practitioners.",
+   "timing": {
+    "passages_by_period": {
+     "P1": 37
+    },
+    "periods": [
+     "P1"
+    ],
+    "reports_outcome_after_resolution": false,
+    "resolution_basis": "The empirical account closes with different contemporaneous responses across the three occupations and then moves to discussion; it does not identify a later point at which the spillover process or those responses became settled.",
+    "resolution_period": null
+   }
+  },
+  "C21": {
+   "constructs": [
+    {
+     "canonical": "occupational values",
+     "other_claims": [
+      "C05",
+      "C10",
+      "C16",
+      "C17",
+      "C18",
+      "C20",
+      "C22"
+     ]
+    },
+    {
+     "canonical": "technique",
+     "other_claims": [
+      "C04",
+      "C13",
+      "C16",
+      "C17",
+      "C18",
+      "C20"
+     ]
+    },
+    {
+     "canonical": "status",
+     "other_claims": [
+      "C06"
+     ]
+    },
+    {
+     "canonical": "power",
+     "other_claims": [
+      "C08"
+     ]
+    },
+    {
+     "canonical": "occupational change",
+     "other_claims": [
+      "C03",
+      "C04",
+      "C05",
+      "C23"
+     ]
+    }
+   ],
+   "edges_in": [
+    {
+     "base": "C04",
+     "strength": "contributing",
+     "type": "comparative"
+    },
+    {
+     "base": "C05",
+     "strength": "necessary",
+     "type": "comparative"
+    },
+    {
+     "base": "C08",
+     "strength": "contributing",
+     "type": "comparative"
+    },
+    {
+     "base": "C16",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C17",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C18",
+     "strength": "contributing",
+     "type": "evidential"
+    }
+   ],
+   "evidence": {
+    "by_data_type": {
+     "unspecified": 3
+    },
+    "by_direction": {
+     "illustrates": 3
+    },
+    "by_direction_and_voice": {
+     "illustrates": {
+      "author_insight": 3
+     }
+    },
+    "by_unit": {
+     "forensic science field": 3
+    },
+    "passages": 3
+   },
+   "openings": {
+    "absences": [],
+    "against": [],
+    "declared_gaps": [],
+    "qualifying": [],
+    "ventured": false,
+    "ventured_bases": []
+   },
+   "scope": {
+    "scope_limits": [],
+    "units": [
+     "forensic science field"
+    ]
+   },
+   "statement": "For the three focal occupations, differences in the nature of the work—especially values and technique—accounted for the response pattern more than relative occupational status or power did.",
+   "timing": {
+    "passages_by_period": {
+     "P1": 3
+    },
+    "periods": [
+     "P1"
+    ],
+    "reports_outcome_after_resolution": false,
+    "resolution_basis": "The empirical account closes with different contemporaneous responses across the three occupations and then moves to discussion; it does not identify a later point at which the spillover process or those responses became settled.",
+    "resolution_period": null
+   }
+  }
+ },
+ "inputs": {
+  "index": "6f83d744cd1dd68326cce29568a4aff461580d852d1222c4f1d096cb6922ced0",
+  "settled": "01b7fc1b3045c294af9593573cf9b5ba0f059da901bfd62b1b25998db605380b",
+  "voice": "e4b6d8c974a6661440e9366f24f85e8ebfc51d0defdceea99281f2eb567bea8a"
+ },
+ "paper": {
+  "canonical_constructs": 35,
+  "factors_following_the_outcome": [],
+  "ventured_claims": [
+   "C09",
+   "C19",
+   "C22",
+   "C23"
+  ]
+ },
+ "what": "the mechanical modules of the settled map of bechky (T39, part C)"
+}

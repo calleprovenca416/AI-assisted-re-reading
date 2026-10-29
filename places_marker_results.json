@@ -1,0 +1,474 @@
+{
+ "replies": {
+  "opus": {
+   "file": "reply_47_mark_places_opus.json",
+   "codes": {
+    "R": 86,
+    "N": 33,
+    "P": 10,
+    "RA": 16,
+    "C": 2,
+    "RI": 3
+   },
+   "problems": [],
+   "rules": {},
+   "longest_quote": 4
+  },
+  "astra": {
+   "file": "reply_48_mark_places_astra.json",
+   "codes": {
+    "R": 94,
+    "N": 31,
+    "P": 8,
+    "RA": 10,
+    "RI": 6,
+    "U": 1
+   },
+   "problems": [],
+   "rules": {},
+   "longest_quote": 0
+  }
+ },
+ "agreement": {
+  "sentences": 150,
+  "same": 121,
+  "observed": 0.8066666666666666,
+  "kappa7": 0.6688237533307956,
+  "observed4": 0.8666666666666667,
+  "kappa4": 0.6952767902488574
+ },
+ "rates": {
+  "by_arm": {
+   "opus": {
+    "places given": {
+     "sentences": 81,
+     "reporting": 66,
+     "R": 47,
+     "RI": 2,
+     "RA": 11,
+     "P": 5,
+     "P_stated": 2,
+     "U": 0,
+     "C": 1,
+     "drift": 0,
+     "fatal": [
+      "W04"
+     ],
+     "readings": 4,
+     "pos": {
+      "U": {},
+      "C": {
+       "warrant": 1
+      }
+     }
+    },
+    "places found": {
+     "sentences": 69,
+     "reporting": 51,
+     "R": 39,
+     "RI": 1,
+     "RA": 5,
+     "P": 5,
+     "P_stated": 2,
+     "U": 0,
+     "C": 1,
+     "drift": 1,
+     "fatal": [
+      "W03"
+     ],
+     "readings": 4,
+     "pos": {
+      "U": {},
+      "C": {
+       "warrant": 1
+      }
+     }
+    }
+   },
+   "astra": {
+    "places given": {
+     "sentences": 81,
+     "reporting": 67,
+     "R": 52,
+     "RI": 5,
+     "RA": 5,
+     "P": 5,
+     "P_stated": 2,
+     "U": 0,
+     "C": 0,
+     "drift": 1,
+     "fatal": [],
+     "readings": 4,
+     "pos": {
+      "U": {},
+      "C": {}
+     }
+    },
+    "places found": {
+     "sentences": 69,
+     "reporting": 52,
+     "R": 42,
+     "RI": 1,
+     "RA": 5,
+     "P": 3,
+     "P_stated": 1,
+     "U": 1,
+     "C": 0,
+     "drift": 2,
+     "fatal": [],
+     "readings": 4,
+     "pos": {
+      "U": {
+       "mechanism": 1
+      },
+      "C": {}
+     }
+    }
+   }
+  },
+  "by_reading": {
+   "W01": {
+    "chat": "46",
+    "source_id": "R3",
+    "rates": {
+     "opus": {
+      "sentences": 16,
+      "reporting": 13,
+      "R": 9,
+      "RI": 0,
+      "RA": 2,
+      "P": 2,
+      "P_stated": 1,
+      "U": 0,
+      "C": 0,
+      "drift": 0,
+      "readings": 1,
+      "pos": {
+       "U": {},
+       "C": {}
+      },
+      "warrant_U_or_C": false
+     },
+     "astra": {
+      "sentences": 16,
+      "reporting": 13,
+      "R": 11,
+      "RI": 0,
+      "RA": 1,
+      "P": 1,
+      "P_stated": 0,
+      "U": 0,
+      "C": 0,
+      "drift": 0,
+      "readings": 1,
+      "pos": {
+       "U": {},
+       "C": {}
+      },
+      "warrant_U_or_C": false
+     }
+    }
+   },
+   "W02": {
+    "chat": "45",
+    "source_id": "R3",
+    "rates": {
+     "opus": {
+      "sentences": 20,
+      "reporting": 15,
+      "R": 10,
+      "RI": 0,
+      "RA": 5,
+      "P": 0,
+      "P_stated": 0,
+      "U": 0,
+      "C": 0,
+      "drift": 0,
+      "readings": 1,
+      "pos": {
+       "U": {},
+       "C": {}
+      },
+      "warrant_U_or_C": false
+     },
+     "astra": {
+      "sentences": 20,
+      "reporting": 15,
+      "R": 11,
+      "RI": 1,
+      "RA": 3,
+      "P": 0,
+      "P_stated": 0,
+      "U": 0,
+      "C": 0,
+      "drift": 0,
+      "readings": 1,
+      "pos": {
+       "U": {},
+       "C": {}
+      },
+      "warrant_U_or_C": false
+     }
+    }
+   },
+   "W03": {
+    "chat": "46",
+    "source_id": "R1",
+    "rates": {
+     "opus": {
+      "sentences": 17,
+      "reporting": 13,
+      "R": 10,
+      "RI": 0,
+      "RA": 2,
+      "P": 0,
+      "P_stated": 0,
+      "U": 0,
+      "C": 1,
+      "drift": 0,
+      "readings": 1,
+      "pos": {
+       "U": {},
+       "C": {
+        "warrant": 1
+       }
+      },
+      "warrant_U_or_C": true
+     },
+     "astra": {
+      "sentences": 17,
+      "reporting": 13,
+      "R": 9,
+      "RI": 0,
+      "RA": 3,
+      "P": 1,
+      "P_stated": 0,
+      "U": 0,
+      "C": 0,
+      "drift": 0,
+      "readings": 1,
+      "pos": {
+       "U": {},
+       "C": {}
+      },
+      "warrant_U_or_C": false
+     }
+    }
+   },
+   "W04": {
+    "chat": "45",
+    "source_id": "R1",
+    "rates": {
+     "opus": {
+      "sentences": 22,
+      "reporting": 20,
+      "R": 16,
+      "RI": 0,
+      "RA": 3,
+      "P": 0,
+      "P_stated": 0,
+      "U": 0,
+      "C": 1,
+      "drift": 0,
+      "readings": 1,
+      "pos": {
+       "U": {},
+       "C": {
+        "warrant": 1
+       }
+      },
+      "warrant_U_or_C": true
+     },
+     "astra": {
+      "sentences": 22,
+      "reporting": 19,
+      "R": 16,
+      "RI": 0,
+      "RA": 2,
+      "P": 1,
+      "P_stated": 1,
+      "U": 0,
+      "C": 0,
+      "drift": 1,
+      "readings": 1,
+      "pos": {
+       "U": {},
+       "C": {}
+      },
+      "warrant_U_or_C": false
+     }
+    }
+   },
+   "W05": {
+    "chat": "46",
+    "source_id": "R2",
+    "rates": {
+     "opus": {
+      "sentences": 18,
+      "reporting": 12,
+      "R": 12,
+      "RI": 0,
+      "RA": 0,
+      "P": 0,
+      "P_stated": 0,
+      "U": 0,
+      "C": 0,
+      "drift": 1,
+      "readings": 1,
+      "pos": {
+       "U": {},
+       "C": {}
+      },
+      "warrant_U_or_C": false
+     },
+     "astra": {
+      "sentences": 18,
+      "reporting": 13,
+      "R": 12,
+      "RI": 0,
+      "RA": 0,
+      "P": 1,
+      "P_stated": 1,
+      "U": 0,
+      "C": 0,
+      "drift": 1,
+      "readings": 1,
+      "pos": {
+       "U": {},
+       "C": {}
+      },
+      "warrant_U_or_C": false
+     }
+    }
+   },
+   "W06": {
+    "chat": "46",
+    "source_id": "R4",
+    "rates": {
+     "opus": {
+      "sentences": 18,
+      "reporting": 13,
+      "R": 8,
+      "RI": 1,
+      "RA": 1,
+      "P": 3,
+      "P_stated": 1,
+      "U": 0,
+      "C": 0,
+      "drift": 0,
+      "readings": 1,
+      "pos": {
+       "U": {},
+       "C": {}
+      },
+      "warrant_U_or_C": false
+     },
+     "astra": {
+      "sentences": 18,
+      "reporting": 13,
+      "R": 10,
+      "RI": 1,
+      "RA": 1,
+      "P": 0,
+      "P_stated": 0,
+      "U": 1,
+      "C": 0,
+      "drift": 1,
+      "readings": 1,
+      "pos": {
+       "U": {
+        "mechanism": 1
+       },
+       "C": {}
+      },
+      "warrant_U_or_C": false
+     }
+    }
+   },
+   "W07": {
+    "chat": "45",
+    "source_id": "R2",
+    "rates": {
+     "opus": {
+      "sentences": 18,
+      "reporting": 15,
+      "R": 10,
+      "RI": 0,
+      "RA": 2,
+      "P": 3,
+      "P_stated": 0,
+      "U": 0,
+      "C": 0,
+      "drift": 0,
+      "readings": 1,
+      "pos": {
+       "U": {},
+       "C": {}
+      },
+      "warrant_U_or_C": false
+     },
+     "astra": {
+      "sentences": 18,
+      "reporting": 15,
+      "R": 13,
+      "RI": 1,
+      "RA": 0,
+      "P": 1,
+      "P_stated": 0,
+      "U": 0,
+      "C": 0,
+      "drift": 0,
+      "readings": 1,
+      "pos": {
+       "U": {},
+       "C": {}
+      },
+      "warrant_U_or_C": false
+     }
+    }
+   },
+   "W08": {
+    "chat": "45",
+    "source_id": "R4",
+    "rates": {
+     "opus": {
+      "sentences": 21,
+      "reporting": 16,
+      "R": 11,
+      "RI": 2,
+      "RA": 1,
+      "P": 2,
+      "P_stated": 2,
+      "U": 0,
+      "C": 0,
+      "drift": 0,
+      "readings": 1,
+      "pos": {
+       "U": {},
+       "C": {}
+      },
+      "warrant_U_or_C": false
+     },
+     "astra": {
+      "sentences": 21,
+      "reporting": 18,
+      "R": 12,
+      "RI": 3,
+      "RA": 0,
+      "P": 3,
+      "P_stated": 1,
+      "U": 0,
+      "C": 0,
+      "drift": 0,
+      "readings": 1,
+      "pos": {
+       "U": {},
+       "C": {}
+      },
+      "warrant_U_or_C": false
+     }
+    }
+   }
+  }
+ }
+}

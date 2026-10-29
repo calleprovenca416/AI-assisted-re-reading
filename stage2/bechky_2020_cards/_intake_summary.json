@@ -1,0 +1,35 @@
+{
+  "declined": [
+    {
+      "move": "counterfactual_ending",
+      "trigger": "ventured_claims C09, C22, C23 (listed in the same entry as DG02; no separate reading written)",
+      "why": "The dossier (section 7) says only an unresolved-question gap parameterises this move, so the entry's one reading is written on DG02 and the claim it bears on, C19. C22 and C23 have no fragments beneath them and concern settings outside the laboratory (ethnographers' masking practices, digital technologies); nothing printed could be used differently, and a reading would be restatement or import. The fragments beneath C09 (F47, F52, F53) are all in the author's voice, so no printed event sits beneath the claim; the one stub bearing on how DNA came by its standing, F43, belongs to the forensic biology unit's fragments and is taken up in the focalization reading."
+    }
+  ],
+  "summary": [
+    {
+      "card_id": "bechky_2020_construct_inversion_from_pair_CP01_01",
+      "move": "construct_inversion",
+      "mechanical_kills": [],
+      "restatement_share_new": 0.348
+    },
+    {
+      "card_id": "bechky_2020_construct_inversion_from_pair_CP02_01",
+      "move": "construct_inversion",
+      "mechanical_kills": [],
+      "restatement_share_new": 0.568
+    },
+    {
+      "card_id": "bechky_2020_counterfactual_ending_DG02_01",
+      "move": "counterfactual_ending",
+      "mechanical_kills": [],
+      "restatement_share_new": 0.917
+    },
+    {
+      "card_id": "bechky_2020_focalization_shift_forensic_biology_DNA_01",
+      "move": "focalization_shift",
+      "mechanical_kills": [],
+      "restatement_share_new": 0.714
+    }
+  ]
+}

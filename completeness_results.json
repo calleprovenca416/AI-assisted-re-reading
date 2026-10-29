@@ -1,0 +1,1123 @@
+{
+ "meta": {
+  "key_sha256": "f45cb6c49213d9b383cab572819d847684bf522db6902bf34d471a7b6e561e4d",
+  "lists_sha256": "5f930c46b59d8daff8def75b767f73201042a5b793592ab9f3a3d75f1c3cb836",
+  "replies": [
+   [
+    "checker",
+    "bechky",
+    "reply_68_bechky_check_opus.json",
+    "b615d3a3ba914a022541e4fa9be9dbca2182b0c0b76c2984ac902778564afa1b"
+   ],
+   [
+    "checker",
+    "pratt",
+    "reply_69_pratt_check_opus.json",
+    "2a854382b1d99e79a4e405b76a9a31a2283ad762e826577e5ac32a8d602be450"
+   ],
+   [
+    "matcher",
+    "bechky",
+    "reply_70_bechky_ready_test_opus.json",
+    "46b44b27f6f665c7c201c96879298d17455389b1beb7af9a1436f2239e3f1cc9"
+   ],
+   [
+    "judge",
+    "bechky",
+    "reply_71_bechky_judge_argon.json",
+    "8a85e52abe9c23bd190d47132c61234003dd0d8e81677b439dba0599efe666dd"
+   ],
+   [
+    "judge",
+    "pratt",
+    "reply_72_pratt_judge_argon.json",
+    "c6a1bb2a09b1a068999e0cb7733fc896b5d9955efea3164e856dbe1c53e6f5bd"
+   ]
+  ],
+  "scorer_sha256": "acd2ca8ced0d1e28066d56ffc4d45b3fbe8104d6d09eed50e8a9f47ba05b272a"
+ },
+ "m1": {
+  "bechky": {
+   "n": 15,
+   "paired": 8,
+   "confirmed": 4,
+   "confirmed_paired": 2
+  },
+  "pratt": {
+   "n": 14,
+   "paired": 12,
+   "confirmed": 10,
+   "confirmed_paired": 9
+  },
+  "both": {
+   "n": 29,
+   "paired": 20,
+   "confirmed": 14,
+   "confirmed_paired": 11
+  }
+ },
+ "m2": {
+  "bechky": {
+   "n": 13,
+   "paired": 8,
+   "verdicts_all": {
+    "evidence": 2,
+    "assertion": 3,
+    "both": 0,
+    "covered": 2,
+    "not_in_brief": 6,
+    "not_found": 0,
+    "miss": 5
+   },
+   "unpaired": 5,
+   "verdicts_unpaired": {
+    "evidence": 0,
+    "assertion": 0,
+    "both": 0,
+    "covered": 0,
+    "not_in_brief": 5,
+    "not_found": 0,
+    "miss": 0
+   }
+  },
+  "pratt": {
+   "n": 19,
+   "paired": 12,
+   "verdicts_all": {
+    "evidence": 1,
+    "assertion": 2,
+    "both": 0,
+    "covered": 14,
+    "not_in_brief": 2,
+    "not_found": 0,
+    "miss": 3
+   },
+   "unpaired": 7,
+   "verdicts_unpaired": {
+    "evidence": 0,
+    "assertion": 0,
+    "both": 0,
+    "covered": 7,
+    "not_in_brief": 0,
+    "not_found": 0,
+    "miss": 0
+   }
+  },
+  "both": {
+   "n": 32,
+   "paired": 20,
+   "unpaired": 12,
+   "verdicts_all": {
+    "evidence": 3,
+    "assertion": 5,
+    "both": 0,
+    "covered": 16,
+    "not_in_brief": 8,
+    "not_found": 0,
+    "miss": 8
+   },
+   "verdicts_unpaired": {
+    "evidence": 0,
+    "assertion": 0,
+    "both": 0,
+    "covered": 7,
+    "not_in_brief": 5,
+    "not_found": 0,
+    "miss": 0
+   }
+  }
+ },
+ "m3": {
+  "n": 15,
+  "found": 15,
+  "with_passage": 12,
+  "with_claim": 11,
+  "with_either": 15,
+  "confirmed": 4,
+  "confirmed_with_either": 4
+ },
+ "m4": {
+  "bechky": {
+   "n": 15,
+   "not_found_left_out": 0,
+   "miss_added": 2,
+   "miss_not_added": 8,
+   "not_miss_added": 2,
+   "not_miss_not_added": 3,
+   "raw": 0.3333333333333333,
+   "kappa": -0.15384615384615388
+  },
+  "pratt": {
+   "n": 14,
+   "not_found_left_out": 0,
+   "miss_added": 3,
+   "miss_not_added": 0,
+   "not_miss_added": 7,
+   "not_miss_not_added": 4,
+   "raw": 0.5,
+   "kappa": 0.19672131147540986
+  },
+  "both": {
+   "n": 29,
+   "not_found_left_out": 0,
+   "miss_added": 5,
+   "miss_not_added": 8,
+   "not_miss_added": 9,
+   "not_miss_not_added": 7,
+   "raw": 0.41379310344827586,
+   "kappa": -0.1766109785202863
+  }
+ },
+ "m5": {
+  "bechky": {
+   "verdicts_pi": {
+    "evidence": 2,
+    "assertion": 8,
+    "both": 0,
+    "covered": 4,
+    "not_in_brief": 1,
+    "not_found": 0,
+    "miss": 10
+   },
+   "verdicts_checker": {
+    "evidence": 2,
+    "assertion": 3,
+    "both": 0,
+    "covered": 2,
+    "not_in_brief": 6,
+    "not_found": 0,
+    "miss": 5
+   },
+   "checker_tests": {
+    "evidence": 10,
+    "assertion": 3,
+    "both": 0
+   },
+   "kinds_pi": {
+    "footnote": 2,
+    "paragraph": 12,
+    "table": 1
+   },
+   "kinds_checker": {
+    "figure": 5,
+    "footnote": 2,
+    "paragraph": 5,
+    "table": 1
+   },
+   "pages_pi": [
+    606,
+    607,
+    608,
+    609,
+    610,
+    611,
+    612,
+    621,
+    622,
+    623,
+    633,
+    636,
+    637,
+    638
+   ],
+   "pages_checker": [
+    606,
+    607,
+    608,
+    609,
+    611,
+    612,
+    618,
+    621,
+    629,
+    630,
+    633,
+    637,
+    638
+   ]
+  },
+  "pratt": {
+   "verdicts_pi": {
+    "evidence": 1,
+    "assertion": 2,
+    "both": 0,
+    "covered": 9,
+    "not_in_brief": 2,
+    "not_found": 0,
+    "miss": 3
+   },
+   "verdicts_checker": {
+    "evidence": 1,
+    "assertion": 2,
+    "both": 0,
+    "covered": 14,
+    "not_in_brief": 2,
+    "not_found": 0,
+    "miss": 3
+   },
+   "checker_tests": {
+    "evidence": 11,
+    "assertion": 8,
+    "both": 0
+   },
+   "kinds_pi": {
+    "figure": 1,
+    "footnote": 3,
+    "paragraph": 10
+   },
+   "kinds_checker": {
+    "footnote": 4,
+    "paragraph": 15
+   },
+   "pages_pi": [
+    459,
+    460,
+    461,
+    464,
+    465,
+    466,
+    467,
+    471,
+    473,
+    477,
+    478,
+    479,
+    481,
+    482,
+    486,
+    487
+   ],
+   "pages_checker": [
+    458,
+    459,
+    460,
+    461,
+    464,
+    465,
+    466,
+    467,
+    469,
+    470,
+    473,
+    474,
+    477,
+    478,
+    479,
+    480,
+    481,
+    482,
+    486,
+    487
+   ]
+  }
+ },
+ "lines": {
+  "bechky": [
+   {
+    "id": "A01",
+    "whose": "the PI's",
+    "line": "pp. 606–607, the paragraph that runs over the page",
+    "pairs": [
+     "B01"
+    ],
+    "verdict": "assertion",
+    "pi_id": "H01",
+    "coverage_added": [],
+    "matcher": {
+     "line": "L01",
+     "found": true,
+     "passages": [
+      "QP001"
+     ],
+     "claims": [
+      "QC06"
+     ]
+    }
+   },
+   {
+    "id": "A02",
+    "whose": "the PI's",
+    "line": "p. 607, second full paragraph",
+    "pairs": [],
+    "verdict": "assertion",
+    "pi_id": "H02",
+    "coverage_added": [],
+    "matcher": {
+     "line": "L02",
+     "found": true,
+     "passages": [
+      "QP006"
+     ],
+     "claims": []
+    }
+   },
+   {
+    "id": "A03",
+    "whose": "the PI's",
+    "line": "p. 608, first full paragraph",
+    "pairs": [
+     "B02"
+    ],
+    "verdict": "assertion",
+    "pi_id": "H03",
+    "coverage_added": [],
+    "matcher": {
+     "line": "L03",
+     "found": true,
+     "passages": [
+      "QP007",
+      "QP008"
+     ],
+     "claims": [
+      "QC06"
+     ]
+    }
+   },
+   {
+    "id": "A04",
+    "whose": "the PI's",
+    "line": "p. 609, third full paragraph",
+    "pairs": [
+     "B03"
+    ],
+    "verdict": "assertion",
+    "pi_id": "H04",
+    "coverage_added": [],
+    "matcher": {
+     "line": "L04",
+     "found": true,
+     "passages": [
+      "QP016"
+     ],
+     "claims": []
+    }
+   },
+   {
+    "id": "A05",
+    "whose": "the PI's",
+    "line": "p. 610, the paragraph above the subheading",
+    "pairs": [],
+    "verdict": "assertion",
+    "pi_id": "H05",
+    "coverage_added": [],
+    "matcher": {
+     "line": "L05",
+     "found": true,
+     "passages": [],
+     "claims": [
+      "QC05"
+     ]
+    }
+   },
+   {
+    "id": "A06",
+    "whose": "the PI's",
+    "line": "pp. 610–611, the paragraph that runs over the page",
+    "pairs": [],
+    "verdict": "assertion",
+    "pi_id": "H06",
+    "coverage_added": [],
+    "matcher": {
+     "line": "L06",
+     "found": true,
+     "passages": [
+      "QP022"
+     ],
+     "claims": [
+      "QC10"
+     ]
+    }
+   },
+   {
+    "id": "A07",
+    "whose": "the PI's",
+    "line": "p. 611, first full paragraph",
+    "pairs": [],
+    "verdict": "assertion",
+    "pi_id": "H07",
+    "coverage_added": [],
+    "matcher": {
+     "line": "L07",
+     "found": true,
+     "passages": [
+      "QP009",
+      "QP023",
+      "QP024"
+     ],
+     "claims": [
+      "QC10",
+      "QC11"
+     ]
+    }
+   },
+   {
+    "id": "A08",
+    "whose": "the PI's",
+    "line": "pp. 611–612, the paragraph that runs over the page",
+    "pairs": [
+     "B04"
+    ],
+    "verdict": "covered",
+    "pi_id": "H08",
+    "coverage_added": [
+     "F169"
+    ],
+    "matcher": {
+     "line": "L08",
+     "found": true,
+     "passages": [],
+     "claims": [
+      "QC12"
+     ]
+    }
+   },
+   {
+    "id": "A09",
+    "whose": "the PI's",
+    "line": "p. 612, footnote 1",
+    "pairs": [
+     "B05"
+    ],
+    "verdict": "evidence",
+    "pi_id": "H09",
+    "coverage_added": [
+     "F170"
+    ],
+    "matcher": {
+     "line": "L09",
+     "found": true,
+     "passages": [
+      "QP025"
+     ],
+     "claims": []
+    }
+   },
+   {
+    "id": "A10",
+    "whose": "the PI's",
+    "line": "p. 621, footnote 4",
+    "pairs": [
+     "B09"
+    ],
+    "verdict": "not_in_brief",
+    "pi_id": "H10",
+    "coverage_added": [],
+    "matcher": {
+     "line": "L10",
+     "found": true,
+     "passages": [
+      "QP084"
+     ],
+     "claims": []
+    }
+   },
+   {
+    "id": "A11",
+    "whose": "the PI's",
+    "line": "pp. 622–623, the paragraph that runs over the page",
+    "pairs": [],
+    "verdict": "covered",
+    "pi_id": "H11",
+    "coverage_added": [
+     "F171"
+    ],
+    "matcher": {
+     "line": "L11",
+     "found": true,
+     "passages": [
+      "QP090",
+      "QP091",
+      "QP092"
+     ],
+     "claims": [
+      "QC24"
+     ]
+    }
+   },
+   {
+    "id": "A12",
+    "whose": "the PI's",
+    "line": "p. 633, Table 2, row \"Values\", column \"Toxicology\"",
+    "pairs": [
+     "B12"
+    ],
+    "verdict": "evidence",
+    "pi_id": "H12",
+    "coverage_added": [],
+    "matcher": {
+     "line": "L12",
+     "found": true,
+     "passages": [
+      "QP161",
+      "QP163"
+     ],
+     "claims": [
+      "QC29"
+     ]
+    }
+   },
+   {
+    "id": "A13",
+    "whose": "the PI's",
+    "line": "p. 636, third full paragraph",
+    "pairs": [],
+    "verdict": "assertion",
+    "pi_id": "H13",
+    "coverage_added": [
+     "F172"
+    ],
+    "matcher": {
+     "line": "L13",
+     "found": true,
+     "passages": [],
+     "claims": [
+      "QC03"
+     ]
+    }
+   },
+   {
+    "id": "A14",
+    "whose": "the PI's",
+    "line": "pp. 637–638, the paragraph that runs over the page",
+    "pairs": [
+     "B13"
+    ],
+    "verdict": "covered",
+    "pi_id": "H14",
+    "coverage_added": [],
+    "matcher": {
+     "line": "L14",
+     "found": true,
+     "passages": [
+      "QP167"
+     ],
+     "claims": [
+      "QC38"
+     ]
+    }
+   },
+   {
+    "id": "A15",
+    "whose": "the PI's",
+    "line": "p. 638, first full paragraph",
+    "pairs": [],
+    "verdict": "covered",
+    "pi_id": "H15",
+    "coverage_added": [],
+    "matcher": {
+     "line": "L15",
+     "found": true,
+     "passages": [
+      "QP168"
+     ],
+     "claims": [
+      "QC01",
+      "QC39"
+     ]
+    }
+   },
+   {
+    "id": "B01",
+    "whose": "checker",
+    "line": "pp. 606–607, the paragraph that runs over the page",
+    "pairs": [
+     "A01"
+    ],
+    "verdict": "assertion",
+    "checker_n": 1,
+    "test": "assertion"
+   },
+   {
+    "id": "B02",
+    "whose": "checker",
+    "line": "p. 608, first full paragraph",
+    "pairs": [
+     "A03"
+    ],
+    "verdict": "assertion",
+    "checker_n": 2,
+    "test": "assertion"
+   },
+   {
+    "id": "B03",
+    "whose": "checker",
+    "line": "p. 609, third full paragraph",
+    "pairs": [
+     "A04"
+    ],
+    "verdict": "assertion",
+    "checker_n": 3,
+    "test": "assertion"
+   },
+   {
+    "id": "B04",
+    "whose": "checker",
+    "line": "pp. 611–612, the paragraph that runs over the page",
+    "pairs": [
+     "A08"
+    ],
+    "verdict": "covered",
+    "checker_n": 4,
+    "test": "evidence"
+   },
+   {
+    "id": "B05",
+    "whose": "checker",
+    "line": "p. 612, footnote 1",
+    "pairs": [
+     "A09"
+    ],
+    "verdict": "evidence",
+    "checker_n": 5,
+    "test": "evidence"
+   },
+   {
+    "id": "B06",
+    "whose": "checker",
+    "line": "p. 618, Figure 1",
+    "pairs": [],
+    "verdict": "not_in_brief",
+    "checker_n": 6,
+    "test": "evidence"
+   },
+   {
+    "id": "B07",
+    "whose": "checker",
+    "line": "p. 618, Figure 2",
+    "pairs": [],
+    "verdict": "not_in_brief",
+    "checker_n": 7,
+    "test": "evidence"
+   },
+   {
+    "id": "B08",
+    "whose": "checker",
+    "line": "p. 621, Figure 3",
+    "pairs": [],
+    "verdict": "not_in_brief",
+    "checker_n": 8,
+    "test": "evidence"
+   },
+   {
+    "id": "B09",
+    "whose": "checker",
+    "line": "p. 621, footnote 4",
+    "pairs": [
+     "A10"
+    ],
+    "verdict": "not_in_brief",
+    "checker_n": 9,
+    "test": "evidence"
+   },
+   {
+    "id": "B10",
+    "whose": "checker",
+    "line": "p. 629, Figure 4",
+    "pairs": [],
+    "verdict": "not_in_brief",
+    "checker_n": 10,
+    "test": "evidence"
+   },
+   {
+    "id": "B11",
+    "whose": "checker",
+    "line": "p. 630, Figure 5",
+    "pairs": [],
+    "verdict": "not_in_brief",
+    "checker_n": 11,
+    "test": "evidence"
+   },
+   {
+    "id": "B12",
+    "whose": "checker",
+    "line": "p. 633, Table 2, Values row, Toxicology column",
+    "pairs": [
+     "A12"
+    ],
+    "verdict": "evidence",
+    "checker_n": 12,
+    "test": "evidence"
+   },
+   {
+    "id": "B13",
+    "whose": "checker",
+    "line": "pp. 637–638, the paragraph that runs over the page",
+    "pairs": [
+     "A14"
+    ],
+    "verdict": "covered",
+    "checker_n": 13,
+    "test": "evidence"
+   }
+  ],
+  "pratt": [
+   {
+    "id": "A01",
+    "whose": "the PI's",
+    "line": "p. 459, third full paragraph",
+    "pairs": [
+     "B02"
+    ],
+    "verdict": "not_in_brief",
+    "pi_id": "H01",
+    "coverage_added": [
+     "F122"
+    ]
+   },
+   {
+    "id": "A02",
+    "whose": "the PI's",
+    "line": "p. 460, footnote 6",
+    "pairs": [
+     "B05"
+    ],
+    "verdict": "not_in_brief",
+    "pi_id": "H02",
+    "coverage_added": [
+     "C53"
+    ]
+   },
+   {
+    "id": "A03",
+    "whose": "the PI's",
+    "line": "p. 461, second full paragraph",
+    "pairs": [
+     "B06"
+    ],
+    "verdict": "evidence",
+    "pi_id": "H03",
+    "coverage_added": [
+     "F123"
+    ]
+   },
+   {
+    "id": "A04",
+    "whose": "the PI's",
+    "line": "pp. 464–465, the paragraph that runs over the page",
+    "pairs": [
+     "B07"
+    ],
+    "verdict": "covered",
+    "pi_id": "H04",
+    "coverage_added": []
+   },
+   {
+    "id": "A05",
+    "whose": "the PI's",
+    "line": "p. 466, second full paragraph",
+    "pairs": [
+     "B08"
+    ],
+    "verdict": "covered",
+    "pi_id": "H05",
+    "coverage_added": []
+   },
+   {
+    "id": "A06",
+    "whose": "the PI's",
+    "line": "p. 467, footnote 11",
+    "pairs": [
+     "B09"
+    ],
+    "verdict": "assertion",
+    "pi_id": "H06",
+    "coverage_added": [
+     "C54"
+    ]
+   },
+   {
+    "id": "A07",
+    "whose": "the PI's",
+    "line": "p. 471, first full paragraph",
+    "pairs": [],
+    "verdict": "covered",
+    "pi_id": "H07",
+    "coverage_added": []
+   },
+   {
+    "id": "A08",
+    "whose": "the PI's",
+    "line": "p. 473, footnote 13",
+    "pairs": [
+     "B11"
+    ],
+    "verdict": "covered",
+    "pi_id": "H08",
+    "coverage_added": [
+     "C55"
+    ]
+   },
+   {
+    "id": "A09",
+    "whose": "the PI's",
+    "line": "p. 477, first full paragraph",
+    "pairs": [
+     "B13"
+    ],
+    "verdict": "covered",
+    "pi_id": "H09",
+    "coverage_added": [
+     "F124",
+     "C56"
+    ]
+   },
+   {
+    "id": "A10",
+    "whose": "the PI's",
+    "line": "p. 478, first full paragraph",
+    "pairs": [
+     "B14"
+    ],
+    "verdict": "covered",
+    "pi_id": "H10",
+    "coverage_added": [
+     "F125",
+     "C57"
+    ]
+   },
+   {
+    "id": "A11",
+    "whose": "the PI's",
+    "line": "p. 479, first full paragraph",
+    "pairs": [
+     "B15"
+    ],
+    "verdict": "covered",
+    "pi_id": "H11",
+    "coverage_added": [
+     "C58"
+    ]
+   },
+   {
+    "id": "A12",
+    "whose": "the PI's",
+    "line": "pp. 481–482, the paragraph that runs over the page",
+    "pairs": [
+     "B17"
+    ],
+    "verdict": "assertion",
+    "pi_id": "H12",
+    "coverage_added": [
+     "C59"
+    ]
+   },
+   {
+    "id": "A13",
+    "whose": "the PI's",
+    "line": "p. 482, Figure 2",
+    "pairs": [],
+    "verdict": "covered",
+    "pi_id": "H13",
+    "coverage_added": [
+     "C60"
+    ]
+   },
+   {
+    "id": "A14",
+    "whose": "the PI's",
+    "line": "pp. 486–487, the paragraph that runs over the page",
+    "pairs": [
+     "B19"
+    ],
+    "verdict": "covered",
+    "pi_id": "H14",
+    "coverage_added": []
+   },
+   {
+    "id": "B01",
+    "whose": "checker",
+    "line": "p. 458, second full paragraph",
+    "pairs": [],
+    "verdict": "covered",
+    "checker_n": 1,
+    "test": "evidence"
+   },
+   {
+    "id": "B02",
+    "whose": "checker",
+    "line": "p. 459, third full paragraph",
+    "pairs": [
+     "A01"
+    ],
+    "verdict": "not_in_brief",
+    "checker_n": 2,
+    "test": "evidence"
+   },
+   {
+    "id": "B03",
+    "whose": "checker",
+    "line": "p. 460, second full paragraph",
+    "pairs": [],
+    "verdict": "covered",
+    "checker_n": 3,
+    "test": "assertion"
+   },
+   {
+    "id": "B04",
+    "whose": "checker",
+    "line": "p. 460, footnote 5",
+    "pairs": [],
+    "verdict": "covered",
+    "checker_n": 4,
+    "test": "evidence"
+   },
+   {
+    "id": "B05",
+    "whose": "checker",
+    "line": "p. 460, footnote 6",
+    "pairs": [
+     "A02"
+    ],
+    "verdict": "not_in_brief",
+    "checker_n": 5,
+    "test": "assertion"
+   },
+   {
+    "id": "B06",
+    "whose": "checker",
+    "line": "p. 461, second full paragraph",
+    "pairs": [
+     "A03"
+    ],
+    "verdict": "evidence",
+    "checker_n": 6,
+    "test": "evidence"
+   },
+   {
+    "id": "B07",
+    "whose": "checker",
+    "line": "pp. 464–465, the paragraph that runs over the page",
+    "pairs": [
+     "A04"
+    ],
+    "verdict": "covered",
+    "checker_n": 7,
+    "test": "assertion"
+   },
+   {
+    "id": "B08",
+    "whose": "checker",
+    "line": "p. 466, second full paragraph",
+    "pairs": [
+     "A05"
+    ],
+    "verdict": "covered",
+    "checker_n": 8,
+    "test": "evidence"
+   },
+   {
+    "id": "B09",
+    "whose": "checker",
+    "line": "p. 467, footnote 11",
+    "pairs": [
+     "A06"
+    ],
+    "verdict": "assertion",
+    "checker_n": 9,
+    "test": "assertion"
+   },
+   {
+    "id": "B10",
+    "whose": "checker",
+    "line": "pp. 469–470, the paragraph that runs over the page",
+    "pairs": [],
+    "verdict": "covered",
+    "checker_n": 10,
+    "test": "evidence"
+   },
+   {
+    "id": "B11",
+    "whose": "checker",
+    "line": "p. 473, footnote 13",
+    "pairs": [
+     "A08"
+    ],
+    "verdict": "covered",
+    "checker_n": 11,
+    "test": "assertion"
+   },
+   {
+    "id": "B12",
+    "whose": "checker",
+    "line": "p. 474, first full paragraph",
+    "pairs": [],
+    "verdict": "covered",
+    "checker_n": 12,
+    "test": "evidence"
+   },
+   {
+    "id": "B13",
+    "whose": "checker",
+    "line": "p. 477, first full paragraph",
+    "pairs": [
+     "A09"
+    ],
+    "verdict": "covered",
+    "checker_n": 13,
+    "test": "evidence"
+   },
+   {
+    "id": "B14",
+    "whose": "checker",
+    "line": "p. 478, first full paragraph",
+    "pairs": [
+     "A10"
+    ],
+    "verdict": "covered",
+    "checker_n": 14,
+    "test": "evidence"
+   },
+   {
+    "id": "B15",
+    "whose": "checker",
+    "line": "p. 479, first full paragraph",
+    "pairs": [
+     "A11"
+    ],
+    "verdict": "covered",
+    "checker_n": 15,
+    "test": "assertion"
+   },
+   {
+    "id": "B16",
+    "whose": "checker",
+    "line": "pp. 480–481, the paragraph that runs over the page",
+    "pairs": [],
+    "verdict": "covered",
+    "checker_n": 16,
+    "test": "evidence"
+   },
+   {
+    "id": "B17",
+    "whose": "checker",
+    "line": "pp. 481–482, the paragraph that runs over the page",
+    "pairs": [
+     "A12"
+    ],
+    "verdict": "assertion",
+    "checker_n": 17,
+    "test": "assertion"
+   },
+   {
+    "id": "B18",
+    "whose": "checker",
+    "line": "p. 486, first full paragraph",
+    "pairs": [],
+    "verdict": "covered",
+    "checker_n": 18,
+    "test": "assertion"
+   },
+   {
+    "id": "B19",
+    "whose": "checker",
+    "line": "pp. 486–487, the paragraph that runs over the page",
+    "pairs": [
+     "A14"
+    ],
+    "verdict": "covered",
+    "checker_n": 19,
+    "test": "evidence"
+   }
+  ]
+ }
+}

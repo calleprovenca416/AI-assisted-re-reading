@@ -1,0 +1,872 @@
+{
+  "paper_id": "bechky_2020",
+  "voice": [
+    {
+      "fragment_id": "F01",
+      "code": "reported",
+      "reason": "The introductory account records the date and assessments of an identifiable national report."
+    },
+    {
+      "fragment_id": "F02",
+      "code": "reported",
+      "reason": "The research-context paragraph describes actual administrative arrangements among crime labs."
+    },
+    {
+      "fragment_id": "F03",
+      "code": "reported",
+      "reason": "The methods discussion describes the ordinary tasks forensic staff perform."
+    },
+    {
+      "fragment_id": "F04",
+      "code": "reported",
+      "reason": "The account lists existing associations and the forms of professional participation."
+    },
+    {
+      "fragment_id": "F05",
+      "code": "reported",
+      "reason": "The membership entry gives the observed number of biology employees at the site."
+    },
+    {
+      "fragment_id": "F06",
+      "code": "reported",
+      "reason": "The membership entry states the size of the local firearms team."
+    },
+    {
+      "fragment_id": "F07",
+      "code": "reported",
+      "reason": "The membership entry records the number of toxicology personnel."
+    },
+    {
+      "fragment_id": "F08",
+      "code": "reported",
+      "reason": "The membership entry reports the controlled-substances unit's staff count."
+    },
+    {
+      "fragment_id": "F09",
+      "code": "reported",
+      "reason": "The demographic cell counts women and men in forensic biology."
+    },
+    {
+      "fragment_id": "F10",
+      "code": "reported",
+      "reason": "The demographic cell reports the gender composition of the firearms team."
+    },
+    {
+      "fragment_id": "F11",
+      "code": "reported",
+      "reason": "The table supplies the toxicology team's female and male counts."
+    },
+    {
+      "fragment_id": "F12",
+      "code": "reported",
+      "reason": "The narcotics cell lists the observed gender distribution in that unit."
+    },
+    {
+      "fragment_id": "F13",
+      "code": "reported",
+      "reason": "The age-range cell describes the biology staff's ages as recorded."
+    },
+    {
+      "fragment_id": "F14",
+      "code": "reported",
+      "reason": "The table reports the age span of firearms personnel."
+    },
+    {
+      "fragment_id": "F15",
+      "code": "reported",
+      "reason": "The age-range cell documents the toxicologists' ages."
+    },
+    {
+      "fragment_id": "F16",
+      "code": "reported",
+      "reason": "The table gives the recorded narcotics age range."
+    },
+    {
+      "fragment_id": "F17",
+      "code": "reported",
+      "reason": "The education cell records the biology staff's qualifications."
+    },
+    {
+      "fragment_id": "F18",
+      "code": "reported",
+      "reason": "The firearms education entry describes credentials held by its members."
+    },
+    {
+      "fragment_id": "F19",
+      "code": "reported",
+      "reason": "The table lists the educational qualifications of toxicologists."
+    },
+    {
+      "fragment_id": "F20",
+      "code": "reported",
+      "reason": "The narcotics education entry specifies degrees held in that occupation."
+    },
+    {
+      "fragment_id": "F21",
+      "code": "reported",
+      "reason": "The site-description passage states the laboratory's administrative location and relative size."
+    },
+    {
+      "fragment_id": "F22",
+      "code": "reported",
+      "reason": "The methods section inventories work and database duties performed by the biology unit."
+    },
+    {
+      "fragment_id": "F23",
+      "code": "reported",
+      "reason": "The site account describes the drug unit's actual case responsibilities and review structure."
+    },
+    {
+      "fragment_id": "F24",
+      "code": "reported",
+      "reason": "The paragraph describes ongoing toxicology assignments and equipment responsibilities."
+    },
+    {
+      "fragment_id": "F25",
+      "code": "reported",
+      "reason": "The author inventories the firearms unit's work, testing and database tasks."
+    },
+    {
+      "fragment_id": "F26",
+      "code": "reported",
+      "reason": "The passage reports workers' distinct professional identification and training; its analytical label is separately retained in the gloss."
+    },
+    {
+      "fragment_id": "F27",
+      "code": "reported",
+      "reason": "The researcher recounts specific procedures she personally performed while observing the site."
+    },
+    {
+      "fragment_id": "F28",
+      "code": "reported",
+      "reason": "The opening-day anecdote records a self-description by DNA supervisors; the interpretation of tension belongs in its gloss."
+    },
+    {
+      "fragment_id": "F29",
+      "code": "reported",
+      "reason": "The methods narrative recounts things the researcher saw or heard in the respective occupational settings."
+    },
+    {
+      "fragment_id": "F30",
+      "code": "reported",
+      "reason": "The chronology describes the legislature's documented commissioning of a national review."
+    },
+    {
+      "fragment_id": "F31",
+      "code": "reported",
+      "reason": "The published association reaction is summarized as a specific institutional response."
+    },
+    {
+      "fragment_id": "F32",
+      "code": "reported",
+      "reason": "The text records positions taken in an identifiable professional association statement."
+    },
+    {
+      "fragment_id": "F33",
+      "code": "reported",
+      "reason": "The author reports a particular fingerprint association's written rebuttal and planned review."
+    },
+    {
+      "fragment_id": "F34",
+      "code": "reported",
+      "reason": "The source is a documented specialist organization's written response to the report."
+    },
+    {
+      "fragment_id": "F35",
+      "code": "reported",
+      "reason": "The director's message and subsequent staff-meeting instruction are reported actions."
+    },
+    {
+      "fragment_id": "F36",
+      "code": "reported",
+      "reason": "The text identifies particular broadcasts and newspaper reporting, not an inferred cultural meaning."
+    },
+    {
+      "fragment_id": "F37",
+      "code": "reported",
+      "reason": "The account records additional press reports casting doubt on some forensic methods."
+    },
+    {
+      "fragment_id": "F38",
+      "code": "reported",
+      "reason": "The statement is attributed to a narcotics practitioner rather than asserted as an author's inference."
+    },
+    {
+      "fragment_id": "F39",
+      "code": "author_insight",
+      "reason": "The passage synthesizes DNA's legal and scientific history into the author's judgment that it became a model for other specialties."
+    },
+    {
+      "fragment_id": "F40",
+      "code": "reported",
+      "reason": "The DNA procedures are described as steps actually carried out in forensic casework."
+    },
+    {
+      "fragment_id": "F41",
+      "code": "reported",
+      "reason": "The passage records the instrument process and the output analysts examine."
+    },
+    {
+      "fragment_id": "F42",
+      "code": "reported",
+      "reason": "The source reports how a DNA profile is assembled from instrumental traces."
+    },
+    {
+      "fragment_id": "F43",
+      "code": "reported",
+      "reason": "The description sets out successive checks before a DNA report is issued."
+    },
+    {
+      "fragment_id": "F44",
+      "code": "reported",
+      "reason": "The figure is a printed example of a measured DNA instrument output."
+    },
+    {
+      "fragment_id": "F45",
+      "code": "reported",
+      "reason": "The figure contains an actual example of the allele-table format in DNA evidence."
+    },
+    {
+      "fragment_id": "F46",
+      "code": "reported",
+      "reason": "The paragraph reproduces an illustrative type of probability-bearing case conclusion."
+    },
+    {
+      "fragment_id": "F47",
+      "code": "reported",
+      "reason": "The source describes records made accessible to litigating parties in DNA cases."
+    },
+    {
+      "fragment_id": "F48",
+      "code": "reported",
+      "reason": "The episode quotes Terri and Carly describing a specific contaminated control and retest."
+    },
+    {
+      "fragment_id": "F49",
+      "code": "reported",
+      "reason": "The paragraph describes repeated collegial checking and revision in routine DNA reports; its wider meaning is recorded as a gloss."
+    },
+    {
+      "fragment_id": "F50",
+      "code": "reported",
+      "reason": "The claim about joint effort is Terri's own comment to the observer."
+    },
+    {
+      "fragment_id": "F51",
+      "code": "reported",
+      "reason": "The resource comparison is attributed to colleagues in units outside DNA."
+    },
+    {
+      "fragment_id": "F52",
+      "code": "reported",
+      "reason": "The founding of an association and circulation of a flyer are documented actions."
+    },
+    {
+      "fragment_id": "F53",
+      "code": "reported",
+      "reason": "The laboratory director is quoted from a particular staffing discussion at a meeting."
+    },
+    {
+      "fragment_id": "F54",
+      "code": "reported",
+      "reason": "The training durations are site-level facts reported for two occupations."
+    },
+    {
+      "fragment_id": "F55",
+      "code": "reported",
+      "reason": "The criticism of error rates and mismatches is attributed to an identifiable report."
+    },
+    {
+      "fragment_id": "F56",
+      "code": "reported",
+      "reason": "The account records remarks delivered by a specialist at a professional meeting."
+    },
+    {
+      "fragment_id": "F57",
+      "code": "reported",
+      "reason": "The technical narrative describes actual firearms testing and microscopic comparison steps."
+    },
+    {
+      "fragment_id": "F58",
+      "code": "reported",
+      "reason": "The page describes the records examiners prepare during routine case comparisons."
+    },
+    {
+      "fragment_id": "F59",
+      "code": "reported",
+      "reason": "Adam's statement recounts outside examination of his case notes."
+    },
+    {
+      "fragment_id": "F60",
+      "code": "reported",
+      "reason": "The published figure supplies a concrete comparison image from a source."
+    },
+    {
+      "fragment_id": "F61",
+      "code": "reported",
+      "reason": "The retrospective remark is explicitly spoken by a firearms examiner."
+    },
+    {
+      "fragment_id": "F62",
+      "code": "reported",
+      "reason": "The statement of today's evidence requirements is attributed to a practicing examiner."
+    },
+    {
+      "fragment_id": "F63",
+      "code": "reported",
+      "reason": "The author describes the second-examiner procedure regularly observed at the laboratory."
+    },
+    {
+      "fragment_id": "F64",
+      "code": "reported",
+      "reason": "The account follows one named pair's conversation and microscope adjustments in a single review."
+    },
+    {
+      "fragment_id": "F65",
+      "code": "reported",
+      "reason": "The variation in examiners' thresholds is conveyed through Tom's attributed comment."
+    },
+    {
+      "fragment_id": "F66",
+      "code": "reported",
+      "reason": "The source defines a specific recognized mark-counting procedure and its criteria."
+    },
+    {
+      "fragment_id": "F67",
+      "code": "reported",
+      "reason": "The paragraph states how the local qualified examiners actually chose among methods."
+    },
+    {
+      "fragment_id": "F68",
+      "code": "reported",
+      "reason": "The communicative value of counting marks is presented as Tom's statement."
+    },
+    {
+      "fragment_id": "F69",
+      "code": "reported",
+      "reason": "Tom explains his own conditional use of a numeric comparison method."
+    },
+    {
+      "fragment_id": "F70",
+      "code": "reported",
+      "reason": "The account of other laboratories' image markings is explicitly Adam's comparison."
+    },
+    {
+      "fragment_id": "F71",
+      "code": "reported",
+      "reason": "The role of remembered comparison examples is conveyed as Tom's reported explanation."
+    },
+    {
+      "fragment_id": "F72",
+      "code": "reported",
+      "reason": "The passage describes the content of established firearms training routines."
+    },
+    {
+      "fragment_id": "F73",
+      "code": "reported",
+      "reason": "A meeting presenter is reported to have displayed critics' details and contested their authority."
+    },
+    {
+      "fragment_id": "F74",
+      "code": "reported",
+      "reason": "The passage summarizes one presenter's argument in a particular conference session."
+    },
+    {
+      "fragment_id": "F75",
+      "code": "reported",
+      "reason": "The protest against equating firearm comparisons with DNA is quoted from a meeting."
+    },
+    {
+      "fragment_id": "F76",
+      "code": "reported",
+      "reason": "An analyst outside firearms is the attributed speaker discussing that group's pressures."
+    },
+    {
+      "fragment_id": "F77",
+      "code": "reported",
+      "reason": "The text states the observed absence of local changes and courtroom objections; explanatory reasoning is separately glossed."
+    },
+    {
+      "fragment_id": "F78",
+      "code": "reported",
+      "reason": "Pete and Tom answer the researcher's question about percentages and expert firearms judgments."
+    },
+    {
+      "fragment_id": "F79",
+      "code": "reported",
+      "reason": "The account reports identifiable challenges to toxicological testimony and the circulation of a legal tactic."
+    },
+    {
+      "fragment_id": "F80",
+      "code": "reported",
+      "reason": "The paper documents a pending local legal action involving the laboratory's results."
+    },
+    {
+      "fragment_id": "F81",
+      "code": "reported",
+      "reason": "The procedures and assignment arrangements are described as routine toxicology work."
+    },
+    {
+      "fragment_id": "F82",
+      "code": "reported",
+      "reason": "The passage traces Jason's work and its review over a specific two-day batch."
+    },
+    {
+      "fragment_id": "F83",
+      "code": "reported",
+      "reason": "The researchers' first visit records how toxicology staff jokingly depicted their habits."
+    },
+    {
+      "fragment_id": "F84",
+      "code": "reported",
+      "reason": "Neha's complaint and Jason's response are recounted as one witnessed exchange."
+    },
+    {
+      "fragment_id": "F85",
+      "code": "reported",
+      "reason": "The annoyance at labeling lapses is conveyed through Neha's comment."
+    },
+    {
+      "fragment_id": "F86",
+      "code": "reported",
+      "reason": "Jason demonstrates a pipetting risk while performing a specific sample preparation."
+    },
+    {
+      "fragment_id": "F87",
+      "code": "reported",
+      "reason": "The section reports a preexisting accreditation project and its documented schedule."
+    },
+    {
+      "fragment_id": "F88",
+      "code": "reported",
+      "reason": "The narrative states a local decision and ensuing statistical work following notice of a legal challenge."
+    },
+    {
+      "fragment_id": "F89",
+      "code": "reported",
+      "reason": "The existing reporting and instrument-control arrangements are stated as practice and legal requirements."
+    },
+    {
+      "fragment_id": "F90",
+      "code": "reported",
+      "reason": "A lawyer-training event is recounted through Jason's words and supporting slides."
+    },
+    {
+      "fragment_id": "F91",
+      "code": "reported",
+      "reason": "Jason's description of historical records and equipment checks is speech within that same outreach event."
+    },
+    {
+      "fragment_id": "F92",
+      "code": "reported",
+      "reason": "The author describes the toxicologists' visible presentation of their new numerical report."
+    },
+    {
+      "fragment_id": "F93",
+      "code": "reported",
+      "reason": "The comparison records regional professional preferences for two established analysis methods."
+    },
+    {
+      "fragment_id": "F94",
+      "code": "author_insight",
+      "reason": "The author connects the national evaluation to renewed professional disagreement across many laboratories, not to one narrated exchange."
+    },
+    {
+      "fragment_id": "F95",
+      "code": "reported",
+      "reason": "The source describes the morning handling of submissions and wet-chemistry tests."
+    },
+    {
+      "fragment_id": "F96",
+      "code": "reported",
+      "reason": "The account describes making, viewing, discarding and documenting crystal-test slides."
+    },
+    {
+      "fragment_id": "F97",
+      "code": "reported",
+      "reason": "The illustration is a published example of a particular crystal form."
+    },
+    {
+      "fragment_id": "F98",
+      "code": "reported",
+      "reason": "The instrument-method account sets out real preparation and comparison procedures."
+    },
+    {
+      "fragment_id": "F99",
+      "code": "reported",
+      "reason": "The report gives the site's observed rule of thumb for which drug test to use."
+    },
+    {
+      "fragment_id": "F100",
+      "code": "author_insight",
+      "reason": "The author explains the routine emphasis on rapid drug testing by tying multiple cases to statutory turnaround demands."
+    },
+    {
+      "fragment_id": "F101",
+      "code": "reported",
+      "reason": "The description of drawing or writing observed forms is attributed to a narcotics practitioner."
+    },
+    {
+      "fragment_id": "F102",
+      "code": "reported",
+      "reason": "The figure is an externally published example of an instrumental drug readout."
+    },
+    {
+      "fragment_id": "F103",
+      "code": "reported",
+      "reason": "The source states a specific professional group's testing guideline and the reason given for it."
+    },
+    {
+      "fragment_id": "F104",
+      "code": "reported",
+      "reason": "The paper recounts drug analysts showing coworkers unusual case specimens."
+    },
+    {
+      "fragment_id": "F105",
+      "code": "reported",
+      "reason": "The criticism of toxicology work is attributed to the drug analysts who had previously worked there."
+    },
+    {
+      "fragment_id": "F106",
+      "code": "reported",
+      "reason": "Taylor reports a particular career move and effort to gain broader bench assignments."
+    },
+    {
+      "fragment_id": "F107",
+      "code": "reported",
+      "reason": "The lab visit is narrated as one encounter among staff, police and attorneys."
+    },
+    {
+      "fragment_id": "F108",
+      "code": "reported",
+      "reason": "Tim and Taylor respond to the researcher after the evidence-review meeting."
+    },
+    {
+      "fragment_id": "F109",
+      "code": "reported",
+      "reason": "The description concerns observed case-timing behavior and teasing at the site."
+    },
+    {
+      "fragment_id": "F110",
+      "code": "reported",
+      "reason": "One slow-software episode encompasses a meeting, named objections and attempts to shorten the workflow."
+    },
+    {
+      "fragment_id": "F111",
+      "code": "reported",
+      "reason": "The concerns about a ban on crystals and its consequences are directly attributed to Jodi."
+    },
+    {
+      "fragment_id": "F112",
+      "code": "reported",
+      "reason": "Robin conveys what she learned at a workshop and the expected local workload problem."
+    },
+    {
+      "fragment_id": "F113",
+      "code": "reported",
+      "reason": "The passage documents a particular online professional proposal and staff members' reaction to it."
+    },
+    {
+      "fragment_id": "F114",
+      "code": "reported",
+      "reason": "The microscope-camera alternative is described as a consideration by the local drug team."
+    },
+    {
+      "fragment_id": "F115",
+      "code": "reported",
+      "reason": "The deskilling comparison is explicitly attributed to Taylor's own evaluation."
+    },
+    {
+      "fragment_id": "F116",
+      "code": "reported",
+      "reason": "Billie's preferences and anticipated boredom are quoted as her own view of the work."
+    },
+    {
+      "fragment_id": "F117",
+      "code": "reported",
+      "reason": "The section records the local group's continued testing practice; the causal interpretation is separately in its gloss."
+    },
+    {
+      "fragment_id": "F118",
+      "code": "author_insight",
+      "reason": "The table compresses several distinct external channels into the author's firearms pathway category."
+    },
+    {
+      "fragment_id": "F119",
+      "code": "author_insight",
+      "reason": "The table assigns the toxicology dispute to a synthesized institutional pathway rather than describing just one hearing."
+    },
+    {
+      "fragment_id": "F120",
+      "code": "author_insight",
+      "reason": "The table presents the author's overarching classification of the narcotics pathway from multiple professional interactions."
+    },
+    {
+      "fragment_id": "F121",
+      "code": "author_insight",
+      "reason": "The author classifies the firearms group's exposure to a scientific channel within a comparative framework."
+    },
+    {
+      "fragment_id": "F122",
+      "code": "author_insight",
+      "reason": "The author categorizes toxicology's position relative to scientific scrutiny in the cross-occupation matrix."
+    },
+    {
+      "fragment_id": "F123",
+      "code": "author_insight",
+      "reason": "The author positions narcotics outside the scientific-criticism channel in the analytical comparison."
+    },
+    {
+      "fragment_id": "F124",
+      "code": "author_insight",
+      "reason": "The media entry classifies one route by which firearms examiners received fieldwide evaluation."
+    },
+    {
+      "fragment_id": "F125",
+      "code": "author_insight",
+      "reason": "The absence of a public route for toxicology is a synthesis in the author's channel framework."
+    },
+    {
+      "fragment_id": "F126",
+      "code": "author_insight",
+      "reason": "The table assigns no public-criticism pathway to narcotics within the author's comparison."
+    },
+    {
+      "fragment_id": "F127",
+      "code": "author_insight",
+      "reason": "The author sums up geographically remote firearms court challenges as a cross-case pathway."
+    },
+    {
+      "fragment_id": "F128",
+      "code": "author_insight",
+      "reason": "The local toxicology legal episode is categorized within the author's comparative courtroom channel."
+    },
+    {
+      "fragment_id": "F129",
+      "code": "author_insight",
+      "reason": "The table analytically contrasts narcotics with other groups on exposure to court challenges."
+    },
+    {
+      "fragment_id": "F130",
+      "code": "author_insight",
+      "reason": "The table's channel classification is the author's synthesis of the firearms association's role."
+    },
+    {
+      "fragment_id": "F131",
+      "code": "author_insight",
+      "reason": "The table interprets toxicology accreditation rules as part of a professional-institutional path."
+    },
+    {
+      "fragment_id": "F132",
+      "code": "author_insight",
+      "reason": "The author classifies specialists' narcotics debates as the professional-association route."
+    },
+    {
+      "fragment_id": "F133",
+      "code": "author_insight",
+      "reason": "The author's technique judgment compares firearms microscopy with DNA practices across episodes."
+    },
+    {
+      "fragment_id": "F134",
+      "code": "author_insight",
+      "reason": "The table assesses which technical elements of toxicology could correspond to those of DNA profiling."
+    },
+    {
+      "fragment_id": "F135",
+      "code": "author_insight",
+      "reason": "The table interprets a possible alignment between narcotics instrumentation and the DNA model."
+    },
+    {
+      "fragment_id": "F136",
+      "code": "author_insight",
+      "reason": "The author contrasts the firearms occupation's values with DNA-style objectivity as an analytical finding."
+    },
+    {
+      "fragment_id": "F137",
+      "code": "author_insight",
+      "reason": "The author interprets toxicology's concern with measurement as compatible with DNA evidentiary ideals."
+    },
+    {
+      "fragment_id": "F138",
+      "code": "author_insight",
+      "reason": "The table attributes resistance to a mismatch between drug analysts' working ideals and instrumental routine."
+    },
+    {
+      "fragment_id": "F139",
+      "code": "reported",
+      "reason": "The table reproduces a statement from a toxicology representative about the county's reporting."
+    },
+    {
+      "fragment_id": "F140",
+      "code": "author_insight",
+      "reason": "The author summarizes the firearms group's response across several reported discussions and unchanged practices."
+    },
+    {
+      "fragment_id": "F141",
+      "code": "author_insight",
+      "reason": "The author synthesizes the toxicology group's local practice change as the outcome of the comparison."
+    },
+    {
+      "fragment_id": "F142",
+      "code": "author_insight",
+      "reason": "The table draws a groupwide conclusion about narcotics practice across the study's episodes."
+    },
+    {
+      "fragment_id": "F143",
+      "code": "reported",
+      "reason": "The discussion reports the position taken in an identifiable published sociology essay."
+    },
+    {
+      "fragment_id": "F144",
+      "code": "author_insight",
+      "reason": "The discussion extends a cross-industry pattern from several cited contexts to the author's account of digital-technology evaluation."
+    },
+    {
+      "fragment_id": "F145",
+      "code": "reported",
+      "reason": "The passage states a described occupational condition or change as context, rather than explaining the author’s laboratory data."
+    },
+    {
+      "fragment_id": "F146",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F147",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F148",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F149",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F150",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F151",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F152",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F153",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F154",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F155",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F156",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F157",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F158",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F159",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F160",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F161",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F162",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F163",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F164",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F165",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F166",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F167",
+      "code": "reported",
+      "reason": "This passage presents a dated or situated finding from a cited study; the current author reports the secondary example rather than interpreting several focal-laboratory events."
+    },
+    {
+      "fragment_id": "F168",
+      "code": "reported",
+      "reason": "The author summarizes an observed occupational effect reported in an identified prior laboratory study."
+    }
+  ],
+  "gloss_relation": [
+    {
+      "fragment_id": "F26",
+      "code": "consistent",
+      "reason": "The shared scientific training, distinct specialist groups and expressed separate identities support calling them adjacent occupations; this adds no different event."
+    },
+    {
+      "fragment_id": "F28",
+      "code": "goes_beyond",
+      "reason": "The joking title was spoken on the first day, but tension about status is the researcher’s further reading of its significance."
+    },
+    {
+      "fragment_id": "F49",
+      "code": "goes_beyond",
+      "reason": "Consultation and iterative review are observed; the larger contrast with supposedly automatic, clean DNA evidence adds an interpretive comparison."
+    },
+    {
+      "fragment_id": "F77",
+      "code": "goes_beyond",
+      "reason": "Unchanged local practice and no local hearing are reported, but attributing that response jointly to distant pressure and experts’ values adds causal interpretation."
+    },
+    {
+      "fragment_id": "F117",
+      "code": "goes_beyond",
+      "reason": "The unchanged crystal work is documented, while linking its persistence jointly to timing of pressure and valuing discretion extends beyond that outcome itself."
+    }
+  ]
+}

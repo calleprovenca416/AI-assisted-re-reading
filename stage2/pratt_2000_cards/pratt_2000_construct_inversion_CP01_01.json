@@ -1,0 +1,173 @@
+{
+  "card_id": "pratt_2000_construct_inversion_CP01_01",
+  "paper_id": "pratt_2000",
+  "move": "construct_inversion",
+  "trigger": "from_pair CP01",
+  "claim": "C28",
+  "incumbent_reading": "The paper holds that one leaver ended detached because her dissatisfaction lapsed, while the other ended in opposition because he kept the aspiration, lost the guidance of his upline, and took his reading of Amway from its critics.",
+  "wager": {
+    "statement": "The pair says the opposed leaver kept the wish for change and the detached one lost it. The stubs on the opposed side do not line up that way. One former distributor was drawn by a successful member's large home because he lacked such possessions (F94) and describes becoming a lawyer as a dream worth hard work (F95): the wish is printed for him, and nothing about his upline is. The former distributor in F97 blames his upline for not recognizing the sales ability he came with and for relying on more meetings instead of finding a way to motivate him: no wish he was pursuing is printed, only a man who by his own telling still needed motivating. A third, whom the author files under the same opposed outcome, says he bought in only to get out of an embarrassing situation at a high-pressure presentation (F98); no stub gives him a dream. No stub says that the man of F94 and F95 is the man of F97. The upline tie does not separate the two sides either. By the author's account the detached formed no strong bonds with distributors (F125), and those who came to disidentify are reported with sparse and distant upline relationships (F96). The paper puts that weak tie after the loss of desire on the one side (F125) and before the opposition on the other (F99, the author's account); this reading puts it after on both. What F97 and F98 print, and F91 does not, is a wrong: something done to the speaker by the people who brought him in or stood above him. F91 has no Amway person in it; what changed was her regular job. The wager is that a leaver ends opposed when he carries such a wrong out with him, whether or not the wish for change survived, and ends detached when he carries none.",
+    "seed_fragments": [
+      "F91",
+      "F94",
+      "F95",
+      "F96",
+      "F97",
+      "F98",
+      "F125"
+    ],
+    "what_it_would_take_to_cohere": {
+      "observation": "One opposed leaver's account taken whole: whether a wish for change was still alive in him when he turned against Amway, and whether he holds a specific wrong against the people who recruited or sponsored him. The reading holds if opposed leavers carry the wrong with or without the wish, and no detached leaver carries one.",
+      "printed": false,
+      "printed_fragments": [],
+      "basis": "Absent. No former distributor has both things in print. F94 and F95 give the wish and nothing on the upline; F97 gives the wrong and a man who needed motivating; F98 gives the wrong and no dream. Nothing says whether the speaker of F94 and F95 is the speaker of F97; F98 is introduced as another person. F96 is a statement across cases, and F21 and F99 are the author's account. I read every former-distributor fragment (F90 to F100, F123, F125)."
+    },
+    "strains_against": [
+      "F99 -- the author's account is that former members recast upline warmth as self-serving; if so, the wrongs told in F97 and F98 could be products of the turn against Amway and not what occasioned it.",
+      "F95 -- the one opposed leaver with a printed wish does keep it, in a form the stub likens to the persistence logic he met in Amway; the reading has to treat that as incidental to his opposition.",
+      "F94 -- this former distributor has no wrong printed against anyone; on this reading there should be one, and the record is silent.",
+      "F93 -- a later leaver who objected to members treating upline figures as beyond question is filed by the author with the detached; he holds something against the upline's standing and did not end opposed, unless only a wrong done to oneself counts, which his stub does not print.",
+      "F96 -- sparse and distant relationships leave little room for a wrong done by the upline; the reading fits the irritated and openly angry relationships in the same sentence better than the sparse ones.",
+      "F21 -- the author's account is that successful dream building with failed positive programming went with disidentification across cases; the reading can say only that no single leaver's fragments print the two together."
+    ],
+    "who_could_complete_it": "A former distributor filed under the opposed outcome whose account is available whole, covering both what he still wanted and how the people above him had dealt with him."
+  },
+  "fragment_jobs": {
+    "F91": "gives the detached side: her account turns on a change in her regular job and has no Amway person in it to hold responsible.",
+    "F94": "prints the first pull of possessions he lacked for one former distributor, which is the pair's evidence that the opposed side had a wish to begin with.",
+    "F95": "prints the same former distributor still framing a law career as a dream worth hard work, the only printed sign of a surviving wish on the opposed side.",
+    "F96": "reports across cases that those who came to disidentify had sparse, distant, irritated or openly angry upline relationships; the reading takes the first two words as shared with the detached side and the last two as the wrong itself.",
+    "F97": "prints a wrong held against the upline, unrecognized ability and more meetings, in a man who by his own telling still needed motivating.",
+    "F98": "prints joining under pressure with no dream given, filed by the author under the opposed outcome; it is the case of opposition without a printed wish.",
+    "F99": "is the author's account of the order on the opposed side, failed upline guidance first and opposition after; the reading uses it as the account to be turned round and not as an event.",
+    "F125": "is the author's account that the detached also formed no strong upline bonds, which puts a weak upline tie on both sides of the pair."
+  },
+  "grounded_in": [
+    {
+      "kind": "missing_fact",
+      "question": "Is the former distributor whose wish for change is printed (F94, F95) the same person as the former distributor whose grievance against his upline is printed (F97)?",
+      "bears_on": "C28",
+      "if_one_way": "If they are one person, C28 would read as shown in at least one leaver: a surviving wish and a failed upline relationship in the same man.",
+      "if_the_other": "If they are different people, C28 would read as a pattern stated across cases (F96) and in the author's account (F21, F99), with each half printed in a different leaver and the two together in none."
+    },
+    {
+      "kind": "divergence",
+      "items": [
+        "F125",
+        "F96"
+      ],
+      "how": "Both report a weak upline tie among leavers. F125, the author's account, has it follow the loss of desire among the detached; F96 reports it among those who came to disidentify, where the paper's account (F99) has it come first. The same observation is placed as a result on one side of the pair and as a source on the other."
+    }
+  ],
+  "reach": {
+    "same_construct": [
+      "F100"
+    ],
+    "same_outcome": [
+      "F90",
+      "F92",
+      "F93"
+    ],
+    "feature_elsewhere": [
+      "F75"
+    ],
+    "orphans_used": []
+  },
+  "rival": "The paper's own account: the wrong is only how a failed upline relationship is told from inside. F97's upline failed to engage a man who came wanting to achieve, as his earlier sales ability suggests; F98 was badly handled from the first day; and both, stirred and then left without guidance, took their account of Amway from its critics (F99, F100). The wish and the failed tie are then both present in each opposed leaver and merely excerpted in different fragments, and nothing needs re-attributing.",
+  "split": null,
+  "naming": {
+    "register_version": null,
+    "outcome": "register not opened"
+  },
+  "status": "killed",
+  "attack": {
+    "killed_by": [
+      "B_import"
+    ],
+    "verdicts": [
+      {
+        "mode": "B_import",
+        "killed": true,
+        "citations": [
+          "F94",
+          "F95",
+          "F97",
+          "F98"
+        ],
+        "drift": [],
+        "note": "KILL. The statement imports a third distinct person's identity: \"A third, whom the author files under the same opposed outcome, says he bought in only to get out of an embarrassing situation at a high-pressure presentation (F98)\". F95 explicitly identifies its speaker as the same former distributor as F94. F97 introduces one former distributor, and F98 introduces another, but no fragment establishes that F94/F95 and F97 concern different people. Calling F98 a third person requires that unprinted distinction; it is not merely a paraphrase of another account. The card itself recognizes the unresolved identity when it says no stub establishes that F94/F95 and F97 are the same man. Lack of evidence that they are the same does not establish that they are different. No carrying fragment supplies the three-person count. The kill concerns this factual assertion, not the proposed grievance explanation or its disagreement with the author's theory. No author-account-to-event drift was identified.",
+        "considered_not_fired": [
+          {
+            "item": "F91: the regular-job change and absence of an Amway person in the account",
+            "why": "The stub says her job became manageable and satisfying, leaving little desire for meetings or sales. The card's immediate assertion concerns what her printed account contains. It does not establish that she had no grievance anywhere in her life; the proposed connection between grievance-free exit and detachment remains the wager to be tested."
+          },
+          {
+            "item": "F94 and F95: possessions, the causal 'because,' the law-career dream, and speaker continuity",
+            "why": "F94 explicitly attributes the initial attraction to lacking comparable possessions, so the causal connective adds nothing. F95 explicitly says the same former distributor described a law career as a dream worth hard work. Neither stub reports his upline relationship. The identity between these two fragments is carried, unlike the asserted distinctness from F97."
+          },
+          {
+            "item": "F97: unrecognized ability, more meetings, and 'by his own telling still needed motivating'",
+            "why": "The stub reports his blame of the upline for not recognizing prior sales ability and for relying on meetings rather than finding a way to motivate him. Calling this a grievance and paraphrasing the motivation complaint are supported. The card says no pursued wish is printed here, not that needing motivation proves he had no wish."
+          },
+          {
+            "item": "F98: pressure, embarrassment, and opposition without a printed wish",
+            "why": "The stub explicitly gives social pressure and dependence on transportation as reasons for buying in to escape embarrassment. It gives no dream. The disidentification classification is supplied in the fragment's author_code and is presented by the card as the author's classification. These clauses do not import the motive or turn silence into proof that he never had aspirations."
+          },
+          {
+            "item": "F96 and F125: weak ties on both sides; irritation and anger read as grievance",
+            "why": "F96 carries the four relationship descriptions. F125 carries the author's account of little reason to consult uplines and failure to develop strong distributor bonds. The card preserves that attribution. Treating irritation and anger as grievance is explicitly identified as what the reading takes them to mean; it does not supply a specific unprinted incident as observed evidence."
+          },
+          {
+            "item": "F99 and F125: the author's sequence and 'this reading puts it after on both'",
+            "why": "F99 supplies the author's sequence from failed sensegiving to critical reinterpretation and opposition; F125 supplies the author's account connecting absent desire to weak ties. The alternative ordering is marked as this reading's proposal. The card also declares F99 as strain and identifies the missing observation needed to test its explanation. The inversion is not presented as a newly observed chronology."
+          },
+          {
+            "item": "The final grievance wager and the absence of a separating feature",
+            "why": "The grievance rule is expressly a wager with an unprinted completion condition, rather than a report that every leaver's grievance status was observed. The card is construct_inversion and split is null, so there are no factual X/Y assignments or separating-feature clauses to test."
+          }
+        ]
+      },
+      {
+        "mode": "E_contradiction",
+        "killed": false,
+        "citations": [],
+        "note": "CLEAR. All 125 fragment stubs were scanned, with fragment notes, the absence register, and declared gaps checked. No fragment outside the seeds and declared strains establishes a detached leaver carrying the specified personal wrong, an opposed leaver without one, or an observed sequence that makes the proposed ordering impossible. Silence about grievances or aspirations is not evidence of their absence. This clearance does not establish the wager's truth and does not undo the independent import failure.",
+        "considered_not_fired": [
+          {
+            "item": "F93: a later leaver's rejection of unquestionable upline authority",
+            "why": "This is the closest adverse case: the card acknowledges the author's detached classification despite an objection to upline authority. F93 is explicitly listed under strains_against, so it cannot fire E. Its stub also does not specify a wrong done personally to the speaker."
+          },
+          {
+            "item": "F94, F95, F96, F99, and F21",
+            "why": "The surviving wish, missing grievance, sparse relationships, retrospective reinterpretation, and across-case aspiration account are all expressly declared strains; F94, F95, and F96 are also seeds. They cannot be treated as undeclared contradictions. F99 and F21 explicitly report the author's explanation rather than independently observed individual sequences."
+          },
+          {
+            "item": "F90 and F92: fading interest and an experience that did not suit the speaker",
+            "why": "Neither stub reports a personal wrong held against recruiters or uplines. Both can coexist with the proposed detachment pathway. Their silence does not prove grievance-free exit, but it also does not contradict it."
+          },
+          {
+            "item": "F100: the ex-Amway website's warnings",
+            "why": "The website warns of harm to family interests and credibility and urges exit. It does not provide an individual leaver's history establishing opposition without a personal wrong. Its broader grounds for criticism can coexist with grievances; an absent personal account is not a counterexample."
+          },
+          {
+            "item": "F75 and F76: outsiders' perceived exploitation and mutual distancing",
+            "why": "F75 reports perceived financial use of relationships among non-members, but does not establish that these speakers joined, left, and ended detached despite a grievance. F76 likewise gives no such leaver-level combination. Avoiding distributors is not by itself the card's detached outcome."
+          },
+          {
+            "item": "F80 and F101\u2013F107: support, ambivalence, embarrassment, and lost friendships",
+            "why": "F80 reports a distributor's general view about support and continued activity, not an observed chronology of the opposed leavers. F101\u2013F107 concern inactive or continuing participants and the researcher. F104's immediate denial after a coworker's insult does not establish a former distributor ending opposed without a recruiter/upline grievance. F105's lost friendship likewise does not establish the specified personal wrong and exit outcome."
+          },
+          {
+            "item": "F19, F27, F88, F89, F108, F109, and C28",
+            "why": "These passages articulate or organize the author's identification explanation. In particular, F108 presents prior sensebreaking as the author's account, not a separately described observation resolving the leavers' individual histories. Disagreement with that explanation is not an empirical contradiction. C28 is an incumbent claim, not counterevidence."
+          },
+          {
+            "item": "F22, F110, F123, F124, DG03, and absences A01\u2013A03",
+            "why": "Financial success before quitting, changes in identification, short former-member tenure, and uncertain turnover rates do not determine the required grievance/outcome combination. DG03 explicitly notes that transitions are not analyzed in detail. A01\u2013A03 concern profit figures, refused recruits' testimony, and turnover rates; none supplies the missing individual account or licenses treating an unprinted grievance, aspiration, or sequence as absent in fact."
+          }
+        ]
+      }
+    ],
+    "kept": "A killed reading is retained, marked. Deleting it removes the evidence that the pass functions."
+  }
+}

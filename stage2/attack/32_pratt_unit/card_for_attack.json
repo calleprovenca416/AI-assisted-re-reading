@@ -1,0 +1,74 @@
+{
+  "card_id": "pratt_2000_focalization_shift_current_and_former_distributors_01",
+  "paper_id": "pratt_2000",
+  "move": "focalization_shift",
+  "trigger": "unit: current and former distributors (F23)",
+  "claim": "C09",
+  "incumbent_reading": "The paper holds that financial performance did not determine how distributors identified, and reports that clear net-profit figures could not be had from them.",
+  "wager": {
+    "statement": "This unit speaks in one fragment, so the retelling is short. Asked for their net profit, current and former distributors did two things: they did not produce a clear figure, and they disagreed among themselves about which product margins and which training expenses belong in the sum (F23). The paper takes this as a limit on what could be measured and goes on to conclude that money did not sort people (C09). Told from the distributors' side it is a report about them. Among the people doing this work, what the business earns is not a settled number; it depends on what one is prepared to call a cost. The cost in dispute is not a small one. Distributors paid for their training (F11), and the training is printed as a system of books, recordings, meetings, rallies and seminars (F10); books and tapes are also among the media through which members met model dreams (F35). Whoever leaves those expenses out has a business that nets more than whoever puts them in. The wager is that the disagreement in F23 ran between those who stood with [6 words of Pratt (2000), p. 462], and that counting the training as a cost of the business, or not counting it, is itself a way of standing toward the organization. If that is so, financial result cannot be laid beside identification as a separate measure, as F22 lays it, since a distributor's own figure already holds an answer to what the training is. This does not dispute that money failed to sort people; it disputes that money was a separate thing to sort them by. The stub does not say along what line the disagreement ran, and it leaves 'could not' and 'would not' unseparated.",
+    "seed_fragments": [
+      "F23"
+    ],
+    "what_it_would_take_to_cohere": {
+      "observation": "Each distributor's own reckoning, what they counted and what they left out, set beside whether they were current or former; and, for those who gave no figure, whether it was unknown to them or kept back.",
+      "printed": false,
+      "printed_fragments": [],
+      "basis": "Absent. F23 is the only fragment in which this unit speaks, and it reports the disagreement without saying who held which view. The fragments around it give sales levels (F22) and Amway's own figures for activity and gross earnings (F24, F25), not anyone's reckoning. The audit's absence register lists comparable net figures as not ascertainable; the reading asks who counted what, and claims nothing about the figures themselves."
+    },
+    "strains_against": [
+      "F22 -- the observation that high sellers quit and low earners stayed favorable rests on sales levels, which the dispute over costs does not touch; on that measure money still fails to sort people, whatever line the disagreement ran along.",
+      "F24 -- Amway's own publication gives the share of active distributors and of those reaching a sales volume, and F25 a typical gross figure; these are measures of financial result that no one's stance can alter.",
+      "F23 -- the stub reports current and former distributors together and gives no sign that the two differed, and that they differed is the whole of the wager."
+    ],
+    "who_could_complete_it": "Interview material in which a distributor's own account of margins and training expenses can be matched to that distributor's standing as current or former."
+  },
+  "fragment_jobs": {
+    "F23": "is the unit's only speech: distributors gave no clear net figure and disagreed about what to count, and the reading takes the disagreement as the finding.",
+    "F11": "prints that distributors themselves paid for training, so the disputed expense is one they bore.",
+    "F10": "prints what the training was, a system of books, recordings, meetings, rallies and seminars, which gives the disputed expense its content.",
+    "F35": "prints books and tapes among the media through which members met model dreams, which ties the disputed expense to the practice the paper calls dream building.",
+    "F22": "is where the paper lays financial result beside reactions to Amway, in terms of sales levels and financial success, not the net figures F23 says were missing."
+  },
+  "grounded_in": [
+    {
+      "kind": "missing_fact",
+      "question": "Along what line did the disagreement over margins and training expenses run: between current and former distributors, or across both?",
+      "bears_on": "C09",
+      "if_one_way": "If former distributors counted the training as a cost and current ones did not, C09 would read differently: a distributor's financial result would be partly made by where they stood toward Amway and could not be the separate quantity that fails to determine identification.",
+      "if_the_other": "If the disagreement cut across current and former alike, C09 would read as the paper has it, with F23 a caveat about measurement and no more."
+    },
+    {
+      "kind": "missing_fact",
+      "question": "Of those who gave no clear figure, which could not and which would not?",
+      "bears_on": "C09",
+      "if_one_way": "If they could not, distributors were themselves without a net figure, and C09 would read as close to given: money could hardly sort people who did not know their own result.",
+      "if_the_other": "If they would not, a figure existed and was kept from the researcher, and C09 would read as untested on net result, with sales level (F22) standing in for it."
+    },
+    {
+      "kind": "divergence",
+      "items": [
+        "F22",
+        "F23"
+      ],
+      "how": "F22 sorts distributors by sales level and financial success; F23 says the net figures were not given and that distributors disagreed on how to reckon them. One speaks as if financial result were known, the other says it was not."
+    }
+  ],
+  "reach": {
+    "same_construct": [
+      "F22",
+      "F24",
+      "F25"
+    ],
+    "same_outcome": [],
+    "feature_elsewhere": [
+      "F10",
+      "F11",
+      "F35",
+      "F64"
+    ],
+    "orphans_used": []
+  },
+  "split": null,
+  "for_attack": true
+}

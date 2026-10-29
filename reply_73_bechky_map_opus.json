@@ -1,0 +1,749 @@
+{
+  "paper": "Beth A. Bechky, 2020",
+  "pairs": [
+    {
+      "pair": "P001",
+      "claim": "C03",
+      "base": "C02",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F39, F56: the NAS-driven evaluative tensions are what travel along the pathways",
+      "page": "p. 619",
+      "reason": "C03's account has pathways carry and route the evaluation of neighboring occupations, so it takes C02's outcome, scrutiny drawn toward neighbors by DNA's benchmark status, as the input to the process, and nothing else in the paper supplies that input."
+    },
+    {
+      "pair": "P002",
+      "claim": "C04",
+      "base": "C03",
+      "rests_on": false,
+      "reason": "C04 concerns how feasible adaptation is given the fit between techniques, which the paper shows from each unit's methods and not from the route by which the comparison arrived."
+    },
+    {
+      "pair": "P003",
+      "claim": "C05",
+      "base": "C01",
+      "rests_on": false,
+      "reason": "C05's filtering of comparisons by values is shown by the three units' responses and keeps its point about resistance to technological change even if spillovers were not shown to reshape work; C01 shares an outcome with it rather than supplying a step, a case or a point."
+    },
+    {
+      "pair": "P004",
+      "claim": "C05",
+      "base": "C03",
+      "rests_on": false,
+      "reason": "The paper shows values filtering the comparison through each unit's culture and response, without needing the pathway account as a step or as evidence."
+    },
+    {
+      "pair": "P005",
+      "claim": "C01",
+      "base": "C18",
+      "rests_on": false,
+      "reason": "Narcotics analysts kept their crystal-testing practice, so their case qualifies C01 by showing spillover without reshaped practice (as the sheet's F129 coding implies) rather than supporting it."
+    },
+    {
+      "pair": "P006",
+      "claim": "C04",
+      "base": "C11",
+      "rests_on": false,
+      "reason": "C11 is a literature premise about sensemaking that C04 neither draws evidence from nor needs as a step in its account of technical fit."
+    },
+    {
+      "pair": "P007",
+      "claim": "C13",
+      "base": "C23",
+      "rests_on": false,
+      "reason": "C23 is a forward-looking extension to digital technologies and gives no support, step or point to the claim that occupations read different features into DNA."
+    },
+    {
+      "pair": "P008",
+      "claim": "C03",
+      "base": "C08",
+      "rests_on": false,
+      "reason": "C08 is a literature claim about power and resisting task change, and the pathway account neither uses it nor ranks pathways against it."
+    },
+    {
+      "pair": "P009",
+      "claim": "C01",
+      "base": "C23",
+      "rests_on": false,
+      "reason": "C23 is a ventured projection drawn from C01, not part of what shows it, and C01 keeps its theoretical point without it."
+    },
+    {
+      "pair": "P010",
+      "claim": "C04",
+      "base": "C23",
+      "rests_on": false,
+      "reason": "The speculation about digital technologies gives the technical-compatibility claim no evidence, step or point."
+    },
+    {
+      "pair": "P011",
+      "claim": "C20",
+      "base": "C11",
+      "rests_on": false,
+      "reason": "The intertwining of values and technique is argued from the units' work routines, not from the literature premise that practice change is mediated by sensemaking."
+    },
+    {
+      "pair": "P012",
+      "claim": "C13",
+      "base": "C05",
+      "rests_on": false,
+      "reason": "C13 is shown by which feature of DNA each occupation picked out (statistics, error measurement, instrument output), not by whether value alignment led to adaptation or resistance."
+    },
+    {
+      "pair": "P013",
+      "claim": "C20",
+      "base": "C17",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F167; F94-F97: toxicologists' error-avoidance grows out of their instrumented routine",
+      "page": "p. 637",
+      "reason": "The paper's chief illustration that values are rooted in the work is the toxicologists, whose error-avoidance comes from seeing what goes wrong in their technique, though the firearms and narcotics descriptions also show values tied to technique."
+    },
+    {
+      "pair": "P014",
+      "claim": "C01",
+      "base": "C02",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F156, F39: DNA's elevation triggers evaluation of non-adopting forensic occupations",
+      "page": "p. 634",
+      "reason": "C01's mechanism runs from a technology's strong legitimacy to comparisons that pressure neighbors, so it takes C02's outcome, evaluation drawn onto neighboring occupations, as a step, and no other claim supplies it."
+    },
+    {
+      "pair": "P015",
+      "claim": "C20",
+      "base": "C05",
+      "rests_on": true,
+      "type": "significance",
+      "strength": "necessary",
+      "basis": "Discussion offers intertwinement as why groups read new technology through their values and techniques",
+      "page": "p. 637",
+      "reason": "C20's support, the descriptions of each unit's work and values, stands without C05, but the paper offers the intertwining to explain why responses run through values, and that point lapses if values do not filter the comparison."
+    },
+    {
+      "pair": "P016",
+      "claim": "C04",
+      "base": "C17",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F100, F101, F146: measurement uncertainty fit toxicology's instrumented method",
+      "page": "p. 637",
+      "reason": "Toxicology is the case where a compatible technique made adaptation straightforward, one of the cases from which C04 is drawn alongside firearms and narcotics."
+    },
+    {
+      "pair": "P017",
+      "claim": "C01",
+      "base": "C22",
+      "rests_on": false,
+      "reason": "The ethnography masking example is a ventured application of the framework beyond forensics and gives C01 no support or point."
+    },
+    {
+      "pair": "P018",
+      "claim": "C03",
+      "base": "C18",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F129, F132, F162: internal professional debate created no immediate need to change",
+      "page": "p. 632",
+      "reason": "Narcotics is the case of a nonurgent internal route with no local change, one of the instances behind C03's contrast, while firearms also gives a non-immediate case."
+    },
+    {
+      "pair": "P019",
+      "claim": "C05",
+      "base": "C17",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F100, F103, F149: uncertainty reporting fit the 'OCD unit's' error-avoidance values",
+      "page": "p. 628",
+      "reason": "Toxicology is the only case of value alignment supporting adaptation, but C05 also draws on the two resistance cases, so it keeps part of its support without it."
+    },
+    {
+      "pair": "P020",
+      "claim": "C04",
+      "base": "C01",
+      "rests_on": false,
+      "reason": "Technical fit shaping feasibility is shown by the three units' methods, and C01 is neither a step in that account nor part of its evidence."
+    },
+    {
+      "pair": "P021",
+      "claim": "C13",
+      "base": "C11",
+      "rests_on": false,
+      "reason": "C13 is shown by the occupations' differing readings of DNA in the fieldwork, not by the literature premise about sensemaking."
+    },
+    {
+      "pair": "P022",
+      "claim": "C20",
+      "base": "C04",
+      "rests_on": true,
+      "type": "significance",
+      "strength": "contributing",
+      "basis": "Discussion links inseparability of values and technique to how groups interpret new technology",
+      "page": "p. 637",
+      "reason": "C20 stays supported by the unit descriptions, but part of its point is to explain why technique, alongside values, shapes responses, and C05 also carries that point."
+    },
+    {
+      "pair": "P023",
+      "claim": "C01",
+      "base": "C14",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "F47, F52: representation practices made DNA look objective and so a benchmark",
+      "page": "p. 618",
+      "reason": "C01's process starts from the benchmark technology's perceived objectivity, which C14 explains, though court survival, the 1990s NAS reports and the 2009 NAS exemption (F01, F43) also give DNA that standing."
+    },
+    {
+      "pair": "P024",
+      "claim": "C20",
+      "base": "C18",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F126-F128: craft judgment and variety bound up with crystal testing",
+      "page": "p. 632",
+      "reason": "Narcotics analysts' valuing of craft, variety and autonomy as features of crystal work is one of the instances showing values rooted in technique."
+    },
+    {
+      "pair": "P025",
+      "claim": "C13",
+      "base": "C17",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F157: toxicologists read DNA as measurement-error practice",
+      "page": "p. 634",
+      "reason": "Toxicology's narrow reading of DNA as error measurement is one of the three instances showing that occupations select different features of the benchmark."
+    },
+    {
+      "pair": "P026",
+      "claim": "C05",
+      "base": "C23",
+      "rests_on": false,
+      "reason": "The projection about digital technologies supplies no evidence, step or point to the claim that values filter comparisons."
+    },
+    {
+      "pair": "P027",
+      "claim": "C20",
+      "base": "C02",
+      "rests_on": false,
+      "reason": "Values being rooted in technique is shown from the units' daily work and would hold, with its point, independent of DNA's benchmark status."
+    },
+    {
+      "pair": "P028",
+      "claim": "C03",
+      "base": "C23",
+      "rests_on": false,
+      "reason": "C23 is a ventured extension that gives the pathway claim no support or point."
+    },
+    {
+      "pair": "P029",
+      "claim": "C13",
+      "base": "C06",
+      "rests_on": false,
+      "reason": "C06 is a literature claim about direct adoption reshaping boundaries and plays no part in showing that neighbors read DNA differently."
+    },
+    {
+      "pair": "P030",
+      "claim": "C20",
+      "base": "C10",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F27, F58: distinct analytic work produced distinct cultures; text then notes values and technique intertwined",
+      "page": "p. 620",
+      "reason": "C10's finding that differing analytic work generates distinct values is part of what shows values are rooted in what the work requires, though the unit-level examples such as toxicology also show it."
+    },
+    {
+      "pair": "P031",
+      "claim": "C20",
+      "base": "C12",
+      "rests_on": false,
+      "reason": "The methodological claim about what ethnography reveals is not a premise, case or point of the claim that values and technique are intertwined."
+    },
+    {
+      "pair": "P032",
+      "claim": "C01",
+      "base": "C04",
+      "rests_on": false,
+      "reason": "C01 holds that spillovers can reshape non-adopters' work, which the toxicology change shows without needing the technical-fit account as step or evidence."
+    },
+    {
+      "pair": "P033",
+      "claim": "C05",
+      "base": "C11",
+      "rests_on": false,
+      "reason": "C11 is the literature motivating attention to values, but C05 is shown by the fieldwork and keeps its point without it."
+    },
+    {
+      "pair": "P034",
+      "claim": "C05",
+      "base": "C12",
+      "rests_on": false,
+      "reason": "The claim about ethnography's capacity to reveal interpretation is methodological and gives C05 no evidence, step or point."
+    },
+    {
+      "pair": "P035",
+      "claim": "C05",
+      "base": "C13",
+      "rests_on": false,
+      "reason": "Values filtering comparisons into adaptation or resistance is shown by each unit's values and response and does not take the multiplicity of DNA's readings as a step."
+    },
+    {
+      "pair": "P036",
+      "claim": "C21",
+      "base": "C18",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F166, F168: narcotics resisted despite a compatible instrument because craft and variety mattered",
+      "page": "p. 637",
+      "reason": "Narcotics is one of the three cases making up the response pattern that C21 attributes to values and technique rather than status or power."
+    },
+    {
+      "pair": "P037",
+      "claim": "C21",
+      "base": "C10",
+      "rests_on": false,
+      "reason": "C21's ranking is shown by how each unit's values and technique lined up with its response, not by the general claim that work differences generate distinct cultures."
+    },
+    {
+      "pair": "P038",
+      "claim": "C04",
+      "base": "C20",
+      "rests_on": false,
+      "reason": "C04's qualifier that compatibility does not guarantee change rests on the narcotics case, not on the claim that values and technique are intertwined."
+    },
+    {
+      "pair": "P039",
+      "claim": "C01",
+      "base": "C17",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "necessary",
+      "basis": "F98, F102, F103: toxicologists accelerated uncertainty reporting under DNA-linked challenge",
+      "page": "p. 627",
+      "reason": "The toxicology reporting change is the only case printed in which spillover actually reshaped a non-adopting occupation's practice, since firearms and narcotics at MCCL did not change and the paper has no data on other labs."
+    },
+    {
+      "pair": "P040",
+      "claim": "C05",
+      "base": "C18",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F126-F129, F150: instrumentation threatened valued autonomy and variety, so analysts resisted",
+      "page": "p. 632",
+      "reason": "Narcotics is a case of value threat promoting resistance, the stronger for compatible technique, but firearms also supports the resistance side of C05."
+    },
+    {
+      "pair": "P041",
+      "claim": "C01",
+      "base": "C11",
+      "rests_on": false,
+      "reason": "C11 is a literature premise about sensemaking that neither supports nor gives a step to the claim that spillovers reshape non-adopters' work."
+    },
+    {
+      "pair": "P042",
+      "claim": "C20",
+      "base": "C13",
+      "rests_on": false,
+      "reason": "Values being rooted in technique is shown from the units' daily work and keeps its point whether or not DNA was read as one fixed standard."
+    },
+    {
+      "pair": "P043",
+      "claim": "C03",
+      "base": "C05",
+      "rests_on": false,
+      "reason": "The pathway claim is drawn from the immediacy of each unit's route and neither ranks pathways against values nor takes value filtering as a step."
+    },
+    {
+      "pair": "P044",
+      "claim": "C20",
+      "base": "C06",
+      "rests_on": false,
+      "reason": "The literature claim about direct adoption reconfiguring boundaries gives C20 no support, step or point."
+    },
+    {
+      "pair": "P045",
+      "claim": "C04",
+      "base": "C10",
+      "rests_on": false,
+      "reason": "C04 relies on the units' differing techniques as described directly, not on C10's claim about how cultures come to differ."
+    },
+    {
+      "pair": "P046",
+      "claim": "C21",
+      "base": "C15",
+      "rests_on": false,
+      "reason": "DNA envy concerns DNA's privileged position, not the relative status or power of the three focal groups that C21 weighs against the nature of the work."
+    },
+    {
+      "pair": "P047",
+      "claim": "C05",
+      "base": "C10",
+      "rests_on": false,
+      "reason": "C05 needs only that the units held different values, which the unit descriptions show, not C10's account of where those differences come from."
+    },
+    {
+      "pair": "P048",
+      "claim": "C04",
+      "base": "C16",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F85, F86, F145: no workable firearms analogue to DNA's population statistics",
+      "page": "p. 624",
+      "reason": "Firearms is the case of an incompatible technique making adaptation seem unworkable, one of the three cases behind C04."
+    },
+    {
+      "pair": "P049",
+      "claim": "C03",
+      "base": "C04",
+      "rests_on": false,
+      "reason": "The paper argues the effect of pathway immediacy from the routes themselves and does not use technical fit as a step or ranked rival in C03."
+    },
+    {
+      "pair": "P050",
+      "claim": "C13",
+      "base": "C19",
+      "rests_on": false,
+      "reason": "The ventured claim about how far spillovers reach gives no support or step to the claim that neighbors read DNA differently."
+    },
+    {
+      "pair": "P051",
+      "claim": "C03",
+      "base": "C17",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "necessary",
+      "basis": "F88, F99, F161, F164: an imminent local court challenge spurred toxicology's change",
+      "page": "p. 635",
+      "reason": "Toxicology is the only case of a locally immediate route, so without it nothing in the paper shows that immediacy creates a stronger impetus for change."
+    },
+    {
+      "pair": "P052",
+      "claim": "C03",
+      "base": "C01",
+      "rests_on": false,
+      "reason": "C01 shares C03's outcome rather than supplying a step, a case or a point, and C03's point about linking institutional pressure to local enactment stands without it."
+    },
+    {
+      "pair": "P053",
+      "claim": "C05",
+      "base": "C20",
+      "rests_on": false,
+      "reason": "Values filtering comparisons is shown by each unit's values and response; the paper uses C20 to make that unsurprising, which is C20 drawing its point from C05 rather than the reverse."
+    },
+    {
+      "pair": "P054",
+      "claim": "C04",
+      "base": "C18",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "necessary",
+      "basis": "F147, F153, F166: compatible GC/MS option yet no change",
+      "page": "p. 637",
+      "reason": "Narcotics is the only case showing that compatible technique does not by itself bring change, so nothing else supports C04's qualifying clause."
+    },
+    {
+      "pair": "P055",
+      "claim": "C03",
+      "base": "C22",
+      "rests_on": false,
+      "reason": "The ethnography example applies the pathway idea outward and gives C03 no support or point."
+    },
+    {
+      "pair": "P056",
+      "claim": "C21",
+      "base": "C17",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F166, F168: toxicologists changed because technique and values both fit",
+      "page": "p. 637",
+      "reason": "Toxicology is one of the three cases whose response pattern C21 explains by the nature of the work rather than status or power."
+    },
+    {
+      "pair": "P057",
+      "claim": "C20",
+      "base": "C07",
+      "rests_on": false,
+      "reason": "C07 is a literature claim about local conditions shaping technology's social effects and plays no part in showing that values are rooted in technique."
+    },
+    {
+      "pair": "P058",
+      "claim": "C01",
+      "base": "C16",
+      "rests_on": false,
+      "reason": "MCCL firearms examiners did not change their practice, so their case shows spillover arriving without reshaping work and qualifies C01 rather than supporting it."
+    },
+    {
+      "pair": "P059",
+      "claim": "C01",
+      "base": "C05",
+      "rests_on": false,
+      "reason": "C01 states that spillovers can reshape non-adopters' work, which the paper shows without needing value filtering as a step or evidence."
+    },
+    {
+      "pair": "P060",
+      "claim": "C13",
+      "base": "C14",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F45-F47: DNA's statistics, error reporting and reviewable instrument output",
+      "page": "p. 618",
+      "reason": "C14's account of DNA's several representational features supplies the distinct features that the occupations later select, though the paper also states directly that DNA comprised multiple techniques open to interpretation."
+    },
+    {
+      "pair": "P061",
+      "claim": "C21",
+      "base": "C03",
+      "rests_on": false,
+      "reason": "C21 weighs the nature of the work against status and power, and pathways are neither a term in that ranking nor its evidence."
+    },
+    {
+      "pair": "P062",
+      "claim": "C05",
+      "base": "C04",
+      "rests_on": false,
+      "reason": "C05 is drawn from the units' values and responses, and the general technical-fit claim gives it neither a step nor evidence."
+    },
+    {
+      "pair": "P063",
+      "claim": "C13",
+      "base": "C18",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F106, F157: narcotics read DNA as instrument certainty and documented output",
+      "page": "p. 634",
+      "reason": "Narcotics' focus on DNA's instrumental output is one of the three instances showing that occupations select different features of the benchmark."
+    },
+    {
+      "pair": "P064",
+      "claim": "C20",
+      "base": "C16",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F75-F77: firearms judgment values built through training on best known non-matches",
+      "page": "p. 623",
+      "reason": "Firearms examiners' value of holistic trained judgment arising from their comparative-microscopy training is one instance of values rooted in technique."
+    },
+    {
+      "pair": "P065",
+      "claim": "C03",
+      "base": "C16",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F84, F160, F164: distant challenges left MCCL firearms practice unchanged",
+      "page": "p. 635",
+      "reason": "Firearms is the remote-route case set against toxicology in the paper's court comparison, though narcotics also supplies a non-immediate case with no change."
+    },
+    {
+      "pair": "P066",
+      "claim": "C01",
+      "base": "C19",
+      "rests_on": false,
+      "reason": "C19 is a ventured boundary claim about how far spillovers extend, and C01 is shown within forensic science without it."
+    },
+    {
+      "pair": "P067",
+      "claim": "C04",
+      "base": "C13",
+      "rests_on": false,
+      "reason": "C04 as stated, that fit between benchmark and method shapes feasibility, would hold against a single fixed standard, so it does not need the multiplicity of readings."
+    },
+    {
+      "pair": "P068",
+      "claim": "C21",
+      "base": "C19",
+      "rests_on": false,
+      "reason": "The ventured claim about spillover reach is unrelated to ranking the nature of work above status and power."
+    },
+    {
+      "pair": "P069",
+      "claim": "C04",
+      "base": "C22",
+      "rests_on": false,
+      "reason": "The ethnography example gives the technical-compatibility claim no support, step or point."
+    },
+    {
+      "pair": "P070",
+      "claim": "C13",
+      "base": "C16",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F85, F157: firearms read DNA as statistical objectivity",
+      "page": "p. 634",
+      "reason": "Firearms' reading of DNA as overarching statistical objectivity is one of the three instances showing different features selected."
+    },
+    {
+      "pair": "P071",
+      "claim": "C04",
+      "base": "C05",
+      "rests_on": false,
+      "reason": "C04's qualifier needs only that narcotics did not change despite compatibility, which stands whatever explains it, so values are not a step or evidence for C04."
+    },
+    {
+      "pair": "P072",
+      "claim": "C20",
+      "base": "C03",
+      "rests_on": false,
+      "reason": "Pathways play no part in showing that values are rooted in technique, and C20's point does not concern them."
+    },
+    {
+      "pair": "P073",
+      "claim": "C13",
+      "base": "C04",
+      "rests_on": false,
+      "reason": "C13 is shown by which DNA feature each group compared, not by whether that feature fit its method closely enough to make adaptation feasible."
+    },
+    {
+      "pair": "P074",
+      "claim": "C13",
+      "base": "C02",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "DNA as informal standard driving comparisons, open to many interpretations",
+      "page": "p. 617",
+      "reason": "C13 concerns how neighbors read a benchmark when comparing it with their work, which presupposes C02's outcome that DNA's legitimacy drew such comparison onto them, and nothing else supplies that."
+    },
+    {
+      "pair": "P075",
+      "claim": "C01",
+      "base": "C03",
+      "rests_on": false,
+      "reason": "Pathways explain how and how urgently spillovers act, but C01's claim that they can reshape non-adopters' work is shown by the toxicology change without that account."
+    },
+    {
+      "pair": "P076",
+      "claim": "C21",
+      "base": "C16",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F166, F168: firearms resisted as technique and values both conflicted",
+      "page": "p. 637",
+      "reason": "Firearms is one of the three cases making up the response pattern C21 attributes to the nature of the work."
+    },
+    {
+      "pair": "P077",
+      "claim": "C13",
+      "base": "C20",
+      "rests_on": false,
+      "reason": "The differing readings of DNA are shown directly from each group's comparisons, and C13 needs no claim that values and technique are intertwined."
+    },
+    {
+      "pair": "P078",
+      "claim": "C03",
+      "base": "C12",
+      "rests_on": false,
+      "reason": "The methodological claim about ethnography is not a step, case or point of the claim that pathway immediacy shapes local change."
+    },
+    {
+      "pair": "P079",
+      "claim": "C04",
+      "base": "C21",
+      "rests_on": false,
+      "reason": "C21 ranks technique and values above status and power and so builds on C04, not the reverse; C04 is shown by the unit cases."
+    },
+    {
+      "pair": "P080",
+      "claim": "C05",
+      "base": "C16",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F86, F87, F148: DNA-like objectivity affronted holistic subjective judgment",
+      "page": "p. 624",
+      "reason": "Firearms is a case of value threat promoting resistance, though narcotics also supports that side of C05."
+    }
+  ],
+  "further_edges": [
+    {
+      "claim": "C21",
+      "base": "C05",
+      "type": "comparative",
+      "strength": "necessary",
+      "basis": "F166, F168: values named as what outweighed status and power",
+      "page": "p. 637",
+      "reason": "C21 ranks the nature of the work, chiefly occupational values, above status and power, so value filtering is a term in the ranking."
+    },
+    {
+      "claim": "C21",
+      "base": "C04",
+      "type": "comparative",
+      "strength": "necessary",
+      "basis": "F166, F168: technique paired with values as the stronger explanation",
+      "page": "p. 637",
+      "reason": "Technique is the other half of the explanation C21 ranks above status and power, so the ranking depends on technical fit doing explanatory work."
+    },
+    {
+      "claim": "C21",
+      "base": "C08",
+      "type": "comparative",
+      "strength": "contributing",
+      "basis": "Literature on high-status groups using power to shape technological change",
+      "page": "p. 636",
+      "reason": "The status-and-power explanation C21 ranks below the nature of the work is set out in the literature claims, C08 among them alongside C06."
+    },
+    {
+      "claim": "C05",
+      "base": "C02",
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F39, F56: DNA-centered evaluation is what values filter",
+      "page": "p. 619",
+      "reason": "C05's process has values filtering an evaluative comparison, which takes C02's outcome, scrutiny drawn toward neighbors by DNA's benchmark status, as its input."
+    },
+    {
+      "claim": "C04",
+      "base": "C02",
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F39, F154: compatibility judged against DNA as benchmark",
+      "page": "p. 633",
+      "reason": "Technical compatibility in C04 is compatibility with a benchmark imposed through comparison, which presupposes C02's outcome."
+    },
+    {
+      "claim": "C01",
+      "base": "C09",
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "Technology as symbol of progress lending legitimacy; DNA epitomizing modern progress",
+      "page": "p. 610",
+      "reason": "C01's account of spillover starts from a technology lending legitimacy to its users, which C09 supplies as a general mechanism alongside DNA-specific sources such as C14 and the NAS exemption."
+    }
+  ],
+  "registry": [
+    {"canonical": "occupational legitimacy", "names": ["occupational legitimacy", "legitimacy"]},
+    {"canonical": "power", "names": ["power", "professional power"]},
+    {"canonical": "occupational practices", "names": ["occupational practices", "work practices"]}
+  ],
+  "factors": [
+    {"id": "X1", "name": "immediacy of the institutional pathway", "claim": "C03"},
+    {"id": "X2", "name": "technical compatibility with the DNA benchmark", "claim": "C04"},
+    {"id": "X3", "name": "compatibility with occupational values", "claim": "C05"}
+  ],
+  "units": [
+    {"unit": "forensic biology (DNA)", "outcome": "?", "values": {"X1": "?", "X2": "?", "X3": "?"}, "ids": ["C14", "F07", "F45", "F52"]},
+    {"unit": "firearms", "outcome": "-", "values": {"X1": "-", "X2": "-", "X3": "-"}, "ids": ["C16", "F84", "F87", "F139", "F145", "F148", "F151", "F160"]},
+    {"unit": "toxicology", "outcome": "+", "values": {"X1": "+", "X2": "+", "X3": "+"}, "ids": ["C17", "F88", "F98", "F131", "F146", "F149", "F152", "F161"]},
+    {"unit": "controlled substances (narcotics)", "outcome": "-", "values": {"X1": "-", "X2": "+", "X3": "-"}, "ids": ["C18", "F129", "F132", "F147", "F150", "F153", "F162"]}
+  ],
+  "contrasts": [
+    {"contrast": "CP01", "controls": {"X1": "varies", "X2": "varies", "X3": "varies"}, "ids": ["F84", "F87", "F88", "F145", "F146", "F148", "F149", "F160", "F161", "F164"]},
+    {"contrast": "CP02", "controls": {"X1": "varies", "X2": "held", "X3": "varies"}, "ids": ["F131", "F132", "F146", "F147", "F149", "F150", "F161", "F162"]}
+  ]
+}

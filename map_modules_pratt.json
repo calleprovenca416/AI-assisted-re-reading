@@ -1,0 +1,1224 @@
+{
+ "builder_sha256": "3dd00b533f75fb69330aee9f28176f6d88b0bc3c183fc16ae55985b2304c5bb4",
+ "core": {
+  "C01": {
+   "constructs": [
+    {
+     "canonical": "identification management",
+     "other_claims": [
+      "C30",
+      "C34",
+      "C42",
+      "C52",
+      "C56"
+     ]
+    },
+    {
+     "canonical": "sensebreaking",
+     "other_claims": [
+      "C02",
+      "C03",
+      "C12",
+      "C13",
+      "C26",
+      "C27",
+      "C28",
+      "C29",
+      "C33",
+      "C39",
+      "C59"
+     ]
+    },
+    {
+     "canonical": "sensegiving",
+     "other_claims": [
+      "C02",
+      "C03",
+      "C20",
+      "C28",
+      "C29",
+      "C31",
+      "C33",
+      "C39",
+      "C60"
+     ]
+    }
+   ],
+   "edges_in": [
+    {
+     "base": "C02",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C03",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C07",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C11",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C12",
+     "strength": "necessary",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C13",
+     "strength": "contributing",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C19",
+     "strength": "contributing",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C20",
+     "strength": "necessary",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C27",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C28",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C29",
+     "strength": "contributing",
+     "type": "evidential"
+    }
+   ],
+   "evidence": {
+    "by_data_type": {
+     "archival": 13,
+     "field_note": 11,
+     "individual_interview": 27,
+     "observation": 14,
+     "quoted_speech_in_situ": 6,
+     "unspecified": 27
+    },
+    "by_direction": {
+     "illustrates": 98
+    },
+    "by_direction_and_voice": {
+     "illustrates": {
+      "author_insight": 27,
+      "reported": 71
+     }
+    },
+    "by_unit": {
+     "Amway leaders": 3,
+     "active distributors": 2,
+     "distributors": 41,
+     "distributors and non-distributors": 2,
+     "former distributors": 11,
+     "former distributors and non-distributors": 1,
+     "inactive distributors": 7,
+     "non-distributors": 1,
+     "organizational members": 1,
+     "researcher-as-distributor": 3,
+     "successful distributors": 8,
+     "upline distributors": 18
+    },
+    "passages": 98
+   },
+   "openings": {
+    "absences": [],
+    "against": [],
+    "declared_gaps": [
+     "DG02"
+    ],
+    "qualifying": [],
+    "ventured": false,
+    "ventured_bases": []
+   },
+   "scope": {
+    "scope_limits": [],
+    "units": [
+     "Amway leaders",
+     "active distributors",
+     "distributors",
+     "distributors and non-distributors",
+     "former distributors",
+     "former distributors and non-distributors",
+     "inactive distributors",
+     "non-distributors",
+     "organizational members",
+     "researcher-as-distributor",
+     "successful distributors",
+     "upline distributors"
+    ]
+   },
+   "statement": "Amway manages how members define their connection to the organization through the paired processes labeled sensebreaking and sensegiving.",
+   "timing": {
+    "passages_by_period": {
+     "P1": 98
+    },
+    "periods": [
+     "P1"
+    ],
+    "reports_outcome_after_resolution": false,
+    "resolution_basis": "The paper analyzes an ongoing identification-management process rather than a bounded episode that becomes settled; its conclusion closes the argument analytically but does not report a temporal resolution of the process.",
+    "resolution_period": null
+   }
+  },
+  "C02": {
+   "constructs": [
+    {
+     "canonical": "positive identification",
+     "other_claims": [
+      "C06",
+      "C26",
+      "C32",
+      "C33",
+      "C41",
+      "C42",
+      "C43"
+     ]
+    },
+    {
+     "canonical": "sensebreaking",
+     "other_claims": [
+      "C01",
+      "C03",
+      "C12",
+      "C13",
+      "C26",
+      "C27",
+      "C28",
+      "C29",
+      "C33",
+      "C39",
+      "C59"
+     ]
+    },
+    {
+     "canonical": "sensegiving",
+     "other_claims": [
+      "C01",
+      "C03",
+      "C20",
+      "C28",
+      "C29",
+      "C31",
+      "C33",
+      "C39",
+      "C60"
+     ]
+    }
+   ],
+   "edges_in": [
+    {
+     "base": "C12",
+     "strength": "necessary",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C20",
+     "strength": "necessary",
+     "type": "mechanistic"
+    }
+   ],
+   "evidence": {
+    "by_data_type": {
+     "individual_interview": 1,
+     "unspecified": 5
+    },
+    "by_direction": {
+     "with": 6
+    },
+    "by_direction_and_voice": {
+     "with": {
+      "author_insight": 5,
+      "reported": 1
+     }
+    },
+    "by_unit": {
+     "active distributors": 1,
+     "distributors": 3,
+     "inactive distributors": 1,
+     "organizational members": 1
+    },
+    "passages": 6
+   },
+   "openings": {
+    "absences": [],
+    "against": [],
+    "declared_gaps": [],
+    "qualifying": [],
+    "ventured": false,
+    "ventured_bases": []
+   },
+   "scope": {
+    "scope_limits": [],
+    "units": [
+     "active distributors",
+     "distributors",
+     "inactive distributors",
+     "organizational members"
+    ]
+   },
+   "statement": "Positive identification is fostered when sensebreaking and sensegiving both work successfully.",
+   "timing": {
+    "passages_by_period": {
+     "P1": 6
+    },
+    "periods": [
+     "P1"
+    ],
+    "reports_outcome_after_resolution": false,
+    "resolution_basis": "The paper analyzes an ongoing identification-management process rather than a bounded episode that becomes settled; its conclusion closes the argument analytically but does not report a temporal resolution of the process.",
+    "resolution_period": null
+   }
+  },
+  "C11": {
+   "constructs": [
+    {
+     "canonical": "motivated sensemaking",
+     "other_claims": []
+    },
+    {
+     "canonical": "identification types",
+     "other_claims": [
+      "C06",
+      "C07",
+      "C09",
+      "C10"
+     ]
+    }
+   ],
+   "edges_in": [
+    {
+     "base": "C12",
+     "strength": "necessary",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C13",
+     "strength": "contributing",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C20",
+     "strength": "contributing",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C28",
+     "strength": "contributing",
+     "type": "evidential"
+    }
+   ],
+   "evidence": {
+    "by_data_type": {
+     "unspecified": 12
+    },
+    "by_direction": {
+     "illustrates": 3,
+     "with": 9
+    },
+    "by_direction_and_voice": {
+     "illustrates": {
+      "author_insight": 3
+     },
+     "with": {
+      "author_insight": 9
+     }
+    },
+    "by_unit": {
+     "active distributors": 1,
+     "distributors": 7,
+     "distributors and non-distributors": 1,
+     "former distributors": 1,
+     "inactive distributors": 1,
+     "organizational members": 1
+    },
+    "passages": 12
+   },
+   "openings": {
+    "absences": [],
+    "against": [],
+    "declared_gaps": [
+     "DG01",
+     "DG02"
+    ],
+    "qualifying": [],
+    "ventured": false,
+    "ventured_bases": []
+   },
+   "scope": {
+    "scope_limits": [
+     "DG01"
+    ],
+    "units": [
+     "active distributors",
+     "distributors",
+     "distributors and non-distributors",
+     "former distributors",
+     "inactive distributors",
+     "organizational members"
+    ]
+   },
+   "statement": "The paper explains identification states as products of motivated sensemaking about the self and its organizational connection.",
+   "timing": {
+    "passages_by_period": {
+     "P1": 12
+    },
+    "periods": [
+     "P1"
+    ],
+    "reports_outcome_after_resolution": false,
+    "resolution_basis": "The paper analyzes an ongoing identification-management process rather than a bounded episode that becomes settled; its conclusion closes the argument analytically but does not report a temporal resolution of the process.",
+    "resolution_period": null
+   }
+  },
+  "C12": {
+   "constructs": [
+    {
+     "canonical": "sensebreaking",
+     "other_claims": [
+      "C01",
+      "C02",
+      "C03",
+      "C13",
+      "C26",
+      "C27",
+      "C28",
+      "C29",
+      "C33",
+      "C39",
+      "C59"
+     ]
+    },
+    {
+     "canonical": "seekership",
+     "other_claims": [
+      "C13",
+      "C17",
+      "C19",
+      "C27",
+      "C30",
+      "C50",
+      "C51",
+      "C57",
+      "C59"
+     ]
+    },
+    {
+     "canonical": "self-concept",
+     "other_claims": [
+      "C05",
+      "C14",
+      "C54"
+     ]
+    }
+   ],
+   "edges_in": [
+    {
+     "base": "C13",
+     "strength": "necessary",
+     "type": "evidential"
+    },
+    {
+     "base": "C27",
+     "strength": "contributing",
+     "type": "evidential"
+    }
+   ],
+   "evidence": {
+    "by_data_type": {
+     "unspecified": 7
+    },
+    "by_direction": {
+     "illustrates": 2,
+     "with": 5
+    },
+    "by_direction_and_voice": {
+     "illustrates": {
+      "author_insight": 2
+     },
+     "with": {
+      "author_insight": 5
+     }
+    },
+    "by_unit": {
+     "distributors": 5,
+     "former distributors and non-distributors": 1,
+     "organizational members": 1
+    },
+    "passages": 7
+   },
+   "openings": {
+    "absences": [],
+    "against": [],
+    "declared_gaps": [],
+    "qualifying": [],
+    "ventured": false,
+    "ventured_bases": []
+   },
+   "scope": {
+    "scope_limits": [],
+    "units": [
+     "distributors",
+     "former distributors and non-distributors",
+     "organizational members"
+    ]
+   },
+   "statement": "Successful sensebreaking creates seekership by unsettling a member’s current understanding of self and producing a need for new meaning.",
+   "timing": {
+    "passages_by_period": {
+     "P1": 7
+    },
+    "periods": [
+     "P1"
+    ],
+    "reports_outcome_after_resolution": false,
+    "resolution_basis": "The paper analyzes an ongoing identification-management process rather than a bounded episode that becomes settled; its conclusion closes the argument analytically but does not report a temporal resolution of the process.",
+    "resolution_period": null
+   }
+  },
+  "C13": {
+   "constructs": [
+    {
+     "canonical": "dream building",
+     "other_claims": [
+      "C07",
+      "C14",
+      "C17",
+      "C18",
+      "C26",
+      "C54"
+     ]
+    },
+    {
+     "canonical": "sensebreaking",
+     "other_claims": [
+      "C01",
+      "C02",
+      "C03",
+      "C12",
+      "C26",
+      "C27",
+      "C28",
+      "C29",
+      "C33",
+      "C39",
+      "C59"
+     ]
+    },
+    {
+     "canonical": "identity deficits",
+     "other_claims": [
+      "C15",
+      "C16"
+     ]
+    },
+    {
+     "canonical": "seekership",
+     "other_claims": [
+      "C12",
+      "C17",
+      "C19",
+      "C27",
+      "C30",
+      "C50",
+      "C51",
+      "C57",
+      "C59"
+     ]
+    }
+   ],
+   "edges_in": [
+    {
+     "base": "C14",
+     "strength": "contributing",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C15",
+     "strength": "necessary",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C17",
+     "strength": "contributing",
+     "type": "mechanistic"
+    }
+   ],
+   "evidence": {
+    "by_data_type": {
+     "archival": 2,
+     "field_note": 8,
+     "individual_interview": 5,
+     "observation": 2,
+     "quoted_speech_in_situ": 2,
+     "unspecified": 5
+    },
+    "by_direction": {
+     "illustrates": 21,
+     "with": 3
+    },
+    "by_direction_and_voice": {
+     "illustrates": {
+      "author_insight": 3,
+      "reported": 18
+     },
+     "with": {
+      "author_insight": 2,
+      "reported": 1
+     }
+    },
+    "by_unit": {
+     "distributors": 8,
+     "former distributors": 2,
+     "inactive distributors": 1,
+     "researcher-as-distributor": 2,
+     "successful distributors": 2,
+     "upline distributors": 9
+    },
+    "passages": 24
+   },
+   "openings": {
+    "absences": [],
+    "against": [],
+    "declared_gaps": [],
+    "qualifying": [],
+    "ventured": false,
+    "ventured_bases": []
+   },
+   "scope": {
+    "scope_limits": [],
+    "units": [
+     "distributors",
+     "former distributors",
+     "inactive distributors",
+     "researcher-as-distributor",
+     "successful distributors",
+     "upline distributors"
+    ]
+   },
+   "statement": "Dream building serves as Amway’s principal sensebreaking practice by tying aspirations to the self, creating identity deficits, and keeping the resulting motivation active.",
+   "timing": {
+    "passages_by_period": {
+     "P1": 24
+    },
+    "periods": [
+     "P1"
+    ],
+    "reports_outcome_after_resolution": false,
+    "resolution_basis": "The paper analyzes an ongoing identification-management process rather than a bounded episode that becomes settled; its conclusion closes the argument analytically but does not report a temporal resolution of the process.",
+    "resolution_period": null
+   }
+  },
+  "C20": {
+   "constructs": [
+    {
+     "canonical": "positive programming",
+     "other_claims": [
+      "C07",
+      "C25",
+      "C49",
+      "C55"
+     ]
+    },
+    {
+     "canonical": "sensegiving",
+     "other_claims": [
+      "C01",
+      "C02",
+      "C03",
+      "C28",
+      "C29",
+      "C31",
+      "C33",
+      "C39",
+      "C60"
+     ]
+    },
+    {
+     "canonical": "encapsulated sensemaking",
+     "other_claims": [
+      "C31",
+      "C40",
+      "C60"
+     ]
+    }
+   ],
+   "edges_in": [
+    {
+     "base": "C21",
+     "strength": "necessary",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C22",
+     "strength": "contributing",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C23",
+     "strength": "contributing",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C28",
+     "strength": "contributing",
+     "type": "evidential"
+    }
+   ],
+   "evidence": {
+    "by_data_type": {
+     "archival": 1,
+     "individual_interview": 4,
+     "observation": 3,
+     "unspecified": 11
+    },
+    "by_direction": {
+     "against": 1,
+     "illustrates": 13,
+     "with": 5
+    },
+    "by_direction_and_voice": {
+     "against": {
+      "reported": 1
+     },
+     "illustrates": {
+      "author_insight": 5,
+      "reported": 8
+     },
+     "with": {
+      "author_insight": 5
+     }
+    },
+    "by_unit": {
+     "Amway leaders": 1,
+     "distributors": 9,
+     "former distributors": 2,
+     "former distributors and non-distributors": 1,
+     "inactive distributors": 2,
+     "organizational members": 1,
+     "upline distributors": 3
+    },
+    "passages": 19
+   },
+   "openings": {
+    "absences": [],
+    "against": [
+     "F93"
+    ],
+    "declared_gaps": [],
+    "qualifying": [],
+    "ventured": false,
+    "ventured_bases": []
+   },
+   "scope": {
+    "scope_limits": [],
+    "units": [
+     "Amway leaders",
+     "distributors",
+     "former distributors",
+     "former distributors and non-distributors",
+     "inactive distributors",
+     "organizational members",
+     "upline distributors"
+    ]
+   },
+   "statement": "Positive programming channels seekers toward supportive Amway relationships and away from disfavored outside influences; when it works, this produces encapsulated sensemaking.",
+   "timing": {
+    "passages_by_period": {
+     "P1": 19
+    },
+    "periods": [
+     "P1"
+    ],
+    "reports_outcome_after_resolution": false,
+    "resolution_basis": "The paper analyzes an ongoing identification-management process rather than a bounded episode that becomes settled; its conclusion closes the argument analytically but does not report a temporal resolution of the process.",
+    "resolution_period": null
+   }
+  },
+  "C27": {
+   "constructs": [
+    {
+     "canonical": "sensebreaking",
+     "other_claims": [
+      "C01",
+      "C02",
+      "C03",
+      "C12",
+      "C13",
+      "C26",
+      "C28",
+      "C29",
+      "C33",
+      "C39",
+      "C59"
+     ]
+    },
+    {
+     "canonical": "seekership",
+     "other_claims": [
+      "C12",
+      "C13",
+      "C17",
+      "C19",
+      "C30",
+      "C50",
+      "C51",
+      "C57",
+      "C59"
+     ]
+    },
+    {
+     "canonical": "deidentification",
+     "other_claims": [
+      "C03",
+      "C06",
+      "C57"
+     ]
+    }
+   ],
+   "edges_in": [
+    {
+     "base": "C12",
+     "strength": "necessary",
+     "type": "mechanistic"
+    }
+   ],
+   "evidence": {
+    "by_data_type": {
+     "individual_interview": 4,
+     "unspecified": 4
+    },
+    "by_direction": {
+     "illustrates": 1,
+     "with": 7
+    },
+    "by_direction_and_voice": {
+     "illustrates": {
+      "author_insight": 1
+     },
+     "with": {
+      "author_insight": 3,
+      "reported": 4
+     }
+    },
+    "by_unit": {
+     "distributors": 1,
+     "former distributors": 4,
+     "former distributors and non-distributors": 2,
+     "organizational members": 1
+    },
+    "passages": 8
+   },
+   "openings": {
+    "absences": [
+     "A02"
+    ],
+    "against": [],
+    "declared_gaps": [],
+    "qualifying": [],
+    "ventured": false,
+    "ventured_bases": []
+   },
+   "scope": {
+    "scope_limits": [],
+    "units": [
+     "distributors",
+     "former distributors",
+     "former distributors and non-distributors",
+     "organizational members"
+    ]
+   },
+   "statement": "When sensebreaking fails to create or sustain seekership, identification does not form or an existing identification dissolves.",
+   "timing": {
+    "passages_by_period": {
+     "P1": 8
+    },
+    "periods": [
+     "P1"
+    ],
+    "reports_outcome_after_resolution": false,
+    "resolution_basis": "The paper analyzes an ongoing identification-management process rather than a bounded episode that becomes settled; its conclusion closes the argument analytically but does not report a temporal resolution of the process.",
+    "resolution_period": null
+   }
+  },
+  "C28": {
+   "constructs": [
+    {
+     "canonical": "sensebreaking",
+     "other_claims": [
+      "C01",
+      "C02",
+      "C03",
+      "C12",
+      "C13",
+      "C26",
+      "C27",
+      "C29",
+      "C33",
+      "C39",
+      "C59"
+     ]
+    },
+    {
+     "canonical": "sensegiving",
+     "other_claims": [
+      "C01",
+      "C02",
+      "C03",
+      "C20",
+      "C29",
+      "C31",
+      "C33",
+      "C39",
+      "C60"
+     ]
+    },
+    {
+     "canonical": "disidentification",
+     "other_claims": [
+      "C03",
+      "C06"
+     ]
+    }
+   ],
+   "edges_in": [
+    {
+     "base": "C12",
+     "strength": "necessary",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C15",
+     "strength": "contributing",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C20",
+     "strength": "necessary",
+     "type": "mechanistic"
+    }
+   ],
+   "evidence": {
+    "by_data_type": {
+     "archival": 1,
+     "individual_interview": 2,
+     "unspecified": 5
+    },
+    "by_direction": {
+     "illustrates": 2,
+     "with": 6
+    },
+    "by_direction_and_voice": {
+     "illustrates": {
+      "reported": 2
+     },
+     "with": {
+      "author_insight": 4,
+      "reported": 2
+     }
+    },
+    "by_unit": {
+     "distributors": 2,
+     "former distributors": 5,
+     "organizational members": 1
+    },
+    "passages": 8
+   },
+   "openings": {
+    "absences": [],
+    "against": [],
+    "declared_gaps": [],
+    "qualifying": [],
+    "ventured": false,
+    "ventured_bases": []
+   },
+   "scope": {
+    "scope_limits": [],
+    "units": [
+     "distributors",
+     "former distributors",
+     "organizational members"
+    ]
+   },
+   "statement": "When sensebreaking succeeds but sensegiving fails, members are pushed toward disidentification, in part because they turn to Amway-critical outsiders for meaning.",
+   "timing": {
+    "passages_by_period": {
+     "P1": 8
+    },
+    "periods": [
+     "P1"
+    ],
+    "reports_outcome_after_resolution": false,
+    "resolution_basis": "The paper analyzes an ongoing identification-management process rather than a bounded episode that becomes settled; its conclusion closes the argument analytically but does not report a temporal resolution of the process.",
+    "resolution_period": null
+   }
+  },
+  "C29": {
+   "constructs": [
+    {
+     "canonical": "sensebreaking",
+     "other_claims": [
+      "C01",
+      "C02",
+      "C03",
+      "C12",
+      "C13",
+      "C26",
+      "C27",
+      "C28",
+      "C33",
+      "C39",
+      "C59"
+     ]
+    },
+    {
+     "canonical": "sensegiving",
+     "other_claims": [
+      "C01",
+      "C02",
+      "C03",
+      "C20",
+      "C28",
+      "C31",
+      "C33",
+      "C39",
+      "C60"
+     ]
+    },
+    {
+     "canonical": "ambivalent identification",
+     "other_claims": [
+      "C03",
+      "C06"
+     ]
+    }
+   ],
+   "edges_in": [
+    {
+     "base": "C12",
+     "strength": "necessary",
+     "type": "mechanistic"
+    },
+    {
+     "base": "C20",
+     "strength": "necessary",
+     "type": "mechanistic"
+    }
+   ],
+   "evidence": {
+    "by_data_type": {
+     "individual_interview": 5,
+     "observation": 1,
+     "unspecified": 3
+    },
+    "by_direction": {
+     "illustrates": 2,
+     "with": 7
+    },
+    "by_direction_and_voice": {
+     "illustrates": {
+      "reported": 2
+     },
+     "with": {
+      "author_insight": 3,
+      "reported": 4
+     }
+    },
+    "by_unit": {
+     "distributors": 1,
+     "inactive distributors": 6,
+     "organizational members": 1,
+     "researcher-as-distributor": 1
+    },
+    "passages": 9
+   },
+   "openings": {
+    "absences": [],
+    "against": [],
+    "declared_gaps": [],
+    "qualifying": [],
+    "ventured": false,
+    "ventured_bases": []
+   },
+   "scope": {
+    "scope_limits": [],
+    "units": [
+     "distributors",
+     "inactive distributors",
+     "organizational members",
+     "researcher-as-distributor"
+    ]
+   },
+   "statement": "When sensebreaking succeeds but sensegiving is only partly effective, members draw meaning from both Amway supporters and critics and develop ambivalent identification.",
+   "timing": {
+    "passages_by_period": {
+     "P1": 9
+    },
+    "periods": [
+     "P1"
+    ],
+    "reports_outcome_after_resolution": false,
+    "resolution_basis": "The paper analyzes an ongoing identification-management process rather than a bounded episode that becomes settled; its conclusion closes the argument analytically but does not report a temporal resolution of the process.",
+    "resolution_period": null
+   }
+  },
+  "C34": {
+   "constructs": [
+    {
+     "canonical": "identification management",
+     "other_claims": [
+      "C01",
+      "C30",
+      "C42",
+      "C52",
+      "C56"
+     ]
+    },
+    {
+     "canonical": "identification dynamics",
+     "other_claims": []
+    }
+   ],
+   "edges_in": [
+    {
+     "base": "C01",
+     "strength": "necessary",
+     "type": "significance"
+    },
+    {
+     "base": "C17",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C26",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C27",
+     "strength": "contributing",
+     "type": "evidential"
+    },
+    {
+     "base": "C33",
+     "strength": "contributing",
+     "type": "evidential"
+    }
+   ],
+   "evidence": {
+    "by_data_type": {
+     "archival": 1,
+     "individual_interview": 2,
+     "observation": 1,
+     "quoted_speech_in_situ": 1,
+     "unspecified": 3
+    },
+    "by_direction": {
+     "illustrates": 8
+    },
+    "by_direction_and_voice": {
+     "illustrates": {
+      "author_insight": 3,
+      "reported": 5
+     }
+    },
+    "by_unit": {
+     "Amway leaders": 1,
+     "active distributors": 1,
+     "distributors": 1,
+     "former distributors": 1,
+     "inactive distributors": 2,
+     "organizational members": 1,
+     "upline distributors": 1
+    },
+    "passages": 8
+   },
+   "openings": {
+    "absences": [],
+    "against": [],
+    "declared_gaps": [
+     "DG03"
+    ],
+    "qualifying": [],
+    "ventured": false,
+    "ventured_bases": [
+     "C33"
+    ]
+   },
+   "scope": {
+    "scope_limits": [
+     "DG03"
+    ],
+    "units": [
+     "Amway leaders",
+     "active distributors",
+     "distributors",
+     "former distributors",
+     "inactive distributors",
+     "organizational members",
+     "upline distributors"
+    ]
+   },
+   "statement": "Identification management is an ongoing process because identification can be reenacted, weakened, or transformed rather than fixed once and for all.",
+   "timing": {
+    "passages_by_period": {
+     "P1": 8
+    },
+    "periods": [
+     "P1"
+    ],
+    "reports_outcome_after_resolution": false,
+    "resolution_basis": "The paper analyzes an ongoing identification-management process rather than a bounded episode that becomes settled; its conclusion closes the argument analytically but does not report a temporal resolution of the process.",
+    "resolution_period": null
+   }
+  }
+ },
+ "inputs": {
+  "index": "a4810cc03d9a439220b2c8781acf494c62d5ac63f7f53f359157238739147c99",
+  "settled": "323c704a457c2b86357f4f7c370abc961e277a044fb6a43efe7cd6f861736532",
+  "voice": "7e26bffb2e5cc8cdb9f359bae8472dbaa5a9a667e6a4dd6d9911bd74e9d89956"
+ },
+ "paper": {
+  "canonical_constructs": 86,
+  "factors_following_the_outcome": [],
+  "ventured_claims": [
+   "C04",
+   "C10",
+   "C25",
+   "C30",
+   "C31",
+   "C32",
+   "C33",
+   "C36",
+   "C38",
+   "C39",
+   "C40",
+   "C41",
+   "C42",
+   "C44",
+   "C49",
+   "C50",
+   "C51",
+   "C52",
+   "C56",
+   "C59",
+   "C60"
+  ]
+ },
+ "what": "the mechanical modules of the settled map of pratt (T39, part C)"
+}

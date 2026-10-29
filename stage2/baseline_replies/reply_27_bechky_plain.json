@@ -1,0 +1,133 @@
+{
+  "paper": "Beth A. Bechky, [13 words of Bechky (2020), p. 606])",
+  "readings": [
+    {
+      "reading_id": "R1",
+      "wager": "The toxicology case is not a spillover from DNA profiling. It is an accreditation project that was already under way and was brought forward by one court date. Read this way, the toxicologists changed their reports because ISO-based accreditation required uncertainty estimates and a defence attorney was about to ask for them. The comparison with DNA is something the analyst attaches to the episode, not something the toxicologists were responding to. The paper would then have two cases of DNA comparison (firearms, narcotics) and one case of ordinary standards compliance.",
+      "evidence": [
+        {"page": "p. 625", "job": "The national report hardly mentions toxicology and does not criticise it, so the comparison with DNA has no direct textual route to this unit."},
+        {"page": "p. 625", "job": "The trigger is a defence attorney who had won DUI cases elsewhere on missing uncertainty estimates, and a specific local case planning the same challenge. The complaint is about measurement uncertainty, not about DNA."},
+        {"page": "p. 627", "job": "Before the report appeared, the lab was already revising protocols to an ISO standard that required a plan for estimating measurement uncertainty. The change predates the supposed cause."},
+        {"page": "p. 627", "job": "A toxicologist tells an outreach audience that it is untrue that labs added uncertainty because of the report, and that the lab was already doing it. The members' own account denies the spillover."},
+        {"page": "p. 628", "job": "The estimate is built from five years of quality-control data the lab had already collected with an unchanged method, which shows continuity of practice and no new comparison."},
+        {"page": "p. 635", "job": "The discussion itself concedes that changes already being made for accreditation made the response easier."}
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Whether anyone in the toxicology episode (the attorney's filing, the out-of-state engineering expert, or the toxicologists at the bench) actually invoked DNA profiling, and whether the three-year ISO plan would have produced the same reporting change without the court date. The paper prints the existence of the plan and the author's statement that the attorney would draw a DNA parallel. It does not print any toxicologist or attorney making that comparison in their own words, or the plan's original timetable.",
+        "printed": false,
+        "pages": ["p. 627"]
+      },
+      "strains_against": [
+        {"page": "p. 627", "why": "The author states that the attorney's challenge [7 words of Bechky (2020), p. 627] in DNA profiling, which ties the episode to DNA if taken at face value."},
+        {"page": "p. 625", "why": "The paper traces the challenge to the national report's attention to measurement error being taken up by a defence attorney network, so the report is upstream of the court date."},
+        {"page": "p. 627", "why": "A three-year plan was implemented at once when the challenge appeared, so something beyond accreditation changed the pace."},
+        {"page": "p. 627", "why": "The toxicologist's denial was made in a presentation to the criminal justice community, an audience before whom looking unforced has value. It may be positioning, not a report of motive."}
+      ],
+      "who_could_complete_it": "Someone with the lab's accreditation paperwork and the case file for the challenged DUI matter, such as a quality manager or the attorneys on that case, who could show the planned timetable and whether DNA was ever named in the challenge."
+    },
+    {
+      "reading_id": "R2",
+      "wager": "The three responses follow what change would cost each unit in instruments, staff time and legal deadlines. Values are the language in which those costs are expressed. Toxicology changed because the change was nearly free: the data existed and the method stayed the same. Narcotics held on to crystal tests because the unit could not meet its statutory turnaround with two instruments. Firearms did nothing because nothing affordable was on offer: no population data exist for a four-person unit to report from.",
+      "evidence": [
+        {"page": "p. 629", "job": "Local law required fast turnaround on drug cases, and the commonest drug could be confirmed by crystal test in ten to fifteen minutes. This sets a hard throughput constraint."},
+        {"page": "p. 632", "job": "An analyst says the unit could not keep up with its caseload without crystals because it has only two instruments and runs are long. The objection is stated as capacity, not preference."},
+        {"page": "p. 632", "job": "Second-analyst review would double analysis time, and cameras are discussed as costly but cheaper than more instruments. The unit is pricing alternatives, which is what a cost-driven actor does."},
+        {"page": "p. 631", "job": "The veteran analyst's objection to instrument testing is that it takes much longer and results would not come back at once. Speed leads her account."},
+        {"page": "p. 631", "job": "Analysts time themselves and fight a new data-entry system over a minute per case, which shows how tightly throughput governs the unit."},
+        {"page": "pp. 627–628", "job": "Toxicology's new reporting reused existing historical data, the same instrument and the same method, so adoption required little new resource."},
+        {"page": "p. 619", "job": "Other units remark that equipment, funding, grants and staff flow to the DNA unit. The resources that would make being like DNA possible sit elsewhere."},
+        {"page": "p. 624", "job": "Firearms examiners say statistics are impossible because not every bullet can be examined, which is a statement about missing data infrastructure."}
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "What the narcotics analysts said or did when the capacity constraint was lifted: for example whether they chose instrument testing when caseload was light, or how they reacted to a concrete offer of more instruments or staff. Also unit budgets and backlog figures. The paper prints none of this. It prints only the analysts' statements about what would happen.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {"page": "p. 632", "why": "One analyst says she would hate doing one procedure all day and prefers a varied toolkit. That objection survives any increase in instruments."},
+        {"page": "p. 632", "why": "Another analyst dismisses instrument work as needing no skill, and the paper calls loss of autonomy and variety the most troubling prospect for the unit. These are not cost complaints."},
+        {"page": "p. 623", "why": "Firearms examiners already know the striae-counting method, which costs nothing extra, and still decline to use it routinely because they think their own judgment is stricter."},
+        {"page": "p. 637", "why": "The paper argues from the narcotics case that a compatible technique was still refused on grounds of values."}
+      ],
+      "who_could_complete_it": "A lab manager or budget holder with caseload, backlog and equipment figures for each unit, or an observer of a comparable narcotics unit that had spare instrument capacity."
+    },
+    {
+      "reading_id": "R3",
+      "wager": "The units did not embrace or resist being like DNA as a whole. Each took up the one feature of DNA evidence it could reach and declined the rest. The feature that matters across all three is a record that someone else can inspect afterwards. Firearms had already moved to it, with images of every comparison and a second examiner signing each page, while refusing numbers. Narcotics was exposed because the crystal test leaves nothing to inspect, and its talk of cameras and second viewers is the start of the same move. On this reading the firearms unit is a case of change the paper does not count, and the embrace/resist outcome column hides a shared shift toward reviewable documentation.",
+      "evidence": [
+        {"page": "pp. 618–619", "job": "DNA's standing is tied to graphs, tables and raw data that legal parties can review. This identifies the reviewable record as the feature being compared."},
+        {"page": "p. 621", "job": "A visible record of matching marks is described as important because it backs the examiner on the stand. One examiner says outsiders have reviewed his packets without challenge."},
+        {"page": "p. 622", "job": "Examiners say the old appeal to recognition by eye is no longer acceptable and that images are now required. This is a reported change in practice in the direction of DNA-style documentation."},
+        {"page": "p. 622", "job": "A second examiner looks at every set of marks and signs every page, and the two discuss lighting and angle to make the image more convincing. The work is aimed at an outside reader."},
+        {"page": "p. 623", "job": "The same examiners decline the counting method. The refusal is specific to quantification, not to documentation."},
+        {"page": "p. 631", "job": "A narcotics analyst locates the crystal test's weakness in the fact that it produces no output others can check later."},
+        {"page": "p. 632", "job": "The working group debates a second viewer and the unit discusses microscope cameras. Narcotics is considering the documentation route firearms already took."},
+        {"page": "p. 630", "job": "The unit already runs a second, different crystal test on each sample to meet working-group guidelines, so it does adjust practice to outside standards."}
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "When the firearms unit moved to imaging and page-by-page second review, and what the examiners say prompted it: court challenges to DNA-era standards, accreditation, or something unrelated. Also whether narcotics bought cameras after fieldwork. The paper prints that the firearms change happened over time but gives no date or cause, and it prints the camera idea only as discussion.",
+        "printed": false,
+        "pages": ["p. 622", "p. 632"]
+      },
+      "strains_against": [
+        {"page": "p. 624", "why": "The paper states that the broad attacks did not lead the local examiners to modify how they worked. If imaging predates the attacks, it is not a response to them."},
+        {"page": "p. 622", "why": "The examiners attribute the documentation rule to the present-day lab in general, without mentioning DNA."},
+        {"page": "p. 622", "why": "Technical review by a colleague is described as common to every unit, so documentation may be lab-wide routine, not a firearms adaptation."},
+        {"page": "p. 632", "why": "The paper concludes that narcotics analysts kept their valued practices. Cameras and second viewing were discussed, not adopted."}
+      ],
+      "who_could_complete_it": "A long-serving firearms examiner or supervisor who worked through the change in documentation rules, or dated versions of the unit's procedure manuals."
+    },
+    {
+      "reading_id": "R4",
+      "wager": "One condition accounts for all three outcomes: whether an analyst in this lab expected to be personally challenged in the local court. Toxicology had such a date and changed. Firearms and narcotics did not and stayed as they were. Occupational values then add nothing to the explanation. They describe how each unit talked about a decision that local exposure had already made. Because the study has one lab, each occupation appears under only one exposure condition, so the paper cannot tell values from exposure.",
+      "evidence": [
+        {"page": "p. 625", "job": "A named local case with an out-of-state expert was about to challenge toxicology results. This is the only unit with a local court date."},
+        {"page": "p. 624", "job": "Firearms [6 words of Bechky (2020), p. 624] the county's jurisdiction, and the examiners did not change in response to pressure from elsewhere."},
+        {"page": "p. 635", "job": "The paper notes that [6 words of Bechky (2020), p. 635] been through admissibility hearings seemed motivated to change practice. These are members of the same occupation, with different exposure and a different stance."},
+        {"page": "pp. 623–624", "job": "An examiner from outside who had faced such questioning urges colleagues to treat the critics as a spur to do better. This again links exposure to willingness."},
+        {"page": "p. 632", "job": "A narcotics analyst attended a workshop on an admissibility hearing that challenged crystal testing. Narcotics, like firearms, had a court challenge somewhere else and none at home."},
+        {"page": "p. 632", "job": "The paper's own summary says narcotics had [6 words of Bechky (2020), p. 632] change and therefore kept its practices."},
+        {"page": "p. 614", "job": "Fieldwork was three to six months per unit within eighteen months that began the month the report came out, so units were also seen at different distances from the report's release."}
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "The same occupation observed under the other exposure condition: firearms or narcotics analysts in this lab facing a scheduled local admissibility challenge, or the local practices of the outside examiners who had already faced one. The paper says in a footnote that it has no data on what those outside examiners did in their own labs. It also does not print the order in which the units were observed.",
+        "printed": false,
+        "pages": ["p. 635"]
+      },
+      "strains_against": [
+        {"page": "p. 623", "why": "Some examiners at the statewide meeting who had been in admissibility fights responded by attacking the critics. Exposure did not uniformly produce willingness to change."},
+        {"page": "p. 627", "why": "Toxicology's change was both locally forced and consistent with its values and existing plans, so this case cannot show that exposure alone was sufficient."},
+        {"page": "p. 637", "why": "The paper uses narcotics to argue that a group with a compatible technique still refused on grounds of values. That argument gives values independent weight."},
+        {"page": "pp. 633, 635", "why": "The table and discussion record narcotics as having no court pathway at all, which conflicts with the workshop report on p. 632. The reading depends on the p. 632 version."}
+      ],
+      "who_could_complete_it": "Firearms or drug analysts in a jurisdiction where an admissibility hearing was actually held, observed at the bench before and after, or a comparative fieldworker with access to two labs that differ in local court challenges."
+    },
+    {
+      "reading_id": "R5",
+      "wager": "The responses are moves to protect or improve each unit's standing and its members' irreplaceability inside a lab whose director treats all analysts as interchangeable. Narcotics and firearms defend long craft training because it makes them hard to swap and keeps them above routine instrument work. Toxicology, which other units look down on as button-pressing, takes up uncertainty reporting because it raises the unit's standing. This reverses the paper's claim that status and power mattered much less [6 words of Bechky (2020), p. 637].",
+      "evidence": [
+        {"page": "p. 619", "job": "The envy the paper names is first described as envy of the DNA unit's equipment, money and staff, and trace examiners form a new association over lost attention. The comparison is experienced as a matter of standing and resources."},
+        {"page": "pp. 619–620", "job": "The director, planning to swap analysts between narcotics and firearms, tells staff they should all [7 words of Bechky (2020), p. 620]. Interchangeability is an active managerial position."},
+        {"page": "p. 620", "job": "Firearms examiners train for two years and DNA analysts for nine months before casework. Long training is the barrier against being swapped."},
+        {"page": "p. 630", "job": "Narcotics analysts describe toxicology work as mind-numbing and several had left that unit. This shows a ranking among units by the kind of work done."},
+        {"page": "p. 632", "job": "An analyst says anyone off the street could run the instrument method, whereas crystal testing needs validation and training. The objection is about who could replace them."},
+        {"page": "p. 623", "job": "A firearms examiner resents colleagues elsewhere who think counting makes them more objective than he is. This is a contest over standing within the occupation."},
+        {"page": "p. 628", "job": "Toxicologists are visibly proud when presenting their new error reporting to the criminal justice community."},
+        {"page": "p. 633", "job": "The table records toxicology's value response with a remark that the county is ahead of the rest of the state on error measurement, which is a claim to rank."}
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Whether standardised or instrument-based methods actually changed who could be assigned where, how units were staffed, graded or paid, and whether analysts connected the director's interchangeability view to their defence of craft methods. The paper prints the director's remark and the cross-unit disparagement, but it does not print any staffing, grading or reassignment consequences, or any analyst making that connection.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {"page": "p. 637", "why": "The paper states directly that the units' status and power mattered far less to the outcomes than their values and practices."},
+        {"page": "p. 613", "why": "All analysts are hired with similar degrees through the same tests, and the paper reports no formal rank difference between units to defend."},
+        {"page": "p. 632", "why": "The analyst who most fully explains her preference speaks of liking chemistry and dreading boredom, not of position or replaceability."},
+        {"page": "p. 624", "why": "Firearms examiners openly call their own discipline subjective and less definitive than narcotics, which is an odd concession for a group managing its standing."},
+        {"page": "p. 626", "why": "Toxicologists describe their repetitive, tightly organised work with humour and attachment, not as a low position they want to escape."}
+      ],
+      "who_could_complete_it": "A lab director or personnel officer with records of reassignments, grades and staffing across units, or an observer present when the planned narcotics–firearms swap was carried out and discussed."
+    }
+  ]
+}

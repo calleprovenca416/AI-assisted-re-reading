@@ -1,0 +1,1004 @@
+{
+  "paper": "Michael G. Pratt (2000)",
+  "pairs": [
+    {
+      "pair": "P001",
+      "claim": "C01",
+      "base": "C29",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F101-F107; partially successful sensegiving and mixed identifications",
+      "page": "pp. 479-481",
+      "reason": "The ambivalent pathway is one of the contrasting cases through which the paper demonstrates management of organizational identification by the two processes."
+    },
+    {
+      "pair": "P002",
+      "claim": "C01",
+      "base": "C35",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "F40-F41, F108; the current-ideal self gap motivates renewed interpretation",
+      "page": "pp. 467-468, 484",
+      "reason": "The self-discrepancy provides a motivational link between disrupting a self-conception and inducing an organization-directed search for meaning."
+    },
+    {
+      "pair": "P003",
+      "claim": "C01",
+      "base": "C12",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F48-F49; sensebreaking generates a meaning-seeking condition",
+      "page": "pp. 464, 469",
+      "reason": "The paired management process requires the initial need for meaning that successful sensebreaking creates before sensegiving can redirect members."
+    },
+    {
+      "pair": "P004",
+      "claim": "C28",
+      "base": "C07",
+      "rests_on": false,
+      "reason": "The specific disidentification pathway is one of the cases underlying the broader practice-outcome pattern, not an inference from that pattern."
+    },
+    {
+      "pair": "P005",
+      "claim": "C27",
+      "base": "C56",
+      "rests_on": false,
+      "reason": "Member departures are a possible consequence of failed identification management, not a premise for explaining deidentification."
+    },
+    {
+      "pair": "P006",
+      "claim": "C01",
+      "base": "C23",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "F73, F79, F83-F85; members rely on insider accounts",
+      "page": "pp. 473-476",
+      "reason": "The effect of sensegiving on self-definition partly works through the resulting reliance on organization-supportive sources for interpretation."
+    },
+    {
+      "pair": "P007",
+      "claim": "C01",
+      "base": "C38",
+      "rests_on": false,
+      "reason": "A proposed increase in identification depth as life domains accumulate is a later implication, not support needed for the initial sensebreaking-sensegiving process."
+    },
+    {
+      "pair": "P008",
+      "claim": "C01",
+      "base": "C52",
+      "rests_on": false,
+      "reason": "The suggested labor-pool condition concerns the practicality of applying intensive management, not how the practices manage identification."
+    },
+    {
+      "pair": "P009",
+      "claim": "C11",
+      "base": "C13",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "F48-F49; dream building creates identity-related motivation",
+      "page": "pp. 464-469, 481",
+      "reason": "The explanation of identification as motivated interpretation uses dream building to generate the identity-related need that sets interpretation in motion."
+    },
+    {
+      "pair": "P010",
+      "claim": "C01",
+      "base": "C34",
+      "rests_on": false,
+      "reason": "Identification may be managed through sensebreaking and sensegiving even without the separate finding that its states are repeatedly reenacted or transformed."
+    },
+    {
+      "pair": "P011",
+      "claim": "C01",
+      "base": "C43",
+      "rests_on": false,
+      "reason": "The reported personal benefits for active distributors follow from identification and do not establish the two management processes."
+    },
+    {
+      "pair": "P012",
+      "claim": "C01",
+      "base": "C31",
+      "rests_on": false,
+      "reason": "A speculation about friendly outsiders and less rigid boundaries extends the model beyond Amway rather than grounding its observed two-practice account."
+    },
+    {
+      "pair": "P013",
+      "claim": "C01",
+      "base": "C14",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "F28, F39, F49; personally resonant dreams enter the self",
+      "page": "pp. 465-467",
+      "reason": "Personalizing aspirations is one documented way dream building makes the self vulnerable to the sensebreaking stage of identification management."
+    },
+    {
+      "pair": "P014",
+      "claim": "C27",
+      "base": "C42",
+      "rests_on": false,
+      "reason": "Possible costs of intensive identification practices arise downstream from the processes and are not what explains the failure to sustain seekership."
+    },
+    {
+      "pair": "P015",
+      "claim": "C11",
+      "base": "C56",
+      "rests_on": false,
+      "reason": "A proposed link from ineffective identification management to attrition does not explain why the different identification states arise through sensemaking."
+    },
+    {
+      "pair": "P016",
+      "claim": "C01",
+      "base": "C54",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "footnote 11; self-linked goals acquire motivating force",
+      "page": "p. 467",
+      "reason": "The motivational power of self-linked aspirations helps account for why the sensebreaking portion of the paired practices changes members’ meaning needs."
+    },
+    {
+      "pair": "P017",
+      "claim": "C01",
+      "base": "C07",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F19, F21, F27, F88; practice success is associated with identification types",
+      "page": "pp. 462-463, 477",
+      "reason": "The observed alignment between the two socialization practices and identification outcomes supports the claim that these practices manage the member-organization bond."
+    },
+    {
+      "pair": "P018",
+      "claim": "C01",
+      "base": "C17",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "F43-F44, F48; renewed dreams sustain seekership",
+      "page": "pp. 468-469",
+      "reason": "Continuing to replace achieved dreams helps the sensebreaking stage retain influence after initial identification has formed."
+    },
+    {
+      "pair": "P019",
+      "claim": "C20",
+      "base": "C05",
+      "rests_on": false,
+      "reason": "The conceptual distinction between identification and commitment frames the study but is not a causal step or evidence for the positive-programming mechanism."
+    },
+    {
+      "pair": "P020",
+      "claim": "C20",
+      "base": "C54",
+      "rests_on": false,
+      "reason": "The motivational force of self-linked goals helps explain dream building, whereas positive programming channels people already seeking meaning."
+    },
+    {
+      "pair": "P021",
+      "claim": "C01",
+      "base": "C28",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F96-F100; failed mentoring and critical outsiders",
+      "page": "pp. 478-479",
+      "reason": "The disidentifying cases show an additional organizational identification outcome when one of the management processes breaks down."
+    },
+    {
+      "pair": "P022",
+      "claim": "C02",
+      "base": "C47",
+      "rests_on": false,
+      "reason": "The researcher’s asserted ability to earn informants’ trust is a methodological consideration, not a step or a separate empirical instance in the positive-identification explanation."
+    },
+    {
+      "pair": "P023",
+      "claim": "C01",
+      "base": "C21",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "F57, F61, F80; strong mentoring gives insiders influence",
+      "page": "pp. 470-471, 475",
+      "reason": "Supportive upline bonds help make insider interpretations credible, providing a route by which sensegiving manages identification."
+    },
+    {
+      "pair": "P024",
+      "claim": "C12",
+      "base": "C01",
+      "rests_on": false,
+      "reason": "The specific sensebreaking-to-seekership relation is part of the broader management account, rather than relying on that broader conclusion."
+    },
+    {
+      "pair": "P025",
+      "claim": "C01",
+      "base": "C40",
+      "rests_on": false,
+      "reason": "Potential advantages for geographically dispersed groups are an extrapolation from the Amway process, not evidence required to infer it."
+    },
+    {
+      "pair": "P026",
+      "claim": "C27",
+      "base": "C01",
+      "rests_on": false,
+      "reason": "The failure of seekership already has direct observations and a place in Figure 1, regardless of the broader claim that Amway manages identification with paired practices."
+    },
+    {
+      "pair": "P027",
+      "claim": "C01",
+      "base": "C37",
+      "rests_on": false,
+      "reason": "The later observation that identification is relational generalizes from the practices and cases; it does not furnish an independent premise of the paired-practice account."
+    },
+    {
+      "pair": "P028",
+      "claim": "C11",
+      "base": "C17",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "F43-F48; renewed aspirations perpetuate the search for meaning",
+      "page": "pp. 468-469, 481",
+      "reason": "Renewal of seekership helps sustain the motivational element of the paper’s account of how identity-related interpretations are formed."
+    },
+    {
+      "pair": "P029",
+      "claim": "C11",
+      "base": "C36",
+      "rests_on": false,
+      "reason": "The proposed reciprocal influence of an established identity on later sensemaking follows from, rather than explains, the initial production of identification states."
+    },
+    {
+      "pair": "P030",
+      "claim": "C34",
+      "base": "C26",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F51-F52, F86; positive identifiers repeatedly resume dream building",
+      "page": "pp. 476, 485",
+      "reason": "Reenactment after positive identification is one observed way the paper demonstrates identification as an ongoing rather than a fixed state."
+    },
+    {
+      "pair": "P031",
+      "claim": "C12",
+      "base": "C27",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F89-F92; cessation of aspirational dissatisfaction and detachment",
+      "page": "pp. 477-478",
+      "reason": "The absence of seekership in the failed-sensebreaking cases provides a negative contrast to the claim that successful sensebreaking creates it."
+    },
+    {
+      "pair": "P032",
+      "claim": "C02",
+      "base": "C36",
+      "rests_on": false,
+      "reason": "A conjecture about identification influencing subsequent interpretation is not needed to show that joint success of the two practices produces positive identification."
+    },
+    {
+      "pair": "P033",
+      "claim": "C28",
+      "base": "C55",
+      "rests_on": false,
+      "reason": "Permeable insider-outsider categories qualify how barriers work, but the failed-upline and critical-outsider route to disidentification does not require that boundary qualification."
+    },
+    {
+      "pair": "P034",
+      "claim": "C01",
+      "base": "C06",
+      "rests_on": false,
+      "reason": "Emotional evaluations classify identification outcomes but do not show that the paired practices create or redirect those evaluations."
+    },
+    {
+      "pair": "P035",
+      "claim": "C01",
+      "base": "C13",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "F28-F49; dream building makes and renews seekership",
+      "page": "pp. 464-469",
+      "reason": "Dream building supplies the concrete Amway means of initiating the sensebreaking step in the paired management process."
+    },
+    {
+      "pair": "P036",
+      "claim": "C20",
+      "base": "C60",
+      "rests_on": false,
+      "reason": "The generalized Figure 2 list of possible sensegiving tactics extrapolates from positive programming and does not establish how it worked among Amway distributors."
+    },
+    {
+      "pair": "P037",
+      "claim": "C12",
+      "base": "C04",
+      "rests_on": false,
+      "reason": "A contextual argument for value-based control is separate from the identity disruption that causes seekership."
+    },
+    {
+      "pair": "P038",
+      "claim": "C01",
+      "base": "C25",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "F78, F84-F85; outside responses confirm an insider relationship standard",
+      "page": "p. 474",
+      "reason": "Self-reinforcing interpretations of recruitment feedback help perpetuate the sensegiving side of identification management."
+    },
+    {
+      "pair": "P039",
+      "claim": "C01",
+      "base": "C18",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F33-F34, F45-F48; dreams connect further life domains to distributor identity",
+      "page": "pp. 468-469",
+      "reason": "The expansion of life areas interpreted through distributorship illustrates another effect of repeated dream-building practices on members’ self-definitions."
+    },
+    {
+      "pair": "P040",
+      "claim": "C13",
+      "base": "C54",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "F39-F40 and footnote 11; aspirations tied to identity motivate action",
+      "page": "p. 467",
+      "reason": "The special motivational force of self-related goals reinforces the proposed route from aspirational dream building to a need to change oneself."
+    },
+    {
+      "pair": "P041",
+      "claim": "C20",
+      "base": "C01",
+      "rests_on": false,
+      "reason": "The mechanism by which positive programming produces encapsulated sensemaking is described directly, not inferred from the overarching conclusion that Amway manages identification."
+    },
+    {
+      "pair": "P042",
+      "claim": "C13",
+      "base": "C01",
+      "rests_on": false,
+      "reason": "The findings about dreaming and identity deficits establish the specific sensebreaking practice without relying on the paper’s broader two-process conclusion."
+    },
+    {
+      "pair": "P043",
+      "claim": "C28",
+      "base": "C15",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "F40, F94-F95; ideal-current discrepancies motivate self-change",
+      "page": "pp. 467-468, 478",
+      "reason": "The disidentification pathway assumes that dream building has already motivated identity change, which helps explain why failed sensegiving redirects a genuine seeker."
+    },
+    {
+      "pair": "P044",
+      "claim": "C20",
+      "base": "C06",
+      "rests_on": false,
+      "reason": "The emotional classification of identification types concerns downstream outcomes, not the process by which positive programming encapsulates interpretation."
+    },
+    {
+      "pair": "P045",
+      "claim": "C01",
+      "base": "C42",
+      "rests_on": false,
+      "reason": "Potential dependence, burnout, and organizational costs are implications of identification management, not a source for the observed two-practice mechanism."
+    },
+    {
+      "pair": "P046",
+      "claim": "C01",
+      "base": "C20",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F53, F73, F79, F86; positive programming leads to insider-based meaning",
+      "page": "pp. 469-476",
+      "reason": "The account of identification management needs a working sensegiving channel to complement dream building, and positive programming supplies that channel in Amway."
+    },
+    {
+      "pair": "P047",
+      "claim": "C28",
+      "base": "C42",
+      "rests_on": false,
+      "reason": "Costs and turnover potentially caused by intensive practices do not generate the documented switch from seekership with failed mentoring to opposition."
+    },
+    {
+      "pair": "P048",
+      "claim": "C20",
+      "base": "C23",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F73, F79, F83-F85; encapsulated members privilege organization-aligned meanings",
+      "page": "pp. 473-476",
+      "reason": "The observed use of insiders as interpretive authorities is part of the evidence that successful programming yields encapsulated sensemaking."
+    },
+    {
+      "pair": "P049",
+      "claim": "C12",
+      "base": "C39",
+      "rests_on": false,
+      "reason": "The speculative professional-socialization example applies a general sensebreaking model elsewhere rather than supplying the premise for seekership in Amway."
+    },
+    {
+      "pair": "P050",
+      "claim": "C01",
+      "base": "C36",
+      "rests_on": false,
+      "reason": "The possible role of established identities in later interpretation is an implication of the analysis, not necessary for the initial claim about paired management practices."
+    },
+    {
+      "pair": "P051",
+      "claim": "C29",
+      "base": "C01",
+      "rests_on": false,
+      "reason": "The observed combination of insider and outsider sources already supports ambivalent identification without depending on the higher-level conclusion about two management processes."
+    },
+    {
+      "pair": "P052",
+      "claim": "C20",
+      "base": "C37",
+      "rests_on": false,
+      "reason": "The broader insight that organizational identification involves interpersonal relationships follows from the upline and outsider cases rather than explaining programming-induced encapsulation."
+    },
+    {
+      "pair": "P053",
+      "claim": "C28",
+      "base": "C01",
+      "rests_on": false,
+      "reason": "Cases of critical outsider sensemaking after mentoring failure ground disidentification independently of the general statement that Amway uses two management processes."
+    },
+    {
+      "pair": "P054",
+      "claim": "C20",
+      "base": "C28",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F96, F99; without successful mentoring, interpretations turn to critics",
+      "page": "pp. 478-479",
+      "reason": "The critical-outsider pathway supplies a contrasting failure case supporting the importance of successful positive programming for insider-centered sensemaking."
+    },
+    {
+      "pair": "P055",
+      "claim": "C01",
+      "base": "C56",
+      "rests_on": false,
+      "reason": "The possible effect of identification failures on member exits is downstream of the management mechanism, not evidence of the mechanism itself."
+    },
+    {
+      "pair": "P056",
+      "claim": "C02",
+      "base": "C01",
+      "rests_on": false,
+      "reason": "The directly observed combination of effective practices and positive identification supports the positive pathway without assuming the paper’s overall identification-management conclusion."
+    },
+    {
+      "pair": "P057",
+      "claim": "C11",
+      "base": "C28",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F96-F100; seekers use critical nonmembers to reinterpret Amway",
+      "page": "pp. 478-479, 481",
+      "reason": "Disidentification after failed sensegiving is one type-specific case showing that organizational attachments emerge from socially directed sensemaking."
+    },
+    {
+      "pair": "P058",
+      "claim": "C20",
+      "base": "C22",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F71-F73, F76, F79; social and ideological separation",
+      "page": "pp. 472-475",
+      "reason": "Programming produces encapsulated interpretations partly by blocking or discounting nonmember sources, which the relationship-barrier process supplies."
+    },
+    {
+      "pair": "P059",
+      "claim": "C34",
+      "base": "C30",
+      "rests_on": false,
+      "reason": "A conjecture that selection might facilitate seekership does not establish that identification is reenacted and sometimes changes state."
+    },
+    {
+      "pair": "P060",
+      "claim": "C28",
+      "base": "C60",
+      "rests_on": false,
+      "reason": "Possible sensegiving practices in other organizations do not explain why a particular former Amway distributor turned to hostile outsiders."
+    },
+    {
+      "pair": "P061",
+      "claim": "C28",
+      "base": "C08",
+      "rests_on": false,
+      "reason": "The fact that recruitment succeeded for all observed members does not differentiate the failed sensegiving pathway that leads to disidentification."
+    },
+    {
+      "pair": "P062",
+      "claim": "C34",
+      "base": "C01",
+      "rests_on": true,
+      "type": "significance",
+      "strength": "contributing",
+      "basis": "Figure 1 and Figure 2; practices can recur as identification changes",
+      "page": "pp. 476-477, 482-485",
+      "reason": "The observed fluidity of identifications remains, but the two-practice management account gives the paper a specific process whose continued reenactment matters."
+    },
+    {
+      "pair": "P063",
+      "claim": "C34",
+      "base": "C52",
+      "rests_on": false,
+      "reason": "A proposed large-labor-pool condition for using high-turnover tactics does not bear on the observed reenactment or change of identifications."
+    },
+    {
+      "pair": "P064",
+      "claim": "C34",
+      "base": "C42",
+      "rests_on": false,
+      "reason": "Possible harmful consequences of managing identification do not demonstrate that identification states and the management process are dynamic."
+    },
+    {
+      "pair": "P065",
+      "claim": "C13",
+      "base": "C15",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F40-F41, F49; identity deficits push a current self toward an ideal",
+      "page": "pp. 467-469",
+      "reason": "Dream building creates seekership through a gap between actual and ideal identities that motivates personal change."
+    },
+    {
+      "pair": "P066",
+      "claim": "C01",
+      "base": "C02",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F21, F86-F88; joint success produces positive organizational identification",
+      "page": "pp. 463, 476-477",
+      "reason": "The successful positive-identification route is one empirical case demonstrating that the two practices can manage how members define themselves."
+    },
+    {
+      "pair": "P067",
+      "claim": "C11",
+      "base": "C01",
+      "rests_on": false,
+      "reason": "The interpretation of identification types as motivated sensemaking is supported by the seeker and insider-outsider cases rather than by the broader management conclusion drawn from them."
+    },
+    {
+      "pair": "P068",
+      "claim": "C34",
+      "base": "C33",
+      "rests_on": false,
+      "reason": "A prediction of greater receptivity to subsequent organizational influence is not a required observation for the ongoing nature of identification."
+    },
+    {
+      "pair": "P069",
+      "claim": "C01",
+      "base": "C33",
+      "rests_on": false,
+      "reason": "The proposed greater future receptivity of positive identifiers follows from the model and is not needed to demonstrate the paired practices themselves."
+    },
+    {
+      "pair": "P070",
+      "claim": "C28",
+      "base": "C37",
+      "rests_on": false,
+      "reason": "The later relational formulation generalizes the disidentifying cases and does not supply a distinct step or independent evidence for them."
+    },
+    {
+      "pair": "P071",
+      "claim": "C01",
+      "base": "C03",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F88-F107; failure paths include absent, hostile and mixed identification",
+      "page": "pp. 477-481",
+      "reason": "The nonpositive outcomes arising when one of the practices fails provide additional contrasting cases of their influence on identification."
+    },
+    {
+      "pair": "P072",
+      "claim": "C11",
+      "base": "C50",
+      "rests_on": false,
+      "reason": "The proposed usefulness of seekership for part-time and voluntary members generalizes the motivated-sensemaking explanation rather than grounding it."
+    },
+    {
+      "pair": "P073",
+      "claim": "C01",
+      "base": "C55",
+      "rests_on": false,
+      "reason": "Insider-outsider boundary flexibility is a qualification on an implementation detail and is not needed for the broader finding of managed identification."
+    },
+    {
+      "pair": "P074",
+      "claim": "C02",
+      "base": "C32",
+      "rests_on": false,
+      "reason": "Potential compliance is a proposed consequence of positive identification, not a condition or instance showing its creation through both practices."
+    },
+    {
+      "pair": "P075",
+      "claim": "C01",
+      "base": "C30",
+      "rests_on": false,
+      "reason": "Selection for organizational seekership is offered as an alternative potential tactic, not evidence of the Amway processes already observed."
+    },
+    {
+      "pair": "P076",
+      "claim": "C01",
+      "base": "C22",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "F67-F73, F79; negative revaluation supports encapsulation",
+      "page": "pp. 472-475",
+      "reason": "Relationship barriers help positive programming restrict competing sources of interpretation within the two-practice identification process."
+    },
+    {
+      "pair": "P077",
+      "claim": "C29",
+      "base": "C33",
+      "rests_on": false,
+      "reason": "A proposed feedback from positive identification to later tactics does not explain the mixed insider-outsider interpretations that constitute ambivalence."
+    },
+    {
+      "pair": "P078",
+      "claim": "C12",
+      "base": "C55",
+      "rests_on": false,
+      "reason": "Permeability of member-outsider labels concerns positive programming, whereas sensebreaking generates seekership by challenging the self."
+    },
+    {
+      "pair": "P079",
+      "claim": "C20",
+      "base": "C21",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F57, F61, F80-F81; trusted mentor relationships",
+      "page": "pp. 470-471, 475",
+      "reason": "Positive programming begins with supported mentoring ties that give Amway insiders an authoritative place in seekers’ subsequent meaning-making."
+    },
+    {
+      "pair": "P080",
+      "claim": "C27",
+      "base": "C28",
+      "rests_on": false,
+      "reason": "Failed sensegiving among continuing seekers is a different branch of Figure 1, not a reason for deidentification when sensebreaking fails."
+    },
+    {
+      "pair": "P081",
+      "claim": "C20",
+      "base": "C58",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F96-F99; volatile mentoring bonds impede insider trust",
+      "page": "p. 479",
+      "reason": "Mentor conflict supplies a failure case highlighting why successful personal bonds matter to positive programming and encapsulated sensemaking."
+    },
+    {
+      "pair": "P082",
+      "claim": "C20",
+      "base": "C44",
+      "rests_on": false,
+      "reason": "Speculation about cultural substitutes for job security has no direct role in the interpersonal mechanism of positive programming."
+    },
+    {
+      "pair": "P083",
+      "claim": "C28",
+      "base": "C20",
+      "rests_on": false,
+      "reason": "Disidentification is explained by the absence of successful insider-centered sensegiving, not by presupposing the successful encapsulation that C20 explains."
+    },
+    {
+      "pair": "P084",
+      "claim": "C01",
+      "base": "C15",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "F40-F41, F49; ideal-current self gap motivates self-change",
+      "page": "pp. 467-469",
+      "reason": "Identity-deficit motivation helps dream building make members seek new meanings before organizational sensegiving acts upon them."
+    },
+    {
+      "pair": "P085",
+      "claim": "C01",
+      "base": "C26",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F51-F52, F86; positive identifiers continue to build dreams",
+      "page": "p. 476",
+      "reason": "The reengagement of positively identified members with dream building shows the practices continuing to shape their self-conceptions."
+    },
+    {
+      "pair": "P086",
+      "claim": "C13",
+      "base": "C14",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F28, F39, F49; internalizing attractive personalized dreams",
+      "page": "pp. 465-467",
+      "reason": "Dream building must first integrate aspirations with the self before comparisons with the present can create identity deficits and seekership."
+    },
+    {
+      "pair": "P087",
+      "claim": "C01",
+      "base": "C24",
+      "rests_on": true,
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "F58, F77, F83; chosen actions make distributor identity salient",
+      "page": "p. 474",
+      "reason": "Behavioral commitment is an additional way enactment of positive programming makes organizational self-descriptions more influential."
+    },
+    {
+      "pair": "P088",
+      "claim": "C01",
+      "base": "C27",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F89-F92; no sustained dream-based seeking and broken bonds",
+      "page": "pp. 477-478",
+      "reason": "Cases where sensebreaking did not sustain a seeker show the limits of managed identification and thereby support the two-practice account."
+    },
+    {
+      "pair": "P089",
+      "claim": "C12",
+      "base": "C48",
+      "rests_on": false,
+      "reason": "The capacity of a semiovert observer to ask atypical questions concerns fieldwork access, not the causal production of seekership."
+    },
+    {
+      "pair": "P090",
+      "claim": "C29",
+      "base": "C37",
+      "rests_on": false,
+      "reason": "The later generalization that identification is relational is drawn partly from ambivalence rather than supplying its specific mixed-sensegiving explanation."
+    },
+    {
+      "pair": "P091",
+      "claim": "C01",
+      "base": "C11",
+      "rests_on": true,
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F21, F27, F99, F107-F109; motivated self-interpretation by contrasting member groups",
+      "page": "pp. 463-464, 481-482",
+      "reason": "The observed type-specific process of motivated sensemaking supports the claim that breaking and redirecting meaning manages organizational identification."
+    },
+    {
+      "pair": "P092",
+      "claim": "C02",
+      "base": "C40",
+      "rests_on": false,
+      "reason": "A proposed common-purpose benefit for geographically dispersed groups is a downstream application, not support for positive identification when both practices succeed."
+    }
+  ],
+  "further_edges": [
+    {
+      "claim": "C02",
+      "base": "C12",
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F48-F49, F86; positive identifiers first become seekers",
+      "page": "pp. 464, 469, 476",
+      "reason": "The positive route requires sensebreaking to generate seekers whose resulting uncertainty Amway can resolve."
+    },
+    {
+      "claim": "C02",
+      "base": "C20",
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F79, F86; positive programming confines meaning to supportive insiders",
+      "page": "pp. 475-476",
+      "reason": "The positive route requires successfully directed insider sensemaking after the initial quest for identity-related meaning."
+    },
+    {
+      "claim": "C11",
+      "base": "C12",
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F48-F49, F108; unsettling the self initiates motivated interpretation",
+      "page": "pp. 464, 469, 481",
+      "reason": "The paper’s motivated-sensemaking explanation depends on seekers having a self-related need to interpret in the first place."
+    },
+    {
+      "claim": "C11",
+      "base": "C20",
+      "type": "mechanistic",
+      "strength": "contributing",
+      "basis": "F79, F99, F107; sources of meaning shape evaluations",
+      "page": "pp. 475, 479, 481",
+      "reason": "Whether meaning-making is confined to members or shared with critics helps determine which identification state seekers reach."
+    },
+    {
+      "claim": "C28",
+      "base": "C12",
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F94-F95, F99; seekers remain motivated despite failed upline support",
+      "page": "pp. 478-479",
+      "reason": "Disidentification in this model presupposes an identity-related search produced by successful sensebreaking before organizational guidance fails."
+    },
+    {
+      "claim": "C29",
+      "base": "C12",
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F102, F107; ambivalent members retain aspirational self-discontent",
+      "page": "pp. 480-481",
+      "reason": "Ambivalence requires continuing seekership so that conflicting insider and outsider accounts can both matter for identity."
+    },
+    {
+      "claim": "C29",
+      "base": "C21",
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F103, F107; enduring supportive upline ties",
+      "page": "pp. 480-481",
+      "reason": "Supportive mentoring supplies the positive organizational interpretation that remains active alongside outside criticism in ambivalent identification."
+    },
+    {
+      "claim": "C34",
+      "base": "C17",
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F43-F44, F48; newly adopted dreams keep seeking active",
+      "page": "pp. 468-469, 485",
+      "reason": "Continually replacing fulfilled aspirations exemplifies the renewed identification-related activity used to argue for a dynamic process."
+    },
+    {
+      "claim": "C01",
+      "base": "C19",
+      "type": "mechanistic",
+      "strength": "necessary",
+      "basis": "F48-F49; seeking prompts a search for meaning",
+      "page": "pp. 469-470",
+      "reason": "The move from breaking an existing self-understanding to supplying a new one depends on seekers pursuing interpretations that might repair their uncertainty."
+    },
+    {
+      "claim": "C13",
+      "base": "C17",
+      "type": "evidential",
+      "strength": "contributing",
+      "basis": "F43-F44, F48; recurring dreams sustain seekership",
+      "page": "pp. 468-469",
+      "reason": "The continued-dream findings support the claim that dream building does more than initiate a temporary identity deficit."
+    }
+  ],
+  "registry": [
+    {
+      "canonical": "organizational identification",
+      "names": [
+        "identification",
+        "organizational identification"
+      ]
+    },
+    {
+      "canonical": "current self",
+      "names": [
+        "current identity",
+        "current self"
+      ]
+    },
+    {
+      "canonical": "self-concept",
+      "names": [
+        "self-concept",
+        "sense of self"
+      ]
+    },
+    {
+      "canonical": "mentor-protege relationships",
+      "names": [
+        "mentor-protege relationships",
+        "upline relationships"
+      ]
+    },
+    {
+      "canonical": "relationship barriers",
+      "names": [
+        "in-group/out-group barriers",
+        "relationship barriers"
+      ]
+    },
+    {
+      "canonical": "membership turnover",
+      "names": [
+        "membership turnover",
+        "turnover"
+      ]
+    }
+  ],
+  "factors": [
+    {
+      "id": "X1",
+      "name": "Dream building generates or sustains seekership",
+      "claim": "C13"
+    },
+    {
+      "id": "X2",
+      "name": "Strength of upline mentoring and support",
+      "claim": "C21"
+    },
+    {
+      "id": "X3",
+      "name": "Revaluing and distancing from unsupportive outsiders",
+      "claim": "C22"
+    }
+  ],
+  "units": [],
+  "contrasts": [
+    {
+      "contrast": "CP01",
+      "controls": {
+        "X1": "varies",
+        "X2": "held",
+        "X3": "unclear"
+      },
+      "ids": [
+        "C13",
+        "C21",
+        "C22",
+        "C27",
+        "C28",
+        "F91",
+        "F94",
+        "F95",
+        "F96",
+        "F97",
+        "F99",
+        "F125"
+      ]
+    },
+    {
+      "contrast": "CP02",
+      "controls": {
+        "X1": "unclear",
+        "X2": "varies",
+        "X3": "unclear"
+      },
+      "ids": [
+        "C21",
+        "C28",
+        "C29",
+        "F97",
+        "F103"
+      ]
+    },
+    {
+      "contrast": "CP03",
+      "controls": {
+        "X1": "unclear",
+        "X2": "unclear",
+        "X3": "varies"
+      },
+      "ids": [
+        "C22",
+        "C23",
+        "F85",
+        "F104"
+      ]
+    }
+  ]
+}

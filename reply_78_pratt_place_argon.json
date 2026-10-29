@@ -1,0 +1,1014 @@
+{
+ "paper": "Michael G. Pratt (2000)",
+ "placements": [
+  {
+   "reading": "R01",
+   "bears_on": [
+    {
+     "element": "C07",
+     "how": "Replaces the success or failure of dream building and positive programming with tenure stages along a single membership career as the explanation for the four identification types (pp. 461–463, 477)."
+    },
+    {
+     "element": "C01",
+     "how": "Recasts the paper's branching model of sensebreaking and sensegiving outcomes as a cross-section of members caught at different points in time (pp. 462–463, 477)."
+    },
+    {
+     "element": "E03",
+     "how": "Weakens C07's support for C01 by reading the four identification patterns as career phases rather than products of the paired practices (pp. 461, 477)."
+    },
+    {
+     "element": "C03",
+     "how": "Attributes nonpositive identification states to an early first-year crisis and a later low-cost stall rather than breakdowns in sensebreaking or sensegiving (pp. 461, 474, 477–481)."
+    },
+    {
+     "element": "C27",
+     "how": "Rereads a former distributor's shift from early excitement to fading interest as a sequential phase within one person during the first year rather than a static non-identified type (pp. 461, 477)."
+    },
+    {
+     "element": "C18",
+     "how": "Reads the shift in successful members' dreams from lifestyle to family to saving the country as sequential stages within positive identification over long tenure (p. 468)."
+    },
+    {
+     "element": "C38",
+     "how": "Complements the claim that identification deepens across identity domains by ordering that deepening along a multi-year career path (pp. 461, 468, 485)."
+    },
+    {
+     "element": "C55",
+     "how": "Reads the retention of non-selling distributors inside the group as organizational recognition that inactivity is a career phase (p. 473, n. 13)."
+    },
+    {
+     "element": "C34",
+     "how": "Extends the claim that identification is dynamic by organizing all four identification states into a systematic temporal progression (pp. 461, 481, 485)."
+    },
+    {
+     "element": "K35",
+     "how": "Reinterprets the four identification types as sequential stations on a membership timeline rather than distinct outcomes of socialization practices (pp. 461–463, 477)."
+    },
+    {
+     "element": "DG03",
+     "how": "Treats the unanalyzed transitions between identification states on p. 485 as the core developmental trajectory underlying the paper's cross-sectional categories."
+    }
+   ],
+   "evidence": [
+    "F45",
+    "F46",
+    "F47",
+    "F70",
+    "F74",
+    "F88",
+    "F90",
+    "F107",
+    "F110",
+    "F123"
+   ],
+   "off_map": "Targets tenure length as the determinant of identification states, resting on the unmapped tenure ranges of active (7.5 months to 22 years) and inactive (1.5 to 7 years) distributors on p. 461 and the unprinted longitudinal transition histories on p. 485.",
+   "opening": [
+    {
+     "sentence": "If exit clusters in the first year while inactivity appears only after eighteen months, the branching model may be a cross-section of members at different tenure stages rather than a map of socialization practices succeeding or failing.",
+     "tie": "C07"
+    },
+    {
+     "sentence": "Reconstructing the full longitudinal state-transition histories mentioned on page 485 against member tenure would test whether distributors pass through enthusiasm, crisis, stall, or deepening commitment in a regular temporal sequence.",
+     "tie": "DG03"
+    }
+   ]
+  },
+  {
+   "reading": "R02",
+   "bears_on": [
+    {
+     "element": "CP03",
+     "how": "Argues that the analyst's pair contrasts an immediate face-to-face concession before an outsider with a later retrospective account told away from outsiders, and that each episode's prior behavior contradicts the member state it is filed under (pp. 476, 480)."
+    },
+    {
+     "element": "C23",
+     "how": "Rereads the passages on encapsulated sensemaking as post-hoc reinterpretations constructed after an encounter rather than proof that encapsulation prevents yielding when facing outsiders (pp. 473–476, 487)."
+    },
+    {
+     "element": "C29",
+     "how": "Rereads the workplace denial and the researcher's sagging enthusiasm around colleagues as the immediate first moment of facing outsider skepticism rather than a distinct ambivalent member state (pp. 480–481)."
+    },
+    {
+     "element": "C36",
+     "how": "Points out that in both paired episodes an event moves the member's stance afterward rather than a prior identification framing the event in advance (pp. 476, 480, 484)."
+    },
+    {
+     "element": "X3",
+     "how": "Contends that what varies across the episodes on pp. 476 and 480 is the moment and audience of the response rather than a stable difference in member encapsulation."
+    },
+    {
+     "element": "K01",
+     "how": "Recasts what the paper categorizes as ambivalent identification as the immediate situational concession a distributor makes when confronted in person by a skeptical outsider (pp. 480–481)."
+    },
+    {
+     "element": "K24",
+     "how": "Restricts encapsulated sensemaking to the second moment of an episode, when insiders retroactively turn an awkward outsider encounter into confirmation of upline wisdom (pp. 475–476)."
+    }
+   ],
+   "evidence": [
+    "F79",
+    "F83",
+    "F84",
+    "F85",
+    "F104",
+    "F106"
+   ],
+   "off_map": "Targets a two-step situational sequence—yielding in person before a critical outsider and later reframing the encounter with insiders—which the map lacks because it sorts those moments into separate member types (pp. 475–476, 480–481).",
+   "opening": [
+    {
+     "sentence": "Because the evidence for ambivalent yielding records what distributors did on the spot in front of critics while the evidence for encapsulation records how distributors retold encounters afterward, the contrast may capture two consecutive moments of one interaction rather than two types of members.",
+     "tie": "CP03"
+    },
+    {
+     "sentence": "Observing strongly identified distributors in real time when outsiders disparage Amway, and tracking how distributors who disown Amway at work later recount the incident to their sponsors, would show whether encapsulation prevents public yielding or repairs it afterward.",
+     "tie": "C23"
+    }
+   ]
+  },
+  {
+   "reading": "R03",
+   "bears_on": [
+    {
+     "element": "C56",
+     "how": "Inverts the causal sequence on p. 477 by arguing that interviewed former distributors left within their first year before repeated socialization practices had run, so early departure prevented identification rather than failed identification causing departure (pp. 461, 477)."
+    },
+    {
+     "element": "C27",
+     "how": "Rereads the former-distributor accounts on pp. 477–478 as stories of early exit before iterative dream building took place rather than breakdowns of sensebreaking after exposure."
+    },
+    {
+     "element": "C03",
+     "how": "Challenges using first-year leavers as evidence of socialization practices failing when those practices are described as working through long-term repetition (pp. 461, 468, 473, 477–479)."
+    },
+    {
+     "element": "C07",
+     "how": "Separates early first-year attrition from the failure of dream building and positive programming, leaving the failure branches of Figure 1 unanchored by long-tenure leavers (pp. 461, 463, 477)."
+    },
+    {
+     "element": "E02",
+     "how": "Undermines C03's evidential support for C01 because the printed accounts of former members reflect premature departure rather than practice breakdown (pp. 461, 477–479)."
+    },
+    {
+     "element": "E09",
+     "how": "Weakens C27's support for C01 by arguing that first-year leavers exited before repeated sensebreaking practices could operate on them (pp. 461, 468, 477)."
+    },
+    {
+     "element": "C17",
+     "how": "Uses the paper's account that dream building operates by continually replacing fulfilled dreams over time to show that socialization requires a span of participation that first-year leavers lacked (p. 468)."
+    },
+    {
+     "element": "C22",
+     "how": "Uses the paper's statement that social encapsulation grows as members spend more time with distributors to show that encapsulation could not have run its course on early leavers (p. 473)."
+    },
+    {
+     "element": "DG03",
+     "how": "Notes that distributors who moved away from positive identification on p. 485 would show where the practices actually failed, but the paper prints no accounts or exit rates for them."
+    },
+    {
+     "element": "K83",
+     "how": "Splits turnover into early first-year exit prior to socialization and departure after sustained socialization practices fail (pp. 461, 463, 477, 485)."
+    }
+   ],
+   "evidence": [
+    "F22",
+    "F24",
+    "F43",
+    "F44",
+    "F45",
+    "F72",
+    "F90",
+    "F91",
+    "F92",
+    "F98",
+    "F110",
+    "F123",
+    "F124"
+   ],
+   "off_map": "Targets the unprinted accounts and tenure lengths of distributors who quit after reaching high sales levels (p. 463) or who moved away from positive identification after long active membership (p. 485).",
+   "opening": [
+    {
+     "sentence": "Because dream building and social encapsulation work through cumulative repetition over time while every interviewed former member quit within twelve months, the paper's exit accounts may document early departure prior to socialization rather than the failure of those practices.",
+     "tie": "C56"
+    },
+    {
+     "sentence": "Interviewing former distributors who left after years of active involvement or after reaching high sales ranks on page 463 would reveal how established identification breaks down once the practices have fully run.",
+     "tie": "off-map"
+    }
+   ]
+  },
+  {
+   "reading": "R04",
+   "bears_on": [
+    {
+     "element": "C08",
+     "how": "Challenges the premise that successful recruitment is a uniform baseline that renders prospecting irrelevant to identification, showing that joining covers both genuine attraction and paying $120 to escape a coercive pitch (p. 463 n. 7, pp. 478–479)."
+    },
+    {
+     "element": "C28",
+     "how": "Rereads the second disidentified informant's passage on p. 479 to show that his opposition to his sponsor was already complete at the recruitment presentation, with no printed dream, post-entry mentoring failure, or outside confidant."
+    },
+    {
+     "element": "E28",
+     "how": "Severs C28's reliance on C12 for the coerced recruit on p. 479 because he joined solely to exit a humiliating room rather than out of sensebreaking-induced seekership."
+    },
+    {
+     "element": "E30",
+     "how": "Undermines C28's reliance on C20 for the informant on p. 479 by locating his anger in the initial recruitment pitch rather than in failed post-entry positive programming."
+    },
+    {
+     "element": "C11",
+     "how": "Challenges the claim that disidentification always begins with sensebreaking creating a need to reinterpret the self, since the coerced recruit on p. 479 displays no prior dream or seekership (p. 481)."
+    },
+    {
+     "element": "X1",
+     "how": "Denies that successful sensebreaking occurred for the disidentified informant on p. 479, while noting that dream building is already deployed on prospects during recruitment meetings (p. 466, p. 478)."
+    },
+    {
+     "element": "K61",
+     "how": "Brings prospecting back into the causal model as an arena where dream building begins and where oppositional disidentification can be fixed at the moment of entry (pp. 463, 466, 478–479)."
+    }
+   ],
+   "evidence": [
+    "F20",
+    "F37",
+    "F94",
+    "F98",
+    "F99"
+   ],
+   "off_map": "Targets coercive recruitment as a direct cause of disidentification at the moment of joining, before any post-entry sensebreaking or sensegiving takes place (p. 463 n. 7, p. 479).",
+   "opening": [
+    {
+     "sentence": "When a prospect pays the entry fee simply to escape intense social pressure in a stranger's car, recruitment itself can generate oppositional disidentification without any prior dream building or subsequent mentoring breakdown.",
+     "tie": "C08"
+    },
+    {
+     "sentence": "Comparing how informants across all four identification states experienced their initial recruitment pitch would establish whether high-pressure prospecting directly seeds later disidentification.",
+     "tie": "C28"
+    }
+   ]
+  },
+  {
+   "reading": "R05",
+   "bears_on": [
+    {
+     "element": "C02",
+     "how": "Keeps the outcome that dream building and positive programming together foster positive identification, but replaces the meaning-void and sensegiving mechanism with behavioral commitment from freely chosen, costly public acts (pp. 469, 474, 476)."
+    },
+    {
+     "element": "C11",
+     "how": "Replaces motivated sensemaking triggered by identity deficits with retrospective cognitive justification of costly, irreversible actions (pp. 463–464, 469, 474)."
+    },
+    {
+     "element": "C12",
+     "how": "Inverts the causal position of the meaning void, treating seekership as the committed distributor's after-the-fact story justifying why she enacted costly commitments (pp. 464, 469, 474)."
+    },
+    {
+     "element": "E12",
+     "how": "Removes C12 as a necessary precondition for C02 by arguing that public enactment binds the actor first and generates the story of a meaning void afterward (pp. 464, 474, 476)."
+    },
+    {
+     "element": "C24",
+     "how": "Moves the paper's observation on p. 474 that freely chosen distributor behavior creates commitment and organizes cognition from a secondary reinforcement mechanism to the central cause of positive identification."
+    },
+    {
+     "element": "C18",
+     "how": "Elevates the paper's parenthetical mention of behavioral commitment as distributors spend more time pursuing dreams on p. 469 into the core explanation of identification."
+    },
+    {
+     "element": "C05",
+     "how": "Collapses the paper's theoretical separation between behavioral commitment and self-referential identification by making identification the cognitive residue of commitment (pp. 457, 469, 474)."
+    },
+    {
+     "element": "C09",
+     "how": "Explains why identification was indifferent to net profit and trivial gross earnings on p. 463: under behavioral commitment, attachment tracks money and effort already spent rather than financial return."
+    },
+    {
+     "element": "C26",
+     "how": "Reads literally the claim on p. 476 that positive identification among active distributors is continuously enacted and reenacted through ongoing practice."
+    },
+    {
+     "element": "C28",
+     "how": "Accounts for disidentification in the coerced recruitment episode on p. 479 as the boundary condition where an act taken without volition fails to bind and instead breeds resentment."
+    },
+    {
+     "element": "K06",
+     "how": "Makes behavioral commitment via volitional, costly, bridge-burning action the primary construct explaining positive identification (pp. 469, 474, 476, 479)."
+    }
+   ],
+   "evidence": [
+    "F11",
+    "F22",
+    "F23",
+    "F25",
+    "F48",
+    "F71",
+    "F74",
+    "F76",
+    "F77",
+    "F86",
+    "F98",
+    "F112"
+   ],
+   "off_map": "Targets sunk financial costs and irreversible social bridge-burning—paying for tapes and functions and alienating relatives—as the primary causal driver that precedes and generates the story of a meaning void (pp. 463, 469, 474, 479).",
+   "opening": [
+    {
+     "sentence": "If freely chosen, costly actions like buying training materials and alienating skeptical relatives bind distributors behaviorally and force their beliefs to align afterward, then behavioral commitment rather than a prior meaning void produces positive identification.",
+     "tie": "C02"
+    },
+    {
+     "sentence": "Tracking new recruits over time to see whether expressions of identity discontent precede or follow their first costly public acts of buying materials and approaching relatives would test whether seekership drives enactment or rationalizes it afterward.",
+     "tie": "C12"
+    }
+   ]
+  },
+  {
+   "reading": "R06",
+   "bears_on": [
+    {
+     "element": "C29",
+     "how": "Inverts the causal sequence on pp. 480–481 by arguing that abstaining from distributing comes first and leaves non-member ties intact, rather than kept outside ties supplying anti-Amway advice that causes ambivalence and inactivity."
+    },
+    {
+     "element": "E32",
+     "how": "Weakens C29's reliance on C20 by showing that no printed passage from an ambivalent distributor reports receiving anti-Amway advice from outsiders, and one informant explicitly denies it (pp. 480–481)."
+    },
+    {
+     "element": "C22",
+     "how": "Uses the paper's account on p. 474 that approaching family and friends is how distributors discover which ties are negative to show why inactive members who never approach close ties never sever them."
+    },
+    {
+     "element": "X3",
+     "how": "Reinterprets the retention of non-member relationships among ambivalent distributors as a passive byproduct of not prospecting close contacts rather than an independent causal factor (pp. 474, 480–481)."
+    },
+    {
+     "element": "K01",
+     "how": "Redefines the ambivalence printed on p. 480 as an internal conflict between wanting to start the business and procrastinating, rather than a tug-of-war between pro-Amway and anti-Amway advisers."
+    }
+   ],
+   "evidence": [
+    "F74",
+    "F101",
+    "F103",
+    "F105",
+    "F107"
+   ],
+   "off_map": "Targets the inactive informant's unmapped statement in F101 on p. 480 that nobody tells him he cannot or should not do Amway and that not starting is entirely down to him, making behavioral abstention the cause of intact outside ties.",
+   "opening": [
+    {
+     "sentence": "Because distributors discover which friends and relatives are hostile only by trying to recruit them, an inactive member who never approaches close contacts will retain those friendships as a result of not working the business rather than stalling because outsiders advised against it.",
+     "tie": "C29"
+    },
+    {
+     "sentence": "Checking whether inactive distributors ever pitched their close circle or heard criticisms from them before putting the business aside would settle whether intact outside ties cause inactivity or merely result from it.",
+     "tie": "X3"
+    }
+   ]
+  },
+  {
+   "reading": "R07",
+   "bears_on": [
+    {
+     "element": "C09",
+     "how": "Challenges the premise on p. 463 that financial performance can be laid alongside identification as a separate measure, arguing that whether a distributor counts training expenses as costs already expresses their stance toward Amway."
+    },
+    {
+     "element": "A01",
+     "how": "Reinterprets the absence of clear net-profit figures and the disagreement over counting training costs on p. 463 from a measurement limitation into substantive evidence of how members value the organization's system."
+    },
+    {
+     "element": "K28",
+     "how": "Treats a distributor's calculated net profit or loss as endogenous to identification because substantial spending on books, tapes, and functions lowers net earnings only for those who count the system as a business cost (pp. 459, 463, 465–466)."
+    },
+    {
+     "element": "C36",
+     "how": "Complements the claim that identification frames subsequent interpretation by proposing that members' identification with Amway governs how they reckon business revenues and training costs (pp. 463, 484)."
+    }
+   ],
+   "evidence": [
+    "F10",
+    "F11",
+    "F22",
+    "F23",
+    "F35"
+   ],
+   "off_map": "Targets the unrecorded alignment between informants' identification states and their accounting rules for training expenses, as well as the unseparated distinction between informants who could not and those who would not state net profits (p. 463).",
+   "opening": [
+    {
+     "sentence": "Because a distributor's net profit depends on whether expensive books, tapes, and seminars are counted as business costs, self-reported financial results already reflect a member's allegiance to Amway and cannot serve as an independent variable alongside identification.",
+     "tie": "C09"
+    },
+    {
+     "sentence": "Recording which informants include training materials and personal product use in their profit calculations across positive, ambivalent, and disidentified groups would show whether accounting rules divide along lines of organizational identification.",
+     "tie": "A01"
+    }
+   ]
+  },
+  {
+   "reading": "R08",
+   "bears_on": [
+    {
+     "element": "CP02",
+     "how": "Reinterprets the contrast between the disenchanted former distributor on p. 479 and the supported inactive distributor on p. 480 as a difference in whether upline support was conditional on doing Amway work rather than how much support was given."
+    },
+    {
+     "element": "C20",
+     "how": "Inverts the claim that a strong supportive upline bond channels members into active positive programming and encapsulated sensemaking, noting that the strong tie on p. 480 accompanies total inactivity and endures only because it does not depend on work (pp. 469–476, 480)."
+    },
+    {
+     "element": "C21",
+     "how": "Separates work-contingent mentoring through the program (pp. 460, 471, 479) from unconditional personal support detached from business performance (p. 480)."
+    },
+    {
+     "element": "E23",
+     "how": "Weakens C21's support for C20 by showing that an unconditional sponsor bond on p. 480 produces none of the active distributing or encapsulating conduct C20 predicts."
+    },
+    {
+     "element": "C29",
+     "how": "Rereads the inactive distributor's kinship-like sponsor tie on p. 480 as what an idle member is left holding when support is unconditional, rather than a force pulling him toward organizational activity."
+    },
+    {
+     "element": "X2",
+     "how": "Replaces the simple strength of upline mentor bonds with whether the upline's relationship with the downline member is contingent on selling, recruiting, and attending meetings (pp. 460, 471, 479–480)."
+    }
+   ],
+   "evidence": [
+    "F16",
+    "F62",
+    "F97",
+    "F103"
+   ],
+   "off_map": "Targets the conditionality of upline support on business activity—whether a sponsor's warmth depends on attending meetings, selling, and recruiting or stands apart from the work (pp. 460, 471, 479–480).",
+   "opening": [
+    {
+     "sentence": "Because the inactive member's warm sponsor relationship persists while he skips functions, prepares no prospect lists, and recruits no one, that bond appears to survive only because it is detached from business performance rather than acting as a mentoring force that drives encapsulation.",
+     "tie": "CP02"
+    },
+    {
+     "sentence": "Comparing upline relationships that predate Amway as family or friendship ties with purely program-based sponsorships would test whether non-contingent personal bonds enable long-term inactivity while work-bound mentoring drives non-performing recruits to quit in anger.",
+     "tie": "C21"
+    }
+   ]
+  },
+  {
+   "reading": "R09",
+   "bears_on": [
+    {
+     "element": "C13",
+     "how": "Rereads the Appendix shopping outing (pp. 492–493) to argue that linking desired possessions to the downline's self is the slightest part of the session, which instead models the upline's manner, builds a familial mentor bond, and prospects a clerk."
+    },
+    {
+     "element": "C14",
+     "how": "Shows that in the paper's sole full exhibit of personalized dream building, the researcher liked almost nothing all day, had no interest in jewelry or boots, and ended worn out rather than folding familiar, emotionally compelling objects into his self-concept (pp. 466, 492–493)."
+    },
+    {
+     "element": "E20",
+     "how": "Weakens C14's support for C13 because the Appendix outing fails to attach desired possessions to the newcomer's self and operates instead through watching the mentor want things and carry himself (pp. 492–493)."
+    },
+    {
+     "element": "C01",
+     "how": "Challenges the sequential separation of sensebreaking and sensegiving by showing that the mentor relationship placed second in the model is built inside the very first dream-building outing (pp. 481–482, 492–493)."
+    },
+    {
+     "element": "C21",
+     "how": "Shows that practical favors and familial joking that C21 locates in positive programming are already enacted throughout the dream-building session in the Appendix (pp. 470–471, 492–493)."
+    },
+    {
+     "element": "K18",
+     "how": "Reinterprets dream building from an exercise attaching material objects to the newcomer's self into an occasion for the upline to shop for himself, coach public confidence, and set himself up as the downline's standard (pp. 492–493)."
+    }
+   ],
+   "evidence": [
+    "F36",
+    "F112",
+    "F113",
+    "F114",
+    "F115",
+    "F116",
+    "F117",
+    "F118",
+    "F119"
+   ],
+   "off_map": "Targets the upline's coaching of confident upper-class self-presentation ('faking it') and the immediate fusion of mentor bond-building with dream building from the first outing rather than as a later blur (pp. 481–482, 492–493).",
+   "opening": [
+    {
+     "sentence": "In the paper's only detailed record of a dream-building trip, the newcomer warms to almost none of the merchandise while the upline shops for himself, coaches an assertive manner, and trades father-son jokes, showing that mentor bonding and role modeling happen inside dream building from the start.",
+     "tie": "C13"
+    },
+    {
+     "sentence": "Comparing field records of initial dream-building sessions across several sponsorship lines would establish whether those outings mainly attach recruits to specific material possessions or induct them into admiring and imitating their upline mentor.",
+     "tie": "C01"
+    }
+   ]
+  },
+  {
+   "reading": "R10",
+   "bears_on": [
+    {
+     "element": "C12",
+     "how": "It attributes seekership to dissatisfaction already present when members enter, replacing the proposed creation of that need through sensebreaking (pp. 464, 467)."
+    },
+    {
+     "element": "C13",
+     "how": "It recasts dream building as giving existing difficulties an organizational vocabulary, rather than generating the dissatisfaction that motivates change (pp. 465–467)."
+    },
+    {
+     "element": "C16",
+     "how": "It promotes prior crisis or dissatisfaction from a condition strengthening identity deficits to the source of the need for change (pp. 467, 470–471)."
+    },
+    {
+     "element": "C27",
+     "how": "It reads the satisfied employee's departure as following improvement outside Amway, relocating the explanation from unsuccessful sensebreaking to changed circumstances (pp. 477–478)."
+    },
+    {
+     "element": "C30",
+     "how": "It applies the general model's possibility of selecting existing seekers to the Amway informants themselves, making it an alternative explanation of their attachments (p. 482)."
+    },
+    {
+     "element": "E18",
+     "how": "If dreams express prior dissatisfaction, dream-building episodes no longer establish that sensebreaking created the need for meaning (pp. 465–467)."
+    },
+    {
+     "element": "X1",
+     "how": "It replaces variation in successfully induced seekership with variation in dissatisfaction brought into, or resolved outside, Amway (pp. 465, 477–478, 480)."
+    },
+    {
+     "element": "CP01",
+     "how": "It reinterprets the difference between detachment and continuing aspiration through the members' outside circumstances, rather than through contrasting success of sensebreaking (pp. 477–478)."
+    },
+    {
+     "element": "DG01",
+     "how": "It uses the acknowledged lack of tests of individual differences to keep prior sources of seekership open as explanations (p. 463, n. 9)."
+    }
+   ],
+   "evidence": [
+    "F32",
+    "F40",
+    "F57",
+    "F59",
+    "F60",
+    "F91",
+    "F102",
+    "F109"
+   ],
+   "off_map": "Beyond the general selection possibility, the map lacks the proposed causal connection between informants' changing outside circumstances and the presence or disappearance of seekership.",
+   "opening": [
+    {
+     "sentence": "The need for meaning may precede dream building, with the organization supplying an interpretation of difficulties that members already face.",
+     "tie": "C12"
+    },
+    {
+     "sentence": "Tracing dissatisfaction before entry, during dream building, and after changes in work or family circumstances would distinguish imported seekership from dissatisfaction produced by the organization.",
+     "tie": "off-map"
+    }
+   ]
+  },
+  {
+   "reading": "R11",
+   "bears_on": [
+    {
+     "element": "C12",
+     "how": "It repeats the account of organizationally induced dissatisfaction creating a need for new meaning about the self (pp. 464, 469)."
+    },
+    {
+     "element": "C13",
+     "how": "It restates dream building as the principal practice connecting possessions to identity, creating a shortfall, and sustaining motivation (pp. 464–469)."
+    },
+    {
+     "element": "C15",
+     "how": "It retains the comparison between present and desired selves as the source of pressure to change (p. 467)."
+    },
+    {
+     "element": "C17",
+     "how": "It repeats the renewal mechanism whereby fulfilled dreams give way to larger aspirations and continuing self-validation (pp. 468–469)."
+    },
+    {
+     "element": "C20",
+     "how": "Its claim that wanting is engineered before a mentor becomes involved places mentor-led sensegiving after an already-created need for meaning (pp. 464, 469–470)."
+    },
+    {
+     "element": "E18",
+     "how": "It retains dream building as the empirical route supporting the claim that sensebreaking produces seekership (pp. 464–469)."
+    },
+    {
+     "element": "E21",
+     "how": "It retains identity deficits as the necessary motivational bridge in the explanation of dream building (p. 467)."
+    },
+    {
+     "element": "E22",
+     "how": "It retains repeated renewal of aspirations as part of how dream building sustains seekership (pp. 468–469)."
+    },
+    {
+     "element": "X1",
+     "how": "It treats the creation and maintenance of dissatisfaction as successful sensebreaking, preserving this factor's explanatory role (pp. 464–469)."
+    }
+   ],
+   "evidence": [
+    "F28",
+    "F30",
+    "F31",
+    "F32",
+    "F40",
+    "F41",
+    "F42",
+    "F43",
+    "F44",
+    "F45",
+    "F48",
+    "F49",
+    "F52"
+   ],
+   "off_map": "The assertion that dream building creates dissatisfaction before any mentor participates adds a temporal separation that the map does not state.",
+   "opening": [
+    {
+     "sentence": "The reading preserves the explanation through repeatedly created identity shortfalls while adding that the first shortfall arises before mentoring begins.",
+     "tie": "off-map"
+    },
+    {
+     "sentence": "Tracing the earliest dream-building encounters and mentor contacts would establish whether dissatisfaction is produced before, or within, the mentoring relationship.",
+     "tie": "off-map"
+    }
+   ]
+  },
+  {
+   "reading": "R12",
+   "bears_on": [
+    {
+     "element": "C07",
+     "how": "It makes existing contacts' responses to the venture the decisive explanation of differing attachments, replacing success or failure of the two practices (pp. 472–474, 479–481)."
+    },
+    {
+     "element": "C20",
+     "how": "It recasts supportive social surroundings as partly produced by outsiders joining, tolerating, or withdrawing from distributors, rather than by positive programming alone (pp. 473–474)."
+    },
+    {
+     "element": "C22",
+     "how": "It treats relationship barriers as jointly produced by distributors and outsiders, elevating outsiders' avoidance from an observed response to an explanatory cause (pp. 472–474)."
+    },
+    {
+     "element": "C28",
+     "how": "It retains hostile confidants as sources of opposition but makes their response decisive, rather than a consequence of failed organizational sensegiving (p. 479)."
+    },
+    {
+     "element": "C29",
+     "how": "It explains concealment and inactivity through valued outsiders' reactions and members' efforts to preserve those ties (pp. 480–481)."
+    },
+    {
+     "element": "E24",
+     "how": "If outsiders help produce the barriers, their existence does not by itself establish that organizational revaluing produced encapsulated sensemaking (pp. 473–474)."
+    },
+    {
+     "element": "E32",
+     "how": "It relocates the explanation of mixed attachment from partial success of positive programming to responses originating in members' existing circles (pp. 480–481)."
+    },
+    {
+     "element": "X3",
+     "how": "It changes the source of isolation or continuing outside contact from distributors' avoidance practices to the actions of both parties (pp. 473–474, 480–481)."
+    }
+   ],
+   "evidence": [
+    "F67",
+    "F68",
+    "F72",
+    "F74",
+    "F75",
+    "F76",
+    "F99",
+    "F104",
+    "F105",
+    "F106",
+    "F107"
+   ],
+   "off_map": "The map lacks a factor for outsiders' responses as the upstream cause of the social surroundings and identification a distributor develops.",
+   "opening": [
+    {
+     "sentence": "The social surroundings that sustain or disrupt identification may depend on how existing contacts respond to recruitment.",
+     "tie": "C20"
+    },
+    {
+     "sentence": "Following comparable recruitment encounters through outsiders' responses, subsequent contact, and changes in attachment would distinguish externally produced barriers from those produced by positive programming.",
+     "tie": "off-map"
+    }
+   ]
+  },
+  {
+   "reading": "R13",
+   "bears_on": [
+    {
+     "element": "C09",
+     "how": "It narrows the financial result to the reported sales-volume comparison and proposes that net financial position could still distinguish identification states (p. 463)."
+    },
+    {
+     "element": "K28",
+     "how": "It separates high sales volume from financial success measured through receipts, expenses, and the direction of payments within the sponsorship network (pp. 459, 463)."
+    },
+    {
+     "element": "A01",
+     "how": "It makes the missing comparable net figures central to what the financial comparison cannot establish (p. 463)."
+    },
+    {
+     "element": "C28",
+     "how": "It rereads opposition and the reinterpretation of upline warmth through members' financial position and payments, proposing an economic explanation of the turn against Amway (p. 479)."
+    },
+    {
+     "element": "C58",
+     "how": "It supplies a proposed material basis for conflict between commerce and care: whether money moves from the member toward the people above them (pp. 479, 493)."
+    }
+   ],
+   "evidence": [
+    "F11",
+    "F16",
+    "F22",
+    "F23",
+    "F98",
+    "F99",
+    "F118"
+   ],
+   "off_map": "The map lacks a factor for a member's position as a net payer or net recipient within the upline-downline flow of money.",
+   "opening": [
+    {
+     "sentence": "A comparison based on sales volume leaves open whether net financial position distinguishes different forms of identification.",
+     "tie": "C09"
+    },
+    {
+     "sentence": "Constructing comparable accounts of receipts, fees, training expenses, and payments between sponsorship levels for each identification group would test that financial distinction.",
+     "tie": "A01"
+    }
+   ]
+  },
+  {
+   "reading": "R14",
+   "bears_on": [
+    {
+     "element": "C12",
+     "how": "It separates enthusiasm about a possible future from dissatisfaction with present life, questioning whether both indicate newly created seekership (pp. 466, 477)."
+    },
+    {
+     "element": "C13",
+     "how": "It reads dream-building excitement as a possible product of the practice without treating it as evidence that the present self has become inadequate (pp. 465–466)."
+    },
+    {
+     "element": "C15",
+     "how": "It questions the inference from attraction to an ideal self to an experienced identity shortfall, using accounts in which present dissatisfaction is not stated (pp. 466, 477)."
+    },
+    {
+     "element": "C27",
+     "how": "It distinguishes fading enthusiasm from contentment with an existing life, which the account places together under unsuccessful sensebreaking (pp. 477–478)."
+    },
+    {
+     "element": "K67",
+     "how": "It asks that seekership be identified through stated present dissatisfaction rather than inferred from enthusiasm about dreams alone (pp. 465–466, 477–480)."
+    },
+    {
+     "element": "X1",
+     "how": "It splits the success indicator into separately observed dissatisfaction and dream excitement, proposing that only the former distinguishes attachment from detachment (pp. 477–480)."
+    },
+    {
+     "element": "E18",
+     "how": "It questions whether evidence of excitement during dream building establishes the creation of a need for new self-related meaning (p. 466)."
+    },
+    {
+     "element": "E21",
+     "how": "It questions the motivational bridge from dream building through identity deficits when enthusiasm is reported without a deficient present self (pp. 466, 477)."
+    },
+    {
+     "element": "CP01",
+     "how": "It asks whether the contrast tracks present dissatisfaction rather than successful production of dream excitement (pp. 477–478)."
+    }
+   ],
+   "evidence": [
+    "F32",
+    "F35",
+    "F39",
+    "F90",
+    "F91",
+    "F94",
+    "F102"
+   ],
+   "off_map": "The map lacks separate indicators for stated present dissatisfaction and dream excitement without reported dissatisfaction, together with their independent associations with identification.",
+   "opening": [
+    {
+     "sentence": "The first branching point may combine two observations that need separate treatment: wanting a future possibility and finding one's present life inadequate.",
+     "tie": "X1"
+    },
+    {
+     "sentence": "Coding each informant separately for current dissatisfaction, dream excitement, and later identification would show which condition distinguishes attachment from detachment.",
+     "tie": "off-map"
+    }
+   ]
+  },
+  {
+   "reading": "R15",
+   "bears_on": [
+    {
+     "element": "C28",
+     "how": "It explains oppositional departure through a perceived wrong by recruiters or uplines, whether or not the member retains a wish for personal change (pp. 478–479)."
+    },
+    {
+     "element": "C27",
+     "how": "It recasts detached departure as exit without an enduring grievance, rather than as the distinctive result of unsuccessful sensebreaking (pp. 477–479)."
+    },
+    {
+     "element": "CP01",
+     "how": "It substitutes enduring grievance for continuing aspiration as the distinguishing feature; the paper nevertheless explicitly links the aspirant on p. 478 to the mentoring complaint on p. 479."
+    },
+    {
+     "element": "X1",
+     "how": "It denies continuing seekership a necessary distinguishing role in whether a leaver becomes opposed or detached (pp. 477–479)."
+    },
+    {
+     "element": "X2",
+     "how": "It treats weak upline ties as shared by both departure pathways and places their weakness downstream of withdrawal in each (pp. 478–479)."
+    },
+    {
+     "element": "C57",
+     "how": "It retains the downstream placement of weak ties in detached departure and extends that placement to oppositional departure, rather than reversing this claim (pp. 478–479)."
+    },
+    {
+     "element": "C58",
+     "how": "It extends the focus from troubled mentoring to perceived mistreatment, including pressure during recruitment, as the source of lasting opposition (p. 479)."
+    },
+    {
+     "element": "E28",
+     "how": "Its grievance mechanism removes successful creation of seekership as a necessary premise of disidentification (pp. 478–479)."
+    },
+    {
+     "element": "E29",
+     "how": "It questions whether the aspiration accounts establish the identity-deficit mechanism as the explanation of oppositional departure (pp. 478–479)."
+    },
+    {
+     "element": "E30",
+     "how": "By placing weak ties after opposition, it challenges the use of unsuccessful sensegiving as the preceding mechanism of disidentification (p. 479)."
+    }
+   ],
+   "evidence": [
+    "F91",
+    "F94",
+    "F95",
+    "F96",
+    "F97",
+    "F98",
+    "F99",
+    "F125"
+   ],
+   "off_map": "The map lacks a factor distinguishing leavers by whether they carry a perceived wrong by recruiters or uplines, independently of continuing seekership.",
+   "opening": [
+    {
+     "sentence": "The contrast between detached and oppositional exits may turn on an enduring grievance even when both involve weak mentor ties.",
+     "tie": "CP01"
+    },
+    {
+     "sentence": "Reconstructing each leaver's aspirations, perceived mistreatment, withdrawal from mentors, and eventual stance in time order would establish whether grievance distinguishes the two exits.",
+     "tie": "off-map"
+    }
+   ]
+  },
+  {
+   "reading": "R16",
+   "bears_on": [
+    {
+     "element": "C01",
+     "how": "It replaces two interacting practices with the quality of the upline relationship as the single organizing mechanism (pp. 465–466, 481–482)."
+    },
+    {
+     "element": "C07",
+     "how": "It treats apparent successes and failures of dream building and positive programming as expressions of one relationship dimension (pp. 478–479)."
+    },
+    {
+     "element": "C13",
+     "how": "It places the production and maintenance of dreams inside the mentoring relationship, making dream building dependent on that bond (pp. 465–466, 492–493)."
+    },
+    {
+     "element": "C14",
+     "how": "It rereads tailored aspirations and the shopping outing as products of mentor influence and bond formation, rather than as a separate process of incorporating wanted possessions (pp. 466, 492–493)."
+    },
+    {
+     "element": "C21",
+     "how": "It promotes the mentor bond from one ingredient of positive programming to the cause of dreams and continued participation (pp. 471, 475)."
+    },
+    {
+     "element": "C57",
+     "how": "It reverses the direction between weakened seeking and weakened mentoring ties: deterioration of the bond explains fading dreams (pp. 478–479)."
+    },
+    {
+     "element": "C29",
+     "how": "It relocates ambivalence to an intermediate position on mentor-bond quality, replacing the combination of continuing dreams and competing sources of meaning (pp. 479–481)."
+    },
+    {
+     "element": "K73",
+     "how": "It treats the apparent unsettling of the self as an effect of the upline bond, removing sensebreaking as a separate process (pp. 465–466, 478–479)."
+    },
+    {
+     "element": "K74",
+     "how": "It dissolves the boundary between giving meaning and building dreams by locating both within mentoring (pp. 481–482, 492–493)."
+    },
+    {
+     "element": "X1",
+     "how": "It treats successful sensebreaking as an indicator of a functioning upline bond, removing its independence as an explanatory factor (pp. 465–466, 479)."
+    },
+    {
+     "element": "X2",
+     "how": "It makes variation in upline-bond quality sufficient to organize the identification outcomes (pp. 471, 475, 478–479)."
+    },
+    {
+     "element": "E18",
+     "how": "If dream-building episodes primarily exhibit mentoring, they no longer independently establish that a distinct sensebreaking process creates seekership (pp. 492–493)."
+    },
+    {
+     "element": "E23",
+     "how": "It expands the mentor bond's role from a necessary component of positive programming into the proposed explanation of the entire identification process (pp. 471, 475)."
+    }
+   ],
+   "evidence": [
+    "F35",
+    "F36",
+    "F38",
+    "F62",
+    "F80",
+    "F93",
+    "F97",
+    "F112",
+    "F114",
+    "F115",
+    "F117",
+    "F119"
+   ],
+   "off_map": "The map lacks the proposed sufficiency of mentor-bond quality for all identification outcomes and does not separately index the paper's concession that the practices blur as others shape the ideal self (pp. 481–482).",
+   "opening": [
+    {
+     "sentence": "The explanation through two practices may reduce to one relationship process if dream creation and loss follow the quality of the mentor bond.",
+     "tie": "C01"
+    },
+    {
+     "sentence": "Following changes in mentor bonds, dreams, and identification within the same members would show whether aspirations vary independently of the relationship.",
+     "tie": "off-map"
+    }
+   ]
+  },
+  {
+   "reading": "R17",
+   "bears_on": [
+    {
+     "element": "C09",
+     "how": "It recasts unavailable profit figures and disputed costs as signs of members' financial reckoning, rather than grounds for excluding finances from identification (p. 463)."
+    },
+    {
+     "element": "A01",
+     "how": "It turns the inability or unwillingness to supply net figures into a proposed feature of attachment itself, beyond a limitation on the researcher's comparison (p. 463)."
+    },
+    {
+     "element": "C07",
+     "how": "It reorganizes identification outcomes around whether members calculate and acknowledge costs, instead of whether the two practices succeed (pp. 461, 463, 479)."
+    },
+    {
+     "element": "K35",
+     "how": "It recasts the identification categories as positions toward reckoning expenses and interpreting commercial motives (pp. 463, 479)."
+    },
+    {
+     "element": "C11",
+     "how": "It substitutes economic reckoning and interpretation of commercial relationships for the creation and fulfillment of a need for self-related meaning (pp. 463, 479)."
+    },
+    {
+     "element": "C02",
+     "how": "It proposes that positive attachment persists while the costs of participation remain unreckoned, giving that outcome a different mechanism (p. 463)."
+    },
+    {
+     "element": "C20",
+     "how": "It gives mentors' guidance an economic role as direction of spending on training materials (p. 471)."
+    },
+    {
+     "element": "C28",
+     "how": "It explains opposition as recognizing the commercial purpose of upline warmth and payments, rather than as the result of failed sensegiving (p. 479)."
+    },
+    {
+     "element": "C29",
+     "how": "It reinterprets inactivity associated with ambivalence as preserving membership at the cost of renewal, rather than as being pulled between conflicting advisers (pp. 461, 479–481)."
+    },
+    {
+     "element": "C56",
+     "how": "It proposes a financial reckoning near renewal as a possible explanation of early departure, using first-year exits as a timing clue (p. 461)."
+    }
+   ],
+   "evidence": [
+    "F11",
+    "F23",
+    "F24",
+    "F25",
+    "F63",
+    "F98",
+    "F99",
+    "F123"
+   ],
+   "off_map": "The map lacks the proposed mechanism connecting financial reckoning and renewal decisions to attachment and exit, including the unindexed definition of inactive members as annual renewers on p. 461.",
+   "opening": [
+    {
+     "sentence": "Attachment may depend on whether members reckon the costs of belonging and how they interpret payments within the sponsorship network.",
+     "tie": "C07"
+    },
+    {
+     "sentence": "Following members' expenses, calculations, renewal dates, and changing attitudes would show whether financial reckoning precedes opposition, inactivity, or departure.",
+     "tie": "off-map"
+    }
+   ]
+  }
+ ]
+}

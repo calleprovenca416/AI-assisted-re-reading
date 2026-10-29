@@ -1,0 +1,514 @@
+==============================================================================
+STAGE 1 DOSSIER  --  coupling audit v4
+Bechky, B. A. 2020. Evaluative spillovers from technological change: The effects of "DNA envy" on occupational practices in forensic science. Administrative Science Quarterly, 65(3): 606–643.
+==============================================================================
+
+How this paper's data-theory coupling is ARRANGED. Not how well it is
+coupled, and no claim that the account is wrong. Loss at each stage of
+narrative production is normal, not a defect. What follows is capacity;
+the apparatus is yours.
+
+------------------------------------------------------------------------------
+0. STATUS OF THIS EXTRACTION
+------------------------------------------------------------------------------
+   claim layer: EXTRACTED   errors 0   warnings 67
+
+   SINGLE-CODED TRIGGERS -- each can switch a move on by itself:
+      ClaimLink.direction
+      Claim.core
+      Claim.stated_as
+      DeclaredGap.kind
+      ContrastPair.drawn_by_authors
+      PaperMeta.resolution_period
+   Report kappa by field. No number resting on these should be
+   published until a second coder exists.
+      - link F01->C02: direction coded without a stated basis
+      - link F27->C10: direction coded without a stated basis
+      - link F31->C17: direction coded without a stated basis
+      - link F32->C02: direction coded without a stated basis
+      - link F37->C02: direction coded without a stated basis
+      - link F38->C02: direction coded without a stated basis
+      - link F39->C01: direction coded without a stated basis
+      - link F39->C02: direction coded without a stated basis
+      - link F47->C14: direction coded without a stated basis
+      - link F52->C09: direction coded without a stated basis
+      - link F52->C14: direction coded without a stated basis
+      - link F53->C09: direction coded without a stated basis
+      - link F53->C15: direction coded without a stated basis
+      - link F55->C15: direction coded without a stated basis
+      - link F56->C02: direction coded without a stated basis
+      - link F58->C10: direction coded without a stated basis
+      - link F59->C02: direction coded without a stated basis
+      - link F60->C02: direction coded without a stated basis
+      - link F61->C02: direction coded without a stated basis
+      - link F63->C02: direction coded without a stated basis
+      - link F84->C03: direction coded without a stated basis
+      - link F84->C16: direction coded without a stated basis
+      - link F87->C03: direction coded without a stated basis
+      - link F87->C05: direction coded without a stated basis
+      - link F87->C16: direction coded without a stated basis
+      - link F88->C03: direction coded without a stated basis
+      - link F88->C17: direction coded without a stated basis
+      - link F98->C01: direction coded without a stated basis
+      - link F98->C03: direction coded without a stated basis
+      - link F98->C17: direction coded without a stated basis
+      - link F102->C17: direction coded without a stated basis
+      - link F103->C17: direction coded without a stated basis
+      - link F129->C03: direction coded without a stated basis
+      - link F129->C05: direction coded without a stated basis
+      - link F129->C18: direction coded without a stated basis
+      - link F133->C02: direction coded without a stated basis
+      - link F136->C02: direction coded without a stated basis
+      - link F139->C02: direction coded without a stated basis
+      - link F140->C02: direction coded without a stated basis
+      - link F151->C03: direction coded without a stated basis
+      - link F151->C05: direction coded without a stated basis
+      - link F151->C16: direction coded without a stated basis
+      - link F152->C03: direction coded without a stated basis
+      - link F152->C05: direction coded without a stated basis
+      - link F152->C17: direction coded without a stated basis
+      - link F153->C03: direction coded without a stated basis
+      - link F153->C05: direction coded without a stated basis
+      - link F153->C18: direction coded without a stated basis
+      - link F154->C10: direction coded without a stated basis
+      - link F156->C02: direction coded without a stated basis
+      - link F160->C03: direction coded without a stated basis
+      - link F160->C16: direction coded without a stated basis
+      - link F161->C03: direction coded without a stated basis
+      - link F161->C17: direction coded without a stated basis
+      - link F166->C01: direction coded without a stated basis
+      - link F166->C05: direction coded without a stated basis
+      - link F166->C16: direction coded without a stated basis
+      - link F166->C17: direction coded without a stated basis
+      - link F166->C18: direction coded without a stated basis
+      - C06: no fragments beneath this claim -- either an extraction miss or an
+      unsupported assertion
+      - C07: no fragments beneath this claim -- either an extraction miss or an
+      unsupported assertion
+      - C08: no fragments beneath this claim -- either an extraction miss or an
+      unsupported assertion
+      - C12: no fragments beneath this claim -- either an extraction miss or an
+      unsupported assertion
+      - C22: no fragments beneath this claim -- either an extraction miss or an
+      unsupported assertion
+      - C23: no fragments beneath this claim -- either an extraction miss or an
+      unsupported assertion
+      - 43 fragments attached to no claim: F02, F03, F04, F05, F06, F07, F08,
+      F09, F10, F11, F112, F12 ...
+      - single-coded trigger fields: ClaimLink.direction, Claim.core,
+      Claim.stated_as, DeclaredGap.kind, ContrastPair.drawn_by_authors,
+      PaperMeta.resolution_period. Each can switch a move on by itself. Report
+      kappa by field; no number from a single-coded field should be published.
+
+   VOICE RULE applied (bechky_2020_v1_voice_gloss.json): 46 with and 0
+   against from author-voice fragments are left out of section 1.
+
+------------------------------------------------------------------------------
+1. SEAMS  (non-uniform coupling)
+------------------------------------------------------------------------------
+   Claims whose fragments do not all behave the same way. A seam is not
+   an error. It usually means the construct is doing more than one job.
+   The system locates it and stops: it does not name the two sides, and
+   the register of distinctions is not opened until a split is written.
+
+   None detected. no seam in the assessed claims
+------------------------------------------------------------------------------
+2. SENSITIVITY OF THE DETECTOR
+------------------------------------------------------------------------------
+   Three hand-set numbers constitute the seam detector. This is what they
+   are worth on this paper. Reported, never tuned against the paper being
+   measured.
+
+   at current settings {'MIN_LINKS_FOR_UNIFORMITY': 4, 'UNIFORMITY_FLOOR': 0.85, 'MIN_MINORITY': 2, 'MIN_COVERAGE': 0.6}
+   seam set holds under 18/18 settings
+
+      seams none   under 18 setting(s)
+        links>=3 floor<0.8 minority>=1; links>=3 floor<0.8 minority>=2; links>=3
+        floor<0.85 minority>=1; links>=3 floor<0.85 minority>=2; links>=3
+        floor<0.9 minority>=1; links>=3 floor<0.9 minority>=2 ...
+
+------------------------------------------------------------------------------
+3. UNATTACHED EVIDENCE AND UNSUPPORTED CLAIMS  (coupling asymmetry)
+------------------------------------------------------------------------------
+   Computed and demoted. A weak signal: it flags candidates, it does not
+   locate theory.
+
+   unattached fragments: 0.25 (43 of 172 usable)
+   [F02]  forensic science field   p. 612
+      The paper describes U.S. public crime laboratories as operating under
+      federal, state, or local criminal-justice agencies that control the
+      budgets of laboratories reporting to them.
+   [F03]  forensic science field   p. 612
+      The paper reports that forensic scientists usually work on submitted
+      evidence in laboratories, issue written conclusions, and may later testify
+      as experts while interacting with legal and investigative personnel.
+   [F04]  forensic science field   p. 612
+      The paper reports a field infrastructure of general, laboratory, state,
+      and specialty associations that accredit laboratories, test analysts, hold
+      meetings, set standards, and circulate developments through meetings and
+      listservs.
+   [F05]  Metropolitan County Crime Lab   p. 613
+      Metropolitan County Crime Lab is described as a large Western-state
+      laboratory under the county district attorney in a major urban area.
+   [F06]  Metropolitan County Crime Lab   p. 613
+      The study compares forensic biology, [6 words of Bechky (2020), p. 613]
+      usually arrived with undergraduate science training, sometimes had
+      graduate science credentials, and entered a designated unit after testing
+      and interview selection.
+   [F07]  forensic biology (DNA)   p. 613
+      The forensic biology unit had eighteen criminalists including three
+      supervisors, screened items for biological material, produced DNA
+      profiles, and managed the county contribution to the CODIS database.
+   [F08]  controlled substances (narcotics)   pp. 613–614
+      The controlled-substances unit had eight criminalists including its
+      supervisor, examined suspected drugs, and also handled several comparative
+      and trace-evidence tasks.
+   [F09]  forensic biology (DNA)   Table 1, Number of members — forensic biology (DNA), p. 613
+      Table 1 reports eighteen people in forensic biology.
+   [F10]  firearms   Table 1, Number of members — firearms, p. 613
+      Table 1 reports four people in firearms.
+   [F11]  toxicology   Table 1, Number of members — toxicology, p. 613
+      Table 1 reports nine people in toxicology.
+   [F12]  controlled substances (narcotics)   Table 1, Number of members — controlled substances (narcotics), p. 613
+      Table 1 reports eight people in controlled substances.
+   [F13]  forensic biology (DNA)   Table 1, Gender — forensic biology (DNA), p. 613
+      Table 1 reports fifteen women and three men in forensic biology.
+   [F14]  firearms   Table 1, Gender — firearms, p. 613
+      Table 1 reports four men in firearms.
+   [F15]  toxicology   Table 1, Gender — toxicology, p. 613
+      Table 1 reports five women and four men in toxicology.
+   [F16]  controlled substances (narcotics)   Table 1, Gender — controlled substances (narcotics), p. 613
+      Table 1 reports four women and four men in controlled substances.
+   [F17]  forensic biology (DNA)   Table 1, Age range — forensic biology (DNA), p. 613
+      Table 1 places forensic biology members from their mid-twenties through
+      their late fifties.
+   [F18]  firearms   Table 1, Age range — firearms, p. 613
+      Table 1 places firearms members from their mid-twenties through their late
+      fifties.
+   [F19]  toxicology   Table 1, Age range — toxicology, p. 613
+      Table 1 places toxicology members from their mid-twenties through their
+      late fifties.
+   [F20]  controlled substances (narcotics)   Table 1, Age range — controlled substances (narcotics), p. 613
+      Table 1 places controlled-substances members from their mid-twenties
+      through their late forties.
+   [F21]  forensic biology (DNA)   Table 1, Education — forensic biology (DNA), p. 613
+      Table 1 reports science bachelor degrees in chemistry or biology for
+      forensic biology, with some members also holding forensic or related
+      science master degrees.
+   [F22]  firearms   Table 1, Education — firearms, p. 613
+      Table 1 reports science bachelor degrees in chemistry or biology for
+      firearms, with some members also holding forensic or related science
+      master degrees.
+   [F23]  toxicology   Table 1, Education — toxicology, p. 613
+      Table 1 reports science bachelor degrees in chemistry or biology for
+      toxicology, with some members also holding forensic or related science
+      master degrees.
+   [F24]  controlled substances (narcotics)   Table 1, Education — controlled substances (narcotics), p. 613
+      Table 1 reports science bachelor degrees in chemistry or biology for
+      controlled substances, with some members also holding forensic or related
+      science master degrees.
+   [F25]  toxicology   p. 614
+      The toxicology unit had nine members including one supervisor, analyzed
+      drugs in bodily specimens, managed the county DUI breath-testing program,
+      and included members qualified to testify about alcohol and drug effects.
+   [F26]  firearms   p. 614
+      The firearms unit had four members, tested firearm function and identity,
+      performed distance work, and managed the laboratory ballistic-imaging
+      database.
+   [F28]  forensic biology (DNA)   p. 615
+      On the author's first day at the laboratory, the DNA supervisors jokingly
+      introduced themselves as the “DNA princesses.”
+   [F29]  firearms   p. 615
+      Firearms examiners voiced complaints about the comparison pressure in
+      conference presentations during the fieldwork.
+   [F41]  controlled substances (narcotics)   p. 617
+      A narcotics analyst described the evaluative demand on non-DNA specialties
+      as pressure to become more like DNA analysis.
+   [F43]  forensic biology (DNA)   p. 617
+      Over roughly twenty-five years, forensic DNA profiling became an
+      established investigative method after technical advances, court
+      challenges, and favorable National Academy assessments in the 1990s.
+   [F65]  firearms   p. 621
+      the paper explains that documenting matching microscopic marks in images
+      makes an examiner’s identification judgment more defensible when presented
+      in court.
+   [F66]  firearms   p. 621
+      Adam said his note packet was intended to support his courtroom judgment
+      and pointed out that outsiders had repeatedly reviewed his work without
+      challenging it.
+   [F67]  firearms   p. 622
+      Firearms examiners contrasted an earlier reliance on intuitive recognition
+      with a current expectation that reports and testimony be backed by
+      documented images.
+   [F68]  firearms   p. 622
+      The paper describes firearms technical review as a second examiner
+      retracing the comparison, inspecting the same marks, signing the
+      documentation, and discussing both the identification and how to make its
+      images persuasive.
+   [F71]  firearms   p. 623
+      The paper reports that all three qualified MCCL examiners knew the CMS
+      counting method but did not routinely use it because they regarded their
+      broader visual judgments as more conservative.
+   [F72]  firearms   p. 623
+      Tom said he understood why some people liked CMS because numerical
+      criteria are easy for outsiders to understand.
+   [F73]  firearms   p. 623
+      Tom said he used CMS mainly when his own judgment was borderline and
+      considered his personal standard more conservative than the CMS threshold.
+   [F74]  firearms   p. 623
+      Adam described other examiners marking counted striae on images to appear
+      more objective, while he characterized firearms identification as a
+      subjective judgment based on the entire mark rather than a simple tally.
+   [F78]  firearms   p. 623
+      AFTE leaders issued a detailed rebuttal to parts of the NAS criticism of
+      firearms work.
+   [F81]  firearms   p. 624
+      the author's account is that, although the challenges had not succeeded in
+      excluding firearms evidence, examiners in the field were concerned about
+      preserving admissibility.
+   [F112]  controlled substances (narcotics)   p. 630
+      Analysts frequently encountered a mix of common and unusual drugs and
+      sometimes called colleagues over excitedly when they identified an unusual
+      item, such as mushrooms.
+   [F169]  forensic science field   pp. 611–612
+      The paper describes forensic scientists as making judgments about physical
+      evidence for the justice system while operating under both scientific and
+      legal constraints.
+   [F170]  forensic science field   footnote 1, p. 612
+      Some states are reported to contain small forensic laboratories outside
+      the public laboratory system.
+   [F171]  firearms   pp. 622–623
+      The paper describes CMS as a firearms-identification method that counts
+      runs of matching microscopic marks and applies numerical thresholds
+      developed from known nonmatches.
+
+   CLAIMS WITH NO FRAGMENTS BENEATH THEM
+   (an extraction miss or an assertion the paper does not evidence;
+   the corpus alone cannot decide which)
+      [C06] Direct adoption of new technology can reconfigure occupational task
+      boundaries, access to resources, workplace relations, and status
+      arrangements.
+      [C07] The same technology can yield different workplace social
+      arrangements because local expertise, routines, and relationships
+      condition how it is used.
+      [C08] Occupations with greater professional authority are better
+      positioned to resist technology-driven changes to their tasks.
+      [C12] Ethnographic observation can make visible how organization members
+      interpret and respond to field-level discourse in ways that other methods
+      may not reveal.
+      [C22] Applying the paper’s framework beyond forensics, ethnographers are
+      expected to resist pressure to alter masking practices because source
+      anonymity is strongly valued and the comparison reaches them through a
+      relatively weak public route.
+      [C23] As digital technologies affect more workplaces, evaluative
+      spillovers are expected to travel across a wider range of occupations and
+      industries.
+
+------------------------------------------------------------------------------
+4. VOICE BENEATH THE CORE CLAIMS  (a fact, not a score)
+------------------------------------------------------------------------------
+   Who is load-bearing where the argument is carried, and who speaks in
+   the paper but beneath no core claim. v3 scored this as an averaged
+   concentration index; the number rested on very few speech fragments
+   and carried three guessed bands. The fact routes the move without it.
+
+   speech fragments in corpus: 20   units: controlled substances (narcotics), firearms, forensic biology (DNA), laboratory management, toxicology
+
+   [C01] Evaluative spillovers allow a technology to reshape the wo...
+      speech 0   identified 0   units -
+   [C03] Institutional pathways shape how evaluative spillovers are...
+      speech 3   identified 3   units {'firearms': 2, 'laboratory management': 1}
+   [C04] The technical compatibility between a benchmark technology...
+      speech 2   identified 2   units {'firearms': 1, 'controlled substances (narcotics)': 1}
+   [C05] Occupational values filter evaluative comparisons: alignme...
+      speech 6   identified 6   units {'toxicology': 3, 'controlled substances (narcotics)': 3}
+   [C13] A benchmark technology is not interpreted as one fixed sta...
+      speech 1   identified 1   units {'firearms': 1}
+   [C20] Occupational values and technique are intertwined in pract...
+      speech 8   identified 8   units {'controlled substances (narcotics)': 4, 'toxicology': 3, 'firearms': 1}
+   [C21] For the three focal occupations, differences in the nature...
+      speech 0   identified 0   units -
+
+   PRESENT IN THE CORPUS, LOAD-BEARING ON NO CORE CLAIM:
+      forensic biology (DNA)
+
+------------------------------------------------------------------------------
+5. THE EPISODE'S OWN BOUNDARIES
+------------------------------------------------------------------------------
+   Printed evidence outside the episode as the paper bounds it licenses
+   boundary_shift. Evidence AT the resolution is inside the paper's arc
+   and is listed as context, not as a licence.
+
+   episode: P1 -> (no resolution period declared)
+      basis: The empirical account closes with different contemporaneous
+      responses across the three occupations and then moves to discussion; it
+      does not identify a later point at which the spillover process or those
+      responses became settled.
+   before the start:    none
+   after the resolution: none
+   at the resolution:   none
+
+------------------------------------------------------------------------------
+6. CONTRAST PAIRS
+------------------------------------------------------------------------------
+   Two episodes the paper treats as comparable that came out differently.
+   Licenses causal re-attribution, which is construct_inversion. A pair
+   the authors drew is a stronger licence than one the analyst built.
+
+   [CP01]  (drawn by the authors)
+      A: MCCL firearms examiners received court-related criticism mostly through
+      distant proceedings and retained their local method.
+      B: MCCL toxicologists faced a prospective challenge in their own
+      jurisdiction and accelerated a reporting change.
+      held comparable: Both episodes concern neighboring forensic occupations
+      responding to legal evaluation associated with the DNA-centered reform
+      climate.
+      differs in: The firearms challenge was remote and produced no local
+      practice change, whereas the toxicology challenge was immediate and
+      accompanied by a local reporting change.
+      fragments A: F84, F87, F160
+      fragments B: F88, F98, F161
+
+   [CP02]  (drawn by the authors)
+      A: Toxicologists had an instrumented method and error-focused values that
+      fit the comparison and changed their reporting practice.
+      B: Narcotics analysts had an available instrumented alternative but valued
+      craft, variety, and autonomy and retained crystal testing.
+      held comparable: Both groups had an instrument-based route that could be
+      aligned with the comparison standard, and the paper analyzes their
+      technique and values in parallel.
+      differs in: Toxicology combined technical and value alignment with
+      adaptation, while narcotics combined technical compatibility with value
+      conflict and resistance.
+      fragments A: F146, F149, F152, F161
+      fragments B: F147, F150, F153, F162
+
+------------------------------------------------------------------------------
+7. VENTURED CLAIMS AND SELF-DECLARED GAPS
+------------------------------------------------------------------------------
+   Claims the authors themselves mark as provisional, and statements
+   about the limits of their own account. Invitations already in the
+   text, not criticisms imported from outside.
+
+   VENTURED
+      [C09] (p. 610) Association with novel technology can raise an occupation’s
+      symbolic legitimacy because technology is culturally linked to progress
+      and rationality.
+      [C19] (p. 634; p. 636) Evaluative spillovers are more likely to reach
+      occupations that share evaluating audiences and have overlapping
+      activities or interests; weaker overlap should reduce spillover.
+      [C22] (p. 638) Applying the paper’s framework beyond forensics,
+      ethnographers are expected to resist pressure to alter masking practices
+      because source anonymity is strongly valued and the comparison reaches
+      them through a relatively weak public route.
+      [C23] (p. 638) As digital technologies affect more workplaces, evaluative
+      spillovers are expected to travel across a wider range of occupations and
+      industries.
+
+      [DG01]  scope_limit   (p. 634)
+      The single-laboratory ethnography does not establish how evaluative
+      spillovers would unfold in other occupational fields; the paper presents
+      the case as showing a possible mechanism rather than a general field
+      pattern.
+      bears on: C01, C03, C04, C05, C19, C23
+   -> [DG02]  unresolved_question   (p. 636)
+      The study cannot determine the outer boundary of neighboring occupations
+      or how far evaluative spillover extends, leaving that boundary question
+      for future research.
+      bears on: C19
+      [DG03]  absent_evidence   (p. 635, footnote 5)
+      The author lacks evidence about what firearms examiners from other
+      jurisdictions did locally after the court challenges they described at the
+      professional meeting.
+      bears on: C03
+
+   Only an unresolved_question gap parameterises counterfactual_ending.
+   That is a one-person coding decision on a single record: recoding one
+   gap switches the move on. It belongs on the double-coding list.
+
+------------------------------------------------------------------------------
+8. ABSENCE REGISTER
+------------------------------------------------------------------------------
+   Evidence classes that do not appear in print. NOT the same as
+   unattached fragments. No reading can be scored against evidence the
+   design could not have produced, so these bound what any re-reading may
+   claim. They become research questions, never readings. Whether an
+   absent observation is obtainable is the scholar's call, not the
+   instrument's.
+
+   NOT COLLECTED
+      - local actions of externally challenged firearms examiners
+        basis: The paper reports hearing presentations from firearms examiners
+        outside MCCL but states that it has no data on what those examiners did in
+        their own laboratories.
+
+------------------------------------------------------------------------------
+9. MOVE PARAMETERS  (handoff to Stage 2)
+------------------------------------------------------------------------------
+   Each move fires because something in this paper's own record licenses
+   it. No plot is consulted and no story shape is required.
+
+   construct_inversion:
+        {'trigger': 'from_pair', 'pair': 'CP01', 'drawn_by_authors': True,
+        'differs_in': 'The firearms challenge was remote and produced no local
+        practice change, whereas the toxicology challenge was immediate and
+        accompanied by a local reporting change.', 'fragments': ['F84', 'F87',
+        'F160', 'F88', 'F98', 'F161'], 'note': ''}
+        {'trigger': 'from_pair', 'pair': 'CP02', 'drawn_by_authors': True,
+        'differs_in': 'Toxicology combined technical and value alignment with
+        adaptation, while narcotics combined technical compatibility with value
+        conflict and resistance.', 'fragments': ['F146', 'F149', 'F152', 'F161',
+        'F147', 'F150', 'F153', 'F162'], 'note': ''}
+
+   counterfactual_ending:
+        {'ventured_claims': ['C09', 'C19', 'C22', 'C23'],
+        'unresolved_question_gaps': ['DG02']}
+
+   focalization_shift:
+        {'units': ['forensic biology (DNA)'], 'fragments_by_unit': {'forensic
+        biology (DNA)': ['F07', 'F09', 'F13', 'F17', 'F21', 'F28', 'F43', 'F45',
+        'F46', 'F47', 'F48', 'F49', 'F50', 'F51']}}
+
+   seed_fragments:
+        F02
+        F03
+        F04
+        F05
+        F06
+        F07
+        F08
+        F09
+        F10
+        F11
+        F12
+        F13
+        F14
+        F15
+        F16
+        F17
+        F18
+        F19
+        F20
+        F21
+
+   research_questions_only:
+        A01
+
+   CUT MOVES, retained visibly rather than deleted:
+        temporal_stratification: trigger was coupling_temporal, cut: on the one
+        real paper it returned 1.000 as an extraction artifact with nearly
+        everything coded P1
+        actantial_permutation: trigger was script_inversions, cut with
+        script_type; fired only on a fixture built knowing the answer
+        scale_shift: never had a detector in any version
+
+------------------------------------------------------------------------------
+10. GENERATION READINESS
+------------------------------------------------------------------------------
+   READY: yes  -- 3 move(s) parameterised
+   moves: construct_inversion, counterfactual_ending, focalization_shift
+
+==============================================================================
+END OF DOSSIER. The system stops here. Writing the split, naming its two
+sides, and opening the register all come after, and in that order.
+==============================================================================

@@ -1,0 +1,45 @@
+{
+ "what": "the key to PLACES.md: for no chat",
+ "seed": 20261014,
+ "paper": "bechky_2020",
+ "corpus_sha256": "6f83d744cd1dd68326cce29568a4aff461580d852d1222c4f1d096cb6922ced0",
+ "places": [
+  {
+   "place": "Place 1",
+   "link": [
+    "F98",
+    "C01"
+   ],
+   "A": "with",
+   "B": "qualifies"
+  },
+  {
+   "place": "Place 2",
+   "link": [
+    "F129",
+    "C01"
+   ],
+   "A": "qualifies",
+   "B": "with"
+  },
+  {
+   "place": "Place 3",
+   "link": [
+    "F164",
+    "C17"
+   ],
+   "A": "with",
+   "B": "illustrates"
+  },
+  {
+   "place": "Place 4",
+   "link": [
+    "F164",
+    "C03"
+   ],
+   "A": "with",
+   "B": "illustrates"
+  }
+ ],
+ "places_sha256": "4e8b07094c6ba12382a53a6bad6bad693725ab7f22b0c58fbc446bdede2ce4fd"
+}

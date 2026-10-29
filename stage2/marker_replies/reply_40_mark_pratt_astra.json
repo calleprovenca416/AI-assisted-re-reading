@@ -1,0 +1,1832 @@
+{
+  "paper": "Pratt 2000",
+  "codes": [
+    {
+      "unit": "P01-01",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P01-02",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P01-03",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P01-04",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P01-05",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P01-06",
+      "code": "R",
+      "page": "p. 474",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P01-07",
+      "code": "RI",
+      "page": "p. 474",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P01-08",
+      "code": "R",
+      "page": "p. 473",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P01-09",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P01-10",
+      "code": "R",
+      "page": "p. 472",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P01-11",
+      "code": "RI",
+      "page": "p. 472; p. 474",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P01-12",
+      "code": "R",
+      "page": "p. 480",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P01-13",
+      "code": "R",
+      "page": "p. 480",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P01-14",
+      "code": "U",
+      "page": null,
+      "position": "mechanism",
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The paper does not link the quoted postponement of activity to a preceding outsider reaction."
+    },
+    {
+      "unit": "P01-15",
+      "code": "R",
+      "page": "p. 480; p. 481",
+      "position": null,
+      "drift": true,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P01-16",
+      "code": "R",
+      "page": "p. 481",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P01-17",
+      "code": "R",
+      "page": "p. 479",
+      "position": null,
+      "drift": true,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P01-18",
+      "code": "R",
+      "page": "p. 479; p. 481",
+      "position": null,
+      "drift": true,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P02-01",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P02-02",
+      "code": "R",
+      "page": "p. 479",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P02-03",
+      "code": "P",
+      "page": "p. 479",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The passage retrospectively describes humiliation and pressured payment; locating the settled interpretation of the sponsor at entry is the reading's temporal judgment."
+    },
+    {
+      "unit": "P02-04",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "No individual account supplies this second informant with a dream, a formerly good upline bond, or a confidant; the paper supplies group-level claims instead."
+    },
+    {
+      "unit": "P02-05",
+      "code": "R",
+      "page": "p. 466; p. 478",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P02-06",
+      "code": "RI",
+      "page": "p. 463; p. 478; p. 479",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P03-01",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P03-02",
+      "code": "U",
+      "page": null,
+      "position": "warrant",
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The paper does not establish pre-entry discontent for all positively or negatively identified members."
+    },
+    {
+      "unit": "P03-03",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P03-04",
+      "code": "R",
+      "page": "p. 477; p. 478",
+      "position": null,
+      "drift": true,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P03-05",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P03-06",
+      "code": "R",
+      "page": "p. 467",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P03-07",
+      "code": "RI",
+      "page": "p. 467",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P03-08",
+      "code": "R",
+      "page": "p. 470",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P03-09",
+      "code": "P",
+      "page": "p. 470",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "Support during a divorce does not date the divorce trouble relative to the formation of the upline bond."
+    },
+    {
+      "unit": "P03-10",
+      "code": "R",
+      "page": "p. 471",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P03-11",
+      "code": "P",
+      "page": "p. 471",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The accounts show help with existing needs, but do not date those needs relative to the beginning of attachment."
+    },
+    {
+      "unit": "P03-12",
+      "code": "R",
+      "page": "p. 465",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P03-13",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P03-14",
+      "code": "R",
+      "page": "p. 480",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P03-15",
+      "code": "P",
+      "page": "p. 480",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The speaker states a desired freedom from employment insecurity; treating it as a report of his present employment requires an inference."
+    },
+    {
+      "unit": "P03-16",
+      "code": "R",
+      "page": "p. 477; p. 478",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P03-17",
+      "code": "R",
+      "page": "p. 477; p. 478",
+      "position": null,
+      "drift": true,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P03-18",
+      "code": "R",
+      "page": "p. 482",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P03-19",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The general model proposes selection, but the paper reports no test of that route among its informants."
+    },
+    {
+      "unit": "P03-20",
+      "code": "R",
+      "page": "p. 463",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P03-21",
+      "code": "RI",
+      "page": "p. 461; p. 463",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P04-01",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P04-02",
+      "code": "P",
+      "page": "p. 476; p. 480",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The before-and-after details are printed; treating the earlier behavior as contrary to each assigned identification state is an additional judgment."
+    },
+    {
+      "unit": "P04-03",
+      "code": "R",
+      "page": "p. 476",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P04-04",
+      "code": "R",
+      "page": "p. 480",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P04-05",
+      "code": "R",
+      "page": "p. 476; p. 480",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P04-06",
+      "code": "P",
+      "page": "p. 476; p. 480; p. 484",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The reading infers the formation of a stance from the narrated event sequence; the passages do not establish when the wider identification state formed."
+    },
+    {
+      "unit": "P04-07",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P04-08",
+      "code": "R",
+      "page": "p. 480",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P04-09",
+      "code": "R",
+      "page": "p. 476",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P04-10",
+      "code": "R",
+      "page": "p. 475",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P04-11",
+      "code": "P",
+      "page": "p. 480; p. 481",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "Counting these as the two direct encounters, and classifying both responses as yielding, requires the event-versus-retelling distinction stated earlier in this reading."
+    },
+    {
+      "unit": "P04-12",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P04-13",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P04-14",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P04-15",
+      "code": "R",
+      "page": "p. 473; p. 474; p. 475; p. 487",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P05-01",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P05-02",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P05-03",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P05-04",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P05-05",
+      "code": "R",
+      "page": "p. 465",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P05-06",
+      "code": "R",
+      "page": "p. 465; p. 466",
+      "position": null,
+      "drift": true,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P05-07",
+      "code": "R",
+      "page": "p. 466",
+      "position": null,
+      "drift": true,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P05-08",
+      "code": "R",
+      "page": "p. 465; p. 466",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P05-09",
+      "code": "C",
+      "page": "p. 492; p. 493",
+      "position": "illustration",
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The author also selects shops and items, including the sports-store stop and jackets; Mark does not choose them all."
+    },
+    {
+      "unit": "P05-10",
+      "code": "R",
+      "page": "p. 493",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P05-11",
+      "code": "P",
+      "page": "p. 492; p. 493",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The relative visibility of a bond and a desire is assigned by weighing the shopping account and familial exchange."
+    },
+    {
+      "unit": "P05-12",
+      "code": "R",
+      "page": "p. 471",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P05-13",
+      "code": "RI",
+      "page": "p. 471",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P05-14",
+      "code": "R",
+      "page": "p. 475",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P05-15",
+      "code": "P",
+      "page": "p. 475",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The interviewee makes the upline relationship important, but labeling his qualified account a single-factor theory goes beyond what he says."
+    },
+    {
+      "unit": "P05-16",
+      "code": "R",
+      "page": "p. 479",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P05-17",
+      "code": "P",
+      "page": "p. 478; p. 479",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The reading equates the complaint about inadequate motivation with both failed dream building and a failed bond; the passage does not identify these as one event."
+    },
+    {
+      "unit": "P05-18",
+      "code": "R",
+      "page": "p. 478",
+      "position": null,
+      "drift": true,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P05-19",
+      "code": "R",
+      "page": "p. 477; p. 478",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P05-20",
+      "code": "R",
+      "page": "p. 481; p. 482",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P06-01",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P06-02",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P06-03",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P06-04",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The journal passage describes enthusiasm and reservations but states no dissatisfaction with the author's current life."
+    },
+    {
+      "unit": "P06-05",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "This informant's quoted account gives excitement and its loss, without stating dissatisfaction with his current life."
+    },
+    {
+      "unit": "P06-06",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The individual account explains nonrenewal through a satisfactory job without describing her dreams."
+    },
+    {
+      "unit": "P06-07",
+      "code": "P",
+      "page": "p. 465; p. 478; p. 480",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The material concerns work and possessions, but classifying the ambivalent speaker's desired security as stated current dissatisfaction goes beyond his words."
+    },
+    {
+      "unit": "P06-08",
+      "code": "P",
+      "page": "p. 465; p. 466; p. 467; p. 478; p. 480",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The hypothesis is proposed, but its claim about what the passages show depends on assigning the examples to X and Y, particularly treating desired security as present dissatisfaction."
+    },
+    {
+      "unit": "P06-09",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P07-01",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P07-02",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "No quoted ambivalent distributor reports explicit advice from a non-member against joining or continuing; the coworker passage reports a slur, while negative advice is asserted in the author's summary."
+    },
+    {
+      "unit": "P07-03",
+      "code": "R",
+      "page": "p. 480",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P07-04",
+      "code": "R",
+      "page": "p. 480; p. 481",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P07-05",
+      "code": "U",
+      "page": null,
+      "position": "illustration",
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The quoted speaker on the difficult first months is identified only as a distributor, not as an active distributor."
+    },
+    {
+      "unit": "P07-06",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P07-07",
+      "code": "R",
+      "page": "p. 480",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P08-01",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P08-02",
+      "code": "R",
+      "page": "p. 463",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P08-03",
+      "code": "R",
+      "page": "p. 463",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P08-04",
+      "code": "P",
+      "page": "p. 463",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The reading treats the financial-success comparison as a sales-volume comparison; only the successful group receives an explicit volume marker."
+    },
+    {
+      "unit": "P08-05",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The paper supplies neither informant-level net accounts nor informant-level accounts of transfers to and from uplines."
+    },
+    {
+      "unit": "P08-06",
+      "code": "P",
+      "page": "p. 479",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The payment account and the author's account of commercial warmth are interpreted as concerning the unmeasured net positions and transfer directions."
+    },
+    {
+      "unit": "P08-07",
+      "code": "R",
+      "page": "p. 479",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P08-08",
+      "code": "R",
+      "page": "p. 479",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P08-09",
+      "code": "R",
+      "page": "p. 459",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P08-10",
+      "code": "R",
+      "page": "p. 460; p. 493",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P08-11",
+      "code": "RI",
+      "page": "p. 463",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P09-01",
+      "code": "R",
+      "page": "p. 477",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P09-02",
+      "code": "P",
+      "page": "p. 461; p. 468; p. 473; p. 477",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The reading infers that departure preceded the relevant practices from short tenure and the practices' repeated character; individual exposure durations are not printed."
+    },
+    {
+      "unit": "P09-03",
+      "code": "R",
+      "page": "p. 461",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P09-04",
+      "code": "R",
+      "page": "p. 477; p. 478; p. 479",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P09-05",
+      "code": "RI",
+      "page": "p. 463; p. 477",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P09-06",
+      "code": "R",
+      "page": "p. 468; p. 473",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P09-07",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P09-08",
+      "code": "P",
+      "page": "p. 461; p. 468; p. 473; p. 477; p. 478; p. 479",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "Early departure does not establish how much repeated work these people received; the reading supplies that timing as part of its causal reversal."
+    },
+    {
+      "unit": "P09-09",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P09-10",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P09-11",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "Neither mention supplies an individual trajectory: the high-volume quitters' tenure is unstated, and the changing-identification passage does not say whether those members left."
+    },
+    {
+      "unit": "P10-01",
+      "code": "R",
+      "page": "p. 477; p. 478; p. 479",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P10-02",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P10-03",
+      "code": "C",
+      "page": "p. 479",
+      "position": "mechanism",
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The next page explicitly resumes this same informant and describes his upline relationship and complaints."
+    },
+    {
+      "unit": "P10-04",
+      "code": "C",
+      "page": "p. 478; p. 479",
+      "position": "mechanism",
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The paper identifies this as the preceding informant, whose attraction to possessions and dream of practicing law are printed on p. 478."
+    },
+    {
+      "unit": "P10-05",
+      "code": "C",
+      "page": "p. 478; p. 479",
+      "position": "illustration",
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The recruitment-pressure speaker is the second informant in this sequence; the dream and motivation-complaint passages concern the same first informant."
+    },
+    {
+      "unit": "P10-06",
+      "code": "C",
+      "page": "p. 479",
+      "position": "mechanism",
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The paragraph explicitly identifies its subject as the distributor just discussed, linking the passages across the page break."
+    },
+    {
+      "unit": "P10-07",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P10-08",
+      "code": "R",
+      "page": "p. 478; p. 479",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P10-09",
+      "code": "R",
+      "page": "p. 478; p. 479",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P10-10",
+      "code": "P",
+      "page": "p. 477; p. 478; p. 479",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "Classifying the two complaints as wrongs done to the speakers is a judgment from the printed accounts of humiliation and unrecognized potential."
+    },
+    {
+      "unit": "P10-11",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The quoted job-satisfaction account names no Amway person; it describes improvement in her regular employment."
+    },
+    {
+      "unit": "P10-12",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P11-01",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P11-02",
+      "code": "R",
+      "page": "p. 463",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P11-03",
+      "code": "C",
+      "page": "p. 463",
+      "position": "mechanism",
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The paper states financial independence of identification before discussing unclear net accounts; it does not present a measurement limitation followed by that conclusion."
+    },
+    {
+      "unit": "P11-04",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P11-05",
+      "code": "R",
+      "page": "p. 463",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P11-06",
+      "code": "U",
+      "page": null,
+      "position": "illustration",
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The paper supplies no training-expense amounts from which their claimed size could be established."
+    },
+    {
+      "unit": "P11-07",
+      "code": "R",
+      "page": "p. 459; p. 465; p. 466",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P11-08",
+      "code": "RI",
+      "page": "p. 463",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P11-09",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P11-10",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P11-11",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P11-12",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The disagreement is not mapped to identification groups, and the paper does not distinguish inability from unwillingness to supply net figures."
+    },
+    {
+      "unit": "P12-01",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P12-02",
+      "code": "C",
+      "page": "p. 463",
+      "position": "warrant",
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The disputed reckoning also includes margins on personal-use products, not just the listed fees and training expenses; the paper does not trace those payments up the line."
+    },
+    {
+      "unit": "P12-03",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P12-04",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P12-05",
+      "code": "U",
+      "page": null,
+      "position": "mechanism",
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "Annual renewal is printed, but neither paying only the renewal nor the low total cost of inactivity is established."
+    },
+    {
+      "unit": "P12-06",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P12-07",
+      "code": "U",
+      "page": null,
+      "position": "mechanism",
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The paper restricts its no-clear-net-answer finding to current and former distributors interviewed, not all current and former distributors."
+    },
+    {
+      "unit": "P12-08",
+      "code": "R",
+      "page": "p. 463",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P12-09",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P12-10",
+      "code": "R",
+      "page": "p. 463",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P12-11",
+      "code": "P",
+      "page": "p. 459; p. 463",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The reading infers a majority spending more than they earn from low gross income and expenses; neither net balances nor the proportion losing money is given."
+    },
+    {
+      "unit": "P12-12",
+      "code": "R",
+      "page": "p. 459",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P12-13",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P12-14",
+      "code": "R",
+      "page": "p. 471",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P12-15",
+      "code": "RI",
+      "page": "p. 470; p. 471; p. 474",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P12-16",
+      "code": "R",
+      "page": "p. 479",
+      "position": null,
+      "drift": true,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P12-17",
+      "code": "R",
+      "page": "p. 479",
+      "position": null,
+      "drift": true,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P12-18",
+      "code": "R",
+      "page": "p. 479",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P12-19",
+      "code": "C",
+      "page": "p. 479",
+      "position": "mechanism",
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The account begins with painful social pressure and an unwanted sales situation; payment is described as an escape from that already existing grievance."
+    },
+    {
+      "unit": "P12-20",
+      "code": "R",
+      "page": "p. 461",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P12-21",
+      "code": "P",
+      "page": "p. 461",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "Leaving sometime within the first year does not place departures near the annual renewal date; the reading aligns them using the annual interval."
+    },
+    {
+      "unit": "P13-01",
+      "code": "P",
+      "page": "p. 479; p. 480",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The paper presents examples in separate identification subsections; the reading constructs them as a matched pair of failed and durable support."
+    },
+    {
+      "unit": "P13-02",
+      "code": "P",
+      "page": "p. 479; p. 480",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The inactive speaker describes his conduct directly; the first man's degree of activity is inferred from his complaint that the upline did not motivate him."
+    },
+    {
+      "unit": "P13-03",
+      "code": "R",
+      "page": "p. 479",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P13-04",
+      "code": "C",
+      "page": "p. 480",
+      "position": "mechanism",
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The speaker reports missing one function, not repeatedly failing to attend functions; his sponsor also continues urging participation in the program."
+    },
+    {
+      "unit": "P13-05",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P13-06",
+      "code": "R",
+      "page": "p. 460; p. 471",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P13-07",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P13-08",
+      "code": "P",
+      "page": "p. 479",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The departure and blame are printed, but the reading infers conditional support from the upline's reliance on meetings."
+    },
+    {
+      "unit": "P13-09",
+      "code": "R",
+      "page": "p. 480",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P13-10",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P13-11",
+      "code": "C",
+      "page": "p. 480",
+      "position": "mechanism",
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The account specifies one missed function and inconsistent product use, not the absence of every behavior associated with a strong upline tie."
+    },
+    {
+      "unit": "P13-12",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P13-13",
+      "code": "P",
+      "page": "p. 479; p. 480",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "Treating the first relationship as the ordinary work-dependent type is inferred from the contrast in advice and unconditional support."
+    },
+    {
+      "unit": "P14-01",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P14-02",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P14-03",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P14-04",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P14-05",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P14-06",
+      "code": "R",
+      "page": "p. 461",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P14-07",
+      "code": "P",
+      "page": "p. 461",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "Interviewees' tenure and sampled former members' exit times do not establish when inactivity began or the overall distribution of exits."
+    },
+    {
+      "unit": "P14-08",
+      "code": "R",
+      "page": "p. 474",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P14-09",
+      "code": "RI",
+      "page": "p. 474",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P14-10",
+      "code": "R",
+      "page": "p. 477",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P14-11",
+      "code": "RI",
+      "page": "p. 477",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P14-12",
+      "code": "P",
+      "page": "p. 468",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": false,
+      "note": "The paper groups lifestyle and family dreams together before helping dreams; it does not separately order lifestyle before family."
+    },
+    {
+      "unit": "P14-13",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P14-14",
+      "code": "R",
+      "page": "p. 473",
+      "position": null,
+      "drift": true,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P14-15",
+      "code": "P",
+      "page": "p. 473",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "Retaining inactive members is interpreted as treating inactivity as a career phase; the footnote describes a permeable membership boundary."
+    },
+    {
+      "unit": "P14-16",
+      "code": "R",
+      "page": "p. 481",
+      "position": null,
+      "drift": true,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P14-17",
+      "code": "R",
+      "page": "p. 480; p. 481",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P14-18",
+      "code": "R",
+      "page": "p. 485",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P14-19",
+      "code": "RA",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The paper names directions of identification change but supplies no detailed individual trajectories for those reported transitions."
+    },
+    {
+      "unit": "P15-01",
+      "code": "N",
+      "page": null,
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P15-02",
+      "code": "R",
+      "page": "p. 492; p. 493",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P15-03",
+      "code": "R",
+      "page": "p. 492; p. 493",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P15-04",
+      "code": "R",
+      "page": "p. 492; p. 493",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P15-05",
+      "code": "U",
+      "page": null,
+      "position": "illustration",
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The author states that he is not interested in men's jewelry; no decline from an earlier level of interest is reported."
+    },
+    {
+      "unit": "P15-06",
+      "code": "R",
+      "page": "p. 493",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": null,
+      "note": ""
+    },
+    {
+      "unit": "P15-07",
+      "code": "P",
+      "page": "p. 464; p. 470; p. 492; p. 493",
+      "position": null,
+      "drift": false,
+      "reasoning_stated": true,
+      "note": "The relative importance of manner, familial connection, and objects is assigned by weighing the coaching, joking, and shopping details."
+    },
+    {
+      "unit": "P15-08",
+      "code": "U",
+      "page": null,
+      "position": "mechanism",
+      "drift": false,
+      "reasoning_stated": null,
+      "note": "The appendix prints one outing but does not identify it as the first dream-building outing."
+    }
+  ]
+}

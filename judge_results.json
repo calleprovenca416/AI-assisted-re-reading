@@ -1,0 +1,4097 @@
+{
+ "key_seed": 20261013,
+ "results": {
+  "pratt_2000": {
+   "1": [
+    {
+     "id": "FXDV",
+     "field": "core",
+     "key": [
+      "C35"
+     ],
+     "code": "false",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The paper explicitly states that revealing this discrepancy-driven need for meaning as a motivator for identification is one of its primary theoretical contributions.",
+     "page": "p. 484"
+    },
+    {
+     "id": "QX63",
+     "field": "core",
+     "key": [
+      "C06"
+     ],
+     "code": "true",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The paper highlights its finding that emotional evaluations distinguish among different types of identification as the third of its four major theoretical contributions.",
+     "page": "p. 485"
+    },
+    {
+     "id": "AZME",
+     "field": "outcome",
+     "key": [
+      "C08"
+     ],
+     "code": "none",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The claim explicitly names members' identification as the specific variable that prospecting failed to distinguish or influence.",
+     "page": "p. 463"
+    },
+    {
+     "id": "8H92",
+     "field": "outcome",
+     "key": [
+      "C09"
+     ],
+     "code": "organizational identification",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim focuses on whether financial performance determines how distributors identify with the organization, making organizational identification the affected target variable.",
+     "page": "p. 463"
+    },
+    {
+     "id": "L7UC",
+     "field": "outcome",
+     "key": [
+      "C33"
+     ],
+     "code": "receptivity to further identification-management practices",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The claim states that positive identification makes members more likely to comply with and be amenable to subsequent sensebreaking and sensegiving, which are the organization's identification-management practices.",
+     "page": "p. 483"
+    },
+    {
+     "id": "FQQR",
+     "field": "outcome",
+     "key": [
+      "C53"
+     ],
+     "code": "learning of organizational culture",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim clearly specifies that the learning of key elements of an organization's culture is the outcome that is concentrated in the initial six months.",
+     "page": "p. 460"
+    },
+    {
+     "id": "UZEF",
+     "field": "core",
+     "key": [
+      "C35"
+     ],
+     "code": "true",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The paper explicitly lists revealing the need for meaning caused by an identity discrepancy as an additional motivator for identification and a key theoretical contribution.",
+     "page": "p. 484"
+    },
+    {
+     "id": "LZ38",
+     "field": "outcome",
+     "key": [
+      "C55"
+     ],
+     "code": "permeability of the insider–outsider boundary",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim describes how people can be shifted between insider and outsider categories, explicitly referring to the boundary [6 words of Pratt (2000), p. 483] as fluid or permeable.",
+     "page": "p. 473"
+    },
+    {
+     "id": "Y5T6",
+     "field": "outcome",
+     "key": [
+      "C30"
+     ],
+     "code": "ease of identification management",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The claim notes that selecting individuals predisposed to seekership [6 words of Pratt (2000), p. 482], meaning it affects how easily identification is managed.",
+     "page": "p. 482"
+    },
+    {
+     "id": "FZ2P",
+     "field": "core",
+     "key": [
+      "C29"
+     ],
+     "code": "true",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "Explaining how the success and partial failure of specific socialization practices result in non-positive attachments like ambivalent identification is a core part of the paper's theoretical model.",
+     "page": "p. 457; p. 484"
+    },
+    {
+     "id": "2YYU",
+     "field": "outcome",
+     "key": [
+      "C08"
+     ],
+     "code": "organizational identification",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim identifies members' organizational identification as the dependent variable that prospecting failed to influence.",
+     "page": "p. 463"
+    },
+    {
+     "id": "656W",
+     "field": "stated_as",
+     "key": [
+      "C17"
+     ],
+     "code": "ventured",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The paper presents this as a direct finding from its ethnographic observations, stating definitively that [3 words of Pratt (2000), p. 469] \"[1 word of Pratt (2000), p. 469]\" [2 words of Pratt (2000), p. 469] remained in a state of seekership.",
+     "page": "p. 469"
+    },
+    {
+     "id": "SABM",
+     "field": "core",
+     "key": [
+      "C34"
+     ],
+     "code": "false",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The paper explicitly lists its finding that the identification process is dynamic, rather than fixed or static, as its fourth major theoretical contribution.",
+     "page": "p. 485"
+    },
+    {
+     "id": "K89L",
+     "field": "core",
+     "key": [
+      "C03"
+     ],
+     "code": "true",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "Detailing how failures in these organizational practices lead to varied outcomes like disidentification or ambivalence is central to the paper's goal of explaining non-positive attachments.",
+     "page": "p. 457; p. 484"
+    },
+    {
+     "id": "8CJD",
+     "field": "core",
+     "key": [
+      "C05"
+     ],
+     "code": "false",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The paper uses this distinction drawn from prior literature merely to define its focal construct and justify its theoretical lens, not as a novel theoretical contribution of its own.",
+     "page": "p. 457"
+    },
+    {
+     "id": "5MC3",
+     "field": "outcome",
+     "key": [
+      "C10"
+     ],
+     "code": "none",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The claim explicitly names \"distinct identification states\" as the outcome variable that visible demographic differences did not sort or affect.",
+     "page": "p. 463"
+    },
+    {
+     "id": "N4C8",
+     "field": "outcome",
+     "key": [
+      "C13"
+     ],
+     "code": "meaning void in the distributor's sense of self",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim explains how dream building functions as sensebreaking by intentionally creating identity deficits, which translates to a meaning void within the member's sense of self.",
+     "page": "p. 464"
+    },
+    {
+     "id": "KTMA",
+     "field": "outcome",
+     "key": [
+      "C27"
+     ],
+     "code": "organizational identification",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim describes whether identification forms or dissolves, directly identifying organizational identification as the affected outcome.",
+     "page": "pp. 477-478"
+    },
+    {
+     "id": "XV9P",
+     "field": "stated_as",
+     "key": [
+      "C56"
+     ],
+     "code": "ventured",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The paper does not hedge this point; it presents the factual high turnover rates among distributors as direct, logical evidence that identification practices do not always work.",
+     "page": "p. 477"
+    },
+    {
+     "id": "H7J5",
+     "field": "outcome",
+     "key": [
+      "C36"
+     ],
+     "code": "influence of identification on later sensemaking",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim suggests that once formed, an identification acts as a lens that frames and interprets subsequent experiences, meaning later sensemaking is affected.",
+     "page": "p. 484"
+    },
+    {
+     "id": "SZA8",
+     "field": "outcome",
+     "key": [
+      "C27"
+     ],
+     "code": "deidentification or failure to identify",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim explicitly identifies that the outcome of failed sensebreaking is that members either fail to identify or that existing identification dissolves (deidentification).",
+     "page": "p. 477"
+    },
+    {
+     "id": "LH8R",
+     "field": "core",
+     "key": [
+      "C03"
+     ],
+     "code": "false",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The paper explicitly states that one of its primary theoretical departures from prior literature is showing how successes and failures in identification management lead to non-positive forms of identification.",
+     "page": "p. 457"
+    },
+    {
+     "id": "P572",
+     "field": "outcome",
+     "key": [
+      "C10"
+     ],
+     "code": "organizational identification",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim identifies distributors' distinct identification states as the variable that visible demographic differences failed to sort or influence.",
+     "page": "p. 463"
+    },
+    {
+     "id": "5ZEH",
+     "field": "outcome",
+     "key": [
+      "C03"
+     ],
+     "code": "nonpositive identification outcomes",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The claim describes how breakdowns shift members toward broken, oppositional, or mixed forms of attachment, which are collectively non-positive identification outcomes.",
+     "page": "p. 477"
+    },
+    {
+     "id": "GZ97",
+     "field": "stated_as",
+     "key": [
+      "C60"
+     ],
+     "code": "ventured",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The paper discusses these mechanisms as possibilities suggested by other literatures to extend its model, explicitly framing them as \"propositions for research\" rather than proven findings.",
+     "page": "pp. 482-483"
+    },
+    {
+     "id": "SMYN",
+     "field": "stated_as",
+     "key": [
+      "C44"
+     ],
+     "code": "ventured",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The paper uses the word \"may\" when introducing this idea in its opening background discussion, presenting it tentatively as a possible trend.",
+     "page": "p. 456"
+    },
+    {
+     "id": "PYJQ",
+     "field": "stated_as",
+     "key": [
+      "C25"
+     ],
+     "code": "ventured",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "Although it uses the phrase \"could lead,\" the paper definitively concludes this section by stating that \"in either case,\" members come to view Amway relationships positively, demonstrating it as an observed, functioning mechanism.",
+     "page": "p. 474"
+    },
+    {
+     "id": "MZC6",
+     "field": "outcome",
+     "key": [
+      "C06"
+     ],
+     "code": "identification type",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim explicitly describes how emotional reactions align with and differentiate between various forms or types of identification.",
+     "page": "p. 462"
+    },
+    {
+     "id": "2X3H",
+     "field": "core",
+     "key": [
+      "C07"
+     ],
+     "code": "true",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "This is the core empirical finding that forms the basis of the paper's central theoretical model mapping how specific socialization practices lead to different identification types.",
+     "page": "pp. 462-463"
+    },
+    {
+     "id": "E4XD",
+     "field": "outcome",
+     "key": [
+      "C45"
+     ],
+     "code": "ease of theory building",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim states that extreme-case research can \"aid theory development,\" which means it affects the ease of building theory.",
+     "page": "p. 458"
+    },
+    {
+     "id": "MKF6",
+     "field": "core",
+     "key": [
+      "C05"
+     ],
+     "code": "true",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "This definitional distinction is drawn from prior literature to contextualize the concept of identification and serves as background, not as the paper's novel theoretical contribution.",
+     "page": "p. 457"
+    },
+    {
+     "id": "M8T3",
+     "field": "outcome",
+     "key": [
+      "C06"
+     ],
+     "code": "none",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The claim explicitly identifies different \"identification states\" as the outcome variable that is differentiated and affected by emotional valence.",
+     "page": "p. 462"
+    },
+    {
+     "id": "Q9YB",
+     "field": "stated_as",
+     "key": [
+      "C17"
+     ],
+     "code": "established",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The paper presents this directly as an observed finding, stating definitively that constant dream building \"ensured\" members remained in a continuous state of seekership.",
+     "page": "p. 469"
+    },
+    {
+     "id": "A65A",
+     "field": "outcome",
+     "key": [
+      "C11"
+     ],
+     "code": "none",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The claim explicitly names \"identification states\" as the products or outcomes that are shaped and affected by motivated sensemaking.",
+     "page": "p. 464"
+    },
+    {
+     "id": "WAN8",
+     "field": "outcome",
+     "key": [
+      "C13"
+     ],
+     "code": "seekership",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The conditions described in the claim—creating identity deficits and active motivation—define the state of \"seekership\" that the paper explicitly says is induced by dream building.",
+     "page": "p. 469"
+    },
+    {
+     "id": "R7ED",
+     "field": "outcome",
+     "key": [
+      "C53"
+     ],
+     "code": "none",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The claim clearly identifies \"learning an organization's culture\" as the specific process or variable that is affected by the initial six-month timeframe.",
+     "page": "p. 460"
+    },
+    {
+     "id": "39XX",
+     "field": "stated_as",
+     "key": [
+      "C60"
+     ],
+     "code": "established",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The paper discusses these mechanisms in the context of other literatures and explicitly frames them as \"propositions for research,\" not as empirical findings demonstrated in this study.",
+     "page": "p. 483"
+    },
+    {
+     "id": "GCKZ",
+     "field": "outcome",
+     "key": [
+      "C45"
+     ],
+     "code": "visibility of focal dynamics",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim explicitly states that the dynamics become \"easier to see\" in extreme cases, meaning their visibility is the factor that is affected.",
+     "page": "p. 458"
+    },
+    {
+     "id": "3B2S",
+     "field": "outcome",
+     "key": [
+      "C09"
+     ],
+     "code": "none",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The claim explicitly names how distributors identified with the organization (positively, negatively, etc.) as the outcome variable that financial performance failed to determine.",
+     "page": "p. 463"
+    },
+    {
+     "id": "YZZZ",
+     "field": "stated_as",
+     "key": [
+      "C56"
+     ],
+     "code": "established",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The paper uses the factual high turnover rates among Amway distributors as direct evidence to show that failure to secure identification leads to member departure.",
+     "page": "p. 477"
+    },
+    {
+     "id": "WC3K",
+     "field": "outcome",
+     "key": [
+      "C33"
+     ],
+     "code": "none",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The claim explicitly states that members' receptivity to further sensebreaking and sensegiving is the outcome affected by positive identification.",
+     "page": "p. 483"
+    },
+    {
+     "id": "68BE",
+     "field": "core",
+     "key": [
+      "C34"
+     ],
+     "code": "true",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "Demonstrating that identification is a dynamic, ongoing process rather than a static state is explicitly listed as the paper's fourth major theoretical contribution.",
+     "page": "p. 485"
+    },
+    {
+     "id": "U723",
+     "field": "outcome",
+     "key": [
+      "C55"
+     ],
+     "code": "in-group or out-group standing of a person",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim explicitly describes how a person's standing can be shifted between insider (in-group) and outsider (out-group) classifications.",
+     "page": "p. 473"
+    },
+    {
+     "id": "K4SH",
+     "field": "outcome",
+     "key": [
+      "C01"
+     ],
+     "code": "none",
+     "who": "both",
+     "differ": false,
+     "answer": "no",
+     "reason": "The claim explicitly identifies \"how members define their connection to the organization\" as the outcome affected and managed by sensebreaking and sensegiving processes.",
+     "page": "p. 457"
+    },
+    {
+     "id": "LA8X",
+     "field": "core",
+     "key": [
+      "C06"
+     ],
+     "code": "false",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The paper explicitly highlights its finding that [6 words of Pratt (2000), p. 485] as its third major theoretical contribution.",
+     "page": "p. 485"
+    },
+    {
+     "id": "EHY5",
+     "field": "core",
+     "key": [
+      "C07"
+     ],
+     "code": "false",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "This claim is the foundational empirical finding that drives the paper's central theoretical model explaining how socialization successes and failures lead to varied identification outcomes.",
+     "page": "p. 462"
+    },
+    {
+     "id": "J8KP",
+     "field": "outcome",
+     "key": [
+      "C03"
+     ],
+     "code": "none",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The claim clearly identifies members' forms of attachment or identification as the outcome variable affected by breakdowns in sensebreaking or sensegiving.",
+     "page": "p. 477"
+    },
+    {
+     "id": "ZWSY",
+     "field": "outcome",
+     "key": [
+      "C11"
+     ],
+     "code": "identification type",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim specifically names \"identification states\" or types as the direct products or outcomes that are affected by motivated sensemaking.",
+     "page": "p. 464"
+    },
+    {
+     "id": "9SX6",
+     "field": "outcome",
+     "key": [
+      "C36"
+     ],
+     "code": "none",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The claim explicitly states that the interpretation of \"later experience\" is what is framed or affected by a formed identification.",
+     "page": "p. 484"
+    },
+    {
+     "id": "JA78",
+     "field": "stated_as",
+     "key": [
+      "C25"
+     ],
+     "code": "established",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The paper describes this self-reinforcing dynamic definitively as an observed mechanism among distributors, concluding that in either scenario, the Amway relationship standard is validated.",
+     "page": "p. 474"
+    }
+   ],
+   "2": [
+    {
+     "id": "MJDH",
+     "field": "direction",
+     "key": [
+      "F98",
+      "C42"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes intense social pressure and dependence leading the distributor to buy in to escape an awkward, humiliating situation, which demonstrates psychological and social costs.",
+     "page": "p. 479"
+    },
+    {
+     "id": "CUMX",
+     "field": "direction",
+     "key": [
+      "F109",
+      "C29"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "Figure 2 explicitly contains a box labeled \"Ambivalent Identification or Disidentification,\" displaying the phenomenon directly in the model.",
+     "page": "p. 482"
+    },
+    {
+     "id": "ZYRS",
+     "field": "direction",
+     "key": [
+      "F86",
+      "C32"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage states that members who identified positively enthusiastically proselytized and kept reenacting practices, which directly shows member compliance with organizational requests.",
+     "page": "p. 476"
+    },
+    {
+     "id": "YAPG",
+     "field": "direction",
+     "key": [
+      "F41",
+      "C15"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes how feeling one is in a \"comfort zone\" creates a deficit that produces a motivational dynamic to change to achieve dreams.",
+     "page": "p. 467"
+    },
+    {
+     "id": "X3WV",
+     "field": "direction",
+     "key": [
+      "F49",
+      "C19"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage shows members using dreams to represent dissatisfaction and motivate change, but it stops short of showing the subsequent active search for meaning itself, which the paper introduces in the following paragraph.",
+     "page": "p. 469"
+    },
+    {
+     "id": "VD3P",
+     "field": "direction",
+     "key": [
+      "F28",
+      "C54"
+     ],
+     "code": "qualifies",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage describes the initial needs analysis where possessions are linked to the self, but contains nothing that limits or contradicts the claim that these goals have strong motivational force.",
+     "page": "pp. 464-465"
+    },
+    {
+     "id": "T47B",
+     "field": "direction",
+     "key": [
+      "F93",
+      "C23"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage mentions members treating successful upline figures as \"unquestionable authorities\" and \"[6 words of Pratt (2000), p. 478],\" which explicitly shows reliance on organizational sources.",
+     "page": "p. 478"
+    },
+    {
+     "id": "QZA7",
+     "field": "direction",
+     "key": [
+      "F93",
+      "C20"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes members \"worshipping\" uplines and [6 words of Pratt (2000), p. 478], which is the definition of encapsulated sensemaking.",
+     "page": "p. 478"
+    },
+    {
+     "id": "EHPL",
+     "field": "direction",
+     "key": [
+      "F77",
+      "C24"
+     ],
+     "code": "illustrates",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage explains that freely chosen behaviors organize cognitions to support the action, explicitly stating \"[17 words of Pratt (2000), p. 474],\" which shows salience.",
+     "page": "p. 474"
+    },
+    {
+     "id": "AJAY",
+     "field": "direction",
+     "key": [
+      "F106",
+      "C29"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage illustrates the researcher experiencing painful strain between roles because skeptical outsiders weakened enthusiasm, precisely showing the experience of ambivalent identification.",
+     "page": "p. 481"
+    },
+    {
+     "id": "MYQU",
+     "field": "direction",
+     "key": [
+      "F74",
+      "C42"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage details the severe conflict and harsh reactions from close friends and family, which is a tangible social cost of the identification management process.",
+     "page": "p. 474"
+    },
+    {
+     "id": "R7WW",
+     "field": "direction",
+     "key": [
+      "F105",
+      "C42"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage explicitly describes a distributor who \"lost a friendship after recruiting him,\" showing a direct social cost.",
+     "page": "pp. 480-481"
+    },
+    {
+     "id": "YXUT",
+     "field": "direction",
+     "key": [
+      "F105",
+      "C22"
+     ],
+     "code": "qualifies",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes an ambivalent distributor who approached distant acquaintances to avoid risking close relationships, showing a case where the barrier-creation (encapsulation) was intentionally resisted or limited.",
+     "page": "pp. 480-481"
+    },
+    {
+     "id": "F9CL",
+     "field": "direction",
+     "key": [
+      "F52",
+      "C26"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage explicitly states that Dexter Yager \"[10 words of Pratt (2000), p. 469],\" which shows the continued enactment of practices.",
+     "page": "p. 469"
+    },
+    {
+     "id": "3JRQ",
+     "field": "direction",
+     "key": [
+      "F41",
+      "C16"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage explicitly notes that \"[21 words of Pratt (2000), p. 467],\" confirming the claim.",
+     "page": "p. 467"
+    },
+    {
+     "id": "Y6QZ",
+     "field": "direction",
+     "key": [
+      "F61",
+      "C20"
+     ],
+     "code": "qualifies",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage describes an upline having 100 people who would do anything for him, illustrating the successful formation of highly supportive intra-organizational bonds, fully supporting rather than limiting the claim.",
+     "page": "p. 471"
+    },
+    {
+     "id": "ZRP4",
+     "field": "direction",
+     "key": [
+      "F74",
+      "C42"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The harsh reactions from family and friends represent clear social costs and relationship damage caused by the organization's practices.",
+     "page": "p. 474"
+    },
+    {
+     "id": "2DVN",
+     "field": "direction",
+     "key": [
+      "F107",
+      "C06"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes ambivalent distributors being pulled in two directions, holding positive identification but also anti-Amway sentiment, illustrating the mixed emotional valence.",
+     "page": "p. 481"
+    },
+    {
+     "id": "9K3G",
+     "field": "direction",
+     "key": [
+      "F77",
+      "C24"
+     ],
+     "code": "with",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage directly states that \"[17 words of Pratt (2000), p. 474],\" showing salience increasing with chosen action.",
+     "page": "p. 474"
+    },
+    {
+     "id": "CVTE",
+     "field": "direction",
+     "key": [
+      "F97",
+      "C42"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes a distributor who left (turnover) out of anger that the upline failed to motivate him, illustrating turnover caused by the management practices.",
+     "page": "p. 479"
+    },
+    {
+     "id": "RR32",
+     "field": "direction",
+     "key": [
+      "F89",
+      "C12"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage explicitly details how people who failed to identify \"never had\" or \"stopped feeling\" dissatisfied with their lives, describing the absence of seekership.",
+     "page": "p. 477"
+    },
+    {
+     "id": "27L7",
+     "field": "direction",
+     "key": [
+      "F95",
+      "C15"
+     ],
+     "code": "against",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage describes a former distributor who applied the Amway dream-building logic to his non-Amway goal of becoming a lawyer, showing the motivation working with the exact cause named.",
+     "page": "p. 478"
+    },
+    {
+     "id": "W3SW",
+     "field": "direction",
+     "key": [
+      "F108",
+      "C12"
+     ],
+     "code": "with",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage confirms that \"[9 words of Pratt (2000), p. 481]... [13 words of Pratt (2000), p. 481].\"",
+     "page": "p. 481"
+    },
+    {
+     "id": "45XF",
+     "field": "direction",
+     "key": [
+      "F92",
+      "C42"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes a benign exit where distributors simply \"[7 words of Pratt (2000), p. 478],\" showing no intensive costs like burnout or trauma.",
+     "page": "p. 478"
+    },
+    {
+     "id": "GTPA",
+     "field": "direction",
+     "key": [
+      "F63",
+      "C23"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage notes that mentors advise on \"marriage, parenting, and religion\" and [3 words of Pratt (2000), p. 471] \"[3 words of Pratt (2000), p. 471],\" heavily demonstrating reliance on organizational sources in sensemaking.",
+     "page": "pp. 471-472"
+    },
+    {
+     "id": "VB92",
+     "field": "direction",
+     "key": [
+      "F105",
+      "C42"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage shows a distributor who lost a friendship due to recruiting, representing a clear social cost.",
+     "page": "pp. 480-481"
+    },
+    {
+     "id": "5NY7",
+     "field": "direction",
+     "key": [
+      "F94",
+      "C01"
+     ],
+     "code": "qualifies",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage illustrates successful sensebreaking (attracted by home) but failed sensegiving (didn't excite him) leading to disidentification, fully supporting the paper's model rather than limiting it.",
+     "page": "p. 478"
+    },
+    {
+     "id": "C5JQ",
+     "field": "direction",
+     "key": [
+      "F66",
+      "C22"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage describes the ideological revaluing of relationships to conclude that outside boss-subordinate relationships \"should be minimized or avoided,\" which is the definition of encapsulation.",
+     "page": "p. 472"
+    },
+    {
+     "id": "NM5C",
+     "field": "direction",
+     "key": [
+      "F71",
+      "C22"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage explicitly states distributors were encouraged to \"[14 words of Pratt (2000), p. 473]',\" which directly shows social encapsulation.",
+     "page": "p. 473"
+    },
+    {
+     "id": "BLHA",
+     "field": "direction",
+     "key": [
+      "F108",
+      "C12"
+     ],
+     "code": "qualifies",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage explicitly confirms that in each case of formed identification, sensebreaking successfully created a meaning void or seekership, fully supporting rather than limiting the claim.",
+     "page": "p. 481"
+    },
+    {
+     "id": "NDPH",
+     "field": "direction",
+     "key": [
+      "F109",
+      "C29"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "Figure 2 maps the \"No\" path from Sensegiving to both Ambivalent Identification and Disidentification, lacking the specific \"Partially Yes\" causal link for ambivalence found in Figure 1.",
+     "page": "p. 482"
+    },
+    {
+     "id": "A5WF",
+     "field": "direction",
+     "key": [
+      "F40",
+      "C12"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes the identity deficit that \"pushed members toward change,\" which demonstrates the active motivational state defining seekership.",
+     "page": "p. 467"
+    },
+    {
+     "id": "4JGT",
+     "field": "direction",
+     "key": [
+      "F111",
+      "C40"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage explicitly states that Amway \"[8 words of Pratt (2000), p. 488],\" directly showing sense of common purpose.",
+     "page": "p. 488"
+    },
+    {
+     "id": "EHTW",
+     "field": "direction",
+     "key": [
+      "F88",
+      "C03"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "Figure 1 maps out boxes specifically for \"Failure to Identify or Deidentification\", \"Disidentification\", and \"Ambivalent Identification,\" which are all nonpositive outcomes.",
+     "page": "p. 477"
+    },
+    {
+     "id": "XHA7",
+     "field": "direction",
+     "key": [
+      "F93",
+      "C57"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes a former distributor who still had a strong need to pursue change (becoming a lawyer) but rejected the upline due to failed sensegiving, not a lack of seekership.",
+     "page": "p. 478"
+    },
+    {
+     "id": "9NLU",
+     "field": "direction",
+     "key": [
+      "F70",
+      "C01"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage details a nuanced sub-element regarding boundary permeability, which neither proves nor disproves the overarching claim about the paired processes.",
+     "page": "p. 473"
+    },
+    {
+     "id": "8DAU",
+     "field": "direction",
+     "key": [
+      "F100",
+      "C42"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage quotes an ex-member warning that affiliation could damage family relationships and personal credibility, which are individual costs.",
+     "page": "p. 479"
+    },
+    {
+     "id": "HPAP",
+     "field": "direction",
+     "key": [
+      "F23",
+      "C09"
+     ],
+     "code": "qualifies",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage shows that distributors could not clarify their profits, which supports the claim that financial success was not the basis for their identification, rather than limiting it.",
+     "page": "p. 463"
+    },
+    {
+     "id": "AA68",
+     "field": "direction",
+     "key": [
+      "F67",
+      "C42"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage illustrates a distributor refusing a role in a friend's wedding due to Amway demands, showing a social cost and conformity burden.",
+     "page": "p. 472"
+    },
+    {
+     "id": "WCHP",
+     "field": "direction",
+     "key": [
+      "F96",
+      "C42"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage mentions that disidentified distributors had distant, irritated, or \"deep-seated anger\" toward uplines, illustrating severe relational and emotional costs.",
+     "page": "p. 479"
+    },
+    {
+     "id": "J7KN",
+     "field": "direction",
+     "key": [
+      "F104",
+      "C06"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes an ambivalent distributor who hid their involvement out of embarrassment, demonstrating how a mixed emotional reaction aligns with ambivalent identification.",
+     "page": "p. 480"
+    },
+    {
+     "id": "R53Q",
+     "field": "direction",
+     "key": [
+      "F52",
+      "C26"
+     ],
+     "code": "against",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage shows a highly successful distributor (Dexter Yager) who \"[10 words of Pratt (2000), p. 469],\" which perfectly supports the claim.",
+     "page": "p. 469"
+    },
+    {
+     "id": "L4RV",
+     "field": "direction",
+     "key": [
+      "F125",
+      "C20"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes people lacking seekership who therefore had no reason to seek upline advice, showing the absence of encapsulated sensemaking when the prerequisite is missing.",
+     "page": "p. 478"
+    },
+    {
+     "id": "QM67",
+     "field": "direction",
+     "key": [
+      "F93",
+      "C57"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage shows a member who did have a need for change but still rejected the upline due to failed sensegiving, not a lack of seekership, and it does explicitly show the resulting weak ties.",
+     "page": "p. 478"
+    },
+    {
+     "id": "6SMT",
+     "field": "direction",
+     "key": [
+      "F97",
+      "C42"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes a former distributor who suffered turnover and dissatisfaction because the upline failed to motivate him, illustrating an individual cost of failed management.",
+     "page": "p. 479"
+    },
+    {
+     "id": "VM3L",
+     "field": "direction",
+     "key": [
+      "F107",
+      "C06"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage literally details the behavior of \"ambivalent distributors,\" explicitly showing the identification type itself.",
+     "page": "p. 481"
+    },
+    {
+     "id": "PG84",
+     "field": "direction",
+     "key": [
+      "F105",
+      "C25"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes an ambivalent distributor who altered their recruiting behavior to avoid risking close relationships, showing resistance to the belief that Amway relationships are superior.",
+     "page": "pp. 480-481"
+    },
+    {
+     "id": "3E58",
+     "field": "direction",
+     "key": [
+      "F88",
+      "C29"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "Figure 1 explicitly maps Sensegiving (Partially Yes) directly leading to Ambivalent Identification, entirely matching the claim.",
+     "page": "p. 477"
+    },
+    {
+     "id": "RJQS",
+     "field": "direction",
+     "key": [
+      "F43",
+      "C34"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "no",
+     "reason": "The quote urging members to replace an achieved dream with a bigger one directly illustrates how the process is continually reenacted, fully supporting the claim.",
+     "page": "p. 468"
+    },
+    {
+     "id": "GAVU",
+     "field": "direction",
+     "key": [
+      "F125",
+      "C20"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes the failure of the process (people who lacked seekership and thus didn't seek advice), not encapsulated sensemaking working as the claim says.",
+     "page": "p. 478"
+    },
+    {
+     "id": "WMFF",
+     "field": "direction",
+     "key": [
+      "F80",
+      "C21"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage notes that a close relationship was necessary to stay active, but it does not specify that this closeness was built through enacted economic and emotional support.",
+     "page": "p. 475"
+    },
+    {
+     "id": "RMCP",
+     "field": "direction",
+     "key": [
+      "F109",
+      "C03"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "Figure 2 explicitly contains boxes labeled \"Failure to Identify or Deidentification\" and \"Ambivalent Identification or Disidentification,\" which are nonpositive outcomes.",
+     "page": "p. 482"
+    },
+    {
+     "id": "YMZ6",
+     "field": "direction",
+     "key": [
+      "F109",
+      "C28"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "Figure 2 explicitly contains a box labeled \"Ambivalent Identification or Disidentification,\" so it does show disidentification.",
+     "page": "p. 482"
+    },
+    {
+     "id": "RNH7",
+     "field": "direction",
+     "key": [
+      "F98",
+      "C21"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes an awkward \"torture session\" lacking emotional support that led to disidentification, which illustrates the negative inverse of strong mentor-protege relationships.",
+     "page": "p. 479"
+    },
+    {
+     "id": "6JRN",
+     "field": "direction",
+     "key": [
+      "F117",
+      "C21"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage details a playful father/son interaction over a cookie, demonstrating enacted emotional support producing a strong relational bond.",
+     "page": "p. 493"
+    },
+    {
+     "id": "Q4V4",
+     "field": "direction",
+     "key": [
+      "F21",
+      "C11"
+     ],
+     "code": "with",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage explicitly traces how combinations of successful and failed sensemaking practices track directly to either positive identification or disidentification.",
+     "page": "p. 463"
+    },
+    {
+     "id": "GMS5",
+     "field": "direction",
+     "key": [
+      "F86",
+      "C32"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage notes members \"enthusiastically proselytized\" and kept reenacting practices, which demonstrates them complying with what the organization asks.",
+     "page": "p. 476"
+    },
+    {
+     "id": "FDMT",
+     "field": "direction",
+     "key": [
+      "F89",
+      "C12"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage shows that when sensebreaking fails to create dissatisfaction, the motivation to pursue dreams is absent, demonstrating the causal link by its negative case.",
+     "page": "p. 477"
+    },
+    {
+     "id": "GXTF",
+     "field": "direction",
+     "key": [
+      "F117",
+      "C21"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The playful father/son interaction directly demonstrates the closeness and strength of the mentor-protege bond.",
+     "page": "p. 493"
+    },
+    {
+     "id": "3T8Z",
+     "field": "direction",
+     "key": [
+      "F106",
+      "C29"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes the researcher experiencing \"painful\" strain between academic and distributor roles, which is the lived experience of ambivalent identification.",
+     "page": "p. 481"
+    },
+    {
+     "id": "WHVG",
+     "field": "direction",
+     "key": [
+      "F53",
+      "C23"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage explains that upline mentors help define which relationships and information are desirable, actively steering the member's sensemaking.",
+     "page": "pp. 469-470"
+    },
+    {
+     "id": "VCXG",
+     "field": "direction",
+     "key": [
+      "F49",
+      "C19"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes using dreams to represent dissatisfaction and motivate change, focusing on the motivation rather than the subsequent search for interpretations itself.",
+     "page": "p. 469"
+    },
+    {
+     "id": "UQSQ",
+     "field": "direction",
+     "key": [
+      "F117",
+      "C01"
+     ],
+     "code": "qualifies",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage shows a micro-interaction demonstrating successful mentor bonding (sensegiving) and does nothing to limit the overall claim.",
+     "page": "p. 493"
+    },
+    {
+     "id": "JJ9Y",
+     "field": "direction",
+     "key": [
+      "F88",
+      "C29"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "Figure 1 explicitly includes a box for \"Ambivalent Identification,\" meaning it directly shows the outcome.",
+     "page": "p. 477"
+    },
+    {
+     "id": "JDVP",
+     "field": "direction",
+     "key": [
+      "F91",
+      "C42"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes a distributor whose sensebreaking failed because she liked her job, resulting in a benign exit without showing the severe costs of intensive management.",
+     "page": "pp. 477-478"
+    },
+    {
+     "id": "WB23",
+     "field": "direction",
+     "key": [
+      "F61",
+      "C20"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage illustrates the strong intra-group bonds generated by supportive relationships, but does not explicitly detail the encapsulated sensemaking process itself.",
+     "page": "p. 471"
+    },
+    {
+     "id": "ZKQF",
+     "field": "direction",
+     "key": [
+      "F65",
+      "C20"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage explains the ideological teaching of revaluing relationships but does not show the resulting encapsulated sensemaking happening in practice.",
+     "page": "p. 472"
+    },
+    {
+     "id": "MZR4",
+     "field": "direction",
+     "key": [
+      "F106",
+      "C23"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage details reliance on academic colleagues (outside sources) which weakened enthusiasm, demonstrating the strain of incomplete encapsulation rather than reliance on organizational sources.",
+     "page": "p. 481"
+    },
+    {
+     "id": "RTWM",
+     "field": "direction",
+     "key": [
+      "F34",
+      "C18"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage illustrates a distributor incorporating altruism and social service (the foster home) into the Amway identity, showing a broadening of life domains.",
+     "page": "p. 465"
+    },
+    {
+     "id": "3NK7",
+     "field": "direction",
+     "key": [
+      "F101",
+      "C01"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage provides an example of a distributor stuck in ambivalence due to partially failed sensegiving, bearing out a specific pathway in the model's predictions.",
+     "page": "p. 480"
+    },
+    {
+     "id": "SZ6K",
+     "field": "direction",
+     "key": [
+      "F69",
+      "C22"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage quotes an instruction to avoid negative people, which sets up the rationale for encapsulation but does not show the encapsulation itself happening.",
+     "page": "pp. 472-473"
+    },
+    {
+     "id": "X6SE",
+     "field": "direction",
+     "key": [
+      "F84",
+      "C36"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage shows the distributor using the Amway relationship standard to interpret her friends' rejection as a lesson, framing her later experience.",
+     "page": "p. 475"
+    },
+    {
+     "id": "PD48",
+     "field": "direction",
+     "key": [
+      "F50",
+      "C32"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes a distributor giving up television, sleep, and basketball for the business, which is extreme member compliance.",
+     "page": "p. 469"
+    },
+    {
+     "id": "PKJ3",
+     "field": "direction",
+     "key": [
+      "F84",
+      "C37"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage perfectly bears out the claim by showing a member reinterpreting her sense of self and relationships after interacting with non-members.",
+     "page": "p. 475"
+    },
+    {
+     "id": "BVNH",
+     "field": "direction",
+     "key": [
+      "F68",
+      "C55"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The differential instruction to cut ties with extended family but keep trying with an unsupportive spouse illustrates a shifting, permeable boundary.",
+     "page": "p. 472"
+    },
+    {
+     "id": "3TXM",
+     "field": "direction",
+     "key": [
+      "F111",
+      "C40"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage explicitly notes that active distributors found [2 words of Pratt (2000), p. 488] \"[5 words of Pratt (2000), p. 488]\" [1 word of Pratt (2000), p. 488] integrating life domains.",
+     "page": "p. 488"
+    },
+    {
+     "id": "E4ZF",
+     "field": "direction",
+     "key": [
+      "F88",
+      "C02"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "Figure 1 explicitly features a \"Positive Identification\" box resulting from successful sensebreaking and sensegiving.",
+     "page": "p. 477"
+    },
+    {
+     "id": "GHUE",
+     "field": "direction",
+     "key": [
+      "F93",
+      "C20"
+     ],
+     "code": "against",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes a member who did not accept the philosophy and rejected encapsulated sensemaking, showing a failure rather than it going the other way.",
+     "page": "p. 478"
+    },
+    {
+     "id": "WEST",
+     "field": "direction",
+     "key": [
+      "F42",
+      "C15"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage shows the distributor framing the comfort zone as backward movement and deterioration, explicitly providing the motivation to change.",
+     "page": "p. 468"
+    },
+    {
+     "id": "GPF6",
+     "field": "direction",
+     "key": [
+      "F40",
+      "C12"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage shows that creating an identity deficit pushed members toward change, which forms the active motivational state of seekership.",
+     "page": "p. 467"
+    },
+    {
+     "id": "D3RN",
+     "field": "direction",
+     "key": [
+      "F93",
+      "C23"
+     ],
+     "code": "against",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage shows other members heavily relying on organizational sources (treating them as unquestionable), even though the specific informant rejected this.",
+     "page": "p. 478"
+    },
+    {
+     "id": "RDFE",
+     "field": "direction",
+     "key": [
+      "F76",
+      "C42"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes mutual distancing and withdrawal between distributors and outsiders, which is a tangible social cost.",
+     "page": "p. 474"
+    },
+    {
+     "id": "4R5G",
+     "field": "direction",
+     "key": [
+      "F33",
+      "C18"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage shows a member tying a \"higher calling\" of helping others to recruiting for Amway, increasing the breadth of life tied to the identity.",
+     "page": "p. 465"
+    },
+    {
+     "id": "3HNH",
+     "field": "direction",
+     "key": [
+      "F72",
+      "C22"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage explicitly describes \"social encapsulation\" growing as distributors replaced outside social contacts with Amway people.",
+     "page": "p. 473"
+    },
+    {
+     "id": "4E7J",
+     "field": "direction",
+     "key": [
+      "F117",
+      "C01"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The playful father/son interaction shows a micro-instance of mentor bonding but is too narrow to bear out or limit the overarching dual-process model.",
+     "page": "p. 493"
+    },
+    {
+     "id": "ASRN",
+     "field": "direction",
+     "key": [
+      "F71",
+      "C22"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The instruction to \"reduce contact with those who remained unsupportive\" is the direct behavioral mechanism of social and ideological encapsulation.",
+     "page": "p. 473"
+    },
+    {
+     "id": "SQJ5",
+     "field": "direction",
+     "key": [
+      "F101",
+      "C01"
+     ],
+     "code": "qualifies",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage illustrates an ambivalent distributor reacting to partly successful sensegiving, which exemplifies the model's predictions rather than limiting them.",
+     "page": "p. 480"
+    },
+    {
+     "id": "4VCX",
+     "field": "direction",
+     "key": [
+      "F75",
+      "C42"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes friends avoiding a distributor because they felt used, which is a clear social and relationship cost.",
+     "page": "p. 474"
+    },
+    {
+     "id": "MRG8",
+     "field": "direction",
+     "key": [
+      "F40",
+      "C13"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The identity deficit that makes a member feel inadequate and pushes them toward change is the core definition of seekership.",
+     "page": "p. 467"
+    },
+    {
+     "id": "AZUA",
+     "field": "direction",
+     "key": [
+      "F70",
+      "C55"
+     ],
+     "code": "with",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage directly describes the boundary remaining permeable for interested outsiders, marginal members, and unsupportive spouses.",
+     "page": "p. 473"
+    },
+    {
+     "id": "3HVV",
+     "field": "direction",
+     "key": [
+      "F106",
+      "C42"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The painful psychological \"strain\" between the distributor's academic and Amway roles constitutes a personal cost.",
+     "page": "p. 481"
+    },
+    {
+     "id": "V3TJ",
+     "field": "direction",
+     "key": [
+      "F99",
+      "C36"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage shows former members using their new disidentification to interpret upline warmth as self-serving, framing their later sensemaking.",
+     "page": "p. 479"
+    },
+    {
+     "id": "VH7U",
+     "field": "direction",
+     "key": [
+      "F109",
+      "C03"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "Figure 2 explicitly routes failures into the boxes \"Failure to Identify or Deidentification\" and \"Ambivalent Identification or Disidentification.\"",
+     "page": "p. 482"
+    },
+    {
+     "id": "WKHN",
+     "field": "direction",
+     "key": [
+      "F91",
+      "C42"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes a benign exit where a distributor simply lost interest, showing no severe costs like burnout or trauma.",
+     "page": "pp. 477-478"
+    },
+    {
+     "id": "NFNB",
+     "field": "direction",
+     "key": [
+      "F51",
+      "C32"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage shows a high-level distributor going out night after night to present the business, reflecting strong compliance and effort.",
+     "page": "p. 469"
+    },
+    {
+     "id": "9GD8",
+     "field": "direction",
+     "key": [
+      "F39",
+      "C14"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes the researcher getting \"excited\" and experiencing the emotional pull of the dream, showing its incorporation.",
+     "page": "pp. 466-467"
+    },
+    {
+     "id": "S66J",
+     "field": "direction",
+     "key": [
+      "F84",
+      "C22"
+     ],
+     "code": "with",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The mutual avoidance and resulting reinterpretation by the distributor creates the social and ideological barriers characterizing encapsulation.",
+     "page": "p. 475"
+    },
+    {
+     "id": "YX3T",
+     "field": "direction",
+     "key": [
+      "F85",
+      "C01"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage shows a self-fulfilling prophecy strengthening upline credibility, supporting a specific sub-mechanism without bearing out or limiting the whole overarching model.",
+     "page": "p. 476"
+    },
+    {
+     "id": "AUV9",
+     "field": "direction",
+     "key": [
+      "F76",
+      "C42"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes mutual distancing and social withdrawal between distributors and outsiders, representing a clear social cost.",
+     "page": "p. 474"
+    },
+    {
+     "id": "WZ5Z",
+     "field": "direction",
+     "key": [
+      "F80",
+      "C21"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage explicitly notes that remaining active depended on a \"close upline relationship,\" which is the strength of the bond.",
+     "page": "p. 475"
+    },
+    {
+     "id": "TVCL",
+     "field": "direction",
+     "key": [
+      "F104",
+      "C06"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes an ambivalent distributor hiding their involvement out of embarrassment, explicitly showing the resulting identification type in action.",
+     "page": "p. 480"
+    },
+    {
+     "id": "2M99",
+     "field": "direction",
+     "key": [
+      "F50",
+      "C32"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes giving up sleep, television, and basketball to build the business, showing high compliance and dedication.",
+     "page": "p. 469"
+    },
+    {
+     "id": "EBKF",
+     "field": "direction",
+     "key": [
+      "F106",
+      "C23"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes reliance on non-organizational outside sources (academic colleagues) causing strain due to incomplete encapsulation.",
+     "page": "p. 481"
+    },
+    {
+     "id": "GF4E",
+     "field": "direction",
+     "key": [
+      "F75",
+      "C42"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage notes that non-members avoided distributor friends, which is a social cost imposed by the practices.",
+     "page": "p. 474"
+    },
+    {
+     "id": "5UUW",
+     "field": "direction",
+     "key": [
+      "F92",
+      "C42"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes a former distributor who simply \"tried something that ultimately did not suit him,\" showing no intense costs.",
+     "page": "p. 478"
+    },
+    {
+     "id": "TW2M",
+     "field": "direction",
+     "key": [
+      "F48",
+      "C01"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage demonstrates how repeated dream building tied life domains together and forced self-validation, heavily bearing out the sensebreaking portion of the model.",
+     "page": "pp. 468-469"
+    },
+    {
+     "id": "9JQL",
+     "field": "direction",
+     "key": [
+      "F88",
+      "C02"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "Figure 1 traces the path from successful sensebreaking and successful positive programming to Positive Identification.",
+     "page": "p. 477"
+    },
+    {
+     "id": "DHTY",
+     "field": "direction",
+     "key": [
+      "F63",
+      "C23"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage shows mentors advising on all life matters and steering members away from outsiders, perfectly demonstrating reliance on organizational sources.",
+     "page": "pp. 471-472"
+    },
+    {
+     "id": "UXK2",
+     "field": "direction",
+     "key": [
+      "F40",
+      "C13"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage confirms that the identity deficit created by dream building \"pushed members toward change,\" equating to seekership.",
+     "page": "p. 467"
+    },
+    {
+     "id": "BDPX",
+     "field": "direction",
+     "key": [
+      "F53",
+      "C23"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage explains that the upline mentor defines which relationships and information are desirable, actively steering sensemaking toward organizational sources.",
+     "page": "pp. 469-470"
+    },
+    {
+     "id": "9RPS",
+     "field": "direction",
+     "key": [
+      "F109",
+      "C02"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "Figure 2 traces successful sensebreaking and sensegiving through encapsulated sensemaking to Positive Identification.",
+     "page": "p. 482"
+    },
+    {
+     "id": "YP3Z",
+     "field": "direction",
+     "key": [
+      "F39",
+      "C54"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage shows the researcher getting excited and feeling the \"pull\" of the dream, directly showing the motivational force.",
+     "page": "pp. 466-467"
+    },
+    {
+     "id": "VUV6",
+     "field": "direction",
+     "key": [
+      "F72",
+      "C22"
+     ],
+     "code": "against",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage explicitly states that \"social encapsulation grew,\" happening with the exact cause claimed rather than going the other way.",
+     "page": "p. 473"
+    },
+    {
+     "id": "PCC2",
+     "field": "direction",
+     "key": [
+      "F109",
+      "C28"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "Figure 2 routes Sensegiving (No) down to Sensemaking with non-members, leading directly to Disidentification.",
+     "page": "p. 482"
+    },
+    {
+     "id": "FFRX",
+     "field": "direction",
+     "key": [
+      "F96",
+      "C42"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage lists sparse, distant, irritated, and openly angry relationships, which are relational and emotional costs.",
+     "page": "p. 479"
+    },
+    {
+     "id": "FBR8",
+     "field": "direction",
+     "key": [
+      "F109",
+      "C27"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "Figure 2 includes the box \"Failure to Identify or Deidentification,\" explicitly showing the organizational identification outcome.",
+     "page": "p. 482"
+    },
+    {
+     "id": "A2CD",
+     "field": "direction",
+     "key": [
+      "F72",
+      "C60"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage explicitly notes that \"social encapsulation grew,\" directly showing the phenomenon.",
+     "page": "p. 473"
+    },
+    {
+     "id": "C2AZ",
+     "field": "direction",
+     "key": [
+      "F88",
+      "C27"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "Figure 1 has a box labeled \"Failure to Identify or Deidentification,\" meaning it explicitly shows the outcome.",
+     "page": "p. 477"
+    },
+    {
+     "id": "5FQM",
+     "field": "direction",
+     "key": [
+      "F106",
+      "C42"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage shows a distributor experiencing psychological \"strain\" between roles, which represents a personal cost.",
+     "page": "p. 481"
+    },
+    {
+     "id": "HEHJ",
+     "field": "direction",
+     "key": [
+      "F85",
+      "C01"
+     ],
+     "code": "qualifies",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage illustrates successful sensegiving via a self-fulfilling prophecy validating the upline, which supports rather than limits the claim.",
+     "page": "p. 476"
+    },
+    {
+     "id": "B66L",
+     "field": "direction",
+     "key": [
+      "F94",
+      "C01"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage gives a single example of sensebreaking working (attracted by home), validating a small piece without proving or limiting the whole model.",
+     "page": "p. 478"
+    },
+    {
+     "id": "EDF2",
+     "field": "direction",
+     "key": [
+      "F23",
+      "C09"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage simply notes that members couldn't provide clear profit figures, referring only to financial ambiguity without showing their actual identification states.",
+     "page": "p. 463"
+    },
+    {
+     "id": "YDJZ",
+     "field": "direction",
+     "key": [
+      "F88",
+      "C28"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "Figure 1 contains a specific box labeled \"Disidentification,\" showing the outcome clearly.",
+     "page": "p. 477"
+    },
+    {
+     "id": "9AQB",
+     "field": "direction",
+     "key": [
+      "F90",
+      "C42"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes a former distributor whose initial appeal simply \"faded,\" showing no severe management costs.",
+     "page": "p. 477"
+    },
+    {
+     "id": "DEM8",
+     "field": "direction",
+     "key": [
+      "F88",
+      "C27"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "Figure 1 routes Sensebreaking (No) directly to Failure to Identify or Deidentification.",
+     "page": "p. 477"
+    },
+    {
+     "id": "8WTD",
+     "field": "direction",
+     "key": [
+      "F105",
+      "C25"
+     ],
+     "code": "against",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage shows a distributor approaching distant acquaintances to avoid losing friends, which demonstrates rejecting the belief in the superiority of Amway relationships.",
+     "page": "pp. 480-481"
+    },
+    {
+     "id": "DQ4E",
+     "field": "direction",
+     "key": [
+      "F105",
+      "C29"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage shows a distributor altering their approach to preserve outside friendships, behaviorally maintaining both sets of ties as characterizes ambivalent identification.",
+     "page": "pp. 480-481"
+    },
+    {
+     "id": "J24W",
+     "field": "direction",
+     "key": [
+      "F109",
+      "C02"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "Figure 2 explicitly contains the box \"Positive Identification.\"",
+     "page": "p. 482"
+    },
+    {
+     "id": "LHGV",
+     "field": "direction",
+     "key": [
+      "F42",
+      "C15"
+     ],
+     "code": "qualifies",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage shows the member treating the comfort zone as backward movement, which actively supports and creates the motivation to change, rather than limiting it.",
+     "page": "p. 468"
+    },
+    {
+     "id": "9LDX",
+     "field": "direction",
+     "key": [
+      "F109",
+      "C27"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "Figure 2 traces Sensebreaking (No) straight to \"Failure to Identify or Deidentification.\"",
+     "page": "p. 482"
+    },
+    {
+     "id": "XFRA",
+     "field": "direction",
+     "key": [
+      "F61",
+      "C43"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes a distributor being able to rely on roughly a hundred people, which vividly illustrates communal belonging.",
+     "page": "p. 471"
+    },
+    {
+     "id": "N2KD",
+     "field": "direction",
+     "key": [
+      "F43",
+      "C34"
+     ],
+     "code": "qualifies",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The quote urging distributors to replace achieved dreams with bigger ones directly supports the concept of continual reenactment.",
+     "page": "p. 468"
+    },
+    {
+     "id": "C8ZM",
+     "field": "direction",
+     "key": [
+      "F88",
+      "C03"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "Figure 1 clearly links partial or full failures to Ambivalent Identification, Disidentification, or Deidentification.",
+     "page": "p. 477"
+    },
+    {
+     "id": "MY9Q",
+     "field": "direction",
+     "key": [
+      "F39",
+      "C54"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes the researcher feeling excitement from the dream, illustrating the active motivational force.",
+     "page": "pp. 466-467"
+    },
+    {
+     "id": "W9HW",
+     "field": "direction",
+     "key": [
+      "F33",
+      "C18"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage shows a member framing recruiting as a \"higher calling\" that helps people more than teaching, demonstrating broader life domains tied to the identity.",
+     "page": "p. 465"
+    },
+    {
+     "id": "ZTDA",
+     "field": "direction",
+     "key": [
+      "F34",
+      "C18"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage illustrates incorporating an altruistic desire (the foster home) into the Amway identity, successfully showing the broadening of life domains.",
+     "page": "p. 465"
+    },
+    {
+     "id": "6KXA",
+     "field": "direction",
+     "key": [
+      "F51",
+      "C32"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes an executive repeatedly going out at night to present the business, showing significant compliance and organizational effort.",
+     "page": "p. 469"
+    },
+    {
+     "id": "XEKX",
+     "field": "direction",
+     "key": [
+      "F98",
+      "C42"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes a member feeling trapped in a high-pressure situation and buying in to escape embarrassment, showing psychological and social costs.",
+     "page": "p. 479"
+    },
+    {
+     "id": "388T",
+     "field": "direction",
+     "key": [
+      "F95",
+      "C15"
+     ],
+     "code": "with",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage shows a former distributor successfully using the persistence logic learned from Amway dreams to pursue becoming a lawyer, showing the motivation working.",
+     "page": "p. 478"
+    },
+    {
+     "id": "6K38",
+     "field": "direction",
+     "key": [
+      "F105",
+      "C29"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage demonstrates a member preserving non-Amway relationships by avoiding close friends, which is the behavioral manifestation of ambivalent identification.",
+     "page": "pp. 480-481"
+    },
+    {
+     "id": "J6TY",
+     "field": "direction",
+     "key": [
+      "F98",
+      "C21"
+     ],
+     "code": "against",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes a disidentified distributor fleeing an embarrassing, high-pressure situation, demonstrating a weak relationship resulting from a lack of emotional support, rather than a strong bond without it.",
+     "page": "p. 479"
+    },
+    {
+     "id": "A9XF",
+     "field": "direction",
+     "key": [
+      "F41",
+      "C16"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage shows the member equating the comfort zone with losing and being urged to change, illustrating the motivation created by the deficit.",
+     "page": "p. 467"
+    },
+    {
+     "id": "QC3Q",
+     "field": "direction",
+     "key": [
+      "F115",
+      "C14"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage describes the upline attempting to build a dream with jewelry that the researcher rejected, meaning it shows an attempt but not successful incorporation into the self.",
+     "page": "pp. 492-493"
+    },
+    {
+     "id": "KWMK",
+     "field": "direction",
+     "key": [
+      "F105",
+      "C22"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage shows a distributor avoiding approaching close friends precisely to avoid encapsulation and preserve outside relationships.",
+     "page": "pp. 480-481"
+    },
+    {
+     "id": "4TQT",
+     "field": "direction",
+     "key": [
+      "F68",
+      "C55"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The instruction to keep trying to bring unsupportive spouses in, while cutting off extended family, explicitly shows the boundary's permeability for spouses.",
+     "page": "p. 472"
+    },
+    {
+     "id": "KWMP",
+     "field": "direction",
+     "key": [
+      "F88",
+      "C28"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "Figure 1 traces Sensegiving (No) to Sensemaking with non-members, which leads directly to Disidentification.",
+     "page": "p. 477"
+    },
+    {
+     "id": "EMEP",
+     "field": "direction",
+     "key": [
+      "F67",
+      "C42"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes refusing a role in a friend's marriage, which is a clear social cost resulting from conformity to the organization.",
+     "page": "p. 472"
+    },
+    {
+     "id": "RVJJ",
+     "field": "direction",
+     "key": [
+      "F61",
+      "C43"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes having 100 people to rely on for unusually strong personal support, vividly showing communal belonging.",
+     "page": "p. 471"
+    },
+    {
+     "id": "AQTK",
+     "field": "direction",
+     "key": [
+      "F100",
+      "C42"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage warns of damage to family interests and personal credibility, which directly references the costs of identification management.",
+     "page": "p. 479"
+    },
+    {
+     "id": "L953",
+     "field": "direction",
+     "key": [
+      "F35",
+      "C14"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage only describes the passive exposure to dreams via media and events, showing nothing of the subsequent active incorporation into the self.",
+     "page": "pp. 465-466"
+    },
+    {
+     "id": "B3EE",
+     "field": "direction",
+     "key": [
+      "F90",
+      "C42"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes a former distributor whose appeal simply faded, demonstrating a benign exit without intense costs.",
+     "page": "p. 477"
+    },
+    {
+     "id": "BFAJ",
+     "field": "direction",
+     "key": [
+      "F41",
+      "C15"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage outlines how the comfort zone is framed as losing to urge change, explicitly demonstrating the resulting motivation.",
+     "page": "p. 467"
+    },
+    {
+     "id": "EMLM",
+     "field": "direction",
+     "key": [
+      "F84",
+      "C36"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage shows the member reinterpreting her friends' rejection as a lesson about the relationship based on her Amway identity, heavily framing later sensemaking.",
+     "page": "p. 475"
+    },
+    {
+     "id": "A5F4",
+     "field": "direction",
+     "key": [
+      "F39",
+      "C14"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage notes the researcher getting excited and feeling the pull of the dream, which directly shows its incorporation.",
+     "page": "pp. 466-467"
+    },
+    {
+     "id": "VYLT",
+     "field": "direction",
+     "key": [
+      "F28",
+      "C54"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage only outlines the initial needs-analysis exercise connecting the self to possessions, but stops short of showing the active motivational force that results.",
+     "page": "pp. 464-465"
+    },
+    {
+     "id": "3VV3",
+     "field": "direction",
+     "key": [
+      "F99",
+      "C36"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage shows members using their disidentification to recast earlier upline warmth as self-serving, perfectly illustrating how the new identification frames later interpretation.",
+     "page": "p. 479"
+    }
+   ]
+  },
+  "bechky_2020": {
+   "1": [
+    {
+     "id": "UZSB",
+     "field": "core",
+     "key": [
+      "C21"
+     ],
+     "code": "false",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The paper explicitly highlights this claim as a core finding, concluding that \"status and power... [13 words of Bechky (2020), p. 637]\"[cite: 3], making it central to the argument.",
+     "page": "p. 637"
+    },
+    {
+     "id": "7DDP",
+     "field": "outcome",
+     "key": [
+      "C04"
+     ],
+     "code": "none",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The claim explicitly states that technical compatibility shapes \"how feasible adaptation is\"[cite: 3], identifying a particular affected outcome.",
+     "page": "p. 606; p. 608; p. 617; p. 620; p. 625; pp. 627-628; p. 632; pp. 633-637"
+    },
+    {
+     "id": "FPF2",
+     "field": "core",
+     "key": [
+      "C02"
+     ],
+     "code": "false",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "This claim defines \"evaluative spillovers,\" which the abstract and discussion identify as the primary theoretical mechanism and focus of the paper[cite: 3].",
+     "page": "p. 606; pp. 607-608; pp. 615-617; p. 619; p. 634"
+    },
+    {
+     "id": "NBH4",
+     "field": "outcome",
+     "key": [
+      "C10"
+     ],
+     "code": "differentiation of occupational cultures",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim states that differences \"generate distinct occupational cultures\"[cite: 3], directly indicating that the differentiation of occupational cultures is what is affected.",
+     "page": "p. 611; p. 615; p. 620; p. 637"
+    },
+    {
+     "id": "CK99",
+     "field": "outcome",
+     "key": [
+      "C18"
+     ],
+     "code": "local narcotics practice change",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim explains why narcotics analysts \"retained crystal-testing practices\"[cite: 3], which directly addresses the outcome of local narcotics practice change.",
+     "page": "p. 628; p. 632; pp. 633-637"
+    },
+    {
+     "id": "MTMT",
+     "field": "core",
+     "key": [
+      "C20"
+     ],
+     "code": "true",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The paper uses this intertwining as a major theoretical conclusion, stating [5 words of Bechky (2020), p. 637] \"[3 words of Bechky (2020), p. 637]\" and crucial to understanding technological change[cite: 3].",
+     "page": "p. 620; p. 637"
+    },
+    {
+     "id": "DWC6",
+     "field": "core",
+     "key": [
+      "C21"
+     ],
+     "code": "true",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The paper contrasts its findings against prior literature focused on status and power, making this a central theoretical contribution[cite: 3].",
+     "page": "p. 637"
+    },
+    {
+     "id": "VPTH",
+     "field": "outcome",
+     "key": [
+      "C10"
+     ],
+     "code": "none",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The claim clearly states that differences \"generate distinct occupational cultures\"[cite: 3], explicitly identifying an affected outcome.",
+     "page": "p. 611; p. 615; p. 620; p. 637"
+    },
+    {
+     "id": "GWWZ",
+     "field": "core",
+     "key": [
+      "C15"
+     ],
+     "code": "true",
+     "who": "neither",
+     "differ": false,
+     "answer": "yes",
+     "reason": "A reader could consider this central to the argument, as \"DNA envy\" is the empirical catalyst for the spillovers and is prominently featured in the paper's title[cite: 3].",
+     "page": "p. 619"
+    },
+    {
+     "id": "Q3C3",
+     "field": "outcome",
+     "key": [
+      "C20"
+     ],
+     "code": "none",
+     "who": "both",
+     "differ": false,
+     "answer": "no",
+     "reason": "The claim specifies that occupational values are \"rooted in\"[cite: 3] what the work requires, identifying values as the affected element.",
+     "page": "p. 620; p. 637"
+    },
+    {
+     "id": "UJXM",
+     "field": "outcome",
+     "key": [
+      "C03"
+     ],
+     "code": "strength of the impetus for local practice change",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim explicitly states that certain routes \"create a stronger impetus for local practice change\"[cite: 3], identifying the strength of that impetus as affected.",
+     "page": "p. 606; p. 608; p. 617; p. 620; pp. 624-625; pp. 627-628; p. 632; pp. 633-636"
+    },
+    {
+     "id": "9M52",
+     "field": "outcome",
+     "key": [
+      "C16"
+     ],
+     "code": "local firearms practice change",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim explains why firearms examiners \"resisted local practice change\"[cite: 3], meaning that local practice change is the affected variable.",
+     "page": "pp. 624-625; pp. 633-637"
+    },
+    {
+     "id": "JXGV",
+     "field": "core",
+     "key": [
+      "C17"
+     ],
+     "code": "true",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "This claim summarizes one of the three core empirical cases that form the comparative foundation for the paper's theoretical argument[cite: 3].",
+     "page": "p. 625; pp. 627-628; pp. 633-637"
+    },
+    {
+     "id": "N5ZM",
+     "field": "outcome",
+     "key": [
+      "C18"
+     ],
+     "code": "narcotics analysts' retention of crystal testing",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim describes the reasons why narcotics analysts \"retained crystal-testing practices\"[cite: 3], making this retention the affected outcome.",
+     "page": "p. 628; p. 632; pp. 633-637"
+    },
+    {
+     "id": "234L",
+     "field": "core",
+     "key": [
+      "C20"
+     ],
+     "code": "false",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The paper explicitly positions the inseparability of values and technique in practice as a central theoretical finding[cite: 3], not mere background.",
+     "page": "p. 620; p. 637"
+    },
+    {
+     "id": "ZEDF",
+     "field": "core",
+     "key": [
+      "C18"
+     ],
+     "code": "false",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "A careful reader could view this specific empirical case study as supporting evidence for the broader theoretical framework rather than the primary contribution itself[cite: 3].",
+     "page": "p. 628; p. 632; pp. 633-637"
+    },
+    {
+     "id": "DZKC",
+     "field": "core",
+     "key": [
+      "C13"
+     ],
+     "code": "false",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "A reader could interpret this claim as an intermediate theoretical step explaining the mechanism of why neighboring occupations reacted differently[cite: 3].",
+     "page": "p. 617; p. 634"
+    },
+    {
+     "id": "C4XS",
+     "field": "core",
+     "key": [
+      "C16"
+     ],
+     "code": "true",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "This claim represents one of the three main empirical pillars that collectively establish the paper's core comparative argument[cite: 3].",
+     "page": "pp. 624-625; pp. 633-637"
+    },
+    {
+     "id": "KFJY",
+     "field": "core",
+     "key": [
+      "C15"
+     ],
+     "code": "false",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "A reader could view \"DNA envy\" as the empirical background or context that sets the stage for the true theoretical focus on evaluative spillovers[cite: 3].",
+     "page": "p. 619"
+    },
+    {
+     "id": "QBZ8",
+     "field": "core",
+     "key": [
+      "C13"
+     ],
+     "code": "true",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "A reader could hold that this interpretation mechanism is central to the theoretical argument explaining how evaluative spillovers operate[cite: 3].",
+     "page": "p. 617; p. 634"
+    },
+    {
+     "id": "CYZX",
+     "field": "core",
+     "key": [
+      "C02"
+     ],
+     "code": "true",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "This claim introduces the concept of \"evaluative spillovers,\" which is the central theoretical contribution of the entire paper[cite: 3].",
+     "page": "p. 606; pp. 607-608; pp. 615-617; p. 619; p. 634"
+    },
+    {
+     "id": "YX9D",
+     "field": "core",
+     "key": [
+      "C16"
+     ],
+     "code": "false",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "A reader could view this specific empirical finding as supporting evidence used to build the broader theoretical argument[cite: 3].",
+     "page": "pp. 624-625; pp. 633-637"
+    },
+    {
+     "id": "C6CW",
+     "field": "outcome",
+     "key": [
+      "C04"
+     ],
+     "code": "feasibility of local practice adaptation",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The claim explicitly states that technical compatibility shapes \"how feasible adaptation is\"[cite: 3], identifying the feasibility of local practice adaptation as the affected outcome.",
+     "page": "p. 606; p. 608; p. 617; p. 620; p. 625; pp. 627-628; p. 632; pp. 633-637"
+    },
+    {
+     "id": "2HSG",
+     "field": "outcome",
+     "key": [
+      "C03"
+     ],
+     "code": "local work-practice change",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim identifies that institutional pathways affect the impetus for \"local practice change\"[cite: 3].",
+     "page": "p. 606; p. 608; p. 617; p. 620; pp. 624-625; pp. 627-628; p. 632; pp. 633-636"
+    },
+    {
+     "id": "W76M",
+     "field": "outcome",
+     "key": [
+      "C16"
+     ],
+     "code": "firearms examiners' resistance to changing local practice",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The claim describes the reasons why firearms examiners \"resisted local practice change\"[cite: 3], making this resistance the affected outcome.",
+     "page": "pp. 624-625; pp. 633-637"
+    },
+    {
+     "id": "4B6W",
+     "field": "core",
+     "key": [
+      "C18"
+     ],
+     "code": "true",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "This claim provides one of the core empirical case studies used to establish the paper's central theory[cite: 3], making it essential to the overall contribution.",
+     "page": "p. 628; p. 632; pp. 633-637"
+    },
+    {
+     "id": "GPUF",
+     "field": "core",
+     "key": [
+      "C17"
+     ],
+     "code": "false",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "A careful reader could interpret this specific case study as empirical support for the broader theoretical claim[cite: 3].",
+     "page": "p. 625; pp. 627-628; pp. 633-637"
+    },
+    {
+     "id": "2ESC",
+     "field": "core",
+     "key": [
+      "C11"
+     ],
+     "code": "false",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The paper introduces this claim as a summary of prior literature (\"Together, these studies demonstrate...\")[cite: 3], explicitly using it as background framing.",
+     "page": "p. 611"
+    }
+   ],
+   "2": [
+    {
+     "id": "BCBE",
+     "field": "direction",
+     "key": [
+      "F98",
+      "C01"
+     ],
+     "code": "with",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage shows that the imminent courtroom challenge prompted the toxicologists [1 word of Bechky (2020), p. 627] \"[4 words of Bechky (2020), p. 627]\" [1 word of Bechky (2020), p. 627] change their practices to include statistical analysis[cite: 3].",
+     "page": "p. 627"
+    },
+    {
+     "id": "GDKN",
+     "field": "direction",
+     "key": [
+      "F155",
+      "C03"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage explicitly states that these pathways \"[18 words of Bechky (2020), p. 634]\"[cite: 3].",
+     "page": "pp. 634-635"
+    },
+    {
+     "id": "QW8G",
+     "field": "direction",
+     "key": [
+      "F89",
+      "C02"
+     ],
+     "code": "qualifies",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage notes that the NAS report \"[15 words of Bechky (2020), p. 625]\"[cite: 3], showing the scientific scrutiny did not apply uniformly.",
+     "page": "p. 625"
+    },
+    {
+     "id": "YJQS",
+     "field": "direction",
+     "key": [
+      "F136",
+      "C02"
+     ],
+     "code": "qualifies",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage indicates firearms did face \"Yes-Media criticism\"[cite: 3], which supports rather than limits the claim.",
+     "page": "p. 633"
+    },
+    {
+     "id": "45TK",
+     "field": "direction",
+     "key": [
+      "F87",
+      "C04"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes how firearms examiners [8 words of Bechky (2020), p. 625] DNA profiling, which, combined with their values and distant challenges, led them to \"[7 words of Bechky (2020), p. 625]\"[cite: 3].",
+     "page": "pp. 624-625"
+    },
+    {
+     "id": "ZR4E",
+     "field": "direction",
+     "key": [
+      "F155",
+      "C01"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage explicitly concludes that these pathways \"[18 words of Bechky (2020), p. 634]\"[cite: 3].",
+     "page": "pp. 634-635"
+    },
+    {
+     "id": "DS9S",
+     "field": "direction",
+     "key": [
+      "F135",
+      "C02"
+     ],
+     "code": "against",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "Table 2 indicates \"No\" for scientific evaluation for narcotics[cite: 3], which simply limits the claim by showing a lack of scrutiny on that pathway, rather than showing scrutiny decreasing or happening without the benchmark.",
+     "page": "p. 633"
+    },
+    {
+     "id": "K3SR",
+     "field": "direction",
+     "key": [
+      "F166",
+      "C04"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage directly compares the three occupations, showing that adaptation occurred when both technique and values were compatible (toxicology), but was resisted when technique was incompatible (firearms) or when values blocked it despite compatible technique (narcotics)[cite: 3].",
+     "page": "p. 637"
+    },
+    {
+     "id": "3WNH",
+     "field": "direction",
+     "key": [
+      "F84",
+      "C03"
+     ],
+     "code": "with",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage states that because their testimony had not been locally challenged, \"[12 words of Bechky (2020), p. 624]\"[cite: 3], supporting the claim that remote routes lead to less change.",
+     "page": "p. 624"
+    },
+    {
+     "id": "TK64",
+     "field": "direction",
+     "key": [
+      "F37",
+      "C02"
+     ],
+     "code": "with",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage describes significant media attention, such as from the New York Times and NPR, characterizing forensic science as having \"serious problems\"[cite: 3], demonstrating increased scrutiny.",
+     "page": "p. 616"
+    },
+    {
+     "id": "WUXX",
+     "field": "direction",
+     "key": [
+      "F77",
+      "C16"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes the values and training of firearms examiners[cite: 3], but it does not discuss their actual resistance to local practice change, which appears later in the text.",
+     "page": "p. 623"
+    },
+    {
+     "id": "V3PL",
+     "field": "direction",
+     "key": [
+      "F85",
+      "C04"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage explicitly details the examiners explaining why their technique cannot produce a DNA-like statistical result, directly demonstrating the lack of technical compatibility and adaptation feasibility[cite: 3].",
+     "page": "p. 624"
+    },
+    {
+     "id": "3XK6",
+     "field": "direction",
+     "key": [
+      "F129",
+      "C01"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes how the analysts experienced pressure to adopt instrumented techniques implied by the comparison to DNA profiling and actively \"[9 words of Bechky (2020), p. 632]\"[cite: 3], demonstrating the increased pressure on their work practices.",
+     "page": "p. 632"
+    },
+    {
+     "id": "ZWHG",
+     "field": "direction",
+     "key": [
+      "F123",
+      "C04"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage directly addresses the feasibility of adaptation by explaining that MCCL lacked the instruments and time to handle their caseload using the alternative technique[cite: 3].",
+     "page": "p. 632"
+    },
+    {
+     "id": "AGPG",
+     "field": "direction",
+     "key": [
+      "F137",
+      "C02"
+     ],
+     "code": "against",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "Table 2 shows a lack of public scrutiny for toxicology[cite: 3], which merely limits the claim by showing the evaluation did not occur on that pathway, rather than showing scrutiny decreasing or occurring without the cause.",
+     "page": "p. 633"
+    },
+    {
+     "id": "TWEG",
+     "field": "direction",
+     "key": [
+      "F107",
+      "C20"
+     ],
+     "code": "qualifies",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage describes the technique of crystal testing in detail[cite: 3], but it does not provide any evidence that contradicts or limits the claim that technique and values are intertwined.",
+     "page": "pp. 628-629"
+    },
+    {
+     "id": "9TCM",
+     "field": "direction",
+     "key": [
+      "F44",
+      "C02"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage quotes legal scholars urging other forensic sciences to use DNA typing as a model for scientific validity[cite: 3], showing increased external evaluation using DNA as a benchmark.",
+     "page": "p. 617"
+    },
+    {
+     "id": "6A8Q",
+     "field": "direction",
+     "key": [
+      "F123",
+      "C04"
+     ],
+     "code": "qualifies",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage demonstrates that practical resource constraints—like instrument availability and run times—also block adaptation[cite: 3], limiting the claim's strict focus on technical compatibility and values.",
+     "page": "p. 632"
+    },
+    {
+     "id": "62KC",
+     "field": "direction",
+     "key": [
+      "F91",
+      "C17"
+     ],
+     "code": "qualifies",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage provides background on the routine, high-volume nature of the toxicology unit's work[cite: 3], which neither contradicts nor limits the claim about their accelerated reporting change.",
+     "page": "pp. 625-626"
+    },
+    {
+     "id": "MTMH",
+     "field": "direction",
+     "key": [
+      "F87",
+      "C01"
+     ],
+     "code": "qualifies",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage shows a case where an occupational group actively rejected changing their practices[cite: 3], limiting the claim by demonstrating that evaluative spillovers do not always successfully reshape work.",
+     "page": "pp. 624-625"
+    },
+    {
+     "id": "5PNZ",
+     "field": "direction",
+     "key": [
+      "F107",
+      "C20"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage simply describes the daily technique of crystal testing[cite: 3], without explicitly connecting it to the occupational values that are discussed later in the text.",
+     "page": "pp. 628-629"
+    },
+    {
+     "id": "B59K",
+     "field": "direction",
+     "key": [
+      "F86",
+      "C04"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage explains that firearms examiners could not see a technical analogue between their work and DNA population statistics[cite: 3], showing how technical incompatibility makes adaptation less feasible.",
+     "page": "p. 624"
+    },
+    {
+     "id": "ESH5",
+     "field": "direction",
+     "key": [
+      "F134",
+      "C02"
+     ],
+     "code": "qualifies",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "Table 2 indicates \"No\" for scientific-pathway challenges to toxicology[cite: 3], showing that the external evaluation did not increase across all stated arenas for this group.",
+     "page": "p. 633"
+    },
+    {
+     "id": "3JED",
+     "field": "direction",
+     "key": [
+      "F136",
+      "C02"
+     ],
+     "code": "with",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "Table 2 indicates that firearms examiners faced \"Yes-Media criticism\" through public institutional pathways[cite: 3], supporting the claim that external evaluation increased.",
+     "page": "p. 633"
+    },
+    {
+     "id": "T7EW",
+     "field": "direction",
+     "key": [
+      "F48",
+      "C14"
+     ],
+     "code": "illustrates",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage directly addresses perceived objectivity, noting that the representation process [2 words of Bechky (2020), p. 618] \"[4 words of Bechky (2020), p. 618]\" and that outsiders viewed it as a \"fully legitimate, objective standard\"[cite: 3].",
+     "page": "p. 619"
+    },
+    {
+     "id": "VQRR",
+     "field": "direction",
+     "key": [
+      "F155",
+      "C03"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage summarizes how the different pathways \"[12 words of Bechky (2020), p. 634]\"[cite: 3], demonstrating that the institutional routes shaped the workplace changes.",
+     "page": "pp. 634-635"
+    },
+    {
+     "id": "9WB5",
+     "field": "direction",
+     "key": [
+      "F86",
+      "C04"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage explicitly describes the examiners being \"[9 words of Bechky (2020), p. 624]\"[cite: 3], which directly addresses the feasibility of adapting their technique.",
+     "page": "p. 624"
+    },
+    {
+     "id": "8WHE",
+     "field": "direction",
+     "key": [
+      "F89",
+      "C02"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage explicitly discusses the level of scrutiny applied to toxicology by the NAS report, noting it was not criticized directly but was subject to general standards regarding error rates[cite: 3].",
+     "page": "p. 625"
+    },
+    {
+     "id": "MEBY",
+     "field": "direction",
+     "key": [
+      "F141",
+      "C02"
+     ],
+     "code": "qualifies",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "Table 2 indicates \"No\" for courtroom challenges to narcotics analysis[cite: 3], showing that increased evaluation did not occur in all arenas for this occupation.",
+     "page": "p. 633"
+    },
+    {
+     "id": "T3A3",
+     "field": "direction",
+     "key": [
+      "F156",
+      "C19"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage explains that because these groups \"[10 words of Bechky (2020), p. 634]\"[cite: 3], supporting the claim that overlapping fields and audiences facilitate spillover.",
+     "page": "p. 634"
+    },
+    {
+     "id": "Q24A",
+     "field": "direction",
+     "key": [
+      "F136",
+      "C03"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The specific cell in Table 2 indicating \"Yes-Media criticism\" under the public pathway identifies the institutional route[cite: 3] but does not itself describe the resulting workplace changes.",
+     "page": "p. 633"
+    },
+    {
+     "id": "XUVM",
+     "field": "direction",
+     "key": [
+      "F155",
+      "C01"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage summarizes how the different pathways \"[18 words of Bechky (2020), p. 634]\"[cite: 3], demonstrating the reshaping of work practices.",
+     "page": "pp. 634-635"
+    },
+    {
+     "id": "UQ8T",
+     "field": "direction",
+     "key": [
+      "F164",
+      "C17"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage directly compares the groups, stating that the \"immediate challenge [9 words of Bechky (2020), p. 636]\"[cite: 3].",
+     "page": "pp. 635-636"
+    },
+    {
+     "id": "XJWW",
+     "field": "direction",
+     "key": [
+      "F141",
+      "C02"
+     ],
+     "code": "against",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "Table 2 shows \"No\" for court challenges for narcotics[cite: 3], which limits the claim by showing a lack of scrutiny, rather than showing scrutiny moving in the opposite direction.",
+     "page": "p. 633"
+    },
+    {
+     "id": "6FEA",
+     "field": "direction",
+     "key": [
+      "F77",
+      "C05"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage establishes the firearms examiners' values of trained subjectivity[cite: 3], but the discussion of how they subsequently resisted changing their local practices appears on the following pages.",
+     "page": "p. 623"
+    },
+    {
+     "id": "32MF",
+     "field": "direction",
+     "key": [
+      "F138",
+      "C02"
+     ],
+     "code": "against",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "Table 2 indicates \"No\" for public scrutiny of narcotics[cite: 3], which demonstrates an absence of evaluation on that pathway, not scrutiny going the other way or occurring without a cause.",
+     "page": "p. 633"
+    },
+    {
+     "id": "BYZ9",
+     "field": "direction",
+     "key": [
+      "F135",
+      "C02"
+     ],
+     "code": "qualifies",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "Table 2 shows a \"No\" for scientific-pathway challenges to narcotics[cite: 3], limiting the claim by showing this group did not face evaluation in that specific arena.",
+     "page": "p. 633"
+    },
+    {
+     "id": "JZP6",
+     "field": "direction",
+     "key": [
+      "F87",
+      "C04"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage directly addresses feasibility, explaining that examiners were \"[9 words of Bechky (2020), p. 624]\" and [8 words of Bechky (2020), p. 625] DNA profiling[cite: 3].",
+     "page": "pp. 624-625"
+    },
+    {
+     "id": "RW8B",
+     "field": "direction",
+     "key": [
+      "F139",
+      "C02"
+     ],
+     "code": "with",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "Table 2 confirms that firearms faced \"Yes-Broad admissibility challenges\" in courts[cite: 3], supporting the claim that scrutiny increased in that arena.",
+     "page": "p. 633"
+    },
+    {
+     "id": "B5AP",
+     "field": "direction",
+     "key": [
+      "F87",
+      "C01"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes firearms examiners rejecting the changes to their practices[cite: 3], which contradicts the statement that it shows work practices being reshaped.",
+     "page": "pp. 624-625"
+    },
+    {
+     "id": "MGDJ",
+     "field": "direction",
+     "key": [
+      "F154",
+      "C13"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage explicitly states that occupational groups \"[6 words of Bechky (2020), p. 633]\" and that DNA profiling was \"open to their interpretation\"[cite: 3], directly bearing out the claim.",
+     "page": "pp. 633-634"
+    },
+    {
+     "id": "9KES",
+     "field": "direction",
+     "key": [
+      "F164",
+      "C17"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage summarizes that the challenge \"[6 words of Bechky (2020), p. 636]\"[cite: 3], but it does not detail the specific reporting changes that the toxicologists implemented.",
+     "page": "pp. 635-636"
+    },
+    {
+     "id": "DR4X",
+     "field": "direction",
+     "key": [
+      "F129",
+      "C01"
+     ],
+     "code": "qualifies",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage describes narcotics analysts resisting the push toward standardized DNA-like practices[cite: 3], demonstrating that evaluative spillovers do not always successfully reshape work practices.",
+     "page": "p. 632"
+    },
+    {
+     "id": "LRJL",
+     "field": "direction",
+     "key": [
+      "F156",
+      "C19"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage directly addresses the extent of spillover by explaining that because the occupations \"[10 words of Bechky (2020), p. 634]\"[cite: 3].",
+     "page": "p. 634"
+    },
+    {
+     "id": "9FZS",
+     "field": "direction",
+     "key": [
+      "F134",
+      "C02"
+     ],
+     "code": "against",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "Table 2 shows a \"No\" for scientific-pathway challenges to toxicology[cite: 3], indicating an absence of scrutiny on this route rather than scrutiny decreasing or occurring without a cause.",
+     "page": "p. 633"
+    },
+    {
+     "id": "DQ43",
+     "field": "direction",
+     "key": [
+      "F154",
+      "C13"
+     ],
+     "code": "qualifies",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage explicitly supports the claim by stating that groups \"[6 words of Bechky (2020), p. 633]\" and that DNA profiling was \"open to their interpretation\"[cite: 3], rather than limiting it.",
+     "page": "pp. 633-634"
+    },
+    {
+     "id": "G34J",
+     "field": "direction",
+     "key": [
+      "F164",
+      "C03"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage contrasts the toxicologists, for whom an \"immediate challenge... [6 words of Bechky (2020), p. 636],\" with the firearms examiners who lacked that local pathway and did not change[cite: 3].",
+     "page": "pp. 635-636"
+    },
+    {
+     "id": "3DJZ",
+     "field": "direction",
+     "key": [
+      "F137",
+      "C02"
+     ],
+     "code": "qualifies",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "Table 2 shows a \"No\" for public-pathway challenges to toxicology[cite: 3], limiting the claim by demonstrating that external evaluation did not increase in all arenas.",
+     "page": "p. 633"
+    },
+    {
+     "id": "Q69Y",
+     "field": "direction",
+     "key": [
+      "F91",
+      "C17"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage provides background on the standard, high-volume workflow of the toxicology unit[cite: 3], but does not discuss the accelerated reporting change itself.",
+     "page": "pp. 625-626"
+    },
+    {
+     "id": "8STU",
+     "field": "direction",
+     "key": [
+      "F77",
+      "C05"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage outlines the occupational values of the firearms examiners and their dislike of objectified heuristics[cite: 3], but it does not detail their actual resistance to local work-practice adaptation, which occurs later in the text.",
+     "page": "p. 623"
+    },
+    {
+     "id": "AC3S",
+     "field": "direction",
+     "key": [
+      "F35",
+      "C03"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage describes national professional associations issuing rebuttals to the NAS report[cite: 3], which illustrates an institutional pathway but shows nothing of actual local work-practice changes.",
+     "page": "p. 616"
+    },
+    {
+     "id": "5AG5",
+     "field": "direction",
+     "key": [
+      "F166",
+      "C10"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage explicitly contrasts the distinct values of the three groups—firearms' holistic judgment, narcotics' craft variety, and toxicology's error reduction[cite: 3]—directly demonstrating their differentiated occupational cultures.",
+     "page": "p. 637"
+    },
+    {
+     "id": "4PQT",
+     "field": "direction",
+     "key": [
+      "F84",
+      "C03"
+     ],
+     "code": "qualifies",
+     "who": "neither",
+     "differ": false,
+     "answer": "no",
+     "reason": "The passage states that because their testimony was not challenged locally, firearms examiners \"[11 words of Bechky (2020), p. 624]\"[cite: 3], which supports rather than limits the claim.",
+     "page": "p. 624"
+    },
+    {
+     "id": "AMBY",
+     "field": "direction",
+     "key": [
+      "F38",
+      "C03"
+     ],
+     "code": "illustrates",
+     "who": "both",
+     "differ": false,
+     "answer": "yes",
+     "reason": "The passage discusses media scrutiny characterizing forensic science as \"junk science\"[cite: 3], but it does not describe any subsequent local work-practice changes.",
+     "page": "p. 616"
+    },
+    {
+     "id": "7P4T",
+     "field": "direction",
+     "key": [
+      "F164",
+      "C03"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage states that the local challenge \"[6 words of Bechky (2020), p. 636]\" for toxicologists[cite: 3], but it does not detail the actual modifications made to their work practices.",
+     "page": "pp. 635-636"
+    },
+    {
+     "id": "6SG7",
+     "field": "direction",
+     "key": [
+      "F77",
+      "C16"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage describes the examiners' values of holistic, trained subjectivity[cite: 3], but it does not describe their actual resistance to local practice changes, which is detailed subsequently.",
+     "page": "p. 623"
+    },
+    {
+     "id": "BY4M",
+     "field": "direction",
+     "key": [
+      "F138",
+      "C02"
+     ],
+     "code": "qualifies",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "yes",
+     "reason": "Table 2 shows a \"No\" for public-pathway challenges to narcotics[cite: 3], limiting the claim by demonstrating that not all neighboring occupations faced increased evaluation in this arena.",
+     "page": "p. 633"
+    },
+    {
+     "id": "WZYL",
+     "field": "direction",
+     "key": [
+      "F85",
+      "C04"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage details how firearms examiners rejected numerical analogies because they could not map them to their bullet comparisons[cite: 3], demonstrating how technical incompatibility made adaptation unfeasible.",
+     "page": "p. 624"
+    },
+    {
+     "id": "FBN8",
+     "field": "direction",
+     "key": [
+      "F166",
+      "C04"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage explicitly summarizes how technical compatibility and values resulted in adaptation for toxicology but resistance for firearms and narcotics[cite: 3], directly addressing the feasibility of adaptation.",
+     "page": "p. 637"
+    },
+    {
+     "id": "3NRZ",
+     "field": "direction",
+     "key": [
+      "F48",
+      "C14"
+     ],
+     "code": "qualifies",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage directly supports the claim by contrasting the \"messy\" reality experienced by analysts with the \"neat and objective\" representations that outsider audiences view as a \"fully legitimate, objective standard\"[cite: 3].",
+     "page": "p. 619"
+    },
+    {
+     "id": "BVNN",
+     "field": "direction",
+     "key": [
+      "F98",
+      "C01"
+     ],
+     "code": "qualifies",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage shows that toxicologists were already planning the changes due to separate ISO accreditation requirements[cite: 3], limiting the claim by showing the spillover merely accelerated an existing plan rather than originating it.",
+     "page": "p. 627"
+    },
+    {
+     "id": "DCE7",
+     "field": "direction",
+     "key": [
+      "F166",
+      "C10"
+     ],
+     "code": "with",
+     "who": "coder 2",
+     "differ": true,
+     "answer": "yes",
+     "reason": "The passage highlights the divergent values of the three occupations—holistic judgment, craft variety, and error avoidance[cite: 3]—demonstrating their distinct occupational cultures in action.",
+     "page": "p. 637"
+    },
+    {
+     "id": "ZZQ4",
+     "field": "direction",
+     "key": [
+      "F44",
+      "C02"
+     ],
+     "code": "illustrates",
+     "who": "coder 1",
+     "differ": true,
+     "answer": "no",
+     "reason": "The passage directly quotes legal scholars evaluating and urging traditional forensic sciences to emulate DNA typing[cite: 3], which explicitly constitutes scrutiny.",
+     "page": "p. 617"
+    }
+   ]
+  }
+ }
+}

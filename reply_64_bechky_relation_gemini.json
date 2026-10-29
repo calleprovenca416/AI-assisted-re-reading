@@ -1,0 +1,335 @@
+{
+  "paper": "Beth A. Bechky, 2020",
+  "codes": [
+    {
+      "reading": "R01",
+      "main_claim": "C18",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C05", "type": "other_mechanism"},
+        {"claim": "C04", "type": "challenges_premise"}
+      ],
+      "reason": "The reading keeps narcotics analysts' retention of crystal testing but attributes it primarily to caseload capacity limits with two instruments and short statutory turnaround deadlines rather than to [7 words of Bechky (2020), p. 637] (pp. 629, 632).",
+      "page": "p. 632"
+    },
+    {
+      "reading": "R02",
+      "main_claim": "C04",
+      "main_type": "challenges_premise",
+      "other_claims": [
+        {"claim": "C13", "type": "complements"},
+        {"claim": "C18", "type": "other_mechanism"}
+      ],
+      "reason": "The reading questions the premise that technical compatibility is an occupation-wide relation between a method and DNA profiling as a whole, arguing instead that compatibility is tested one pathway-selected facet at a time against a specific laboratory's equipment stock, prior compliance records, budget, and statutory clock (pp. 632–634).",
+      "page": "p. 634"
+    },
+    {
+      "reading": "R03",
+      "main_claim": "C05",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C18", "type": "other_mechanism"},
+        {"claim": "C17", "type": "other_mechanism"}
+      ],
+      "reason": "The reading keeps the three units' contrasting responses to evaluation but replaces occupational values as the cause with the material costs of change in instruments, staff time, existing data, and legal deadlines, treating values talk as the language used to express those costs (pp. 627–632).",
+      "page": "p. 632"
+    },
+    {
+      "reading": "R04",
+      "main_claim": "C10",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C20", "type": "inverts"},
+        {"claim": "C18", "type": "other_mechanism"}
+      ],
+      "reason": "The reading keeps the existence of distinct unit cultures and values at MCCL but attributes their coherence partly to workers self-sorting across units through initial placement and transfers out of disliked routine work rather than solely learning values from practicing the occupation (pp. 613, 630).",
+      "page": "p. 630"
+    },
+    {
+      "reading": "R05",
+      "main_claim": "C18",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C05", "type": "other_mechanism"},
+        {"claim": "C17", "type": "rereads_evidence"}
+      ],
+      "reason": "The reading keeps the diverging outcomes of narcotics and toxicology but re-attributes narcotics' resistance to how much routine caseload work a switch from rapid crystal tests to two slow GC/MS instruments would displace and cost, rather than to values of autonomy, variety, and craft judgment (pp. 629, 632).",
+      "page": "p. 632"
+    },
+    {
+      "reading": "R06",
+      "main_claim": "C16",
+      "main_type": "rereads_evidence",
+      "other_claims": [
+        {"claim": "C14", "type": "complements"},
+        {"claim": "C13", "type": "complements"}
+      ],
+      "reason": "The reading takes the paper's passages on firearms examiners replacing sight-based claims with digital image packets and second-examiner signatures and reads them as showing that the unit had already adapted to the reviewable-record part of the DNA model, which explains why its work went unchallenged locally (pp. 621–622).",
+      "page": "p. 622"
+    },
+    {
+      "reading": "R07",
+      "main_claim": "C03",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C17", "type": "other_mechanism"},
+        {"claim": "C16", "type": "complements"}
+      ],
+      "reason": "The reading keeps the contrast between toxicology changing its reports and firearms not changing, but attributes the difference to toxicology already having a multi-year ISO and ASCLD accreditation requirement and plan underway rather than to the immediacy of the local courtroom pathway (pp. 627–628, 635).",
+      "page": "p. 627"
+    },
+    {
+      "reading": "R08",
+      "main_claim": "C04",
+      "main_type": "challenges_premise",
+      "other_claims": [
+        {"claim": "C05", "type": "challenges_premise"},
+        {"claim": "C14", "type": "complements"}
+      ],
+      "reason": "The reading questions the premise that forensic biology sits above the other units as an objective technical benchmark, pointing out that DNA benchwork involves the same messy, colleague-reviewed judgment as the other units and differs only in the population-frequency figure on its outgoing report (pp. 618–619, 633).",
+      "page": "p. 619"
+    },
+    {
+      "reading": "R09",
+      "main_claim": "C05",
+      "main_type": "challenges_premise",
+      "other_claims": [
+        {"claim": "C16", "type": "rereads_evidence"},
+        {"claim": "C17", "type": "challenges_premise"}
+      ],
+      "reason": "The reading questions the paper's unitary category of practice change by splitting it into additive documentation or reporting changes versus replacements of bench judgment, showing that all three units adopted or considered the first kind while none adopted the second (pp. 621–622, 627–628, 632).",
+      "page": "p. 622"
+    },
+    {
+      "reading": "R10",
+      "main_claim": "C20",
+      "main_type": "inverts",
+      "other_claims": [
+        {"claim": "C10", "type": "other_mechanism"},
+        {"claim": "C18", "type": "other_mechanism"}
+      ],
+      "reason": "The reading reverses the claim that performing a unit's technique instills the unit's values, arguing from analysts' transfers out of toxicology into narcotics that preexisting personal preferences selected who stayed in or left each technique (pp. 626, 630, 632).",
+      "page": "p. 630"
+    },
+    {
+      "reading": "R11",
+      "main_claim": "C10",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C20", "type": "inverts"},
+        {"claim": "C19", "type": "challenges_premise"}
+      ],
+      "reason": "The reading accounts for differences in unit values at MCCL as the product of internal vacancy placement and self-selected transfers of interchangeable recruits across benches within one laboratory rather than socialization into distinct occupations (pp. 613, 619–620, 630).",
+      "page": "p. 630"
+    },
+    {
+      "reading": "R12",
+      "main_claim": "C02",
+      "main_type": "rereads_evidence",
+      "other_claims": [
+        {"claim": "C13", "type": "challenges_premise"},
+        {"claim": "C17", "type": "rereads_evidence"}
+      ],
+      "reason": "The reading re-examines the participant passages in toxicology and narcotics to show that speakers attributed the demands they faced to ISO and NIST standards, East Coast practice, or Daubert hearings rather than to DNA, leaving the link to DNA in those two units solely in the author's commentary (pp. 627, 631–632).",
+      "page": "p. 627"
+    },
+    {
+      "reading": "R13",
+      "main_claim": "C05",
+      "main_type": "inverts",
+      "other_claims": [
+        {"claim": "C17", "type": "other_mechanism"},
+        {"claim": "C18", "type": "other_mechanism"}
+      ],
+      "reason": "The reading reverses the causal sequence between occupational values and responses to evaluation, arguing that courtroom exposure and material feasibility settled what each unit did first while values were articulated afterward to narrate an already determined course of action (pp. 627–628, 631–632, 635–637).",
+      "page": "p. 637"
+    },
+    {
+      "reading": "R14",
+      "main_claim": "C10",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C20", "type": "inverts"},
+        {"claim": "C05", "type": "other_mechanism"}
+      ],
+      "reason": "The reading keeps the contrast in occupational cultures between toxicology and narcotics but attributes it partly to organizational hiring and transfer arrangements through which employees sorted themselves into tasks they already preferred (pp. 613, 619, 630).",
+      "page": "p. 630"
+    },
+    {
+      "reading": "R15",
+      "main_claim": "C17",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C01", "type": "other_mechanism"},
+        {"claim": "C03", "type": "complements"}
+      ],
+      "reason": "The reading keeps toxicology's adoption of measurement-uncertainty reporting but attributes its content and eventual implementation to a pre-existing ISO accreditation plan and five years of quality-control data accelerated by DUI litigation rather than to evaluative spillover from DNA profiling (pp. 625, 627–628).",
+      "page": "p. 627"
+    },
+    {
+      "reading": "R16",
+      "main_claim": "C05",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C14", "type": "complements"},
+        {"claim": "C18", "type": "other_mechanism"}
+      ],
+      "reason": "The reading reframes the units' responses to DNA comparisons as driven by a struggle over how much of an analyst's work can be reopened and checked afterward by reviewers and legal audiences, rather than by whether a technique aligns with internal occupational values of good science (pp. 619, 621–622, 631–632).",
+      "page": "p. 619"
+    },
+    {
+      "reading": "R17",
+      "main_claim": "C05",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C03", "type": "complements"},
+        {"claim": "C16", "type": "other_mechanism"}
+      ],
+      "reason": "The reading keeps all three unit outcomes at MCCL but explains them solely by whether an analyst faced an impending personal challenge in the local court, treating occupational values as post-hoc descriptions that cannot be separated from local exposure in a single-lab design (pp. 624–625, 632, 635).",
+      "page": "p. 635"
+    },
+    {
+      "reading": "R18",
+      "main_claim": "C05",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C16", "type": "other_mechanism"},
+        {"claim": "C18", "type": "other_mechanism"}
+      ],
+      "reason": "The reading replaces enduring differences in occupational values with a shared practical rule across units in which analysts revise established practices when a credible local challenge threatens their ability to testify and defend existing work when no immediate local consequence looms (pp. 624, 627, 632).",
+      "page": "p. 624"
+    },
+    {
+      "reading": "R19",
+      "main_claim": "C19",
+      "main_type": "challenges_premise",
+      "other_claims": [
+        {"claim": "C01", "type": "rereads_evidence"},
+        {"claim": "C17", "type": "rereads_evidence"}
+      ],
+      "reason": "The reading questions the paper's boundary premise that all three MCCL units lie inside the reach of DNA spillover by virtue of shared audiences and overlapping work, arguing that the boundary runs between them because no toxicology passage links its accreditation and DUI-driven change to DNA (pp. 625, 627–628, 634, 636).",
+      "page": "p. 636"
+    },
+    {
+      "reading": "R20",
+      "main_claim": "C18",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C04", "type": "challenges_premise"},
+        {"claim": "C05", "type": "other_mechanism"}
+      ],
+      "reason": "The reading keeps narcotics analysts' retention of crystal testing but explains it as a defense of throughput capacity under short statutory charging clocks and a two-instrument bottleneck rather than a refusal grounded primarily in craft values (pp. 629, 631–632).",
+      "page": "p. 632"
+    },
+    {
+      "reading": "R21",
+      "main_claim": "C05",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C16", "type": "rereads_evidence"},
+        {"claim": "C14", "type": "complements"}
+      ],
+      "reason": "The reading replaces the conflict between objective methods and subjective occupational values with a struggle over redistributing post-hoc inspection rights to external reviewers and legal parties through durable records (pp. 619, 621–622, 631–632).",
+      "page": "p. 622"
+    },
+    {
+      "reading": "R22",
+      "main_claim": "C17",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C01", "type": "rereads_evidence"},
+        {"claim": "C02", "type": "rereads_evidence"}
+      ],
+      "reason": "The reading elevates pre-existing ISO accreditation standards and multi-state DUI defense litigation from enabling conditions to the cause of toxicology's uncertainty reporting, rejecting evaluative spillover from DNA as the driver of the change (pp. 625, 627–628, 635).",
+      "page": "p. 627"
+    },
+    {
+      "reading": "R23",
+      "main_claim": "C17",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C02", "type": "challenges_premise"},
+        {"claim": "C01", "type": "rereads_evidence"}
+      ],
+      "reason": "The reading keeps toxicology's reporting change but attributes it to ordinary ISO accreditation compliance brought forward by a DUI court date rather than to a spillover comparison with DNA profiling (pp. 625, 627–628, 635).",
+      "page": "p. 627"
+    },
+    {
+      "reading": "R24",
+      "main_claim": "C18",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C21", "type": "inverts"},
+        {"claim": "C03", "type": "complements"}
+      ],
+      "reason": "The reading retells the narcotics dispute as an intra-occupational contest between regional coalitions over standard-setting authority on the working group board and who would bear the equipment costs of a compulsory national rule (pp. 628, 630–632).",
+      "page": "p. 631"
+    },
+    {
+      "reading": "R25",
+      "main_claim": "C18",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C03", "type": "rereads_evidence"},
+        {"claim": "C05", "type": "other_mechanism"}
+      ],
+      "reason": "The reading attributes narcotics' retention of crystal testing to statutory turnaround constraints and having only two GC/MS instruments while rereading an analyst's report of a Daubert hearing against crystal tests as showing courtroom pressure and anticipated compliance rather than sheltered craft resistance (pp. 629, 631–633, 635).",
+      "page": "p. 632"
+    },
+    {
+      "reading": "R26",
+      "main_claim": "C18",
+      "main_type": "rereads_evidence",
+      "other_claims": [
+        {"claim": "C03", "type": "rereads_evidence"},
+        {"claim": "C05", "type": "other_mechanism"}
+      ],
+      "reason": "The reading takes the narcotics passages on expected shifts to GC/MS, ongoing working-group debates, camera pricing, capacity bottlenecks, and a Daubert hearing workshop and reads them as an unfinished snapshot of anticipated compliance and capacity limits at the close of fieldwork rather than settled resistance (pp. 629, 631–633, 635).",
+      "page": "p. 632"
+    },
+    {
+      "reading": "R27",
+      "main_claim": "C17",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C03", "type": "other_mechanism"},
+        {"claim": "C16", "type": "complements"}
+      ],
+      "reason": "The reading puts ASCLD and ISO accreditation requirements already scheduled in toxicology ahead of courtroom immediacy as the cause of the difference between toxicology and firearms, treating the approaching court date as determining only when the scheduled change took effect (pp. 627–628, 633, 635).",
+      "page": "p. 627"
+    },
+    {
+      "reading": "R28",
+      "main_claim": "C16",
+      "main_type": "rereads_evidence",
+      "other_claims": [
+        {"claim": "C05", "type": "challenges_premise"},
+        {"claim": "C18", "type": "rereads_evidence"}
+      ],
+      "reason": "The reading takes the paper's passages on firearms examiners abandoning sight-based claims for mandatory comparison images and second-examiner signatures and reads them as an uncounted practice change toward DNA-like reviewable documentation alongside a refusal of quantification alone (pp. 621–623, 633).",
+      "page": "p. 622"
+    },
+    {
+      "reading": "R29",
+      "main_claim": "C21",
+      "main_type": "inverts",
+      "other_claims": [
+        {"claim": "C05", "type": "other_mechanism"},
+        {"claim": "C15", "type": "complements"}
+      ],
+      "reason": "The reading reverses the claim that occupational values and technique mattered more than status and power, arguing that all three units responded to protect or raise their standing and worker irreplaceability against a director who treated criminalists as interchangeable (pp. 619–620, 628, 630, 632, 637).",
+      "page": "p. 637"
+    },
+    {
+      "reading": "R30",
+      "main_claim": "C17",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C01", "type": "other_mechanism"},
+        {"claim": "C03", "type": "complements"}
+      ],
+      "reason": "The reading keeps toxicology's reporting reform but explains its content and adoption as an already committed ISO accreditation project built on existing quality-control data, with litigation and DNA comparisons merely accelerating the timetable (pp. 627–628).",
+      "page": "p. 627"
+    }
+  ]
+}

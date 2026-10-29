@@ -1,0 +1,130 @@
+{
+ "builder_sha256": "627ed3a777dab4f21fd609ee2a78055d3a01f7bf72607bc8ebc179e4a570be5e",
+ "comparison_key_sha256": "a7eca76c5501ba6a787f0d9d039919d485fd6915ecaa86e8f9bb223eef4edae3",
+ "end": null,
+ "filled_sha256": "16e2aa6b07a757df5ae6b5c780406302f886be6be060a4d5fb67c1abeecfb71f",
+ "start": null,
+ "tabs": [
+  {
+   "note": "Account 2 is most helpful, although it is very long. A quick check reveals that it is longer by approx, 1000 characters than the reading itself",
+   "paper": "bechky",
+   "q1": "account 2",
+   "q1_pick": "map",
+   "q2": "account 2",
+   "q2_pick": "map",
+   "reading": "R05",
+   "tab": "Bechky R05"
+  },
+  {
+   "note": "Account 2 is most helpful, although it is very long. A quick check reveals that it is longer by approx, 1000 characters than the reading itself",
+   "paper": "bechky",
+   "q1": "account 2",
+   "q1_pick": "map",
+   "q2": "account 2",
+   "q2_pick": "map",
+   "reading": "R07",
+   "tab": "Bechky R07"
+  },
+  {
+   "note": "Account 2 is most helpful, although it is very long. A quick check reveals that it is longer by approx, 1000 characters than the reading itself",
+   "paper": "bechky",
+   "q1": "account 2",
+   "q1_pick": "map",
+   "q2": "account 2",
+   "q2_pick": "map",
+   "reading": "R16",
+   "tab": "Bechky R16"
+  },
+  {
+   "note": "Account 1 is most helpful, although it is very long",
+   "paper": "bechky",
+   "q1": "account 1",
+   "q1_pick": "map",
+   "q2": "account 1",
+   "q2_pick": "map",
+   "reading": "R22",
+   "tab": "Bechky R22"
+  },
+  {
+   "note": "Account 1 is most helpful, although it is very long",
+   "paper": "bechky",
+   "q1": "account 1",
+   "q1_pick": "map",
+   "q2": "account 1",
+   "q2_pick": "map",
+   "reading": "R27",
+   "tab": "Bechky R27"
+  },
+  {
+   "note": "Account 2 is most helpful, although it is very long",
+   "paper": "bechky",
+   "q1": "account 2",
+   "q1_pick": "map",
+   "q2": "account 2",
+   "q2_pick": "map",
+   "reading": "R29",
+   "tab": "Bechky R29"
+  },
+  {
+   "note": "Account 2 is most helpful, although it is very long",
+   "paper": "pratt",
+   "q1": "account 2",
+   "q1_pick": "map",
+   "q2": "account 2",
+   "q2_pick": "map",
+   "reading": "R01",
+   "tab": "Pratt R01"
+  },
+  {
+   "note": "Account 1 is most helpful, although it is very long",
+   "paper": "pratt",
+   "q1": "account 1",
+   "q1_pick": "map",
+   "q2": "account 1",
+   "q2_pick": "map",
+   "reading": "R02",
+   "tab": "Pratt R02"
+  },
+  {
+   "note": "Account 1 is most helpful, although it is very long",
+   "paper": "pratt",
+   "q1": "account 1",
+   "q1_pick": "map",
+   "q2": "account 1",
+   "q2_pick": "map",
+   "reading": "R03",
+   "tab": "Pratt R03"
+  },
+  {
+   "note": "Account 1 is most helpful, although it is very long",
+   "paper": "pratt",
+   "q1": "account 1",
+   "q1_pick": "map",
+   "q2": "account 1",
+   "q2_pick": "map",
+   "reading": "R08",
+   "tab": "Pratt R08"
+  },
+  {
+   "note": "Account 1 is most helpful, although it is very long",
+   "paper": "pratt",
+   "q1": "account 1",
+   "q1_pick": "map",
+   "q2": "account 1",
+   "q2_pick": "map",
+   "reading": "R09",
+   "tab": "Pratt R09"
+  },
+  {
+   "note": "Account 2 is most helpful, although it is very long",
+   "paper": "pratt",
+   "q1": "account 2",
+   "q1_pick": "map",
+   "q2": "account 2",
+   "q2_pick": "map",
+   "reading": "R14",
+   "tab": "Pratt R14"
+  }
+ ],
+ "what": "The PI's answers on the PI's comparison sheet (T39, round 2), read by build_map_round2.py read-comparison."
+}

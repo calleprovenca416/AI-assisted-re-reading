@@ -1,0 +1,80 @@
+{
+  "card_id": "bechky_2020_construct_inversion_from_pair_CP01_01",
+  "verdicts": [
+    {
+      "mode": "B_import",
+      "killed": true,
+      "citations": ["F98", "F101", "F102", "F142", "F143"],
+      "drift": [
+        "The F153 fragment job says it 'records narcotics as unchanged although the table gives it a professional-association route.' F153 explicitly reports the author's account of no local change. Presenting that characterization as a recorded outcome drops its attribution. This is drift, not an additional import kill."
+      ],
+      "note": "KILL. The imported factual separation is: 'A second thing varied across the pair and is printed on one side only: a change already being worked toward under a standing requirement.' F98, F101 and F102 carry the toxicology plan, compliance work and requirements. No fragment carries the assertion that this condition actually varied between the two units. F98 describes laboratory-wide ISO adaptation without specifying its firearms implications; F142 carries only the author's table's omission of a direct professional-association spillover route, not the absence of a firearms requirement or plan. The later, narrower wording 'no plan and no requirement of its own in print' accurately describes a documentary asymmetry, but cannot establish the opening assertion of a difference between the units. That unprinted separation is what the reading credits when it says 'the standing requirement is what made the difference.' The card itself identifies whether ISO imposed a firearms requirement as an unanswered question. Declaring that uncertainty does not supply the factual separation asserted in the statement. This kill concerns the conversion of unequal documentation into an actual difference, not merely the proposal of an alternative causal interpretation.",
+      "considered_not_fired": [
+        {
+          "item": "Pre-existing toxicology preparation and acceleration: statement and fragment jobs F98, F101 and F102.",
+          "why": "F98 explicitly places the multi-year uncertainty plan before the NAS report and says the imminent local challenge accelerated it and prompted the statistical analysis. F101 carries the logged instruments, reagents and standards, the state-law and ASCLD five-percent requirement, prior 95-percent reporting and preparation for ISO compliance. F102 carries Jason's outreach setting, rejection of a NAS-only origin, ISO/NIST references and use of existing quality-control data. These details are supported paraphrases; Jason's explanation remains attributed to him."
+        },
+        {
+          "item": "The narrower assertion that no firearms change plan or unit-specific ISO requirement is printed.",
+          "why": "The corpus does not specify such a plan or ISO obligation. F98 leaves the firearms implications of laboratory-wide adaptation unspecified. F33 and F34 describe general association responses, F36 directs staff to read the report, and F57 concerns staff movement. F67 prints a documentation expectation, which the card separately acknowledges. None supplies the missing firearms counterpart to the toxicology uncertainty plan. The documentary absence itself is not an import; treating it as an established between-unit difference is the kill identified above."
+        },
+        {
+          "item": "Author-attributed accounts in fragment jobs F84, F87, F88, F160 and F161, and the statement's table references F142 and F143.",
+          "why": "The cited fragments carry the author's distance explanation, firearms technique/value incompatibility, local toxicology impetus and accreditation work easing change. F142 and F143 carry the table's respective pathway entries. The card generally marks these as the author's account or the paper's table. Using or disputing those printed explanations is not itself importing evidence."
+        },
+        {
+          "item": "Professional-body responses and outside review: F78, F35 and F66 fragment jobs.",
+          "why": "F78 prints AFTE's detailed rebuttal; F35 prints IAI/AFTE rebuttals and commitments to further study. Read together, the card does not suppress the study commitment when describing the firearms-specific rebuttal. F66 carries Adam's report of repeated outside review without challenge, and F69 independently places Adam in the technical-review episode. No reviewer identity, new demand or review consequence is invented."
+        },
+        {
+          "item": "Challenge sequence and potentially different change content: fragment jobs F90, F81, F103 and F80.",
+          "why": "F90 carries successful DUI attacks elsewhere, the planned local challenge and intended outside expert. F81 carries the explicitly attributed author account of unsuccessful firearms exclusion challenges. F103 carries the new 99-percent confidence level. F80 carries the examiner's appeal to answer criticism, while its gloss supplies the separately attributed link to direct hearing experience. The suggestion that the challenge may have shaped report content is conditional, not a claim that an unprinted event occurred."
+        },
+        {
+          "item": "Narcotics comparison and broader pressures: fragment jobs F153, F144, F124, F33, F34 and F67.",
+          "why": "F144 carries the table's SWG-DRUG pathway and F124 explicitly describes a requirement under consideration, supporting the distinction from an imposed change requirement. F33 and F34 carry general accreditation advocacy and courtroom-preparation advice. F67 carries the earlier-to-current shift toward documented images without dating it. F153's attribution loss is recorded as drift, not import."
+        },
+        {
+          "item": "The proposal that immediacy affected timing, and the comparison with C17.",
+          "why": "F98 supplies a printed basis for separating a prior plan from its acceleration. Offering that distinction as a causal wager is not independently killed merely because the author prefers another account. The card explicitly leaves the original reporting timetable and the firearms ISO obligation unresolved. Its acknowledged proximity to C17 and F161 is not a reason to reinstate the retired incumbent-equivalence kill."
+        }
+      ]
+    },
+    {
+      "mode": "E_contradiction",
+      "killed": false,
+      "citations": [],
+      "note": "CLEAR. All 172 fragment stubs were examined, with fragment notes and the absence register. No fragment outside the seeds and declared strains requires an event or practice incompatible with the reading. The B failure is an unsupported assertion of between-unit variation; the record does not positively establish the opposite variation, so it does not also fire E. Author explanations, including those explicitly identified as such within stubs, establish what the author claims rather than independently establishing the disputed causal relation.",
+      "considered_not_fired": [
+        {
+          "item": "F98, F90, F81, F103, F80, F153, F33, F34 and F67.",
+          "why": "These are explicitly declared strains, and F98 is also a seed. They cover acceleration following the local challenge, laboratory-wide ISO adaptation, the challenges' different success records, the new confidence level, firearms responsiveness and documentation change, general association pressure and narcotics nonchange. They therefore cannot supply an undeclared-contradiction kill."
+        },
+        {
+          "item": "F88, F99, F100, F104, F131, F140, F161 and F164.",
+          "why": "The reading accommodates the local toxicology threat, its immediacy and its alignment with existing work. It disputes whether that threat explains change itself or its timing. The causal priority in these fragments is the author's explanation; no additional printed event here establishes that the prior plan could not have led to reporting change."
+        },
+        {
+          "item": "F71, F73, F85, F86, F87, F145, F148 and F166.",
+          "why": "The firearms preference for holistic judgment, limited CMS use, rejection of percentage-style matches and technical/value incompatibility are additional features the reading can accommodate. The F87 job explicitly recognizes that distance was not the pair's only difference. None establishes a firearms uncertainty-change plan or corresponding standing obligation that would contradict the card's narrower claim about what is printed. The author's causal weighting of values and technique is not an event-level refutation."
+        },
+        {
+          "item": "F68, F69, F75, F171 and F36.",
+          "why": "Firearms technical review, documentation, training, an available numerical identification method and a management instruction to read the NAS report are printed. They are not a plan or standing requirement to make the reporting change at issue. The card's contextual claim about a missing counterpart to the toxicology plan need not deny routine obligations or review practices."
+        },
+        {
+          "item": "F31, F151 and F152.",
+          "why": "Toxicologists' enthusiasm and the table's changed/unchanged contrast remain compatible with the reading. Its phrase 'the pair does not set a unit that changed beside a unit that did not' introduces a different explanation of the contrast; the F84 job explicitly retains the firearms outcome, and the statement repeatedly acknowledges toxicology's changed reports. It does not require denying those outcomes."
+        },
+        {
+          "item": "F109, F110, F121, F122, F123, F124, F125, F129, F144 and F162.",
+          "why": "Narcotics has existing verification obligations, workload constraints, a feared future prohibition, a discussed confirmation requirement and possible camera adaptation. These do not print an imposed requirement plus a prior plan for the particular change being debated. The card does not claim that every obligation or every association route must produce change, and it declares narcotics nonchange as a strain."
+        },
+        {
+          "item": "F62, F79, F82, DG03 and A01; the missing toxicology timetable and firearms ISO scope.",
+          "why": "Meeting reports establish criticism, frustration and discussion among firearms examiners, not an unacknowledged local implementation outcome. DG03 and A01 expressly state that the author lacks data on what externally challenged examiners did in their own laboratories. The toxicology timetable and firearms ISO scope are likewise unspecified in the supplied record. Missing evidence cannot become a contradicting stub."
+        }
+      ]
+    }
+  ]
+}

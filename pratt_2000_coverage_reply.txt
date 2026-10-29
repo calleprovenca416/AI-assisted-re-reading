@@ -1,0 +1,12 @@
+Files returned at 10.42. with the following message: "Worked for 10m 30s
+Completed the coverage check using only the attached PDF and following the extraction brief.
+The updates include 4 new fragments (F122–F125), 8 new claims (C53–C60), and 30 new fragment–claim links, bringing the corpus to 125 fragments, 60 claims, and 452 links. The validation checks passed.
+
+All 14 passages are addressed under Coverage additions in the extraction log, including reasons where no new record was warranted. Existing records were preserved except for changes needed to support the new links.
+Updated files
+
+*  pratt_2000_corpus.json
+*  pratt_2000_voice_gloss.json
+*  pratt_2000_extraction_log.md
+
+The files retain the original schema and continue numbering from the previous extraction."

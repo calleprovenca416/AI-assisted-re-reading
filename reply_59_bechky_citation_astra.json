@@ -1,0 +1,66 @@
+{
+  "paper": "Bechky, B. A. 2020",
+  "what_you_know": "I know the citation and infer from its title that the article examines how DNA's standing as a forensic technology affects practices in other forensic occupations. I do not reliably recall the paper's empirical passages, its particular findings, or their page numbers, so the readings below are explicitly conditional wagers rather than claims about what its text actually documents; I cannot establish what observations it prints or what passages contradict them.",
+  "readings": [
+    {
+      "reading_id": "R1",
+      "wager": "What looks like occupational emulation of DNA might instead be competition over scarce organizational resources. Forensic specialists may adopt DNA-like routines because supervisors, funders, or investigators channel staff, equipment, and desirable cases toward practices they regard as modern and reliable. On this reading, changes in practice are strategic bids for institutional support, with epistemic improvement a possible by-product rather than the original motive.",
+      "evidence": [],
+      "what_it_would_take_to_cohere": {
+        "observation": "A sequence in which a laboratory changes non-DNA procedures after resource-allocation or status decisions favor DNA, with practitioners linking their changes to staffing, equipment, case assignments, or recognition rather than demonstrated analytic superiority. Comparative units facing different resource incentives would help separate competition from ordinary methodological learning. Whether the article contains such evidence is unknown.",
+        "printed": null,
+        "pages": []
+      },
+      "strains_against": [],
+      "who_could_complete_it": "A forensic-laboratory administrator or organizational ethnographer with access to budget decisions, staffing and case-allocation histories, and interviews across specialties."
+    },
+    {
+      "reading_id": "R2",
+      "wager": "The spillover may travel mainly through courtroom expectations rather than through admiration among scientists. Once DNA establishes a powerful image of forensic certainty, prosecutors, defense attorneys, and judges may demand that unrelated forensic techniques be reported and defended in comparable terms. The occupation's changed practice would then be an adaptation to a new legal audience, not simply a change in its own beliefs about good science.",
+      "evidence": [],
+      "what_it_would_take_to_cohere": {
+        "observation": "Documented changes in laboratory reporting, validation, or testimony following questions or challenges from legal actors, especially if practitioners distinguish the claims they feel obliged to make in court from the claims they consider scientifically warranted. Evidence that similar labs with different courtroom exposure change differently would be especially discriminating. It is unknown whether these sequences are printed.",
+        "printed": null,
+        "pages": []
+      },
+      "strains_against": [],
+      "who_could_complete_it": "A forensic practitioner who regularly testifies, paired with testimony transcripts, admissibility-hearing records, report revisions, and laboratory fieldnotes."
+    },
+    {
+      "reading_id": "R3",
+      "wager": "The consequential change may be in how forensic knowledge is made legible, not primarily in how material traces are examined. DNA's apparent clarity could encourage other specialties to adopt standardized reports, calibrated claims, or numerical presentations, making unlike kinds of evidence look comparable. That would be a story of commensuration: the presentation format becomes an authority-producing technology in its own right, even where the underlying inferences remain different.",
+      "evidence": [],
+      "what_it_would_take_to_cohere": {
+        "observation": "Before-and-after examples of non-DNA case reports, testimony, or quality-control forms showing a shift toward DNA-associated formats without a corresponding change in the underlying analytic method, together with practitioners' explanations of why those formats matter. It is unknown whether the paper prints such paired artifacts.",
+        "printed": null,
+        "pages": []
+      },
+      "strains_against": [],
+      "who_could_complete_it": "A researcher with dated case-report templates, standard-operating procedures, and testimony records, assisted by laboratory personnel who can distinguish reporting changes from methodological changes."
+    },
+    {
+      "reading_id": "R4",
+      "wager": "So-called envy could conceal genuine epistemic reform. The contrast with DNA might prompt practitioners in other forensic fields to revisit error, uncertainty, and the limits of expert judgment. The alternative story is not one of status imitation but of learning from a technology that exposes weaknesses in established occupational habits; losing prestige could make better science possible.",
+      "evidence": [],
+      "what_it_would_take_to_cohere": {
+        "observation": "Episodes in which practitioners revise or abandon a familiar inferential claim after confronting validation results or error-rate evidence, even when doing so undermines their authority or adds work, and explicitly connect the revision to lessons drawn from DNA. Changes limited to appearance or vocabulary would not suffice. Whether the article documents this is unknown.",
+        "printed": null,
+        "pages": []
+      },
+      "strains_against": [],
+      "who_could_complete_it": "A forensic-method validation specialist with historical protocols, proficiency-test outcomes, fieldnotes on method disputes, and access to practitioners' accounts of abandoned practices."
+    },
+    {
+      "reading_id": "R5",
+      "wager": "The deeper story might be an internal struggle over occupational jurisdiction. DNA's ascent could unsettle who gets to define a forensic conclusion, which specialists control a case, and how technicians, analysts, and investigators divide expertise. Apparent changes in technique may be moves in negotiations over authority and task ownership rather than direct spillovers of one technology's evaluative standard.",
+      "evidence": [],
+      "what_it_would_take_to_cohere": {
+        "observation": "A traceable conflict over who performs, interprets, reviews, or presents a forensic task, followed by a procedural change that shifts those rights or responsibilities, with participants explaining the stakes in terms of expertise and jurisdiction. Cross-occupational observations would help test whether the technology changes practice through boundary disputes. I cannot determine if this appears in the paper.",
+        "printed": null,
+        "pages": []
+      },
+      "strains_against": [],
+      "who_could_complete_it": "An ethnographer with access to interactions among analysts, technicians, investigators, and laboratory management, supplemented by casework assignment records and position descriptions."
+    }
+  ]
+}

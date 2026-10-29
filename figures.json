@@ -1,0 +1,4756 @@
+{
+ "written_by": "build_figures.py",
+ "seed": 20261019,
+ "resamples": 2000,
+ "script_sha256": "d263e50c2b71f3b4346902cc8d632eba175d29c2766a0a9c838d8417fd58e67b",
+ "read": {
+  "BECHKY_AGREEMENT_LOG.md": "a5499a3c1ca3a9bf32ca9f21a2bbcd8d10ffa24adb399d8fdd3bd518a6807948",
+  "JUDGE_RESULTS.md": "97dd4fe66c326eb5f94628480ee0c81a9832563665c273c4b74bd3072aad80fc",
+  "MATCHING_WORTH.md": "5ff4c10c515e807ff6461e06987787a1dfe51b2b4eb0f5a6ec77f287895db721",
+  "PLACES_RESULTS.md": "a3437efd88c48d79db3d20a5c0cf5d68b795cd1440d1c9f90fae1dfed80c6fef",
+  "PRATT_AGREEMENT_LOG.md": "5b7decbe52e82b5f59fd20e651b5407943129c157fac55c75650b6407a78b384",
+  "PRATT_SECOND_COUNT_LOG.md": "d1298ac95abfbb8ba00c7d0bd05271d830d5ab914e5c8bdbf0689cdcd1d48920",
+  "against_check_results.json": "cdb54145104e93083454ccb157329c1625da3ebcc4d2ec5b4398aae2a74f6ef2",
+  "author_ratings_key.json": "d46a7c94d1ceca1f5cca29a56ab704e58a7279334aaecaea136f3ac516fb8c91",
+  "author_ratings_key_pratt.json": "e255ff7a7e730e08a4c522183b60f71bf15b4eda04eac52ef152f709186452fb",
+  "bechky_2020_corpus.json": "7ce0e382bb5659552a63d65b889035674ed7ddbd112bdef37295a520b20f5acc",
+  "bechky_2020_coverage_corpus.json": "336e64b4aa3f2af443f3b75ac010329035f9f199c59f2f839ffd1534e4d357b0",
+  "bechky_2020_coverage_list.txt": "c022ce409510b89838117a9d47a0d9a93f948f6f23a6733a4639a13c8a47f080",
+  "bechky_2020_readings.json": "f4309a06458406184494d20ba5e411b3586afb8b6ace81f96c38238fb30e5997",
+  "bechky_2020_v1.json": "6f83d744cd1dd68326cce29568a4aff461580d852d1222c4f1d096cb6922ced0",
+  "bechky_2020_v1_voice_gloss.json": "e4b6d8c974a6661440e9366f24f85e8ebfc51d0defdceea99281f2eb567bea8a",
+  "bechky_2020_voice_gloss.json": "6ded1283ccfbba25e6e6a3f1c4b145d0a8cce9fec5bffb8cbd1330e499e06d67",
+  "bechky_2020_x2_corpus.json": "326c0d2f0bd8ef078ad9b32853b94a0037ce6ba3f82694f47fa53d94e08424fe",
+  "bechky_2020_x2_voice_gloss.json": "eb043562e90e10f7523105071fab49af0ac08defe5bfa3d699ebc11416a2dad3",
+  "chats_models_hours.json": "fe8bebed608792d6e03d54395e8ef2bced876f69045d61fb680d6cd00fa7bcbd",
+  "judge_results.json": "98e954f6fe80b9cfbfb7a79c8651d8db106a209f60f825192757819d223d4614",
+  "matching_results.json": "6f50b1fca696db8c177bde93c6a3d9b4af384d51235f98e10f5652ab268c7785",
+  "packs/bechky_2020/key/bechky_2020_pack_key.json": "ba615a627d7d96dbd36c80af09b898725fc0356f4617f2eaedcae8111212534e",
+  "packs/pratt_2000/key/pratt_2000_pack_key.json": "1d28c84d498dca17b75291e37cd68488add2a8a2c4ca2fbe457b53f1ae263117",
+  "places_marker_results.json": "bc5288927147abfdf65415dd43722569864434d483901db5fb3a57b35aa89b52",
+  "places_packs_key.json": "57b2316817e2e8789dbd2d2230dcd87b0b98600afe4bbf653a0b7bf0890f794b",
+  "pratt_2000_corpus.json": "b22a8f26e2eb875ce0da9a29572380ba5a24dc88c196b5515d9380f47d2bd2c9",
+  "pratt_2000_coverage_corpus.json": "496bc766452725fbc4d19d6582db516d1ea4b937aab91b79fd85882743bc74c7",
+  "pratt_2000_coverage_list.txt": "9543f6f1c6ab14b4706b7a43fed8ec1d1d573a0c9645cc5acd055465fc71f4e3",
+  "pratt_2000_readings.json": "9a87a1210105d3b356235d56daebe2fc08cfb572f6b5760764b564a8949a3e17",
+  "pratt_2000_second_count.json": "95db670fb8e6622a8775a36b1265459a53128e53dce27f4ecc9395408aa3460b",
+  "pratt_2000_v1.json": "a4810cc03d9a439220b2c8781acf494c62d5ac63f7f53f359157238739147c99",
+  "pratt_2000_v1_voice_gloss.json": "7e26bffb2e5cc8cdb9f359bae8472dbaa5a9a667e6a4dd6d9911bd74e9d89956",
+  "pratt_2000_voice_gloss.json": "17fbb5f5d5bc00d25412b398d0ccfbff35dcd0bfe3b90c1dbf4452aa00b5267e",
+  "reply_47_mark_places_opus.json": "389539c3c66f11119db909f06fedf9052a49b673b3c74acb027ed4277211fbcf",
+  "reply_48_mark_places_astra.json": "e4df76b25990571eec1c5e82498a58678648c29702cc097c9d466a8f9e9d712a",
+  "reply_53_match_b_opus.json": "a6b0b0102f5c316291b0b84a1793a0f3c0b3ca67ec35df61aee84ca3f6b9a1f2",
+  "reply_54_match_b_astra.json": "cd4d08241e31cce75d0a0407110b2c30aaf815ff5278b657312739a95b7d138b",
+  "returned_bechky_2020_STAGE_A2_coder2.xlsx": "8b4e02ae2ba5bafd8a14f7af422fa5fd91955d7c13c91e89e381f24c07673e90",
+  "returned_bechky_2020_STAGE_A_coder2.xlsx": "59b8e53858272fa41bedc0be01d952927c6646fde9d456d033d0e2425d34d122",
+  "returned_bechky_2020_STAGE_B_coder2.xlsx": "6c226f8fbefae310afeeafb7f7f036ffe3210ca8c6670fdddf928b682e13f742",
+  "returned_bechky_2020_STAGE_V_coder2.xlsx": "2b72532b79e96fec088a28825a362295d9a8294cde3b0d172837641d7721bc33",
+  "returned_pratt_2000_STAGE_A2_coder2.xlsx": "3699be60bcdad0ebf28ce4a8152bf6aee5eb3fec9188c869976fb868243cb1a1",
+  "returned_pratt_2000_STAGE_A_coder2.xlsx": "250dcce2ca58504f62758285d4bd936d553395de569e5e9a5a758381219ff9b3",
+  "returned_pratt_2000_STAGE_B_coder2.xlsx": "9f268d85fc7aa10dde3879726f347fa8b6889e320dfadbc1fbcefda1a553123d",
+  "returned_pratt_2000_STAGE_V_coder2.xlsx": "871734aa5e98ce6502cc46f9f66f42adaf98646da25b4c8313be8ef97b4adae6",
+  "second_extraction_results.json": "3373c48af945693ddd9925a550e0ba9d00ecc85bd4349168eb1f9b6e45c67bda",
+  "stage2/attack_results.md": "9f0165a5b716b48606cbf87c62c5de11cbdad4cf22228e4dcb619b85261357f2",
+  "stage2/marker_replies/reply_39_mark_pratt_opus.json": "1072c1ea8fc462b651aed27d66f033b59b8094b45b41c7f9af073dce180fef35",
+  "stage2/marker_replies/reply_40_mark_pratt_astra.json": "8ab68dd5ab476bb09d20e2691ffe1cc93aa1d61ec660551a1ffb88be95d032df",
+  "stage2/marker_replies/reply_41_mark_bechky_opus_as_sent.txt": "5d072bf91f104ef73af1a698d4dce736817db244d267864a25f850239cf6d3f0",
+  "stage2/marker_replies/reply_42_mark_bechky_astra.json": "8282a9b1e74c80ffb91f8aba722206e972beac332d77ce85a3e1a3f0d7c97142",
+  "stage2/marker_results/RESULTS.md": "9715cf75056022d64730bf9d02edcac159589e2b952758bb377a75b5002df04e",
+  "stage2/markers/KEY.json": "b8874a82770a5157ed43febe7f18deccea4ba41741bd89fe586d8ddd25e1a76a",
+  "stage2/worth/WORTH_RESULTS.md": "7d4312cd4cc28f84c4760442560ca58d2a976a0dc5a448110c6b0a509e4110a4",
+  "stage2/worth/worth_joined.json": "5bf05f8eb189da7f93fd878adb9a7b06959ef5bd6024a6c28c9d76ab30dd4f84"
+ },
+ "figures": [
+  {
+   "id": "bechky_2020.first.fragments",
+   "paper": "bechky_2020",
+   "section": "1. The record",
+   "label": "First return: fragments (of them coded `reported` by its own voice file)",
+   "value": "168 (99 `reported`)",
+   "source": "`bechky_2020_corpus.json`, `bechky_2020_voice_gloss.json`",
+   "raw": {
+    "fragments": 168,
+    "reported": 99
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.first.claims_links",
+   "paper": "bechky_2020",
+   "section": "1. The record",
+   "label": "First return: claims; links by direction",
+   "value": "23 claims; 290 links: 59 `with`, 0 `against`, 221 `illustrates`, 10 `qualifies`",
+   "source": "`bechky_2020_corpus.json`",
+   "raw": {
+    "claims": 23,
+    "links": 290,
+    "with": 59,
+    "illustrates": 221,
+    "qualifies": 10
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.coverage.list",
+   "paper": "bechky_2020",
+   "section": "1. The record",
+   "label": "The PI's coverage check: passages listed",
+   "value": "15 (16 lines, of which 1 repeat(s) an earlier line)",
+   "source": "`bechky_2020_coverage_list.txt`",
+   "raw": {
+    "lines": 16,
+    "distinct": 15
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.coverage.chat",
+   "paper": "bechky_2020",
+   "section": "1. The record",
+   "label": "The coverage chat: what it added to the first return, and what of the first return it changed",
+   "value": "4 fragments, 0 claims, 3 links added; changed: none; in the head: printed_fragment_count",
+   "source": "`bechky_2020_corpus.json` and `bechky_2020_coverage_corpus.json`, record by record",
+   "raw": {
+    "fragments": {
+     "added": 4,
+     "gone": 0,
+     "changed": 0
+    },
+    "claims": {
+     "added": 0,
+     "gone": 0,
+     "changed": 0
+    },
+    "claim_links": {
+     "added": 3,
+     "gone": 0,
+     "changed": 0
+    },
+    "meta": [
+     "printed_fragment_count"
+    ]
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.frozen",
+   "paper": "bechky_2020",
+   "section": "1. The record",
+   "label": "The frozen record: fragments, claims, links; what the freeze changed in the coverage chat's return",
+   "value": "172 fragments, 23 claims, 293 links; records added: 0; changed: none; in the head: fieldwork_scale",
+   "source": "`bechky_2020_v1.json`, `bechky_2020_coverage_corpus.json`",
+   "raw": {
+    "fragments": 172,
+    "claims": 23,
+    "links": 293,
+    "meta": [
+     "fieldwork_scale"
+    ]
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.frozen.claims",
+   "paper": "bechky_2020",
+   "section": "1. The record",
+   "label": "The frozen record: claims that name an outcome (directional), core, stated as",
+   "value": "18 directional of 23; 7 core; 19 established, 4 ventured",
+   "source": "`bechky_2020_v1.json` (`agreement.directional_claims`)",
+   "raw": {
+    "directional": 18,
+    "core": 7,
+    "stated_as": {
+     "established": 19,
+     "ventured": 4
+    }
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.frozen.voice",
+   "paper": "bechky_2020",
+   "section": "1. The record",
+   "label": "The frozen record: voice, coder 1's (the extraction's sidecar)",
+   "value": "70 `author_insight`, 102 `reported`",
+   "source": "`bechky_2020_v1_voice_gloss.json`",
+   "raw": {
+    "reported": 102,
+    "author_insight": 70
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.counts",
+   "paper": "bechky_2020",
+   "section": "2. Agreement, model against model",
+   "label": "Records compared",
+   "value": "172 fragments, 23 claims (18 directional), 293 links",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "fragments": 172,
+    "claims": 23,
+    "links": 293,
+    "directional": 18
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.A",
+   "paper": "bechky_2020",
+   "section": "2. Agreement, model against model",
+   "label": "Stage A: whether a claim names an outcome",
+   "value": "n = 23; raw agreement 0.957 (22 of 23); kappa 0.881 (95% interval 0.57 to 1.00; 1,995 of 2,000 resamples gave a kappa)",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 23,
+    "agree": 22,
+    "raw": 0.9565217391304348,
+    "kappa": 0.8808290155440416,
+    "kappa_note": null,
+    "interval": [
+     0.5660377358490567,
+     1.0
+    ],
+    "resamples": 1995
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.A_wordings",
+   "paper": "bechky_2020",
+   "section": "2. Agreement, model against model",
+   "label": "Stage A: claims where both name an outcome, the two wordings by reading",
+   "value": "17 claims: 1 different variable, 14 match, 2 polarity inverted",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "match": 14,
+    "different variable": 1,
+    "polarity inverted": 2
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.A2",
+   "paper": "bechky_2020",
+   "section": "2. Agreement, model against model",
+   "label": "Stage A2: the asserted direction's sign, by reading",
+   "value": "18 claims sent; coder 2 gives a direction on 18, none on 0; the sign by reading: 18 agree",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "sent": 18,
+    "rows": 18,
+    "none": 0,
+    "calls": {
+     "agree": 18
+    }
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.V",
+   "paper": "bechky_2020",
+   "section": "2. Agreement, model against model",
+   "label": "Stage V: voice",
+   "value": "n = 172; raw agreement 0.936 (161 of 172); kappa 0.865 (95% interval 0.78 to 0.94)",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 172,
+    "agree": 161,
+    "raw": 0.936046511627907,
+    "kappa": 0.8653955606146841,
+    "kappa_note": null,
+    "interval": [
+     0.7826148012919535,
+     0.9379867320449956
+    ],
+    "resamples": 2000
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.B.direction",
+   "paper": "bechky_2020",
+   "section": "2. Agreement, model against model",
+   "label": "Stage B: link direction, all links",
+   "value": "n = 293; raw agreement 0.918 (269 of 293); kappa 0.796 (95% interval 0.72 to 0.87)",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 293,
+    "agree": 269,
+    "raw": 0.9180887372013652,
+    "kappa": 0.7958899338209683,
+    "kappa_note": null,
+    "interval": [
+     0.7170407655614409,
+     0.8654253815715094
+    ],
+    "resamples": 2000
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.B.direction_directional",
+   "paper": "bechky_2020",
+   "section": "2. Agreement, model against model",
+   "label": "Stage B: link direction, links to directional claims",
+   "value": "n = 231; raw agreement 0.896 (207 of 231); kappa 0.778 (95% interval 0.70 to 0.85)",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 231,
+    "agree": 207,
+    "raw": 0.8961038961038961,
+    "kappa": 0.7784880933354642,
+    "kappa_note": null,
+    "interval": [
+     0.6993255236066737,
+     0.8510158013544018
+    ],
+    "resamples": 2000
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.B.core",
+   "paper": "bechky_2020",
+   "section": "2. Agreement, model against model",
+   "label": "Stage B: core",
+   "value": "n = 23; raw agreement 0.696 (16 of 23); kappa 0.309 (95% interval -0.14 to 0.70)",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 23,
+    "agree": 16,
+    "raw": 0.6956521739130435,
+    "kappa": 0.3090128755364806,
+    "kappa_note": null,
+    "interval": [
+     -0.14184397163120568,
+     0.7038626609442059
+    ],
+    "resamples": 2000
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.B.stated_as",
+   "paper": "bechky_2020",
+   "section": "2. Agreement, model against model",
+   "label": "Stage B: stated as",
+   "value": "n = 23; raw agreement 1.000 (23 of 23); kappa 1.000 (95% interval 1.00 to 1.00; 1,975 of 2,000 resamples gave a kappa)",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 23,
+    "agree": 23,
+    "raw": 1.0,
+    "kappa": 1.0,
+    "kappa_note": null,
+    "interval": [
+     1.0,
+     1.0
+    ],
+    "resamples": 1975
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.B.gap kind",
+   "paper": "bechky_2020",
+   "section": "2. Agreement, model against model",
+   "label": "Stage B: gap kind",
+   "value": "n = 3; raw agreement 1.000 (3 of 3); kappa withheld (fewer than 10 judgements)",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 3,
+    "agree": 3,
+    "raw": 1.0,
+    "kappa": null,
+    "kappa_note": "withheld (fewer than 10 judgements)",
+    "interval": null,
+    "resamples": null
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.B.pair drawn_by_authors",
+   "paper": "bechky_2020",
+   "section": "2. Agreement, model against model",
+   "label": "Stage B: pair drawn by authors",
+   "value": "n = 2; raw agreement 1.000 (2 of 2); kappa withheld (fewer than 10 judgements)",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 2,
+    "agree": 2,
+    "raw": 1.0,
+    "kappa": null,
+    "kappa_note": "withheld (fewer than 10 judgements)",
+    "interval": null,
+    "resamples": null
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.B.resolution_period",
+   "paper": "bechky_2020",
+   "section": "2. Agreement, model against model",
+   "label": "Stage B: resolution period",
+   "value": "n = 1; raw agreement 1.000 (1 of 1); kappa withheld (fewer than 10 judgements)",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 1,
+    "agree": 1,
+    "raw": 1.0,
+    "kappa": null,
+    "kappa_note": "withheld (fewer than 10 judgements)",
+    "interval": null,
+    "resamples": null
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.B.gloss_relation",
+   "paper": "bechky_2020",
+   "section": "2. Agreement, model against model",
+   "label": "Stage B: gloss relation",
+   "value": "n = 20; raw agreement 0.700 (14 of 20); kappa 0.318 (95% interval -0.10 to 0.70)",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 20,
+    "agree": 14,
+    "raw": 0.7,
+    "kappa": 0.318181818181818,
+    "kappa_note": null,
+    "interval": [
+     -0.0975609756097559,
+     0.7
+    ],
+    "resamples": 2000
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.against.coder1.coded",
+   "paper": "bechky_2020",
+   "section": "3. `against` and the audit, in both versions",
+   "label": "`against` links, coder 1 (the extraction), as coded",
+   "value": "none",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "links": 0,
+    "most": 0,
+    "two_or_more": []
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.against.coder1.check",
+   "paper": "bechky_2020",
+   "section": "3. `against` and the audit, in both versions",
+   "label": "`against` links, coder 1 (the extraction), with the flagged links as `illustrates`",
+   "value": "none (flagged: 0; answered 4a: 0)",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "links": 0,
+    "most": 0,
+    "flagged": 0
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.against.coder2.coded",
+   "paper": "bechky_2020",
+   "section": "3. `against` and the audit, in both versions",
+   "label": "`against` links, coder 2 (Opus 5.5), as coded",
+   "value": "5 on 1 claim(s); at most 5 on one claim (C02); claims with two or more: C02",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "links": 5,
+    "most": 5,
+    "two_or_more": [
+     "C02"
+    ]
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.against.coder2.check",
+   "paper": "bechky_2020",
+   "section": "3. `against` and the audit, in both versions",
+   "label": "`against` links, coder 2 (Opus 5.5), with the flagged links as `illustrates`",
+   "value": "none (flagged: 5; answered 4a: 0)",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "links": 0,
+    "most": 0,
+    "flagged": 5
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.audit.coder1.coded",
+   "paper": "bechky_2020",
+   "section": "3. `against` and the audit, in both versions",
+   "label": "The audit under coder 1, as coded",
+   "value": "coverage 0.111 (2 of 18 directional claims assessed); seams: 0",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "coverage": 0.111,
+    "assessed": 2,
+    "directional": 18,
+    "seams": 0
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.audit.coder1.check",
+   "paper": "bechky_2020",
+   "section": "3. `against` and the audit, in both versions",
+   "label": "The audit under coder 1, with the flagged links as `illustrates`",
+   "value": "coverage 0.111 (2 of 18 directional claims assessed); seams: 0",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "coverage": 0.111,
+    "assessed": 2,
+    "directional": 18,
+    "seams": 0
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.audit.coder2.coded",
+   "paper": "bechky_2020",
+   "section": "3. `against` and the audit, in both versions",
+   "label": "The audit under coder 2, as coded",
+   "value": "coverage 0.111 (2 of 18 directional claims assessed); seams: 0",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "coverage": 0.111,
+    "assessed": 2,
+    "directional": 18,
+    "seams": 0
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.audit.coder2.check",
+   "paper": "bechky_2020",
+   "section": "3. `against` and the audit, in both versions",
+   "label": "The audit under coder 2, with the flagged links as `illustrates`",
+   "value": "coverage 0.111 (2 of 18 directional claims assessed); seams: 0",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "coverage": 0.111,
+    "assessed": 2,
+    "directional": 18,
+    "seams": 0
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.audit.rule",
+   "paper": "bechky_2020",
+   "section": "3. `against` and the audit, in both versions",
+   "label": "The audit's floor and rule",
+   "value": "no rate is reported under coverage 0.60; a claim is assessed with at least 4 `with` or `against` links from fragments not in the author's voice",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "min_coverage": 0.6,
+    "min_links": 4
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.wager.attack",
+   "paper": "bechky_2020",
+   "section": "4. The wager test (T29)",
+   "label": "The system's readings (cards) and the attack (GPT 6 Astra)",
+   "value": "4 cards: 2 killed (2 of them under B, import), 2 survived",
+   "source": "`stage2/attack_results.md`",
+   "raw": {
+    "cards": 4,
+    "killed": 2,
+    "killed_under_B": 2,
+    "survived": 2
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.wager.markers",
+   "paper": "bechky_2020",
+   "section": "4. The wager test (T29)",
+   "label": "The markers (Opus 5.5 and GPT 6 Astra), seven codes",
+   "value": "158 of 193 sentences agree (0.819); kappa 0.706 (95% interval 0.62 to 0.78); the interval is new",
+   "source": "`stage2/marker_results/RESULTS.md`; the interval from the two replies and the key (new)",
+   "raw": {
+    "n": 193,
+    "agree": 158,
+    "kappa": 0.7056773125354014,
+    "interval": [
+     0.6227585620803944,
+     0.7831085753803595
+    ],
+    "resamples": 2000,
+    "below_bar": false
+   },
+   "new": true
+  },
+  {
+   "id": "bechky_2020.wager.markers4",
+   "paper": "bechky_2020",
+   "section": "4. The wager test (T29)",
+   "label": "The markers, four groups (a diagnostic only)",
+   "value": "agreement 0.860, kappa 0.711",
+   "source": "`stage2/marker_results/RESULTS.md`",
+   "raw": {
+    "observed": 0.86,
+    "kappa": 0.711
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.wager.rates.resolution",
+   "paper": "bechky_2020",
+   "section": "4. The wager test (T29)",
+   "label": "By arm, Opus 5.5 / GPT 6 Astra: resolution rate (R, RI, RA)",
+   "value": "system 95% / 87%; middle 100% / 93%; plain 98% / 70%",
+   "source": "`stage2/marker_results/RESULTS.md`",
+   "raw": {
+    "system": "95% / 87%",
+    "middle": "100% / 93%",
+    "plain": "98% / 70%"
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.wager.rates.strict",
+   "paper": "bechky_2020",
+   "section": "4. The wager test (T29)",
+   "label": "By arm, Opus 5.5 / GPT 6 Astra: strict rate (R)",
+   "value": "system 75% / 71%; middle 81% / 74%; plain 86% / 63%",
+   "source": "`stage2/marker_results/RESULTS.md`",
+   "raw": {
+    "system": "75% / 71%",
+    "middle": "81% / 74%",
+    "plain": "86% / 63%"
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.wager.rates.reporting",
+   "paper": "bechky_2020",
+   "section": "4. The wager test (T29)",
+   "label": "By arm, Opus 5.5 / GPT 6 Astra: sentences that report (not N)",
+   "value": "system 55 / 55; middle 27 / 27; plain 63 / 70",
+   "source": "`stage2/marker_results/RESULTS.md`",
+   "raw": {
+    "system": "55 / 55",
+    "middle": "27 / 27",
+    "plain": "63 / 70"
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.wager.worth.system",
+   "paper": "bechky_2020",
+   "section": "4. The wager test (T29)",
+   "label": "The PI's worth, system arm (0 to 3; declared not blind)",
+   "value": "mean 1.75 over 4 readings; rated 2 or more: 3 of 4",
+   "source": "`stage2/worth/worth_joined.json`, checked against `stage2/worth/WORTH_RESULTS.md`",
+   "raw": {
+    "n": 4,
+    "mean": 1.75,
+    "mean_without_late": 1.75,
+    "two_or_more": 3,
+    "late": 0
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.wager.worth.middle",
+   "paper": "bechky_2020",
+   "section": "4. The wager test (T29)",
+   "label": "The PI's worth, middle arm (0 to 3; declared not blind)",
+   "value": "mean 0.60 over 5 readings; rated 2 or more: 1 of 5",
+   "source": "`stage2/worth/worth_joined.json`, checked against `stage2/worth/WORTH_RESULTS.md`",
+   "raw": {
+    "n": 5,
+    "mean": 0.6,
+    "mean_without_late": 0.6,
+    "two_or_more": 1,
+    "late": 0
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.wager.worth.plain",
+   "paper": "bechky_2020",
+   "section": "4. The wager test (T29)",
+   "label": "The PI's worth, plain arm (0 to 3; declared not blind)",
+   "value": "mean 2.00 over 5 readings; rated 2 or more: 5 of 5; without the 1 rated late, mean 2.00",
+   "source": "`stage2/worth/worth_joined.json`, checked against `stage2/worth/WORTH_RESULTS.md`",
+   "raw": {
+    "n": 5,
+    "mean": 2.0,
+    "mean_without_late": 2.0,
+    "two_or_more": 5,
+    "late": 1
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.wager.gap.system_middle",
+   "paper": "bechky_2020",
+   "section": "4. The wager test (T29)",
+   "label": "Gap in the PI's mean worth (declared not blind), system against middle (the reading chats) (p by relabelling)",
+   "value": "+1.15 (p 0.087)",
+   "source": "`stage2/worth/WORTH_RESULTS.md`",
+   "raw": "+1.15 (p 0.087)",
+   "new": false
+  },
+  {
+   "id": "bechky_2020.wager.gap.system_plain",
+   "paper": "bechky_2020",
+   "section": "4. The wager test (T29)",
+   "label": "Gap in the PI's mean worth (declared not blind), system against plain (the plain chats) (p by relabelling); the plain arm's mean includes the readings the PI rated late",
+   "value": "-0.25 (p 0.444)",
+   "source": "`stage2/worth/WORTH_RESULTS.md`",
+   "raw": "-0.25 (p 0.444)",
+   "new": false
+  },
+  {
+   "id": "bechky_2020.wager.gap.middle_plain",
+   "paper": "bechky_2020",
+   "section": "4. The wager test (T29)",
+   "label": "Gap in the PI's mean worth (declared not blind), middle (the reading chats) against plain (the plain chats) (p by relabelling); the plain arm's mean includes the readings the PI rated late",
+   "value": "-1.40 (p 0.048)",
+   "source": "`stage2/worth/WORTH_RESULTS.md`",
+   "raw": "-1.40 (p 0.048)",
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t31.differ",
+   "paper": "bechky_2020",
+   "section": "5.1 Added after the plan: T31, the judges (Gemini 3.1 Pro)",
+   "label": "Rows where the two codings differ, as the judge sorted them",
+   "value": "35 rows: both held 11; only coder 1's held 11; only coder 2's held 12; neither held 1",
+   "source": "`judge_results.json`, checked against `JUDGE_RESULTS.md`",
+   "raw": {
+    "only coder 1's held": 11,
+    "only coder 2's held": 12,
+    "both held": 11,
+    "neither held": 1,
+    "rows": 35
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t31.planted",
+   "paper": "bechky_2020",
+   "section": "5.1 Added after the plan: T31, the judges (Gemini 3.1 Pro)",
+   "label": "How far the judge can be trusted: statements both codings made, and none made, held",
+   "value": "both made: 12 of 14 held; neither made: 1 of 7 held",
+   "source": "`judge_results.json`",
+   "raw": {
+    "both": [
+     12,
+     14
+    ],
+    "neither": [
+     1,
+     7
+    ]
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t32.markers",
+   "paper": "bechky_2020",
+   "section": "5.2 Added after the plan: T32, readings at places",
+   "label": "Its markers (Opus 5.5 and GPT 6 Astra), seven codes",
+   "value": "121 of 150 sentences agree; kappa 0.669 (95% interval 0.56 to 0.77); the interval is new",
+   "source": "`places_marker_results.json`; the interval from the two replies and the key (new)",
+   "raw": {
+    "n": 150,
+    "agree": 121,
+    "kappa": 0.6688237533307956,
+    "interval": [
+     0.56034293251264,
+     0.7675619834710744
+    ],
+    "resamples": 2000
+   },
+   "new": true
+  },
+  {
+   "id": "bechky_2020.t32.readings",
+   "paper": "bechky_2020",
+   "section": "5.2 Added after the plan: T32, readings at places",
+   "label": "By chat: readings",
+   "value": "places given (chat 45): 4; places found (chat 46): 4",
+   "source": "`PLACES_RESULTS.md`",
+   "raw": [
+    "4",
+    "4"
+   ],
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t32.worth",
+   "paper": "bechky_2020",
+   "section": "5.2 Added after the plan: T32, readings at places",
+   "label": "By chat: worth, mean",
+   "value": "places given (chat 45): 1.50; places found (chat 46): 1.50",
+   "source": "`PLACES_RESULTS.md`",
+   "raw": [
+    "1.50",
+    "1.50"
+   ],
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t32.worth_3",
+   "paper": "bechky_2020",
+   "section": "5.2 Added after the plan: T32, readings at places",
+   "label": "By chat: worth 3, 2, 1, 0",
+   "value": "places given (chat 45): 0, 2, 2, 0; places found (chat 46): 0, 2, 2, 0",
+   "source": "`PLACES_RESULTS.md`",
+   "raw": [
+    "0, 2, 2, 0",
+    "0, 2, 2, 0"
+   ],
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t32.resolution",
+   "paper": "bechky_2020",
+   "section": "5.2 Added after the plan: T32, readings at places",
+   "label": "By chat: resolution (Opus 5.5 / GPT 6 Astra)",
+   "value": "places given (chat 45): 91% / 93%; places found (chat 46): 88% / 92%",
+   "source": "`PLACES_RESULTS.md`",
+   "raw": [
+    "91% / 93%",
+    "88% / 92%"
+   ],
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t33.A",
+   "paper": "bechky_2020",
+   "section": "5.3 Added after the plan: T33, the matching test",
+   "label": "Arm A (the PDF only): the two coders' groupings, pair kappa",
+   "value": "kappa 0.923 (95% interval 0.67 to 1.00); the interval is new",
+   "source": "`matching_results.json`; the interval by resampling the readings (new)",
+   "raw": {
+    "kappa": 0.9226572091119903,
+    "interval": [
+     0.674097833459869,
+     1.0
+    ],
+    "left_out": 0
+   },
+   "new": true
+  },
+  {
+   "id": "bechky_2020.t33.B",
+   "paper": "bechky_2020",
+   "section": "5.3 Added after the plan: T33, the matching test",
+   "label": "Arm B (the PDF and the reference): grouping by claim number, pair kappa",
+   "value": "kappa 0.886 (95% interval 0.67 to 1.00); the interval is new",
+   "source": "`matching_results.json`; the interval by resampling the readings (new)",
+   "raw": {
+    "kappa": 0.8857747223691168,
+    "interval": [
+     0.6700173268190458,
+     1.0
+    ],
+    "left_out": 0
+   },
+   "new": true
+  },
+  {
+   "id": "bechky_2020.t33.Bj",
+   "paper": "bechky_2020",
+   "section": "5.3 Added after the plan: T33, the matching test",
+   "label": "Arm B: grouping by judgment, pair kappa",
+   "value": "kappa 0.846 (95% interval 0.62 to 1.00); the interval is new",
+   "source": "`matching_results.json`; the interval by resampling the readings (new)",
+   "raw": {
+    "kappa": 0.845965770171149,
+    "interval": [
+     0.6155275213896272,
+     1.0
+    ],
+    "left_out": 0
+   },
+   "new": true
+  },
+  {
+   "id": "bechky_2020.t33.P_A",
+   "paper": "bechky_2020",
+   "section": "5.3 Added after the plan: T33, the matching test",
+   "label": "Agreement with the PI's grouping, arm A (mean of the two coders)",
+   "value": "kappa 0.628 (95% interval 0.34 to 0.89); the interval is new",
+   "source": "`matching_results.json`; the interval by resampling the readings (new)",
+   "raw": {
+    "kappa": 0.6282830363580183,
+    "interval": [
+     0.34096488688006,
+     0.8910461740632588
+    ],
+    "left_out": 0
+   },
+   "new": true
+  },
+  {
+   "id": "bechky_2020.t33.P_B",
+   "paper": "bechky_2020",
+   "section": "5.3 Added after the plan: T33, the matching test",
+   "label": "Agreement with the PI's grouping, arm B by claim number",
+   "value": "kappa 0.762 (95% interval 0.49 to 0.96); the interval is new",
+   "source": "`matching_results.json`; the interval by resampling the readings (new)",
+   "raw": {
+    "kappa": 0.762158494812265,
+    "interval": [
+     0.490421600764701,
+     0.9647706512720433
+    ],
+    "left_out": 0
+   },
+   "new": true
+  },
+  {
+   "id": "bechky_2020.t33.P_Bj",
+   "paper": "bechky_2020",
+   "section": "5.3 Added after the plan: T33, the matching test",
+   "label": "Agreement with the PI's grouping, arm B by judgment",
+   "value": "kappa 0.777 (95% interval 0.51 to 0.96); the interval is new",
+   "source": "`matching_results.json`; the interval by resampling the readings (new)",
+   "raw": {
+    "kappa": 0.7768975210835674,
+    "interval": [
+     0.510400020846123,
+     0.9625720724958774
+    ],
+    "left_out": 0
+   },
+   "new": true
+  },
+  {
+   "id": "bechky_2020.t33.diff.B-A",
+   "paper": "bechky_2020",
+   "section": "5.3 Added after the plan: T33, the matching test",
+   "label": "Difference B - A",
+   "value": "-0.037 (95% interval -0.30 to 0.29)",
+   "source": "`matching_results.json`",
+   "raw": {
+    "diff": -0.03688248674287353,
+    "low": -0.2979415981236665,
+    "high": 0.292351731493435
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t33.diff.Bj-A",
+   "paper": "bechky_2020",
+   "section": "5.3 Added after the plan: T33, the matching test",
+   "label": "Difference Bj - A",
+   "value": "-0.077 (95% interval -0.37 to 0.28)",
+   "source": "`matching_results.json`",
+   "raw": {
+    "diff": -0.0766914389408413,
+    "low": -0.3681531649883214,
+    "high": 0.2763859997143509
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t33.diff.P_B-P_A",
+   "paper": "bechky_2020",
+   "section": "5.3 Added after the plan: T33, the matching test",
+   "label": "Difference P_B - P_A",
+   "value": "0.134 (95% interval -0.09 to 0.38)",
+   "source": "`matching_results.json`",
+   "raw": {
+    "diff": 0.13387545845424675,
+    "low": -0.09223308130686698,
+    "high": 0.38230832786793545
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t33.diff.P_Bj-P_A",
+   "paper": "bechky_2020",
+   "section": "5.3 Added after the plan: T33, the matching test",
+   "label": "Difference P_Bj - P_A",
+   "value": "0.149 (95% interval 0.02 to 0.32)",
+   "source": "`matching_results.json`",
+   "raw": {
+    "diff": 0.14861448472554906,
+    "low": 0.02045182289287157,
+    "high": 0.3244135323064823
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t33.claims",
+   "paper": "bechky_2020",
+   "section": "5.3 Added after the plan: T33, the matching test",
+   "label": "Arm B's two coders' claim tags on the 28 readings",
+   "value": "kappa 0.836 (95% interval 0.68 to 0.96); the interval is new",
+   "source": "`matching_results.json`; the interval by resampling the readings (new)",
+   "raw": {
+    "kappa": 0.83601756954612,
+    "interval": [
+     0.6799770773638969,
+     0.957705522366976
+    ],
+    "left_out": 0
+   },
+   "new": true
+  },
+  {
+   "id": "bechky_2020.t33.contested",
+   "paper": "bechky_2020",
+   "section": "5.3 Added after the plan: T33, the matching test",
+   "label": "Claims the readings contest, by arm B's tags (of the paper's 23)",
+   "value": "9 under both coders' tags; 11 under either",
+   "source": "`matching_results.json`",
+   "raw": {
+    "both": 9,
+    "either": 11
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t33.recur",
+   "paper": "bechky_2020",
+   "section": "5.3 Added after the plan: T33, the matching test",
+   "label": "Recurrence across vendors (Q2)",
+   "value": "of the 5 points two or more Fable chats reached, both GPT 6 Astra runs reached 3; 7 of the 10 new readings joined a group with an earlier one",
+   "source": "`matching_results.json`",
+   "raw": {
+    "found_twice": 5,
+    "found_twice_reached": 3,
+    "new_with_earlier": 7,
+    "new_readings": 10
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t33.cited",
+   "paper": "bechky_2020",
+   "section": "5.3 Added after the plan: T33, the matching test",
+   "label": "Arm B's citations of passages for the 28 readings, by the frozen record's voice (described, not tested)",
+   "value": "240 of 271 name reported material; 52 distinct passages, 42 of them reported",
+   "source": "`matching_results.json`; distinct passages from `reply_53_match_b_opus.json` and `reply_54_match_b_astra.json`",
+   "raw": {
+    "reported": 240,
+    "citations": 271,
+    "distinct": 52
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t33.worth",
+   "paper": "bechky_2020",
+   "section": "5.3 Added after the plan: T33, the matching test",
+   "label": "The PI's worth (described, not tested: the PI knew their source, and rated after the results): the 10 new readings, and the 18 earlier ones",
+   "value": "new: mean 2.40 (3: 4, 2: 6, 1: 0, 0: 0); earlier: mean 1.44 (3: 0, 2: 11, 1: 4, 0: 3)",
+   "source": "`MATCHING_WORTH.md`",
+   "raw": {
+    "new": [
+     "2.40",
+     "4",
+     "6",
+     "0",
+     "0"
+    ],
+    "earlier": [
+     "1.44",
+     "0",
+     "11",
+     "4",
+     "3"
+    ]
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t34",
+   "paper": "bechky_2020",
+   "section": "5.4 Added after the plan: T34, the author's own worth",
+   "label": "The author's ratings of the wager test's readings of the paper",
+   "value": "no reply in",
+   "source": "`author_ratings_key.json`; the folder",
+   "raw": {
+    "answers": []
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t35.claims.first",
+   "paper": "bechky_2020",
+   "section": "5.5 Added after the plan: T35, the second extraction",
+   "label": "Q1: the first return's 23 claims found in the other return",
+   "value": "21 by chat 56 (Opus 5.5), 21 by chat 57 (GPT 6 Astra), 21 by both",
+   "source": "`second_extraction_results.json`",
+   "raw": {
+    "a": 21,
+    "b": 21,
+    "both": 21,
+    "either": 21,
+    "n": 23
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t35.claims.new",
+   "paper": "bechky_2020",
+   "section": "5.5 Added after the plan: T35, the second extraction",
+   "label": "Q1: the new return's 39 claims found in the other return",
+   "value": "27 by chat 56 (Opus 5.5), 30 by chat 57 (GPT 6 Astra), 27 by both",
+   "source": "`second_extraction_results.json`",
+   "raw": {
+    "a": 27,
+    "b": 30,
+    "both": 27,
+    "either": 30,
+    "n": 39
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t35.claims.first_core",
+   "paper": "bechky_2020",
+   "section": "5.5 Added after the plan: T35, the second extraction",
+   "label": "Q1: the first return's 7 core claims found in the other return",
+   "value": "6 by chat 56, 6 by chat 57, 6 by both",
+   "source": "`second_extraction_results.json`",
+   "raw": {
+    "a": 6,
+    "b": 6,
+    "both": 6,
+    "either": 6,
+    "n": 7
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t35.claims.new_core",
+   "paper": "bechky_2020",
+   "section": "5.5 Added after the plan: T35, the second extraction",
+   "label": "Q1: the new return's 9 core claims found in the other return",
+   "value": "9 by chat 56, 9 by chat 57, 9 by both",
+   "source": "`second_extraction_results.json`",
+   "raw": {
+    "a": 9,
+    "b": 9,
+    "both": 9,
+    "either": 9,
+    "n": 9
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t35.claims.kappa",
+   "paper": "bechky_2020",
+   "section": "5.5 Added after the plan: T35, the second extraction",
+   "label": "Q1: the two matchers' agreement on claim pairs (the bar: 0.60)",
+   "value": "kappa 0.661 (95% interval 0.46 to 0.86); 28 pairs by chat 56, 55 by chat 57",
+   "source": "`second_extraction_results.json`",
+   "raw": {
+    "kappa": 0.6606604923568402,
+    "interval": [
+     0.4634039870010173,
+     0.8591615638247767
+    ]
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t35.passages_out.first",
+   "paper": "bechky_2020",
+   "section": "5.5 Added after the plan: T35, the second extraction",
+   "label": "Q2: passages outside the tables, the first return's found in the other",
+   "value": "83 of 128 (0.65) by both matchers",
+   "source": "`second_extraction_results.json`",
+   "raw": {
+    "a": 83,
+    "b": 83,
+    "both": 83,
+    "either": 83,
+    "n": 128
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t35.passages_out.new",
+   "paper": "bechky_2020",
+   "section": "5.5 Added after the plan: T35, the second extraction",
+   "label": "Q2: passages outside the tables, the new return's found in the other",
+   "value": "94 of 127 (0.74) by both matchers",
+   "source": "`second_extraction_results.json`",
+   "raw": {
+    "a": 94,
+    "b": 94,
+    "both": 94,
+    "either": 94,
+    "n": 127
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t35.passages_all.first",
+   "paper": "bechky_2020",
+   "section": "5.5 Added after the plan: T35, the second extraction",
+   "label": "Q2: passages with the table cells, the first return's found in the other",
+   "value": "123 of 168 (0.73) by both matchers",
+   "source": "`second_extraction_results.json`",
+   "raw": {
+    "a": 123,
+    "b": 123,
+    "both": 123,
+    "either": 123,
+    "n": 168
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t35.passages_all.new",
+   "paper": "bechky_2020",
+   "section": "5.5 Added after the plan: T35, the second extraction",
+   "label": "Q2: passages with the table cells, the new return's found in the other",
+   "value": "135 of 168 (0.80) by both matchers",
+   "source": "`second_extraction_results.json`",
+   "raw": {
+    "a": 135,
+    "b": 135,
+    "both": 135,
+    "either": 135,
+    "n": 168
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t35.passages.kappa",
+   "paper": "bechky_2020",
+   "section": "5.5 Added after the plan: T35, the second extraction",
+   "label": "Q2: the matchers' agreement on passage pairs",
+   "value": "kappa 1.000: the two passage maps are identical, so this says nothing of the matchers' judgement",
+   "source": "`second_extraction_results.json`",
+   "raw": 1.0,
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t35.voice",
+   "paper": "bechky_2020",
+   "section": "5.5 Added after the plan: T35, the second extraction",
+   "label": "Q3: voice on the matched passages, first return against new (the bar: 0.80)",
+   "value": "130 of 140 alike; kappa 0.788 (95% interval 0.65 to 0.90); beside 0.865 for two codings of one extraction",
+   "source": "`second_extraction_results.json`",
+   "raw": {
+    "agree": 130,
+    "n": 140,
+    "kappa": 0.7884557268056817,
+    "interval": [
+     0.6521476001052516,
+     0.9026425591098748
+    ]
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t35.voice.table",
+   "paper": "bechky_2020",
+   "section": "5.5 Added after the plan: T35, the second extraction",
+   "label": "Q3: voice on the matched passages, first / new",
+   "value": "author_insight / author_insight: 25; author_insight / reported: 8; reported / author_insight: 2; reported / reported: 105",
+   "source": "`second_extraction_results.json`",
+   "raw": {
+    "author_insight / author_insight": 25,
+    "author_insight / reported": 8,
+    "reported / author_insight": 2,
+    "reported / reported": 105
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t35.byvoice.author_insight",
+   "paper": "bechky_2020",
+   "section": "5.5 Added after the plan: T35, the second extraction",
+   "label": "The first return's passages coded `author_insight`, found again",
+   "value": "32 of 69",
+   "source": "`second_extraction_results.json`",
+   "raw": {
+    "a": 32,
+    "b": 32,
+    "both": 32,
+    "either": 32,
+    "n": 69
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t35.byvoice.reported",
+   "paper": "bechky_2020",
+   "section": "5.5 Added after the plan: T35, the second extraction",
+   "label": "The first return's passages coded `reported`, found again",
+   "value": "91 of 99",
+   "source": "`second_extraction_results.json`",
+   "raw": {
+    "a": 91,
+    "b": 91,
+    "both": 91,
+    "either": 91,
+    "n": 99
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t35.counts",
+   "paper": "bechky_2020",
+   "section": "5.5 Added after the plan: T35, the second extraction",
+   "label": "The two returns: claims, core claims, passages, voice",
+   "value": "first: 23 claims (7 core), 168 passages, 69 author_insight, 99 reported; new: 39 claims (9 core), 168 passages, 28 author_insight, 140 reported",
+   "source": "`second_extraction_results.json`",
+   "raw": {
+    "first": {
+     "claims": 23,
+     "core": 7,
+     "passages": 168
+    },
+    "new": {
+     "claims": 39,
+     "core": 9,
+     "passages": 168
+    }
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t35.answers",
+   "paper": "bechky_2020",
+   "section": "5.5 Added after the plan: T35, the second extraction",
+   "label": "The plan's answers, as the scorer gives them",
+   "value": "Q1, the claims: repeat in part; Q2, the passages: repeat in part (with the table cells: repeat in part); Q3, voice: less steady (the voice kappa is at least 0.60 and under 0.80)",
+   "source": "`second_extraction_results.json`",
+   "raw": {
+    "Q1": "repeat in part",
+    "Q2": "repeat in part",
+    "Q2_with_tables": "repeat in part",
+    "Q3": "less steady"
+   },
+   "new": false
+  },
+  {
+   "id": "bechky_2020.t35.with_on_author.first",
+   "paper": "bechky_2020",
+   "section": "5.5 Added after the plan: T35, the second extraction",
+   "label": "The first return: its `with` links, and how many rest on a passage it codes `author_insight` (new)",
+   "value": "46 of 59",
+   "source": "`bechky_2020_corpus.json`, `bechky_2020_voice_gloss.json` (new)",
+   "raw": {
+    "author_insight": 46,
+    "with": 59
+   },
+   "new": true
+  },
+  {
+   "id": "bechky_2020.t35.with_on_author.new",
+   "paper": "bechky_2020",
+   "section": "5.5 Added after the plan: T35, the second extraction",
+   "label": "The new return: its `with` links, and how many rest on a passage it codes `author_insight` (new)",
+   "value": "13 of 72",
+   "source": "`bechky_2020_x2_corpus.json`, `bechky_2020_x2_voice_gloss.json` (new)",
+   "raw": {
+    "author_insight": 13,
+    "with": 72
+   },
+   "new": true
+  },
+  {
+   "id": "pratt_2000.first.fragments",
+   "paper": "pratt_2000",
+   "section": "1. The record",
+   "label": "First return: fragments (of them coded `reported` by its own voice file)",
+   "value": "121 (92 `reported`)",
+   "source": "`pratt_2000_corpus.json`, `pratt_2000_voice_gloss.json`",
+   "raw": {
+    "fragments": 121,
+    "reported": 92
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.first.claims_links",
+   "paper": "pratt_2000",
+   "section": "1. The record",
+   "label": "First return: claims; links by direction",
+   "value": "52 claims; 422 links: 152 `with`, 3 `against`, 264 `illustrates`, 3 `qualifies`",
+   "source": "`pratt_2000_corpus.json`",
+   "raw": {
+    "claims": 52,
+    "links": 422,
+    "illustrates": 264,
+    "with": 152,
+    "qualifies": 3,
+    "against": 3
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.coverage.list",
+   "paper": "pratt_2000",
+   "section": "1. The record",
+   "label": "The PI's coverage check: passages listed",
+   "value": "14",
+   "source": "`pratt_2000_coverage_list.txt`",
+   "raw": {
+    "lines": 14,
+    "distinct": 14
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.coverage.chat",
+   "paper": "pratt_2000",
+   "section": "1. The record",
+   "label": "The coverage chat: what it added to the first return, and what of the first return it changed",
+   "value": "4 fragments, 8 claims, 30 links added; changed: F109 (citing_claims, stub); 18 fragment(s) in their list of citing claims only; in the head: printed_fragment_count",
+   "source": "`pratt_2000_corpus.json` and `pratt_2000_coverage_corpus.json`, record by record",
+   "raw": {
+    "fragments": {
+     "added": 4,
+     "gone": 0,
+     "changed": 19
+    },
+    "claims": {
+     "added": 8,
+     "gone": 0,
+     "changed": 0
+    },
+    "claim_links": {
+     "added": 30,
+     "gone": 0,
+     "changed": 0
+    },
+    "meta": [
+     "printed_fragment_count"
+    ]
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.frozen",
+   "paper": "pratt_2000",
+   "section": "1. The record",
+   "label": "The frozen record: fragments, claims, links; what the freeze changed in the coverage chat's return",
+   "value": "125 fragments, 60 claims, 452 links; records added: 0; changed: F21 (stub)",
+   "source": "`pratt_2000_v1.json`, `pratt_2000_coverage_corpus.json`",
+   "raw": {
+    "fragments": 125,
+    "claims": 60,
+    "links": 452,
+    "meta": []
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.frozen.claims",
+   "paper": "pratt_2000",
+   "section": "1. The record",
+   "label": "The frozen record: claims that name an outcome (directional), core, stated as",
+   "value": "56 directional of 60; 10 core; 39 established, 21 ventured",
+   "source": "`pratt_2000_v1.json` (`agreement.directional_claims`)",
+   "raw": {
+    "directional": 56,
+    "core": 10,
+    "stated_as": {
+     "established": 39,
+     "ventured": 21
+    }
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.frozen.voice",
+   "paper": "pratt_2000",
+   "section": "1. The record",
+   "label": "The frozen record: voice, coder 1's (the extraction's sidecar)",
+   "value": "30 `author_insight`, 95 `reported`",
+   "source": "`pratt_2000_v1_voice_gloss.json`",
+   "raw": {
+    "reported": 95,
+    "author_insight": 30
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.counts",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model",
+   "label": "Records compared",
+   "value": "125 fragments, 60 claims (56 directional), 452 links",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "fragments": 125,
+    "claims": 60,
+    "links": 452,
+    "directional": 56
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.A",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model",
+   "label": "Stage A: whether a claim names an outcome",
+   "value": "n = 60; raw agreement 0.883 (53 of 60); kappa 0.483 (95% interval 0.13 to 0.78)",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 60,
+    "agree": 53,
+    "raw": 0.8833333333333333,
+    "kappa": 0.4827586206896549,
+    "kappa_note": null,
+    "interval": [
+     0.12698412698412676,
+     0.782608695652174
+    ],
+    "resamples": 2000
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.A_wordings",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model",
+   "label": "Stage A: claims where both name an outcome, the two wordings by reading",
+   "value": "49 claims: 3 different variable, 45 match, 1 polarity inverted",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "match": 45,
+    "different variable": 3,
+    "polarity inverted": 1
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.A2",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model",
+   "label": "Stage A2: the asserted direction's sign, by reading",
+   "value": "56 claims sent; coder 2 gives a direction on 53, none on 3; the sign by reading: 51 agree, 2 unclear",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "sent": 56,
+    "rows": 53,
+    "none": 3,
+    "calls": {
+     "agree": 51,
+     "unclear": 2
+    }
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.V",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model",
+   "label": "Stage V: voice",
+   "value": "n = 125; raw agreement 0.968 (121 of 125); kappa 0.908 (95% interval 0.80 to 0.98)",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 125,
+    "agree": 121,
+    "raw": 0.968,
+    "kappa": 0.9080882352941175,
+    "kappa_note": null,
+    "interval": [
+     0.8044692737430166,
+     0.9799839871897518
+    ],
+    "resamples": 2000
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.B.direction",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model",
+   "label": "Stage B: link direction, all links",
+   "value": "n = 452; raw agreement 0.867 (392 of 452); kappa 0.714 (95% interval 0.64 to 0.78)",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 452,
+    "agree": 392,
+    "raw": 0.8672566371681416,
+    "kappa": 0.7140296304107133,
+    "kappa_note": null,
+    "interval": [
+     0.6435481157469718,
+     0.7796990887899977
+    ],
+    "resamples": 2000
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.B.direction_directional",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model",
+   "label": "Stage B: link direction, links to directional claims",
+   "value": "n = 322; raw agreement 0.814 (262 of 322); kappa 0.642 (95% interval 0.56 to 0.72)",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 322,
+    "agree": 262,
+    "raw": 0.8136645962732919,
+    "kappa": 0.6423215773396278,
+    "kappa_note": null,
+    "interval": [
+     0.561419439198024,
+     0.7164749522275095
+    ],
+    "resamples": 2000
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.B.core",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model",
+   "label": "Stage B: core",
+   "value": "n = 60; raw agreement 0.917 (55 of 60); kappa 0.732 (95% interval 0.47 to 0.93)",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 60,
+    "agree": 55,
+    "raw": 0.9166666666666666,
+    "kappa": 0.732142857142857,
+    "kappa_note": null,
+    "interval": [
+     0.4666666666666668,
+     0.9315068493150682
+    ],
+    "resamples": 2000
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.B.stated_as",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model",
+   "label": "Stage B: stated as",
+   "value": "n = 60; raw agreement 0.950 (57 of 60); kappa 0.886 (95% interval 0.75 to 1.00)",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 60,
+    "agree": 57,
+    "raw": 0.95,
+    "kappa": 0.8863636363636362,
+    "kappa_note": null,
+    "interval": [
+     0.7475455820476858,
+     1.0
+    ],
+    "resamples": 2000
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.B.gap kind",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model",
+   "label": "Stage B: gap kind",
+   "value": "n = 4; raw agreement 0.750 (3 of 4); kappa withheld (fewer than 10 judgements)",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 4,
+    "agree": 3,
+    "raw": 0.75,
+    "kappa": null,
+    "kappa_note": "withheld (fewer than 10 judgements)",
+    "interval": null,
+    "resamples": null
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.B.pair drawn_by_authors",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model",
+   "label": "Stage B: pair drawn by authors",
+   "value": "n = 3; raw agreement 1.000 (3 of 3); kappa withheld (fewer than 10 judgements)",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 3,
+    "agree": 3,
+    "raw": 1.0,
+    "kappa": null,
+    "kappa_note": "withheld (fewer than 10 judgements)",
+    "interval": null,
+    "resamples": null
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.B.resolution_period",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model",
+   "label": "Stage B: resolution period",
+   "value": "n = 1; raw agreement 1.000 (1 of 1); kappa withheld (fewer than 10 judgements)",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 1,
+    "agree": 1,
+    "raw": 1.0,
+    "kappa": null,
+    "kappa_note": "withheld (fewer than 10 judgements)",
+    "interval": null,
+    "resamples": null
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.B.gloss_relation",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model",
+   "label": "Stage B: gloss relation",
+   "value": "n = 11; raw agreement 0.818 (9 of 11); kappa 0.607 (95% interval -0.03 to 1.00; 1,999 of 2,000 resamples gave a kappa)",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 11,
+    "agree": 9,
+    "raw": 0.8181818181818182,
+    "kappa": 0.6071428571428573,
+    "kappa_note": null,
+    "interval": [
+     -0.03125,
+     1.0
+    ],
+    "resamples": 1999
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.counts",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model — the second count",
+   "label": "Records compared",
+   "value": "120 fragments, 52 claims (48 directional), 412 links",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "fragments": 120,
+    "claims": 52,
+    "links": 412,
+    "directional": 48
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.A",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model — the second count",
+   "label": "Stage A: whether a claim names an outcome",
+   "value": "n = 52; raw agreement 0.885 (46 of 52); kappa 0.519 (95% interval 0.14 to 0.81)",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "n": 52,
+    "agree": 46,
+    "raw": 0.8846153846153846,
+    "kappa": 0.5185185185185184,
+    "kappa_note": null,
+    "interval": [
+     0.1362126245847179,
+     0.812274368231047
+    ],
+    "resamples": 2000
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.A_wordings",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model — the second count",
+   "label": "Stage A: claims where both name an outcome, the two wordings by reading",
+   "value": "42 claims: 2 different variable, 39 match, 1 polarity inverted",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "match": 39,
+    "different variable": 2,
+    "polarity inverted": 1
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.A2",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model — the second count",
+   "label": "Stage A2: the asserted direction's sign, by reading",
+   "value": "48 claims sent; coder 2 gives a direction on 45, none on 3; the sign by reading: 43 agree, 2 unclear",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "sent": 48,
+    "rows": 45,
+    "none": 3,
+    "calls": {
+     "agree": 43,
+     "unclear": 2
+    }
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.V",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model — the second count",
+   "label": "Stage V: voice",
+   "value": "n = 120; raw agreement 0.975 (117 of 120); kappa 0.927 (95% interval 0.83 to 1.00)",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "n": 120,
+    "agree": 117,
+    "raw": 0.975,
+    "kappa": 0.9274193548387096,
+    "kappa_note": null,
+    "interval": [
+     0.833718244803695,
+     1.0
+    ],
+    "resamples": 2000
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.B.direction",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model — the second count",
+   "label": "Stage B: link direction, all links",
+   "value": "n = 412; raw agreement 0.876 (361 of 412); kappa 0.722 (95% interval 0.65 to 0.79)",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "n": 412,
+    "agree": 361,
+    "raw": 0.8762135922330098,
+    "kappa": 0.7219053165160079,
+    "kappa_note": null,
+    "interval": [
+     0.6496970985226909,
+     0.7857685692572298
+    ],
+    "resamples": 2000
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.B.direction_directional",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model — the second count",
+   "label": "Stage B: link direction, links to directional claims",
+   "value": "n = 284; raw agreement 0.820 (233 of 284); kappa 0.654 (95% interval 0.57 to 0.74)",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "n": 284,
+    "agree": 233,
+    "raw": 0.8204225352112676,
+    "kappa": 0.6542620485522641,
+    "kappa_note": null,
+    "interval": [
+     0.5710069484790035,
+     0.7366932128848211
+    ],
+    "resamples": 2000
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.B.core",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model — the second count",
+   "label": "Stage B: core",
+   "value": "n = 52; raw agreement 0.904 (47 of 52); kappa 0.722 (95% interval 0.43 to 0.93)",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "n": 52,
+    "agree": 47,
+    "raw": 0.9038461538461539,
+    "kappa": 0.7222222222222222,
+    "kappa_note": null,
+    "interval": [
+     0.43478260869565205,
+     0.9297297297297296
+    ],
+    "resamples": 2000
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.B.stated_as",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model — the second count",
+   "label": "Stage B: stated as",
+   "value": "n = 52; raw agreement 0.981 (51 of 52); kappa 0.957 (95% interval 0.86 to 1.00)",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "n": 52,
+    "agree": 51,
+    "raw": 0.9807692307692307,
+    "kappa": 0.9569536423841059,
+    "kappa_note": null,
+    "interval": [
+     0.8571428571428571,
+     1.0
+    ],
+    "resamples": 2000
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.B.gap kind",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model — the second count",
+   "label": "Stage B: gap kind",
+   "value": "n = 4; raw agreement 0.750 (3 of 4); kappa withheld (fewer than 10 judgements)",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "n": 4,
+    "agree": 3,
+    "raw": 0.75,
+    "kappa": null,
+    "kappa_note": "withheld (fewer than 10 judgements)",
+    "interval": null,
+    "resamples": null
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.B.pair drawn_by_authors",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model — the second count",
+   "label": "Stage B: pair drawn by authors",
+   "value": "n = 3; raw agreement 1.000 (3 of 3); kappa withheld (fewer than 10 judgements)",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "n": 3,
+    "agree": 3,
+    "raw": 1.0,
+    "kappa": null,
+    "kappa_note": "withheld (fewer than 10 judgements)",
+    "interval": null,
+    "resamples": null
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.B.resolution_period",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model — the second count",
+   "label": "Stage B: resolution period",
+   "value": "n = 1; raw agreement 1.000 (1 of 1); kappa withheld (fewer than 10 judgements)",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "n": 1,
+    "agree": 1,
+    "raw": 1.0,
+    "kappa": null,
+    "kappa_note": "withheld (fewer than 10 judgements)",
+    "interval": null,
+    "resamples": null
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.B.gloss_relation",
+   "paper": "pratt_2000",
+   "section": "2. Agreement, model against model — the second count",
+   "label": "Stage B: gloss relation",
+   "value": "n = 11; raw agreement 0.818 (9 of 11); kappa 0.607 (95% interval -0.03 to 1.00; 1,999 of 2,000 resamples gave a kappa)",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "n": 11,
+    "agree": 9,
+    "raw": 0.8181818181818182,
+    "kappa": 0.6071428571428573,
+    "kappa_note": null,
+    "interval": [
+     -0.03125,
+     1.0
+    ],
+    "resamples": 1999
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.against.coder1.coded",
+   "paper": "pratt_2000",
+   "section": "3. `against` and the audit, in both versions",
+   "label": "`against` links, coder 1 (the extraction), as coded",
+   "value": "3 on 3 claim(s); at most 1 on one claim (C20, C21, C23); claims with two or more: none",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "links": 3,
+    "most": 1,
+    "two_or_more": []
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.against.coder1.check",
+   "paper": "pratt_2000",
+   "section": "3. `against` and the audit, in both versions",
+   "label": "`against` links, coder 1 (the extraction), with the flagged links as `illustrates`",
+   "value": "none (flagged: 3; answered 4a: 0)",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "links": 0,
+    "most": 0,
+    "flagged": 3
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.against.coder2.coded",
+   "paper": "pratt_2000",
+   "section": "3. `against` and the audit, in both versions",
+   "label": "`against` links, coder 2 (Opus 5.5), as coded",
+   "value": "2 on 2 claim(s); at most 1 on one claim (C22, C25); claims with two or more: none",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "links": 2,
+    "most": 1,
+    "two_or_more": []
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.against.coder2.check",
+   "paper": "pratt_2000",
+   "section": "3. `against` and the audit, in both versions",
+   "label": "`against` links, coder 2 (Opus 5.5), with the flagged links as `illustrates`",
+   "value": "1 on 1 claim(s); at most 1 on one claim (C22); claims with two or more: none (flagged: 1; answered 4a: 0)",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "links": 1,
+    "most": 1,
+    "flagged": 1
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.audit.coder1.coded",
+   "paper": "pratt_2000",
+   "section": "3. `against` and the audit, in both versions",
+   "label": "The audit under coder 1, as coded",
+   "value": "coverage 0.161 (9 of 56 directional claims assessed); seams: 0",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "coverage": 0.161,
+    "assessed": 9,
+    "directional": 56,
+    "seams": 0
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.audit.coder1.check",
+   "paper": "pratt_2000",
+   "section": "3. `against` and the audit, in both versions",
+   "label": "The audit under coder 1, with the flagged links as `illustrates`",
+   "value": "coverage 0.143 (8 of 56 directional claims assessed); seams: 0",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "coverage": 0.143,
+    "assessed": 8,
+    "directional": 56,
+    "seams": 0
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.audit.coder2.coded",
+   "paper": "pratt_2000",
+   "section": "3. `against` and the audit, in both versions",
+   "label": "The audit under coder 2, as coded",
+   "value": "coverage 0.107 (6 of 56 directional claims assessed); seams: 0",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "coverage": 0.107,
+    "assessed": 6,
+    "directional": 56,
+    "seams": 0
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.audit.coder2.check",
+   "paper": "pratt_2000",
+   "section": "3. `against` and the audit, in both versions",
+   "label": "The audit under coder 2, with the flagged links as `illustrates`",
+   "value": "coverage 0.107 (6 of 56 directional claims assessed); seams: 0",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "coverage": 0.107,
+    "assessed": 6,
+    "directional": 56,
+    "seams": 0
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.audit.rule",
+   "paper": "pratt_2000",
+   "section": "3. `against` and the audit, in both versions",
+   "label": "The audit's floor and rule",
+   "value": "no rate is reported under coverage 0.60; a claim is assessed with at least 4 `with` or `against` links from fragments not in the author's voice",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "min_coverage": 0.6,
+    "min_links": 4
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.against.coder1.coded",
+   "paper": "pratt_2000",
+   "section": "3. `against` and the audit, in both versions — the second count",
+   "label": "`against` links, coder 1 (the extraction), as coded",
+   "value": "3 on 3 claim(s); at most 1 on one claim (C20, C21, C23); claims with two or more: none",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "links": 3,
+    "most": 1,
+    "two_or_more": []
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.against.coder1.check",
+   "paper": "pratt_2000",
+   "section": "3. `against` and the audit, in both versions — the second count",
+   "label": "`against` links, coder 1 (the extraction), with the flagged links as `illustrates`",
+   "value": "none (flagged: 3; answered 4a: 0)",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "links": 0,
+    "most": 0,
+    "flagged": 3
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.against.coder2.coded",
+   "paper": "pratt_2000",
+   "section": "3. `against` and the audit, in both versions — the second count",
+   "label": "`against` links, coder 2 (Opus 5.5), as coded",
+   "value": "2 on 2 claim(s); at most 1 on one claim (C22, C25); claims with two or more: none",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "links": 2,
+    "most": 1,
+    "two_or_more": []
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.against.coder2.check",
+   "paper": "pratt_2000",
+   "section": "3. `against` and the audit, in both versions — the second count",
+   "label": "`against` links, coder 2 (Opus 5.5), with the flagged links as `illustrates`",
+   "value": "1 on 1 claim(s); at most 1 on one claim (C22); claims with two or more: none (flagged: 1; answered 4a: 0)",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "links": 1,
+    "most": 1,
+    "flagged": 1
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.audit.coder1.coded",
+   "paper": "pratt_2000",
+   "section": "3. `against` and the audit, in both versions — the second count",
+   "label": "The audit under coder 1, as coded",
+   "value": "coverage 0.167 (8 of 48 directional claims assessed); seams: 0",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "coverage": 0.167,
+    "assessed": 8,
+    "directional": 48,
+    "seams": 0
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.audit.coder1.check",
+   "paper": "pratt_2000",
+   "section": "3. `against` and the audit, in both versions — the second count",
+   "label": "The audit under coder 1, with the flagged links as `illustrates`",
+   "value": "coverage 0.146 (7 of 48 directional claims assessed); seams: 0",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "coverage": 0.146,
+    "assessed": 7,
+    "directional": 48,
+    "seams": 0
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.audit.coder2.coded",
+   "paper": "pratt_2000",
+   "section": "3. `against` and the audit, in both versions — the second count",
+   "label": "The audit under coder 2, as coded",
+   "value": "coverage 0.104 (5 of 48 directional claims assessed); seams: 0",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "coverage": 0.104,
+    "assessed": 5,
+    "directional": 48,
+    "seams": 0
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.audit.coder2.check",
+   "paper": "pratt_2000",
+   "section": "3. `against` and the audit, in both versions — the second count",
+   "label": "The audit under coder 2, with the flagged links as `illustrates`",
+   "value": "coverage 0.104 (5 of 48 directional claims assessed); seams: 0",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "coverage": 0.104,
+    "assessed": 5,
+    "directional": 48,
+    "seams": 0
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.second.audit.rule",
+   "paper": "pratt_2000",
+   "section": "3. `against` and the audit, in both versions — the second count",
+   "label": "The audit's floor and rule",
+   "value": "no rate is reported under coverage 0.60; a claim is assessed with at least 4 `with` or `against` links from fragments not in the author's voice",
+   "source": "`PRATT_SECOND_COUNT_LOG.md` (second_count.py's record)",
+   "raw": {
+    "min_coverage": 0.6,
+    "min_links": 4
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.wager.attack",
+   "paper": "pratt_2000",
+   "section": "4. The wager test (T29)",
+   "label": "The system's readings (cards) and the attack (GPT 6 Astra)",
+   "value": "5 cards: 5 killed (5 of them under B, import), 0 survived",
+   "source": "`stage2/attack_results.md`",
+   "raw": {
+    "cards": 5,
+    "killed": 5,
+    "killed_under_B": 5,
+    "survived": 0
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.wager.calibration",
+   "paper": "pratt_2000",
+   "section": "4. The wager test (T29)",
+   "label": "The attack's calibration: two copies of one card, each broken on purpose",
+   "value": "2 copies: chat 37 killed; chat 38 killed",
+   "source": "`stage2/attack_results.md`",
+   "raw": {
+    "copies": 2,
+    "killed": 2
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.wager.markers",
+   "paper": "pratt_2000",
+   "section": "4. The wager test (T29)",
+   "label": "The markers (Opus 5.5 and GPT 6 Astra), seven codes: below the bar of 0.60, reported by a decision of 11 Oct, made after the result",
+   "value": "141 of 203 sentences agree (0.695); kappa 0.593 (95% interval 0.52 to 0.67); the interval is new",
+   "source": "`stage2/marker_results/RESULTS.md`; the interval from the two replies and the key (new)",
+   "raw": {
+    "n": 203,
+    "agree": 141,
+    "kappa": 0.5927519818799548,
+    "interval": [
+     0.5155934113280085,
+     0.6689078986785607
+    ],
+    "resamples": 2000,
+    "below_bar": true
+   },
+   "new": true
+  },
+  {
+   "id": "pratt_2000.wager.markers4",
+   "paper": "pratt_2000",
+   "section": "4. The wager test (T29)",
+   "label": "The markers, four groups (a diagnostic only): below the bar",
+   "value": "agreement 0.754, kappa 0.595",
+   "source": "`stage2/marker_results/RESULTS.md`",
+   "raw": {
+    "observed": 0.754,
+    "kappa": 0.595
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.wager.rates.resolution",
+   "paper": "pratt_2000",
+   "section": "4. The wager test (T29)",
+   "label": "By arm, Opus 5.5 / GPT 6 Astra: resolution rate (R, RI, RA) (below the bar; reported by a decision made after the result)",
+   "value": "system 82% / 58%; middle 89% / 72%; plain 87% / 75%",
+   "source": "`stage2/marker_results/RESULTS.md`",
+   "raw": {
+    "system": "82% / 58%",
+    "middle": "89% / 72%",
+    "plain": "87% / 75%"
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.wager.rates.strict",
+   "paper": "pratt_2000",
+   "section": "4. The wager test (T29)",
+   "label": "By arm, Opus 5.5 / GPT 6 Astra: strict rate (R) (below the bar; reported by a decision made after the result)",
+   "value": "system 40% / 47%; middle 43% / 47%; plain 66% / 62%",
+   "source": "`stage2/marker_results/RESULTS.md`",
+   "raw": {
+    "system": "40% / 47%",
+    "middle": "43% / 47%",
+    "plain": "66% / 62%"
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.wager.rates.reporting",
+   "paper": "pratt_2000",
+   "section": "4. The wager test (T29)",
+   "label": "By arm, Opus 5.5 / GPT 6 Astra: sentences that report (not N) (below the bar; reported by a decision made after the result)",
+   "value": "system 45 / 43; middle 28 / 32; plain 62 / 73",
+   "source": "`stage2/marker_results/RESULTS.md`",
+   "raw": {
+    "system": "45 / 43",
+    "middle": "28 / 32",
+    "plain": "62 / 73"
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.wager.worth.system",
+   "paper": "pratt_2000",
+   "section": "4. The wager test (T29)",
+   "label": "The PI's worth, system arm (0 to 3; declared not blind)",
+   "value": "mean 0.60 over 5 readings; rated 2 or more: 1 of 5",
+   "source": "`stage2/worth/worth_joined.json`, checked against `stage2/worth/WORTH_RESULTS.md`",
+   "raw": {
+    "n": 5,
+    "mean": 0.6,
+    "mean_without_late": 0.6,
+    "two_or_more": 1,
+    "late": 0
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.wager.worth.middle",
+   "paper": "pratt_2000",
+   "section": "4. The wager test (T29)",
+   "label": "The PI's worth, middle arm (0 to 3; declared not blind)",
+   "value": "mean 1.00 over 5 readings; rated 2 or more: 1 of 5",
+   "source": "`stage2/worth/worth_joined.json`, checked against `stage2/worth/WORTH_RESULTS.md`",
+   "raw": {
+    "n": 5,
+    "mean": 1.0,
+    "mean_without_late": 1.0,
+    "two_or_more": 1,
+    "late": 0
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.wager.worth.plain",
+   "paper": "pratt_2000",
+   "section": "4. The wager test (T29)",
+   "label": "The PI's worth, plain arm (0 to 3; declared not blind)",
+   "value": "mean 1.40 over 5 readings; rated 2 or more: 3 of 5; without the 2 rated late, mean 1.67",
+   "source": "`stage2/worth/worth_joined.json`, checked against `stage2/worth/WORTH_RESULTS.md`",
+   "raw": {
+    "n": 5,
+    "mean": 1.4,
+    "mean_without_late": 1.6666666666666667,
+    "two_or_more": 3,
+    "late": 2
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.wager.gap.system_middle",
+   "paper": "pratt_2000",
+   "section": "4. The wager test (T29)",
+   "label": "Gap in the PI's mean worth (declared not blind), system against middle (the reading chats) (p by relabelling)",
+   "value": "-0.40 (p 0.683)",
+   "source": "`stage2/worth/WORTH_RESULTS.md`",
+   "raw": "-0.40 (p 0.683)",
+   "new": false
+  },
+  {
+   "id": "pratt_2000.wager.gap.system_plain",
+   "paper": "pratt_2000",
+   "section": "4. The wager test (T29)",
+   "label": "Gap in the PI's mean worth (declared not blind), system against plain (the plain chats) (p by relabelling); the plain arm's mean includes the readings the PI rated late",
+   "value": "-0.80 (p 0.333)",
+   "source": "`stage2/worth/WORTH_RESULTS.md`",
+   "raw": "-0.80 (p 0.333)",
+   "new": false
+  },
+  {
+   "id": "pratt_2000.wager.gap.middle_plain",
+   "paper": "pratt_2000",
+   "section": "4. The wager test (T29)",
+   "label": "Gap in the PI's mean worth (declared not blind), middle (the reading chats) against plain (the plain chats) (p by relabelling); the plain arm's mean includes the readings the PI rated late",
+   "value": "-0.40 (p 0.683)",
+   "source": "`stage2/worth/WORTH_RESULTS.md`",
+   "raw": "-0.40 (p 0.683)",
+   "new": false
+  },
+  {
+   "id": "pratt_2000.t31.differ",
+   "paper": "pratt_2000",
+   "section": "5.1 Added after the plan: T31, the judges (Gemini 3.1 Pro)",
+   "label": "Rows where the two codings differ, as the judge sorted them",
+   "value": "79 rows: both held 5; only coder 1's held 52; only coder 2's held 16; neither held 6",
+   "source": "`judge_results.json`, checked against `JUDGE_RESULTS.md`",
+   "raw": {
+    "only coder 2's held": 16,
+    "only coder 1's held": 52,
+    "both held": 5,
+    "neither held": 6,
+    "rows": 79
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.t31.planted",
+   "paper": "pratt_2000",
+   "section": "5.1 Added after the plan: T31, the judges (Gemini 3.1 Pro)",
+   "label": "How far the judge can be trusted: statements both codings made, and none made, held",
+   "value": "both made: 23 of 32 held; neither made: 0 of 16 held",
+   "source": "`judge_results.json`",
+   "raw": {
+    "both": [
+     23,
+     32
+    ],
+    "neither": [
+     0,
+     16
+    ]
+   },
+   "new": false
+  },
+  {
+   "id": "pratt_2000.t34",
+   "paper": "pratt_2000",
+   "section": "5.4 Added after the plan: T34, the author's own worth",
+   "label": "The author's ratings of the wager test's readings of the paper",
+   "value": "no reply in",
+   "source": "`author_ratings_key_pratt.json`; the folder",
+   "raw": {
+    "answers": []
+   },
+   "new": false
+  },
+  {
+   "id": "pred.bechky_2020.P1",
+   "paper": "across",
+   "section": "The counts the pinned predictions are read on (their words are in no file)",
+   "label": "P1, Bechky 2020: Stage A, whether a claim names an outcome",
+   "value": "22 of 23; kappa 0.881 (95% interval 0.57 to 1.00; 1,995 of 2,000 resamples gave a kappa)",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 23,
+    "agree": 22,
+    "raw": 0.9565217391304348,
+    "kappa": 0.8808290155440416,
+    "kappa_note": null,
+    "interval": [
+     0.5660377358490567,
+     1.0
+    ],
+    "resamples": 1995
+   },
+   "new": false
+  },
+  {
+   "id": "pred.bechky_2020.P2",
+   "paper": "across",
+   "section": "The counts the pinned predictions are read on (their words are in no file)",
+   "label": "P2, Bechky 2020: the most `against` links on any one claim, coder 1 / coder 2, as coded and with the flagged links as `illustrates`",
+   "value": "as coded 0 / 5; with the flags 0 / 0",
+   "source": "`BECHKY_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "coded": [
+     0,
+     5
+    ],
+    "check": [
+     0,
+     0
+    ]
+   },
+   "new": false
+  },
+  {
+   "id": "pred.bechky_2020.P3",
+   "paper": "across",
+   "section": "The counts the pinned predictions are read on (their words are in no file)",
+   "label": "P3 and P5, Bechky 2020: first return's fragments coded `reported` (all fragments)",
+   "value": "99 (168)",
+   "source": "`bechky_2020_corpus.json`, `bechky_2020_voice_gloss.json`",
+   "raw": {
+    "reported": 99,
+    "fragments": 168
+   },
+   "new": false
+  },
+  {
+   "id": "pred.bechky_2020.P4",
+   "paper": "across",
+   "section": "The counts the pinned predictions are read on (their words are in no file)",
+   "label": "P4, Bechky 2020: first return's ventured claims with a linked fragment",
+   "value": "2 of 4 (0.50)",
+   "source": "`bechky_2020_corpus.json`",
+   "raw": {
+    "ventured": 4,
+    "linked": 2
+   },
+   "new": false
+  },
+  {
+   "id": "pred.bechky_2020.P5",
+   "paper": "across",
+   "section": "The counts the pinned predictions are read on (their words are in no file)",
+   "label": "P5, Bechky 2020: first return's claims",
+   "value": "23",
+   "source": "`bechky_2020_corpus.json`",
+   "raw": 23,
+   "new": false
+  },
+  {
+   "id": "pred.pratt_2000.P1",
+   "paper": "across",
+   "section": "The counts the pinned predictions are read on (their words are in no file)",
+   "label": "P1, Pratt 2000: Stage A, whether a claim names an outcome",
+   "value": "53 of 60; kappa 0.483 (95% interval 0.13 to 0.78)",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "n": 60,
+    "agree": 53,
+    "raw": 0.8833333333333333,
+    "kappa": 0.4827586206896549,
+    "kappa_note": null,
+    "interval": [
+     0.12698412698412676,
+     0.782608695652174
+    ],
+    "resamples": 2000
+   },
+   "new": false
+  },
+  {
+   "id": "pred.pratt_2000.P2",
+   "paper": "across",
+   "section": "The counts the pinned predictions are read on (their words are in no file)",
+   "label": "P2, Pratt 2000: the most `against` links on any one claim, coder 1 / coder 2, as coded and with the flagged links as `illustrates`",
+   "value": "as coded 1 / 1; with the flags 0 / 1",
+   "source": "`PRATT_AGREEMENT_LOG.md` (agreement.py's record)",
+   "raw": {
+    "coded": [
+     1,
+     1
+    ],
+    "check": [
+     0,
+     1
+    ]
+   },
+   "new": false
+  },
+  {
+   "id": "pred.pratt_2000.P3",
+   "paper": "across",
+   "section": "The counts the pinned predictions are read on (their words are in no file)",
+   "label": "P3 and P5, Pratt 2000: first return's fragments coded `reported` (all fragments)",
+   "value": "92 (121)",
+   "source": "`pratt_2000_corpus.json`, `pratt_2000_voice_gloss.json`",
+   "raw": {
+    "reported": 92,
+    "fragments": 121
+   },
+   "new": false
+  },
+  {
+   "id": "pred.pratt_2000.P4",
+   "paper": "across",
+   "section": "The counts the pinned predictions are read on (their words are in no file)",
+   "label": "P4, Pratt 2000: first return's ventured claims with a linked fragment",
+   "value": "12 of 18 (0.67)",
+   "source": "`pratt_2000_corpus.json`",
+   "raw": {
+    "ventured": 18,
+    "linked": 12
+   },
+   "new": false
+  },
+  {
+   "id": "pred.pratt_2000.P5",
+   "paper": "across",
+   "section": "The counts the pinned predictions are read on (their words are in no file)",
+   "label": "P5, Pratt 2000: first return's claims",
+   "value": "52",
+   "source": "`pratt_2000_corpus.json`",
+   "raw": 52,
+   "new": false
+  },
+  {
+   "id": "t31.planted",
+   "paper": "across",
+   "section": "T31 over both papers",
+   "label": "Statements both codings made, held; statements neither made, held",
+   "value": "both made: 35 of 46; neither made: 1 of 23",
+   "source": "`judge_results.json`",
+   "raw": {
+    "both": [
+     35,
+     46
+    ],
+    "neither": [
+     1,
+     23
+    ]
+   },
+   "new": false
+  },
+  {
+   "id": "t29.worth.system",
+   "paper": "across",
+   "section": "T29 over both papers",
+   "label": "The PI's worth over both papers, system arm (declared not blind)",
+   "value": "mean 1.11 over 9 readings; rated 2 or more: 4 of 9",
+   "source": "`stage2/worth/worth_joined.json`, checked against `stage2/worth/WORTH_RESULTS.md`",
+   "raw": {
+    "n": 9,
+    "mean": 1.1111111111111112,
+    "two_or_more": 4,
+    "late": 0
+   },
+   "new": false
+  },
+  {
+   "id": "t29.worth.middle",
+   "paper": "across",
+   "section": "T29 over both papers",
+   "label": "The PI's worth over both papers, middle arm (declared not blind)",
+   "value": "mean 0.80 over 10 readings; rated 2 or more: 2 of 10",
+   "source": "`stage2/worth/worth_joined.json`, checked against `stage2/worth/WORTH_RESULTS.md`",
+   "raw": {
+    "n": 10,
+    "mean": 0.8,
+    "two_or_more": 2,
+    "late": 0
+   },
+   "new": false
+  },
+  {
+   "id": "t29.worth.plain",
+   "paper": "across",
+   "section": "T29 over both papers",
+   "label": "The PI's worth over both papers, plain arm (declared not blind)",
+   "value": "mean 1.70 over 10 readings; rated 2 or more: 8 of 10; without the 3 rated late, mean 1.86",
+   "source": "`stage2/worth/worth_joined.json`, checked against `stage2/worth/WORTH_RESULTS.md`",
+   "raw": {
+    "n": 10,
+    "mean": 1.7,
+    "two_or_more": 8,
+    "late": 3
+   },
+   "new": false
+  },
+  {
+   "id": "t29.gap.system_middle",
+   "paper": "across",
+   "section": "T29 over both papers",
+   "label": "Gap in the PI's mean worth (declared not blind) over both papers, system against middle (the reading chats) (p by relabelling within each paper)",
+   "value": "+0.31 (p 0.594)",
+   "source": "`stage2/worth/WORTH_RESULTS.md`",
+   "raw": "+0.31 (p 0.594)",
+   "new": false
+  },
+  {
+   "id": "t29.gap.system_plain",
+   "paper": "across",
+   "section": "T29 over both papers",
+   "label": "Gap in the PI's mean worth (declared not blind) over both papers, system against plain (the plain chats) (p by relabelling within each paper); the plain arm's mean includes the readings the PI rated late",
+   "value": "-0.59 (p 0.122)",
+   "source": "`stage2/worth/WORTH_RESULTS.md`",
+   "raw": "-0.59 (p 0.122)",
+   "new": false
+  },
+  {
+   "id": "t29.gap.middle_plain",
+   "paper": "across",
+   "section": "T29 over both papers",
+   "label": "Gap in the PI's mean worth (declared not blind) over both papers, middle (the reading chats) against plain (the plain chats) (p by relabelling within each paper); the plain arm's mean includes the readings the PI rated late",
+   "value": "-0.90 (p 0.036)",
+   "source": "`stage2/worth/WORTH_RESULTS.md`",
+   "raw": "-0.90 (p 0.036)",
+   "new": false
+  },
+  {
+   "id": "t29.attack_worth.killed",
+   "paper": "across",
+   "section": "T29 over both papers",
+   "label": "The system's readings the attack killed: the PI's worth (declared not blind)",
+   "value": "7 readings, mean worth 1.00",
+   "source": "`stage2/worth/worth_joined.json`, checked against `stage2/worth/WORTH_RESULTS.md`",
+   "raw": {
+    "n": 7,
+    "mean": 1.0
+   },
+   "new": false
+  },
+  {
+   "id": "t29.attack_worth.survived",
+   "paper": "across",
+   "section": "T29 over both papers",
+   "label": "The system's readings the attack survived: the PI's worth (declared not blind)",
+   "value": "2 readings, mean worth 1.50",
+   "source": "`stage2/worth/worth_joined.json`, checked against `stage2/worth/WORTH_RESULTS.md`",
+   "raw": {
+    "n": 2,
+    "mean": 1.5
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.extraction",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "extraction (Bechky 2020, Pratt 2000)",
+   "value": "3 chat(s); Opus 5.5 (1); ChatGPT 5.6, naming itself GPT 5.6 Sol (1); ChatGPT, naming itself GPT 5.6 Sol (1); 2026-09-27, 2026-10-06; no start and end on record; a length as recorded for 2",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 3,
+    "models": {
+     "Opus 5.5": 1,
+     "ChatGPT 5.6, naming itself GPT 5.6 Sol": 1,
+     "ChatGPT, naming itself GPT 5.6 Sol": 1
+    },
+    "timed_min": [],
+    "told": 2
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.brief review (separate chat)",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "brief review (separate chat) (Pratt 2000)",
+   "value": "1 chat(s); ChatGPT Astra (1); date not on record; no start and end on record",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 1,
+    "models": {
+     "ChatGPT Astra": 1
+    },
+    "timed_min": [],
+    "told": 0
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.model check",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "model check",
+   "value": "5 chat(s); ChatGPT, naming itself 5.6 Sol (1); ChatGPT, naming itself GPT-5.6 Sol (1); ChatGPT, naming itself GPT-6 (3); 2026-10-05, 2026-10-06, 2026-10-08, 2026-10-09, 2026-10-15; no start and end on record",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 5,
+    "models": {
+     "ChatGPT, naming itself 5.6 Sol": 1,
+     "ChatGPT, naming itself GPT-5.6 Sol": 1,
+     "ChatGPT, naming itself GPT-6": 3
+    },
+    "timed_min": [],
+    "told": 0
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.run C (named in passing only)",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "run C (named in passing only)",
+   "value": "1 chat(s); GPT 6 Astra (1); 2026-10-06; no start and end on record",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 1,
+    "models": {
+     "GPT 6 Astra": 1
+    },
+    "timed_min": [],
+    "told": 0
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.coverage chat",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "coverage chat (Bechky 2020, Pratt 2000)",
+   "value": "2 chat(s); ChatGPT, named GPT 5.6 Sol in its saved reply (1); ChatGPT, naming itself GPT-6 (1); 2026-10-07, 2026-10-09; no start and end on record; a length as recorded for 2",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 2,
+    "models": {
+     "ChatGPT, named GPT 5.6 Sol in its saved reply": 1,
+     "ChatGPT, naming itself GPT-6": 1
+    },
+    "timed_min": [],
+    "told": 2
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.second coding",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "second coding (Bechky 2020, Pratt 2000)",
+   "value": "8 chat(s); Opus 5.5 (8); 2026-10-08, 2026-10-09; start and end on record for 6: 10, 20, 3, 5, 4, 45 min (87 min in all); a length as recorded for 2 more",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 8,
+    "models": {
+     "Opus 5.5": 8
+    },
+    "timed_min": [
+     10,
+     20,
+     3,
+     5,
+     4,
+     45
+    ],
+    "told": 2
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.against check",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "against check",
+   "value": "1 chat(s); Opus 5.5 (1); 2026-10-09; start and end on record for 1: 3 min (3 min in all)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 1,
+    "models": {
+     "Opus 5.5": 1
+    },
+    "timed_min": [
+     3
+    ],
+    "told": 0
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T29 generation",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T29 generation (Bechky 2020, Pratt 2000)",
+   "value": "2 chat(s); Fable 5.1 (2); 2026-10-11; start and end on record for 1: 26 min (26 min in all); a length as recorded for 1 more",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 2,
+    "models": {
+     "Fable 5.1": 2
+    },
+    "timed_min": [
+     26
+    ],
+    "told": 1
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T29 baseline middle",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T29 baseline middle (Bechky 2020, Pratt 2000)",
+   "value": "2 chat(s); Fable 5.1 (2); 2026-10-11; no start and end on record",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 2,
+    "models": {
+     "Fable 5.1": 2
+    },
+    "timed_min": [],
+    "told": 0
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T29 baseline plain",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T29 baseline plain (Bechky 2020, Pratt 2000)",
+   "value": "2 chat(s); Fable 5.1 (2); 2026-10-11; no start and end on record",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 2,
+    "models": {
+     "Fable 5.1": 2
+    },
+    "timed_min": [],
+    "told": 0
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T29 attack",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T29 attack (Bechky 2020, Pratt 2000)",
+   "value": "11 chat(s); GPT 6 Astra (11); 2026-10-11; no start and end on record",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 11,
+    "models": {
+     "GPT 6 Astra": 11
+    },
+    "timed_min": [],
+    "told": 0
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T29 marker",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T29 marker (Bechky 2020, Pratt 2000)",
+   "value": "4 chat(s); Opus 5.5 (2); GPT 6 Astra (2); 2026-10-11; start and end on record for 4: 18, 10, 21, 10 min (59 min in all)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 4,
+    "models": {
+     "Opus 5.5": 2,
+     "GPT 6 Astra": 2
+    },
+    "timed_min": [
+     18,
+     10,
+     21,
+     10
+    ],
+    "told": 0
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T31 judge",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T31 judge (Bechky 2020, Pratt 2000)",
+   "value": "2 chat(s); Gemini 3.1 Pro (1); Gemini Pro (1); 2026-10-13; no start and end on record",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 2,
+    "models": {
+     "Gemini 3.1 Pro": 1,
+     "Gemini Pro": 1
+    },
+    "timed_min": [],
+    "told": 0
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T32 readings",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T32 readings (Bechky 2020)",
+   "value": "2 chat(s); Fable 5.1 (2); 2026-10-13; no start and end on record",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 2,
+    "models": {
+     "Fable 5.1": 2
+    },
+    "timed_min": [],
+    "told": 0
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T32 marker",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T32 marker (Bechky 2020)",
+   "value": "2 chat(s); Opus 5.5 (1); GPT 6 Astra (1); 2026-10-13; no start and end on record; a length as recorded for 2",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 2,
+    "models": {
+     "Opus 5.5": 1,
+     "GPT 6 Astra": 1
+    },
+    "timed_min": [],
+    "told": 2
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T33 plain second vendor",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T33 plain second vendor (Bechky 2020)",
+   "value": "2 chat(s); GPT 6 Astra (2); 2026-10-14; no start and end on record",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 2,
+    "models": {
+     "GPT 6 Astra": 2
+    },
+    "timed_min": [],
+    "told": 0
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T33 coder arm A",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T33 coder arm A (Bechky 2020)",
+   "value": "2 chat(s); Opus 5.5 (1); GPT 6 Astra (1); 2026-10-14; no start and end on record; a length as recorded for 2",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 2,
+    "models": {
+     "Opus 5.5": 1,
+     "GPT 6 Astra": 1
+    },
+    "timed_min": [],
+    "told": 2
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T33 coder arm B",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T33 coder arm B (Bechky 2020)",
+   "value": "2 chat(s); Opus 5.5 (1); GPT 6 Astra (1); 2026-10-14; no start and end on record; a length as recorded for 2",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 2,
+    "models": {
+     "Opus 5.5": 1,
+     "GPT 6 Astra": 1
+    },
+    "timed_min": [],
+    "told": 2
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T35 second extraction",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T35 second extraction (Bechky 2020)",
+   "value": "1 chat(s); ChatGPT, naming itself GPT-6 (1); 2026-10-15; no start and end on record; a length as recorded for 1",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 1,
+    "models": {
+     "ChatGPT, naming itself GPT-6": 1
+    },
+    "timed_min": [],
+    "told": 1
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T35 matcher",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T35 matcher (Bechky 2020)",
+   "value": "2 chat(s); Opus 5.5 (1); GPT 6 Astra (1); 2026-10-15; no start and end on record; a length as recorded for 2",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 2,
+    "models": {
+     "Opus 5.5": 1,
+     "GPT 6 Astra": 1
+    },
+    "timed_min": [],
+    "told": 2
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T36 citation only",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T36 citation only (Bechky 2020, Pratt 2000)",
+   "value": "4 chat(s); Fable 5.1 (2); GPT 6 Astra (2); 2026-10-16; no start and end on record; a length as recorded for 4",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 4,
+    "models": {
+     "Fable 5.1": 2,
+     "GPT 6 Astra": 2
+    },
+    "timed_min": [],
+    "told": 4
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T37 planted readings",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T37 planted readings (Bechky 2020, Pratt 2000)",
+   "value": "2 chat(s); Fable 5.1 (2); 2026-10-17; no start and end on record",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 2,
+    "models": {
+     "Fable 5.1": 2
+    },
+    "timed_min": [],
+    "told": 0
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T37 coder",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T37 coder (Bechky 2020, Pratt 2000)",
+   "value": "4 chat(s); Gemini 4 Argon (2); GPT 6 Astra (2); 2026-10-17; no start and end on record; a length as recorded for 4",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 4,
+    "models": {
+     "Gemini 4 Argon": 2,
+     "GPT 6 Astra": 2
+    },
+    "timed_min": [],
+    "told": 4
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T38 checker",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T38 checker (Bechky 2020, Pratt 2000)",
+   "value": "2 chat(s); Opus 5.5 (2); 2026-10-17; no start and end on record; a length as recorded for 2",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 2,
+    "models": {
+     "Opus 5.5": 2
+    },
+    "timed_min": [],
+    "told": 2
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T38 ready test",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T38 ready test (Bechky 2020)",
+   "value": "1 chat(s); Opus 5.5 (1); 2026-10-17; no start and end on record; a length as recorded for 1",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 1,
+    "models": {
+     "Opus 5.5": 1
+    },
+    "timed_min": [],
+    "told": 1
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T38 judge",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T38 judge (Bechky 2020, Pratt 2000)",
+   "value": "2 chat(s); Gemini 4 Argon (2); 2026-10-17; no start and end on record; a length as recorded for 2",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 2,
+    "models": {
+     "Gemini 4 Argon": 2
+    },
+    "timed_min": [],
+    "told": 2
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T39 map",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T39 map (Bechky 2020, Pratt 2000)",
+   "value": "4 chat(s); Opus 5.5 (2); GPT 6 (2); 2026-10-18; no start and end on record; a length as recorded for 4",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 4,
+    "models": {
+     "Opus 5.5": 2,
+     "GPT 6": 2
+    },
+    "timed_min": [],
+    "told": 4
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T39 placement",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T39 placement (Bechky 2020, Pratt 2000)",
+   "value": "4 chat(s); Gemini 4 Argon (4); 2026-10-18; no start and end on record; a length as recorded for 2",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 4,
+    "models": {
+     "Gemini 4 Argon": 4
+    },
+    "timed_min": [],
+    "told": 2
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T39 openings check",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T39 openings check (Bechky 2020, Pratt 2000)",
+   "value": "2 chat(s); GPT 6 (2); 2026-10-18; no start and end on record; a length as recorded for 2",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 2,
+    "models": {
+     "GPT 6": 2
+    },
+    "timed_min": [],
+    "told": 2
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.T39 map task feedback",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "T39 map task feedback (Bechky 2020)",
+   "value": "2 chat(s); Argon (as the file names it) (1); ChatGPT (as the file names it; the model not named) (1); 2026-10-18; no start and end on record",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 2,
+    "models": {
+     "Argon (as the file names it)": 1,
+     "ChatGPT (as the file names it; the model not named)": 1
+    },
+    "timed_min": [],
+    "told": 0
+   },
+   "new": false
+  },
+  {
+   "id": "hours.step.step 10 example: titles",
+   "paper": "across",
+   "section": "Models and times by step, from the list below",
+   "label": "step 10 example: titles (Bechky 2020)",
+   "value": "1 chat(s); Opus 5.5 (1); 2026-10-20; start and end on record for 1: 14 min (14 min in all)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "chats": 1,
+    "models": {
+     "Opus 5.5": 1
+    },
+    "timed_min": [
+     14
+    ],
+    "told": 0
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pratt_extraction_attempt1",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "extraction, Pratt 2000",
+   "value": "Opus 5.5, maximum effort, incognito claude.ai chat; date not on record",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": null,
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pratt_extraction",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "extraction, Pratt 2000",
+   "value": "ChatGPT 5.6, naming itself GPT 5.6 Sol, Temporary Chat; memory, custom instructions and web search off; 2026-09-27; the last files came 45 minutes after the first",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-09-27",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pratt_review_chat",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "brief review (separate chat), Pratt 2000",
+   "value": "ChatGPT Astra, max (named 'ChatGPT Astra max'); a separate chat; its settings were not recorded; date not on record",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": null,
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.model_check_5oct",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "model check",
+   "value": "ChatGPT, naming itself 5.6 Sol, a separate chat (kind not stated); 2026-10-05",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-05",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.run_C_6oct",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "run C (named in passing only)",
+   "value": "GPT 6 Astra, under 'Work' in ChatGPT, the only place Astra can be chosen; 2026-10-06",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-06",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.bechky_extraction",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 8: extraction, Bechky 2020",
+   "value": "ChatGPT, naming itself GPT 5.6 Sol, High thinking effort, Temporary Chat under 'Chat'; memory, custom instructions, web search, connectors off; 2026-10-06, 20:06 to ?; chat's own working time 48 min 37 s over six passes; 57 minutes from the start to the last download",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-06",
+    "start": "20:06",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.model_check_6oct",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "model check",
+   "value": "ChatGPT, naming itself GPT-5.6 Sol, Temporary Chat (address ends temporary-chat=true); the 'Chat'/'Work' switch and the effort are not shown; 2026-10-06",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-06",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.bechky_coverage_chat",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 9: coverage chat, Bechky 2020",
+   "value": "ChatGPT, named GPT 5.6 Sol in its saved reply, High thinking effort; Temporary Chat under 'Chat'; memory, custom instructions, web search, connectors off; 2026-10-07, 12:40 to ?; Worked for 9m 5s (its saved reply)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-07",
+    "start": "12:40",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.bechky_stage_A",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 10: second coding, Bechky 2020",
+   "value": "Opus 5.5, Extra, fresh incognito claude.ai chat outside any project; web search, research, connectors off; tools off; 2026-10-08, 07:15 to ?; about 5 minutes",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-08",
+    "start": "07:15",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.bechky_stage_A2",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "second coding, Bechky 2020",
+   "value": "Opus 5.5, Extra, fresh incognito claude.ai chat outside any project; web search, research, connectors off; 2026-10-08, 07:25 to ?; about 3 minutes",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-08",
+    "start": "07:25",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.bechky_stage_V",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 12: second coding, Bechky 2020",
+   "value": "Opus 5.5, Extra, fresh incognito claude.ai chat outside any project; web search, research, connectors off; 2026-10-08, 07:45 to 07:55 (10 min)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-08",
+    "start": "07:45",
+    "end": "07:55",
+    "duration_min": 10
+   },
+   "new": false
+  },
+  {
+   "id": "hours.bechky_stage_B",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 13: second coding, Bechky 2020",
+   "value": "Opus 5.5, Extra, fresh incognito claude.ai chat outside any project; web search, research, connectors off; continue typed whenever it stopped; 2026-10-08, 08:05 to 08:25 (20 min)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-08",
+    "start": "08:05",
+    "end": "08:25",
+    "duration_min": 20
+   },
+   "new": false
+  },
+  {
+   "id": "hours.model_check_8oct",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "model check",
+   "value": "ChatGPT, naming itself GPT-6, Temporary Chat; 2026-10-08",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-08",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.model_check_9oct",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "model check",
+   "value": "ChatGPT, naming itself GPT-6, Temporary Chat; 2026-10-09",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-09",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pratt_coverage_chat",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "coverage chat, Pratt 2000",
+   "value": "ChatGPT, naming itself GPT-6, High thinking effort, fresh Temporary Chat under 'Chat'; memory, custom instructions, web search, connectors off; 2026-10-09, 10:31 to ?; worked for 10 min 30 s (its own first line)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-09",
+    "start": "10:31",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pratt_stage_A",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 17: second coding, Pratt 2000",
+   "value": "Opus 5.5, Extra, fresh incognito claude.ai chat outside any project; web search, research, connectors off; 2026-10-09, 11:33 to 11:36 (3 min)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-09",
+    "start": "11:33",
+    "end": "11:36",
+    "duration_min": 3
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pratt_stage_A2",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "second coding, Pratt 2000",
+   "value": "Opus 5.5, Extra, fresh incognito claude.ai chat outside any project; web search, research, connectors off (as for Stage A); 2026-10-09, 11:41 to 11:46 (5 min)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-09",
+    "start": "11:41",
+    "end": "11:46",
+    "duration_min": 5
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pratt_stage_V",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "second coding, Pratt 2000",
+   "value": "Opus 5.5, Extra, fresh incognito claude.ai chat outside any project; web search, research, connectors off (as for the stages before); 2026-10-09, 11:49 to 11:53 (4 min)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-09",
+    "start": "11:49",
+    "end": "11:53",
+    "duration_min": 4
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pratt_stage_B",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "second coding, Pratt 2000",
+   "value": "Opus 5.5, Extra, fresh incognito claude.ai chat outside any project; web search, research, connectors off (as for the stages before); stops for continue not on record; 2026-10-09, 11:58 to 12:43 (45 min)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-09",
+    "start": "11:58",
+    "end": "12:43",
+    "duration_min": 45
+   },
+   "new": false
+  },
+  {
+   "id": "hours.against_check",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 21: against check",
+   "value": "Opus 5.5, Extra, fresh incognito claude.ai chat outside any project; web search, research, connectors off; AGAINST_CHECK.md and the table only; 2026-10-09, 19:51 to 19:54 (3 min)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-09",
+    "start": "19:51",
+    "end": "19:54",
+    "duration_min": 3
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_22",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 22: T29 generation, Pratt 2000",
+   "value": "Fable 5.1, max, fresh incognito chat; file creation on, network access off; no profile preferences or style; bundle files, no PDF; 2026-10-11, 10:18 to 10:44 (26 min)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": "10:18",
+    "end": "10:44",
+    "duration_min": 26
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_23",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 23: T29 generation, Bechky 2020",
+   "value": "Fable 5.1, max, fresh incognito chat; file creation on, network access off; no profile preferences or style; bundle files, no PDF; 2026-10-11; after continue, about 8 more minutes before Fable's revised reply",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_24",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 24: T29 baseline middle, Pratt 2000",
+   "value": "Fable 5.1, max, fresh incognito chat; file creation on, network access off; no profile preferences or style; READING_PROMPT.md and the PDF; 2026-10-11",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_25",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 25: T29 baseline plain, Pratt 2000",
+   "value": "Fable 5.1, max, fresh incognito chat; file creation on, network access off; no profile preferences or style; ALTERNATIVE_READINGS.md and the PDF; 2026-10-11",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_26",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 26: T29 baseline middle, Bechky 2020",
+   "value": "Fable 5.1, max, fresh incognito chat; file creation on, network access off; no profile preferences or style; READING_PROMPT.md and the PDF; 2026-10-11",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_27",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 27: T29 baseline plain, Bechky 2020",
+   "value": "Fable 5.1, max, fresh incognito chat; file creation on, network access off; no profile preferences or style; ALTERNATIVE_READINGS.md and the PDF; 2026-10-11",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_28",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 28: T29 attack, Pratt 2000",
+   "value": "GPT 6 Astra, max, fresh ChatGPT Temporary Chat; memory, custom instructions, web search off (by ATTACK_SEND.md); 2026-10-11",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_29",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 29: T29 attack, Pratt 2000 (by `stage2/attack_results.md`)",
+   "value": "GPT 6 Astra, max, fresh ChatGPT Temporary Chat; memory, custom instructions, web search off (by ATTACK_SEND.md); 2026-10-11",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_30",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 30: T29 attack, Pratt 2000 (by `stage2/attack_results.md`)",
+   "value": "GPT 6 Astra, max, fresh ChatGPT Temporary Chat; memory, custom instructions, web search off (by ATTACK_SEND.md); 2026-10-11",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_31",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 31: T29 attack, Pratt 2000",
+   "value": "GPT 6 Astra, max, fresh ChatGPT Temporary Chat; memory, custom instructions, web search off (by ATTACK_SEND.md); 2026-10-11",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_32",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 32: T29 attack, Pratt 2000 (by `stage2/attack_results.md`)",
+   "value": "GPT 6 Astra, max, fresh ChatGPT Temporary Chat; memory, custom instructions, web search off (by ATTACK_SEND.md); 2026-10-11",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_33",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 33: T29 attack, Bechky 2020 (by `stage2/attack_results.md`)",
+   "value": "GPT 6 Astra, max, fresh ChatGPT Temporary Chat; memory, custom instructions, web search off (by ATTACK_SEND.md); 2026-10-11",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_34",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 34: T29 attack, Bechky 2020 (by `stage2/attack_results.md`)",
+   "value": "GPT 6 Astra, max, fresh ChatGPT Temporary Chat; memory, custom instructions, web search off (by ATTACK_SEND.md); 2026-10-11",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_35",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 35: T29 attack, Bechky 2020",
+   "value": "GPT 6 Astra, max, fresh ChatGPT Temporary Chat; memory, custom instructions, web search off (by ATTACK_SEND.md); 2026-10-11",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_36",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 36: T29 attack, Bechky 2020",
+   "value": "GPT 6 Astra, max, fresh ChatGPT Temporary Chat; memory, custom instructions, web search off (by ATTACK_SEND.md); 2026-10-11",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_37",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 37: T29 attack, Pratt 2000 (by `stage2/attack_results.md`); calibration copy x of 31: planted import",
+   "value": "GPT 6 Astra, max, fresh ChatGPT Temporary Chat; memory, custom instructions, web search off (by ATTACK_SEND.md); 2026-10-11",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_38",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 38: T29 attack, Pratt 2000; calibration copy y of 31: planted contradiction",
+   "value": "GPT 6 Astra, max, fresh ChatGPT Temporary Chat; memory, custom instructions, web search off (by ATTACK_SEND.md); calibration copy y; 2026-10-11",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_39",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 39: T29 marker, Pratt 2000",
+   "value": "Opus 5.5, Extra, in claude.ai (by MARKER_SEND.md); MARKING.md, the readings file and the PDF; 2026-10-11, 14:28 to 14:46 (18 min)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": "14:28",
+    "end": "14:46",
+    "duration_min": 18
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_40",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 40: T29 marker, Pratt 2000",
+   "value": "GPT 6 Astra, max, in ChatGPT (by MARKER_SEND.md); MARKING.md, the readings file and the PDF; 2026-10-11, 14:29 to 14:39 (10 min)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": "14:29",
+    "end": "14:39",
+    "duration_min": 10
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_41",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 41: T29 marker, Bechky 2020",
+   "value": "Opus 5.5, Extra, in claude.ai (by MARKER_SEND.md); MARKING.md, the readings file and the PDF; 2026-10-11, 14:49 to 15:10 (21 min)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": "14:49",
+    "end": "15:10",
+    "duration_min": 21
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_42",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 42: T29 marker, Bechky 2020",
+   "value": "GPT 6 Astra, max, in ChatGPT (by MARKER_SEND.md); MARKING.md, the readings file and the PDF; 2026-10-11, 14:45 to 14:55 (10 min)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": "14:45",
+    "end": "14:55",
+    "duration_min": 10
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_43",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 43: T31 judge, Pratt 2000",
+   "value": "Gemini 3.1 Pro, advanced reasoning, Thinking High (Extra thorough), temporary mode; 2026-10-13",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-13",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_44",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 44: T31 judge, Bechky 2020",
+   "value": "Gemini Pro, the Pro model at its deepest thinking, a temporary chat if offered (by the steps; its model and mode not confirmed); 2026-10-13",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-13",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_45",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 45: T32 readings, Bechky 2020",
+   "value": "Fable 5.1, max, fresh incognito claude.ai chat with the wager test's settings; PLACE_READINGS.md, PLACES.md and the PDF; 2026-10-13",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-13",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_46",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 46: T32 readings, Bechky 2020",
+   "value": "Fable 5.1, max, fresh incognito claude.ai chat with the wager test's settings; OPEN_PLACES.md and the PDF; 2026-10-13",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-13",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_47",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 47: T32 marker, Bechky 2020",
+   "value": "Opus 5.5, Extra, incognito (ran as the steps say); 2026-10-13; 20 minutes",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-13",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_48",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 48: T32 marker, Bechky 2020",
+   "value": "GPT 6 Astra, max, Temporary Chat (ran as the steps say); 2026-10-13; 12 minutes",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-13",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_49",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 49: T33 plain second vendor, Bechky 2020",
+   "value": "GPT 6 Astra, max, fresh ChatGPT Temporary Chat; the PDF and ALTERNATIVE_READINGS.md; 2026-10-14",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-14",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_50",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 50: T33 plain second vendor, Bechky 2020",
+   "value": "GPT 6 Astra, max, fresh ChatGPT Temporary Chat; the PDF and ALTERNATIVE_READINGS.md; 2026-10-14",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-14",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_51",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 51: T33 coder arm A, Bechky 2020",
+   "value": "Opus 5.5, Extra, incognito (T33 coders' set-up, by MATCHING_SEND.md); MATCHING_A.md and the readings file, no reference; 2026-10-14, 11:05 to ?; around 5 minutes each",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-14",
+    "start": "11:05",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_52",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 52: T33 coder arm A, Bechky 2020",
+   "value": "GPT 6 Astra, max, Temporary Chat (T33 coders' set-up, by MATCHING_SEND.md); MATCHING_A.md and the readings file, no reference; 2026-10-14, 11:05 to ?; around 5 minutes each",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-14",
+    "start": "11:05",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_53",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 53: T33 coder arm B, Bechky 2020",
+   "value": "Opus 5.5, Extra, incognito (T33 coders' set-up, by MATCHING_SEND.md); MATCHING_B.md, the readings file and REFERENCE_bechky.md; 2026-10-14, 11:05 to ?; around 5 minutes each",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-14",
+    "start": "11:05",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_54",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 54: T33 coder arm B, Bechky 2020",
+   "value": "GPT 6 Astra, max, Temporary Chat (T33 coders' set-up, by MATCHING_SEND.md); MATCHING_B.md, the readings file and REFERENCE_bechky.md; 2026-10-14, 11:05 to ?; around 5 minutes each",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-14",
+    "start": "11:05",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.model_check_15oct",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "model check",
+   "value": "ChatGPT, naming itself GPT-6, Temporary Chat (address ends temporary-chat=true); the 'Chat'/'Work' switch and the effort are not shown; 2026-10-15",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-15",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_55",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 55: T35 second extraction, Bechky 2020",
+   "value": "ChatGPT, naming itself GPT-6, thinking High, fresh Temporary Chat under 'Chat'; memory, custom instructions, web search, connectors off; 2026-10-15, 10:35 to ?; chat's working time 61 min 10 s over six passes",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-15",
+    "start": "10:35",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_56",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 56: T35 matcher, Bechky 2020",
+   "value": "Opus 5.5, Extra, fresh incognito claude.ai chat outside any project; web search, research, connectors off; file creation on, network access off; 2026-10-15, 12:04 to ?; 5 minutes (its window: Thought for 1m 34s)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-15",
+    "start": "12:04",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_57",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 57: T35 matcher, Bechky 2020",
+   "value": "GPT 6 Astra, max, fresh ChatGPT Temporary Chat; memory, custom instructions, web search off; 2026-10-15, 12:04 to ?; about 7 minutes (2 minutes longer than Opus)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-15",
+    "start": "12:04",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_58",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 58: T36 citation only, Bechky 2020",
+   "value": "Fable 5.1, max, fresh incognito claude.ai chat outside any project; web search, research and every connector off; file creation on, network access off; no profile preferences or style; CITATION_ONLY_READINGS.md only, no PDF; 2026-10-16, 19:40 to ?; 3 to 4 minutes",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-16",
+    "start": "19:40",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_59",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 59: T36 citation only, Bechky 2020",
+   "value": "GPT 6 Astra, max, fresh ChatGPT Temporary Chat; memory, custom instructions and web search off; no project; CITATION_ONLY_READINGS.md only, no PDF; 2026-10-16, 19:40 to ?; 3 to 4 minutes",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-16",
+    "start": "19:40",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_60",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 60: T36 citation only, Pratt 2000",
+   "value": "Fable 5.1, max, fresh incognito claude.ai chat outside any project; web search, research and every connector off; file creation on, network access off; no profile preferences or style; CITATION_ONLY_READINGS.md only, no PDF; 2026-10-16, 19:45 to ?; 3 to 4 minutes",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-16",
+    "start": "19:45",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_61",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 61: T36 citation only, Pratt 2000",
+   "value": "GPT 6 Astra, max, fresh ChatGPT Temporary Chat; memory, custom instructions and web search off; no project; CITATION_ONLY_READINGS.md only, no PDF; 2026-10-16, 19:45 to ?; 3 to 4 minutes",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-16",
+    "start": "19:45",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_62",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 62: T37 planted readings, Bechky 2020",
+   "value": "Fable 5.1, max, fresh incognito claude.ai chat outside any project; web search, research and every connector off; file creation on, network access off; no profile preferences or style; PLANTED_SPEC_bechky.md and the PDF; asked in the same chat to shorten its two readings, the shortened reply the one used; 2026-10-17",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-17",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_63",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 63: T37 planted readings, Pratt 2000",
+   "value": "Fable 5.1, max, fresh incognito claude.ai chat outside any project; web search, research and every connector off; file creation on, network access off; no profile preferences or style; PLANTED_SPEC_pratt.md and the PDF; asked in the same chat to shorten its two readings, the shortened reply the one used; 2026-10-17",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-17",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_64",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 64: T37 coder, Bechky 2020",
+   "value": "Gemini 4 Argon, Thinking Level High, in place of the planned Gemini 3.1 Pro; fresh temporary Gemini chat outside any Gem; personal context and saved info off; no apps or extensions; no Deep Research and no Canvas; RELATION_CODING.md, CLAIMS_bechky.md, RELATION_READINGS_bechky.md and the PDF; 2026-10-17, 09:45 to ?; about 7 minutes",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-17",
+    "start": "09:45",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_65",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 65: T37 coder, Bechky 2020",
+   "value": "GPT 6 Astra, max, fresh ChatGPT Temporary Chat; memory, custom instructions and web search off; no project; RELATION_CODING.md, CLAIMS_bechky.md, RELATION_READINGS_bechky.md and the PDF; 2026-10-17, 09:45 to ?; about 4 minutes",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-17",
+    "start": "09:45",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_66",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 66: T37 coder, Pratt 2000",
+   "value": "Gemini 4 Argon, Thinking Level High, in place of the planned Gemini 3.1 Pro; fresh temporary Gemini chat outside any Gem; personal context and saved info off; no apps or extensions; no Deep Research and no Canvas; RELATION_CODING.md, CLAIMS_pratt.md, RELATION_READINGS_pratt.md and the PDF; 2026-10-17, 09:55 to ?; about 7 minutes",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-17",
+    "start": "09:55",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_67",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 67: T37 coder, Pratt 2000",
+   "value": "GPT 6 Astra, max, fresh ChatGPT Temporary Chat; memory, custom instructions and web search off; no project; RELATION_CODING.md, CLAIMS_pratt.md, RELATION_READINGS_pratt.md and the PDF; 2026-10-17, 09:55 to ?; about 4 minutes",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-17",
+    "start": "09:55",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_68",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 68: T38 checker, Bechky 2020",
+   "value": "Opus 5.5, Extra, fresh incognito claude.ai chat outside any project; web search, research and every connector off; file creation on, network access off; no profile preferences or style; COMPLETENESS_CHECK.md, CHECK_SHEET_bechky.md, EXTRACTION_BRIEF.md and the PDF; 2026-10-17, 21:55 to ?; 3 minutes (not said whether for each chat or for the three side by side)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-17",
+    "start": "21:55",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_69",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 69: T38 checker, Pratt 2000",
+   "value": "Opus 5.5, Extra, fresh incognito claude.ai chat outside any project; web search, research and every connector off; file creation on, network access off; no profile preferences or style; COMPLETENESS_CHECK.md, CHECK_SHEET_pratt.md, EXTRACTION_BRIEF.md and the PDF; 2026-10-17, 21:55 to ?; 3 minutes (not said whether for each chat or for the three side by side)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-17",
+    "start": "21:55",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_70",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 70: T38 ready test, Bechky 2020",
+   "value": "Opus 5.5, Extra, fresh incognito claude.ai chat outside any project; web search, research and every connector off; file creation on, network access off; no profile preferences or style; MATCH_PASSAGES_TO_Q.md, PASSAGES_AND_Q_bechky.md and the PDF; 2026-10-17, 21:55 to ?; 3 minutes (not said whether for each chat or for the three side by side)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-17",
+    "start": "21:55",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_71",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 71: T38 judge, Bechky 2020",
+   "value": "Gemini 4 Argon, Thinking Level High, fresh temporary Gemini chat outside any Gem; personal context and saved info off; no apps or extensions; no Deep Research and no Canvas; JUDGE_MISSES.md, CHECK_SHEET_bechky.md, EXTRACTION_BRIEF.md, TWO_PASSAGE_LISTS_bechky.md and the PDF; after the task, a second question put in the same chat before it was closed: where the brief was unclear, contradictory or impossible to apply; 2026-10-17, 22:15 to ?; 6 minutes",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-17",
+    "start": "22:15",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_72",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 72: T38 judge, Pratt 2000",
+   "value": "Gemini 4 Argon, Thinking Level High, fresh temporary Gemini chat outside any Gem; personal context and saved info off; no apps or extensions; no Deep Research and no Canvas; JUDGE_MISSES.md, CHECK_SHEET_pratt.md, EXTRACTION_BRIEF.md, TWO_PASSAGE_LISTS_pratt.md and the PDF; after the task, a second question put in the same chat before it was closed: where the brief was unclear, contradictory or impossible to apply; 2026-10-17, 22:15 to ?; 6 minutes",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-17",
+    "start": "22:15",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_73",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 73: T39 map, Bechky 2020",
+   "value": "Opus 5.5, High, fresh incognito claude.ai chat outside any project; web search, research and every connector off; file creation on, network access off; no profile preferences or style; MAP_TASK.md, MAP_SHEET_bechky.md and the PDF; 2026-10-18, 17:10 to ?; about 10 minutes (one length given for the four map chats, from one start)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-18",
+    "start": "17:10",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_74",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 74: T39 map, Bechky 2020",
+   "value": "GPT 6, thinking High in ChatGPT's Chat mode, fresh Temporary Chat; memory, custom instructions and web search off; no project; MAP_TASK.md, MAP_SHEET_bechky.md and the PDF; 2026-10-18, 17:10 to ?; about 10 minutes (one length given for the four map chats, from one start)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-18",
+    "start": "17:10",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_75",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 75: T39 map, Pratt 2000",
+   "value": "Opus 5.5, High, fresh incognito claude.ai chat outside any project; web search, research and every connector off; file creation on, network access off; no profile preferences or style; MAP_TASK.md, MAP_SHEET_pratt.md and the PDF; 2026-10-18, 17:10 to ?; about 10 minutes (one length given for the four map chats, from one start)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-18",
+    "start": "17:10",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_76",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 76: T39 map, Pratt 2000",
+   "value": "GPT 6, thinking High in ChatGPT's Chat mode, fresh Temporary Chat; memory, custom instructions and web search off; no project; MAP_TASK.md, MAP_SHEET_pratt.md and the PDF; 2026-10-18, 17:10 to ?; about 10 minutes (one length given for the four map chats, from one start)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-18",
+    "start": "17:10",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_77",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 77: T39 placement, Bechky 2020",
+   "value": "Gemini 4 Argon, Thinking Level High, fresh temporary Gemini chat outside any Gem; personal context and saved info off; no apps or extensions; no Deep Research and no Canvas; PLACEMENT_TASK.md, SETTLED_MAP_bechky.md, RELATION_READINGS_bechky.md, T37_CODES_bechky.md and the PDF; after four runs whose reply vanished at its end, asked for its reply in three parts: parts 1 and 2 (R01 to R20) came and are used, part 3 vanished; 2026-10-18",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-18",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_78",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 78: T39 placement, Pratt 2000",
+   "value": "Gemini 4 Argon, Thinking Level High, fresh temporary Gemini chat outside any Gem; personal context and saved info off; no apps or extensions; no Deep Research and no Canvas; PLACEMENT_TASK.md, SETTLED_MAP_pratt.md, RELATION_READINGS_pratt.md, T37_CODES_pratt.md and the PDF; after four runs whose reply vanished at its end, asked for its reply in two parts: part 1 (R01 to R09) is used; part 2 came without one reading's opening and is not used; 2026-10-18",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-18",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_79",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 79: T39 openings check, Bechky 2020",
+   "value": "GPT 6, thinking High in ChatGPT's Chat mode, fresh Temporary Chat; memory, custom instructions and web search off; no project; OPENINGS_CHECK.md and OPENINGS_bechky.md, no PDF; 2026-10-18, 23:00 to ?; 5 minutes",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-18",
+    "start": "23:00",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_80",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 80: T39 openings check, Pratt 2000",
+   "value": "GPT 6, thinking High in ChatGPT's Chat mode, fresh Temporary Chat; memory, custom instructions and web search off; no project; OPENINGS_CHECK.md and OPENINGS_pratt.md, no PDF; 2026-10-18, 23:00 to ?; 3 minutes",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-18",
+    "start": "23:00",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_81",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 81: T39 placement, Bechky 2020",
+   "value": "Gemini 4 Argon, Thinking Level High, fresh temporary Gemini chat outside any Gem; personal context and saved info off; no apps or extensions; no Deep Research and no Canvas; the four files of chat 77 and the PDF; asked only for Bechky's R21 to R30, in two parts, both used; 2026-10-18, 22:45 to ?; about 7 minutes (one length given for chats 81 and 82, from one start)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-18",
+    "start": "22:45",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.chat_82",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "chat 82: T39 placement, Pratt 2000",
+   "value": "Gemini 4 Argon, Thinking Level High, fresh temporary Gemini chat outside any Gem; personal context and saved info off; no apps or extensions; no Deep Research and no Canvas; the four files of chat 78 and the PDF; asked only for Pratt's R10 to R17, in one part, used; 2026-10-18, 22:45 to ?; about 7 minutes (one length given for chats 81 and 82, from one start)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-18",
+    "start": "22:45",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.map_feedback_argon",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "T39 map task feedback, Bechky 2020",
+   "value": "Argon (as the file names it), given only the paper, MAP_TASK.md and MAP_SHEET_bechky.md, and asked where the instructions might make two coders diverge and how to improve the task; settings not recorded; 2026-10-18",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-18",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.map_feedback_chatgpt",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "T39 map task feedback, Bechky 2020",
+   "value": "ChatGPT (as the file names it; the model not named), given only the paper, MAP_TASK.md and MAP_SHEET_bechky.md, and asked where the instructions might make two coders diverge and how to improve the task; settings not recorded; 2026-10-18",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-18",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.titles_session",
+   "paper": "across",
+   "section": "Models, settings and times of every chat, as recorded",
+   "label": "step 10 example: titles, Bechky 2020",
+   "value": "Opus 5.5, a separate session, given only the two-sentence openings of the 28 real readings, from the placement replies (chats 77 and 81), and told to open nothing else; 2026-10-20, 11:43 to 11:57 (14 min)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-20",
+    "start": "11:43",
+    "end": "11:57",
+    "duration_min": 14
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pi_coverage_check_bechky",
+   "paper": "across",
+   "section": "The PI's own time, as recorded",
+   "label": "PI coverage check, Bechky 2020",
+   "value": "about 3.5 hours; the plan gave two hours (2026-10-07)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-07",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pi_coverage_check_pratt",
+   "paper": "across",
+   "section": "The PI's own time, as recorded",
+   "label": "PI coverage check, Pratt 2000",
+   "value": "about 3.5 hours (2026-10-08, from 11:50)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-08",
+    "start": "11:50",
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pi_worth_t29",
+   "paper": "across",
+   "section": "The PI's own time, as recorded",
+   "label": "PI worth rating (T29)",
+   "value": "length not on record (2026-10-11)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pi_worth_t29_late_three",
+   "paper": "across",
+   "section": "The PI's own time, as recorded",
+   "label": "PI worth rating (T29, three late ratings)",
+   "value": "length not on record (2026-10-11)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-11",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pi_worth_t32",
+   "paper": "across",
+   "section": "The PI's own time, as recorded",
+   "label": "PI worth rating (T32), Bechky 2020",
+   "value": "length not on record (2026-10-13)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-13",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pi_grouping_t33",
+   "paper": "across",
+   "section": "The PI's own time, as recorded",
+   "label": "PI grouping (T33), Bechky 2020",
+   "value": "length not on record (2026-10-14)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-14",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pi_worth_t33",
+   "paper": "across",
+   "section": "The PI's own time, as recorded",
+   "label": "PI worth rating (T33), Bechky 2020",
+   "value": "length not on record (2026-10-14)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-14",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pi_matching_t36",
+   "paper": "across",
+   "section": "The PI's own time, as recorded",
+   "label": "PI matching (T36)",
+   "value": "about an hour; about 45 minutes had been estimated (2026-10-16)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-16",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pi_planted_check_t37",
+   "paper": "across",
+   "section": "The PI's own time, as recorded",
+   "label": "PI check of the planted readings (T37)",
+   "value": "length not on record (2026-10-17)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-17",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pi_relation_coding_t37",
+   "paper": "across",
+   "section": "The PI's own time, as recorded",
+   "label": "PI relation coding (T37)",
+   "value": "about 90 minutes; about 40 had been estimated (2026-10-17)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-17",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pi_settling_t39",
+   "paper": "across",
+   "section": "The PI's own time, as recorded",
+   "label": "PI settling of the two maps (T39)",
+   "value": "more than 2 hours, both papers together (2026-10-18)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-18",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  },
+  {
+   "id": "hours.pi_comparison_t39",
+   "paper": "across",
+   "section": "The PI's own time, as recorded",
+   "label": "PI comparison of the two accounts (T39)",
+   "value": "about 30 minutes (2026-10-19)",
+   "source": "`chats_models_hours.json`",
+   "raw": {
+    "date": "2026-10-19",
+    "start": null,
+    "end": null,
+    "duration_min": null
+   },
+   "new": false
+  }
+ ]
+}

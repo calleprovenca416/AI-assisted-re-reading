@@ -1,0 +1,87 @@
+{
+  "card_id": "pratt_2000_focalization_shift_current_and_former_distributors_01",
+  "paper_id": "pratt_2000",
+  "move": "focalization_shift",
+  "claim": "C09",
+  "mechanical_checks": [
+    {
+      "mode": "record",
+      "killed": false,
+      "missing_fields": []
+    },
+    {
+      "mode": "A_provenance",
+      "killed": false,
+      "cited_fragments": 8,
+      "unknown_fragments": [],
+      "unknown_claims": []
+    },
+    {
+      "mode": "C_role_vacuity",
+      "killed": false,
+      "vacuous_jobs": [],
+      "fragments_without_a_job": [
+        "F24",
+        "F25",
+        "F64"
+      ]
+    },
+    {
+      "mode": "F_discrimination",
+      "killed": false,
+      "observation_named": true,
+      "printed": false,
+      "fragments": [],
+      "note": "names an absence with a basis"
+    },
+    {
+      "mode": "G_grounding",
+      "killed": false,
+      "grounds_accepted": [
+        "Along what line did the disagreement over margins and traini",
+        "Of those who gave no clear figure, which could not and which",
+        "F22, F23"
+      ],
+      "grounds_rejected": []
+    }
+  ],
+  "killed_by": [],
+  "restatement": {
+    "measure": "restatement",
+    "failed": false,
+    "new_uses": [
+      [
+        "F10",
+        "the incumbent files it under C20,C23, not C09"
+      ],
+      [
+        "F11",
+        "the incumbent files it under C04,C40,C50, not C09"
+      ],
+      [
+        "F35",
+        "the incumbent files it under C01,C13,C14, not C09"
+      ],
+      [
+        "F64",
+        "the incumbent files it under C01,C22, not C09"
+      ]
+    ],
+    "used_as_incumbent_does": [
+      "F22",
+      "F23",
+      "F24",
+      "F25"
+    ],
+    "share_new": 0.5
+  },
+  "admissibility": {
+    "applies": false
+  },
+  "not_run_here": [
+    "B_import",
+    "E_contradiction"
+  ],
+  "why_not_run": "model-judged; they require a session that has never seen the reasoning that produced this reading",
+  "register": "not opened"
+}

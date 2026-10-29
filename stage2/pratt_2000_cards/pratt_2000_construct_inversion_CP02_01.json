@@ -1,0 +1,173 @@
+{
+  "card_id": "pratt_2000_construct_inversion_CP02_01",
+  "paper_id": "pratt_2000",
+  "move": "construct_inversion",
+  "trigger": "from_pair CP02",
+  "claim": "C21",
+  "incumbent_reading": "The paper holds that the former distributor's disenchantment came from an upline that failed to support him, while the inactive distributor's continuing attachment came from a sponsor whose support held.",
+  "wager": {
+    "statement": "The paper sets the two men side by side as failed support and durable support. The stubs print something narrower: what each upline did with a member the pair holds to have been less than fully active. In F97 what the upline offered came through the program: it relied mainly on more meetings. In F103 what the sponsor offered stood apart from the program: the support went on while he repeatedly failed to attend functions, prepare lists, recruit or use the products consistently, and the sponsor used a kinship term for him. Elsewhere what uplines give is printed as running through the work. The researcher's upline tolerated his interviewing so long as he kept selling and trying to recruit (F16), and one distributor wanted the Pearl level partly so that he could join golf trips with upline members he liked (F62). Read this way, the pair differs in whether the upline's dealings with the member depended on the work, not in how much was given. Where they did, the member left and blames the upline (F97). Where they did not, he stayed, values the sponsor, and still does not do the work (F103). The second half is the inversion. The tie the paper counts as the strong one is printed beside none of the conduct a strong upline tie is supposed to bring about (C20). On this reading that tie holds because it did not depend on the work; it is what an idle member is left holding, and not a cause of anything he does. The tie in F97 is the ordinary, work-bound one, meeting a man it did not move.",
+    "seed_fragments": [
+      "F97",
+      "F103",
+      "F16",
+      "F62"
+    ],
+    "what_it_would_take_to_cohere": {
+      "observation": "What each upline asked of the member once he was not doing the work: whether the sponsor in F103 went on asking for the functions, lists and recruiting or let them go, and whether the upline in F97 offered him anything besides meetings.",
+      "printed": false,
+      "printed_fragments": [],
+      "basis": "Absent. F103 says the support continued through his failures and not what the sponsor said about them. F97 says the upline relied mainly on more meetings and nothing about what else there was. Both relationships are known only from the member's own interview. I checked the other fragments on these two groups (F96, F99, F101 to F107) and the author's remark that marginal members could long remain insiders (F70); none says what was asked of them."
+    },
+    "strains_against": [
+      "F80 -- a distributor says staying active generally depended on a close upline relationship; there the tie is what carries the work, the opposite of a tie that holds apart from it.",
+      "F62 -- time with upline members reserved for those who reach a rank is printed as a reason to achieve; a work-bound tie draws this man in where the reading has it losing the man in F97.",
+      "F60 -- sponsors quietly gave a couple a turkey when food was short, and the couple tell it at a function; help given apart from the business is printed beside people who went on taking part, as also in F57 and F59.",
+      "F107 -- the author's account is that ambivalent distributors had bursts of activity between long idle stretches; if the man in F103 had such bursts when his sponsor was near, the tie does cause conduct.",
+      "F121 -- upline distributors commonly cast their downline as children; the kinship term in F103 may belong to the program's own idiom and not stand apart from it.",
+      "F16 -- the tolerance printed there is of a researcher's interviewing, an unusual thing to need leave for; it may say little about how an ordinary idle member was treated."
+    ],
+    "who_could_complete_it": "The sponsor's or upline's side of either relationship, or a member's account that records what was asked of him after he stopped working as well as how he was treated."
+  },
+  "fragment_jobs": {
+    "F97": "prints an upline whose answer to a member it had not moved was more of the program, and a member who left blaming it.",
+    "F103": "prints, in one account, support that went on apart from the program, a kinship term, a member who stayed, and the work still undone.",
+    "F16": "prints upline tolerance that lasted only so long as the selling and recruiting went on, the work-bound form of regard that the reading sets against F103.",
+    "F62": "prints time with admired upline members as something a rank gives access to, a second place where the tie runs through the work."
+  },
+  "grounded_in": [
+    {
+      "kind": "divergence",
+      "items": [
+        "F16",
+        "F103"
+      ],
+      "how": "F16 has upline tolerance last so long as the member kept selling and trying to recruit; F103 has a sponsor's support continue through repeated failure to attend, list, recruit or use the products. They point different ways on whether what an upline gives depends on doing the work."
+    },
+    {
+      "kind": "missing_fact",
+      "question": "Did the sponsor in F103 keep asking him for the functions, lists and recruiting he was missing, or let them go?",
+      "bears_on": "C21",
+      "if_one_way": "If the sponsor kept asking and the support was valued all the same, C21 would read as written: help and care together make the bond, and the difference from F97 lies in the manner of the upline, not in what the bond depended on.",
+      "if_the_other": "If the sponsor let the work go, the strong bond in C21 would read as one that held by being cut loose from the practices C20 expects it to carry."
+    },
+    {
+      "kind": "missing_fact",
+      "question": "Apart from meetings, did the upline in F97 show him the personal care printed for other members (F57, F59, F60)?",
+      "bears_on": "C21",
+      "if_one_way": "If it did and he still blames it, C21 would read as failing in his case: care was enacted and no bond followed.",
+      "if_the_other": "If meetings were all there was, C21 would read as written for him, and the pair would differ in the amount of support after all."
+    }
+  ],
+  "reach": {
+    "same_construct": [
+      "F61",
+      "F80",
+      "F81"
+    ],
+    "same_outcome": [
+      "F96",
+      "F101"
+    ],
+    "feature_elsewhere": [
+      "F60",
+      "F70"
+    ],
+    "orphans_used": [
+      "F16"
+    ]
+  },
+  "rival": "The paper's own account: the two uplines differed in how much practical help and personal care they gave (C21). The upline in F97 gave little and lost him; the sponsor in F103 gave much and kept him. His idleness has another source, the outside ties that by the author's account pull ambivalent members both ways (F107), and F16 concerns a researcher's special position. The amount of support then explains the pair, and what the support depended on does not matter.",
+  "split": null,
+  "naming": {
+    "register_version": null,
+    "outcome": "register not opened"
+  },
+  "status": "killed",
+  "attack": {
+    "killed_by": [
+      "B_import"
+    ],
+    "verdicts": [
+      {
+        "mode": "B_import",
+        "killed": true,
+        "citations": [
+          "F97",
+          "F103",
+          "F16",
+          "F62"
+        ],
+        "drift": [],
+        "note": "KILL. The decisive import is: 'that tie holds because it did not depend on the work'. F103 carries continuing support despite repeated failures, but no fragment carries the asserted reason for the tie's persistence. Continuation despite nonperformance does not establish that independence from work caused continuation. The related assertion that the tie is 'not a cause of anything he does' also has no carrying fragment: F103 reports failures to perform specified practices, not the absence of every behavioral effect of the relationship. The comparison imports a further condition: 'the pair differs in whether the upline's dealings with the member depended on the work, not in how much was given' and 'Where they did, the member left and blames the upline'. F97 carries a former member's complaint about recognition and reliance mainly on meetings; it does not say his upline made support conditional on doing work, or establish a comparison of support amounts. F16's condition on tolerating interviews and F62's connection between rank and golf trips do not establish that condition in F97. Likewise, 'support that went on apart from the program' in F103's fragment job exceeds its carrier when 'apart' means the sponsor had detached the relationship from program expectations. The card itself acknowledges that what the sponsor continued to ask, and what the other upline offered besides meetings, are unprinted. Acknowledging those missing facts does not supply the causal assertions made in the statement. These are additions to the record, not author-gloss-to-event drift; no such drift is identified.",
+        "considered_not_fired": [
+          {
+            "item": "The opening contrast between failed support and durable support, and the pair's description of members as less than fully active.",
+            "why": "F97 carries the former member's reported failure of recognition and motivation; F103 carries the inactive member's valued continuing support. CP02 explicitly frames the comparison this way. The phrase 'the pair holds' attributes the activity comparison to that framing; it does not independently establish the precise work history of F97's member. CP02's explanatory basis is not treated as event evidence."
+          },
+          {
+            "item": "F97: reliance mainly on more meetings; a former member blaming his upline; the fragment job's description of more program as the response to failed motivation.",
+            "why": "These are carried by F97 as the member's account. F10 also places meetings within the training system. Describing the man as having left follows his former-member status. None of these narrower clauses needs an imported withdrawal of support or an exclusive reliance on meetings."
+          },
+          {
+            "item": "F103: continuing support, repeated failures to attend functions, prepare lists, recruit or use products consistently, valuing the sponsor, a kinship term, and remaining an inactive member.",
+            "why": "F103 carries these facts. 'The work still undone' is supportable as a summary of those specified repeated failures. It does not establish the stronger assertions that there was 'none of the conduct' or that the tie caused nothing whatsoever. The unsupported causal extension is included in the kill note."
+          },
+          {
+            "item": "F16's statement and fragment job concerning tolerance while selling and recruiting continued.",
+            "why": "F16 expressly says the upline tolerated interviewing so long as the researcher continued selling and trying to recruit. The card's wording is a paraphrase of that condition. Its application to the other man's relationship is a separate, unsupported step, identified in the kill note."
+          },
+          {
+            "item": "F62's statement and fragment job concerning Pearl rank and time with admired upline members.",
+            "why": "F62 carries the distributor's wish to reach Pearl partly to join golf trips with upline members he liked and admired. Calling rank access to those trips paraphrases that account; it does not establish conditions governing all personal support."
+          },
+          {
+            "item": "The strong-tie characterization and the challenge to the conduct expected under C20.",
+            "why": "F107 explicitly reports the author's characterization of ambivalent distributors as maintaining strong upline ties; C20 and F53/F79 carry the theoretical connection to encapsulated sensemaking. Challenging that theory is permitted. C20 does not itself say that every strong tie must produce every listed business practice, so it cannot supply the missing causal facts about F103. The card keeps the strong-tie characterization attributed to the paper."
+          },
+          {
+            "item": "Separating feature and side labels.",
+            "why": "The move is construct_inversion and split is null. There are no fission-side factual assertions to assess."
+          }
+        ]
+      },
+      {
+        "mode": "E_contradiction",
+        "killed": false,
+        "citations": [],
+        "note": "CLEAR. All 125 fragment stubs were scanned, with their notes, the absence register and declared gaps. No fragment outside the seeds and declared strains requires the two focal relationships to have behaved differently for this reading to hold. The missing causal evidence that kills B is not an observed contrary event and does not independently kill E. Claims, author glosses and statements explicitly reporting the author's interpretation were not converted into contrary participant conduct.",
+        "considered_not_fired": [
+          {
+            "item": "F80, F62, F60, F107, F121 and F16.",
+            "why": "All are explicitly declared strains; F62 and F16 are also seeds. Their challenges concerning motivation, personal care, intermittent activity, kinship idioms and researcher-specific tolerance therefore cannot fire E. F57 and F59 are also expressly mentioned within the F60 strain."
+          },
+          {
+            "item": "F101, F102, F104 and F105.",
+            "why": "These report renewed intentions, continuing aspirations, displaying merchandise and altered recruiting practices among inactive or ambivalent distributors. The stubs do not identify these speakers as F103's member or attribute their behavior to his sponsor. Combining them into his behavioral history would invent an identity link. They do not establish that his tie caused work."
+          },
+          {
+            "item": "F54-F56, F61, F81, F82 and F117.",
+            "why": "These show caring, familial language, strong personal support, and sayings connecting relationships to business. F117 particularly places a father-son exchange within the researcher's dream-building outing. They weaken kinship language as evidence of separation from the program, but the card already declares that issue through F121. The reading does not require kinship terms to occur exclusively outside program activity, and these stubs do not establish the terms of F103's support."
+          },
+          {
+            "item": "F58 and F112-F119.",
+            "why": "Teaching members to copy mentors, combining shopping help with dream building, and changes in the researcher's shopping conduct show program participation alongside personal attention. The reading concerns the causal role of the particular tie in F103 and expressly acknowledges elsewhere that ties can motivate work. These other episodes do not require that particular tie to have produced conduct."
+          },
+          {
+            "item": "F96, F98 and F99.",
+            "why": "F96's pattern of distant or angry upline relationships accommodates F97's complaint. F98 is explicitly another former distributor's pressure-induced purchase, not evidence about F97's relationship. F99 reports the author's account of former members' reinterpretation of warmth, not a contrary event establishing what either focal sponsor demanded."
+          },
+          {
+            "item": "F70, F110 and F125.",
+            "why": "F70's author-attributed account allows marginal members to remain insiders. F110 establishes changes in identification for some distributors without identifying F103's member or the cause of his behavior. F125 concerns the author's general account of people without a continuing desire to pursue Amway dreams; F103 establishes inactivity, not the absence of that desire. None supplies an incompatible event."
+          },
+          {
+            "item": "C20, C21 and C29; absence entries A01-A03; declared gaps DG01-DG04; F97 and F103 notes.",
+            "why": "The claims are incumbent theory, so disagreement with them cannot fire E. The registered absences concern financial figures, refused recruits and turnover rates; none establishes either focal sponsor's demands. DG03 limits the analysis of identification transitions, and DG02 flags possible researcher effects. F97 and F103 have no notes adding sponsor-side testimony. Missing demands, alternative help and causal histories remain absences, not contradictions."
+          }
+        ]
+      }
+    ],
+    "kept": "A killed reading is retained, marked. Deleting it removes the evidence that the pass functions."
+  }
+}

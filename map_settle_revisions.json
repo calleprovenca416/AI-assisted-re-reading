@@ -1,0 +1,491 @@
+{
+ "written": "19 Oct 2026, by script",
+ "from": "the PI's answers of 19 Oct on seven items, item by item. T39's settled maps stay as the PI settled them on 18 Oct; these answers are recorded beside them, and the check of MAP_TASK_v2_1.md is set beside the PI's settling with them.",
+ "settled_maps_unchanged": {
+  "map_settled_bechky.json": "01b7fc1b3045c294af9593573cf9b5ba0f059da901bfd62b1b25998db605380b",
+  "map_settled_pratt.json": "323c704a457c2b86357f4f7c370abc961e277a044fb6a43efe7cd6f861736532"
+ },
+ "items": [
+  {
+   "paper": "bechky",
+   "item": "S009",
+   "kind": "pair-edge",
+   "question": "does C05 rest on C10?",
+   "settled_18oct": {
+    "choice": "A",
+    "answer": "no"
+   },
+   "v2_verdict": {
+    "choice": "B",
+    "answer": "yes, mechanistic, contributing"
+   },
+   "answer_19oct": {
+    "choice": "B",
+    "answer": "yes, mechanistic, contributing"
+   },
+   "what": "the PI's answer is now v2's"
+  },
+  {
+   "paper": "bechky",
+   "item": "S017",
+   "kind": "further-type",
+   "question": "further edge: C21 on C04",
+   "settled_18oct": {
+    "choice": "B",
+    "answer": "yes, comparative, contributing"
+   },
+   "v2_verdict": {
+    "choice": "A",
+    "answer": "yes, comparative, necessary"
+   },
+   "answer_19oct": {
+    "choice": "A",
+    "answer": "yes, comparative, necessary"
+   },
+   "what": "the PI's answer is now v2's"
+  },
+  {
+   "paper": "bechky",
+   "item": "S021",
+   "kind": "constructs",
+   "question": "are the names one construct?",
+   "settled_18oct": {
+    "choice": "B",
+    "answer": "one group: occupational legitimacy"
+   },
+   "v2_verdict": {
+    "choice": "A",
+    "answer": "apart"
+   },
+   "answer_19oct": {
+    "choice": "B",
+    "answer": "one group: occupational legitimacy"
+   },
+   "what": "the PI's settling stands against v2's rule"
+  },
+  {
+   "paper": "bechky",
+   "item": "S023",
+   "kind": "constructs",
+   "question": "are the names one construct?",
+   "settled_18oct": {
+    "choice": "B",
+    "answer": "one group: occupational legitimacy"
+   },
+   "v2_verdict": {
+    "choice": "A",
+    "answer": "apart"
+   },
+   "answer_19oct": {
+    "choice": "B",
+    "answer": "one group: occupational legitimacy"
+   },
+   "what": "the PI's settling stands against v2's rule"
+  },
+  {
+   "paper": "pratt",
+   "item": "S010",
+   "kind": "pair-type",
+   "question": "does C01 rest on C13?",
+   "settled_18oct": {
+    "choice": "B",
+    "answer": "yes, mechanistic, contributing"
+   },
+   "v2_verdict": {
+    "choice": "A",
+    "answer": "yes, evidential, contributing"
+   },
+   "answer_19oct": {
+    "choice": "A",
+    "answer": "yes, evidential, contributing"
+   },
+   "what": "the PI's answer is now v2's"
+  },
+  {
+   "paper": "pratt",
+   "item": "S015",
+   "kind": "pair-type",
+   "question": "does C20 rest on C23?",
+   "settled_18oct": {
+    "choice": "A",
+    "answer": "yes, mechanistic, contributing"
+   },
+   "v2_verdict": {
+    "choice": "B",
+    "answer": "yes, evidential, contributing"
+   },
+   "answer_19oct": {
+    "choice": "B",
+    "answer": "yes, evidential, contributing"
+   },
+   "what": "the PI's answer is now v2's"
+  },
+  {
+   "paper": "pratt",
+   "item": "S032",
+   "kind": "further-type",
+   "question": "further edge: C13 on C17",
+   "settled_18oct": {
+    "choice": "A",
+    "answer": "yes, mechanistic, contributing"
+   },
+   "v2_verdict": {
+    "choice": "B",
+    "answer": "yes, evidential, contributing"
+   },
+   "answer_19oct": {
+    "choice": "B",
+    "answer": "yes, evidential, contributing"
+   },
+   "what": "the PI's answer is now v2's"
+  }
+ ],
+ "labels_if_applied": {
+  "bechky": {
+   "readings": [
+    "R10",
+    "R11"
+   ],
+   "changes": [
+    {
+     "reading": "R10",
+     "coder": "astra",
+     "claim": "C05",
+     "settled": "no label",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R11",
+     "coder": "gemini",
+     "claim": "C05",
+     "settled": "no label",
+     "revised": "weakened"
+    }
+   ],
+   "by_item_alone": {
+    "S009": [
+     "R10",
+     "R11"
+    ],
+    "S017": []
+   }
+  },
+  "pratt": {
+   "readings": [
+    "R04",
+    "R05",
+    "R09",
+    "R10",
+    "R13",
+    "R14",
+    "R15",
+    "R16",
+    "R17"
+   ],
+   "changes": [
+    {
+     "reading": "R04",
+     "coder": "astra",
+     "claim": "C01",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R04",
+     "coder": "astra",
+     "claim": "C02",
+     "settled": "unsupported",
+     "revised": "no label"
+    },
+    {
+     "reading": "R04",
+     "coder": "astra",
+     "claim": "C20",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R04",
+     "coder": "astra",
+     "claim": "C29",
+     "settled": "unsupported",
+     "revised": "no label"
+    },
+    {
+     "reading": "R04",
+     "coder": "astra",
+     "claim": "C34",
+     "settled": "idle",
+     "revised": "no label"
+    },
+    {
+     "reading": "R04",
+     "coder": "gemini",
+     "claim": "C01",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R04",
+     "coder": "gemini",
+     "claim": "C02",
+     "settled": "unsupported",
+     "revised": "no label"
+    },
+    {
+     "reading": "R04",
+     "coder": "gemini",
+     "claim": "C20",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R04",
+     "coder": "gemini",
+     "claim": "C29",
+     "settled": "unsupported",
+     "revised": "no label"
+    },
+    {
+     "reading": "R04",
+     "coder": "gemini",
+     "claim": "C34",
+     "settled": "idle",
+     "revised": "no label"
+    },
+    {
+     "reading": "R05",
+     "coder": "gemini",
+     "claim": "C20",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R09",
+     "coder": "astra",
+     "claim": "C20",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R09",
+     "coder": "gemini",
+     "claim": "C20",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R10",
+     "coder": "astra",
+     "claim": "C20",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R10",
+     "coder": "gemini",
+     "claim": "C20",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R13",
+     "coder": "gemini",
+     "claim": "C01",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R13",
+     "coder": "gemini",
+     "claim": "C02",
+     "settled": "unsupported",
+     "revised": "no label"
+    },
+    {
+     "reading": "R13",
+     "coder": "gemini",
+     "claim": "C20",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R13",
+     "coder": "gemini",
+     "claim": "C29",
+     "settled": "unsupported",
+     "revised": "no label"
+    },
+    {
+     "reading": "R13",
+     "coder": "gemini",
+     "claim": "C34",
+     "settled": "idle",
+     "revised": "no label"
+    },
+    {
+     "reading": "R14",
+     "coder": "astra",
+     "claim": "C20",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R14",
+     "coder": "gemini",
+     "claim": "C20",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R15",
+     "coder": "astra",
+     "claim": "C01",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R15",
+     "coder": "astra",
+     "claim": "C02",
+     "settled": "unsupported",
+     "revised": "no label"
+    },
+    {
+     "reading": "R15",
+     "coder": "astra",
+     "claim": "C20",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R15",
+     "coder": "astra",
+     "claim": "C29",
+     "settled": "unsupported",
+     "revised": "no label"
+    },
+    {
+     "reading": "R15",
+     "coder": "gemini",
+     "claim": "C01",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R15",
+     "coder": "gemini",
+     "claim": "C02",
+     "settled": "unsupported",
+     "revised": "no label"
+    },
+    {
+     "reading": "R15",
+     "coder": "gemini",
+     "claim": "C20",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R15",
+     "coder": "gemini",
+     "claim": "C29",
+     "settled": "unsupported",
+     "revised": "no label"
+    },
+    {
+     "reading": "R16",
+     "coder": "astra",
+     "claim": "C20",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R17",
+     "coder": "astra",
+     "claim": "C01",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R17",
+     "coder": "astra",
+     "claim": "C02",
+     "settled": "unsupported",
+     "revised": "no label"
+    },
+    {
+     "reading": "R17",
+     "coder": "astra",
+     "claim": "C20",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R17",
+     "coder": "astra",
+     "claim": "C29",
+     "settled": "unsupported",
+     "revised": "no label"
+    },
+    {
+     "reading": "R17",
+     "coder": "astra",
+     "claim": "C34",
+     "settled": "idle",
+     "revised": "no label"
+    },
+    {
+     "reading": "R17",
+     "coder": "gemini",
+     "claim": "C01",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R17",
+     "coder": "gemini",
+     "claim": "C02",
+     "settled": "unsupported",
+     "revised": "no label"
+    },
+    {
+     "reading": "R17",
+     "coder": "gemini",
+     "claim": "C20",
+     "settled": "unsupported",
+     "revised": "weakened"
+    },
+    {
+     "reading": "R17",
+     "coder": "gemini",
+     "claim": "C29",
+     "settled": "unsupported",
+     "revised": "no label"
+    },
+    {
+     "reading": "R17",
+     "coder": "gemini",
+     "claim": "C34",
+     "settled": "idle",
+     "revised": "no label"
+    }
+   ],
+   "by_item_alone": {
+    "S010": [],
+    "S015": [
+     "R04",
+     "R05",
+     "R09",
+     "R10",
+     "R13",
+     "R14",
+     "R15",
+     "R16",
+     "R17"
+    ],
+    "S032": []
+   }
+  }
+ }
+}

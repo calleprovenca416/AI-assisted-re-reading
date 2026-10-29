@@ -1,0 +1,366 @@
+1.1 | F01, C02 | Stub has a scientific body questioning much non-DNA forensic work, DNA excepted: evaluation of neighbours present. | with
+1.2 | F27, C10 | Stub reports distinct occupational communities alongside differing training, associations, commitments and lab work. | with
+1.3 | F27, C19 | Stub describes how alike and unlike the communities were; nothing on whether or how far spillover reached them. | illustrates
+1.4 | F30, C18 | Stub reports talk about threats to the favoured method; nothing on whether narcotics practice changed. | illustrates
+1.5 | F31, C17 | Stub reports a new toxicology reporting practice in place (change occurred); no cause given, none needed. | with
+1.6 | F32, C02 | Stub has the NAS report finding weak scientific foundations in much of the field while exempting DNA. | with
+1.7 | F33, C03 | Stub reports national associations' written responses; nothing on any local work-practice change. | illustrates
+1.8 | F34, C03 | Stub reports ASCLD's advice to lab leaders; nothing on whether local practice changed. | illustrates
+1.9 | F35, C03 | Stub reports IAI and AFTE rebuttals and study commitments; nothing on local practice change. | illustrates
+1.10 | F36, C03 | Stub reports how the report was circulated at MCCL; reading it is not a change in work practice. | illustrates
+1.11 | F37, C02 | Stub reports prominent news coverage portraying forensic science as troubled: media scrutiny present; DNA not mentioned, not needed. | with
+1.12 | F37, C03 | Stub reports news attention (a route); nothing on local practice change. | illustrates
+1.13 | F38, C02 | Stub reports further disparaging news coverage of forensic science: media scrutiny present. | with
+1.14 | F38, C03 | Stub reports news coverage only; nothing on local practice change. | illustrates
+1.15 | F39, C01 | Stub says DNA's acceptance as the benchmark put pressure on other specialties to alter analysis and reporting. | with
+1.16 | F39, C02 | Stub has public and scientific opinion, with DNA as benchmark, pressing on other specialties. It says pressure, not evaluation, which made this less than clean. | with
+1.17 | F40, C01 | Stub reports comparison pressure and differing reactions, but not that it bore on work practices or what the reactions were. | illustrates
+1.18 | F40, C11 | No outcome on C11. Stub shows occupations reacting differently to one pressure; fits, sets no limit. | illustrates
+1.19 | F42, C03 | Stub says routes changed how the pressure was met and interpreted; nothing on local practice change. | illustrates
+1.20 | F42, C11 | No outcome on C11. Stub is about members interpreting the pressure; fits, sets no limit. | illustrates
+1.21 | F44, C02 | Stub has legal commentators holding traditional specialties up against DNA typing: outside evaluation of neighbours. | with
+1.22 | F45, C14 | Stub describes the DNA workflow and its reviews; nothing on how the evidence was perceived. | illustrates
+1.23 | F46, C14 | Stub shows the statistical form of a DNA report; nothing on how anyone perceived it. | illustrates
+1.24 | F47, C09 | Stub is about how DNA evidence looked, credited to charts, statistics and records; nothing on the standing of the occupation. | illustrates
+1.25 | F47, C14 | Stub says charts, tables, estimates, error reporting and open records made DNA evidence look more objective. | with
+1.26 | F48, C14 | Stub gives the analysts' own view of the process as untidy; nothing on how outsiders perceived the evidence. | illustrates
+1.27 | F49, C14 | Stub reports a contamination incident inside the lab; nothing on perceived objectivity or credibility. | illustrates
+1.28 | F50, C14 | Stub reports repeated interpretation and discussion behind conclusions; nothing on how the evidence was perceived. | illustrates
+1.29 | F51, C14 | Stub reports a remark that reports need the wider lab; nothing on perception of the evidence. | illustrates
+1.30 | F52, C02 | Stub reports DNA treated as the benchmark for other specialties (the condition); it does not report scrutiny falling on them. | illustrates
+1.31 | F52, C09 | Stub has courts, media and public treating DNA profiling as fully legitimate: legitimacy high, no cause given. Stub speaks of the technique, not its users. | with
+1.32 | F52, C14 | Stub has courts, media and public treating DNA profiling as objective: perceived objectivity high, no cause given. | with
+1.33 | F53, C09 | Stub takes DNA's privileged legitimacy as fact: legitimacy high, source unstated. Thin, since the stub's subject is the envy. | with
+1.34 | F53, C15 | Stub says DNA's privileged legitimacy produced widespread DNA envy. | with
+1.35 | F54, C15 | Stub reports repeated remarks that forensic biology got more resources; it names no envy or resentment, and reading that in would be inference. | illustrates
+1.36 | F55, C15 | Stub has examiners organising over DNA's "disproportionate" share and a flyer saying their work was pushed behind DNA: grievance stated. | with
+1.37 | F56, C01 | Stub reports evaluative tensions spreading through the field; nothing on the work practices of non-DNA groups. | illustrates
+1.38 | F56, C02 | Stub has the NAS comparing other specialties with DNA and evaluative tension spreading across the field. | with
+1.39 | F57, C19 | Stub reports the director's view that criminalists are interchangeable; nothing on spillover. | illustrates
+1.40 | F58, C10 | Stub reports different methods and training alongside different occupational cultures. | with
+1.41 | F59, C02 | Stub has firearms meeting the DNA comparison as public criticism and courtroom efforts to block testimony. | with
+1.42 | F59, C03 | Stub names the routes by which firearms met the comparison; nothing on local practice change. | illustrates
+1.43 | F59, C16 | Stub names the routes; nothing on whether MCCL firearms practice changed. | illustrates
+1.44 | F60, C02 | Stub has the NAS report faulting toolmark comparison for untested methods and unknown error rates, checked against DNA. | with
+1.45 | F61, C02 | Stub has public commentary questioning the scientific grounding of comparative identifications. | with
+1.46 | F61, C16 | Stub reports pressure on firearms examiners; nothing on whether MCCL practice changed. | illustrates
+1.47 | F62, C03 | Stub reports admissibility challenges becoming more common; nothing on local practice change. | illustrates
+1.48 | F62, C16 | Stub reports the growing challenges; nothing on MCCL firearms practice. | illustrates
+1.49 | F63, C02 | Stub has courtroom attacks scrutinising the discipline's credibility. | with
+1.50 | F64, C04 | Stub describes the firearms comparison method; nothing on how feasible adapting it was. | illustrates
+1.51 | F69, C20 | No outcome on C20. Stub shows judgement and imaging worked together in a review; fits, sets no limit. | illustrates
+1.52 | F70, C05 | Stub states what firearms examiners valued; nothing on adapting or resisting. | illustrates
+1.53 | F70, C10 | Stub gives one group's values; no difference between groups reported. | illustrates
+1.54 | F70, C16 | Stub states values; nothing on MCCL firearms practice changing or not. | illustrates
+1.55 | F70, C20 | No outcome on C20. Stub ties firearms values to how methods were discussed; fits, sets no limit. | illustrates
+1.56 | F75, C20 | No outcome on C20. Stub describes the long firearms training; fits the subject, sets no limit. | illustrates
+1.57 | F76, C20 | No outcome on C20. Stub has training and experience building an internal criterion; fits, sets no limit. | illustrates
+1.58 | F77, C05 | Stub has examiners who prize trained subjectivity resisting standardised numerical rules: resistance where values conflict. | with
+1.59 | F77, C10 | Stub gives one group's values; no difference between groups reported. | illustrates
+1.60 | F77, C16 | Stub has firearms examiners resisting a move to standardised numerical rules, alongside the subjective-judgement value. Thin: not said to be MCCL or DNA-driven. | with
+1.61 | F77, C20 | No outcome on C20. Stub joins prized skills to a stance on method; fits, sets no limit. | illustrates
+1.62 | F79, C16 | Stub reports a speaker attacking the critics at a statewide meeting; nothing on MCCL practice. | illustrates
+1.63 | F80, C03 | Stub reports an examiner urging colleagues to answer criticism: a call, not a change in anyone's local practice. Hard because he drew on direct questioning. | illustrates
+1.64 | F82, C16 | Stub reports an examiner's frustration at a meeting; nothing on MCCL practice changing or not. | illustrates
+1.65 | F83, C16 | Stub reports a narcotics analyst describing the pressure on firearms; nothing on practice. | illustrates
+1.66 | F84, C03 | Stub: criticism was distant, none had reached their own testimony, and MCCL firearms practice stayed unchanged. | with
+1.67 | F84, C16 | Stub: distant criticism left MCCL firearms practice unchanged. | with
+1.68 | F85, C04 | Stub has examiners rejecting percentage-style matches and saying their conclusions are not numerical: no fit, no adaptation. Thin: "rejected" is a stance, not stated unworkability. | with
+1.69 | F85, C11 | No outcome on C11. Stub shows examiners working out what a DNA-like standard meant; fits, sets no limit. | illustrates
+1.70 | F85, C13 | No outcome on C13. Stub shows firearms examiners fixing on statistics and objectivity; fits, sets no limit. | illustrates
+1.71 | F85, C16 | Stub reports a rejection voiced in conversation, not a practice changed or left unchanged. Close to with. | illustrates
+1.72 | F86, C04 | Stub says a DNA-like statistical population for firearm marks made little sense to the examiners: adaptation not workable where method does not fit. | with
+1.73 | F86, C05 | Stub states the conflict with their commitment (the condition); it does not say they adapted or resisted. | illustrates
+1.74 | F86, C16 | Stub gives the misfit and the value conflict (conditions); nothing on practice changing or not. | illustrates
+1.75 | F87, C01 | Stub has a challenge reaching non-DNA examiners, who rejected changing practice. Coded on the printed direction (pressure); the practice itself did not move, which a "reshape" reading would count against. | with
+1.76 | F87, C03 | Stub: challenge came through distant venues and MCCL examiners rejected changing practice. | with
+1.77 | F87, C04 | Stub credits the rejection of change partly to incompatible technique. It reports rejection, not feasibility by name. | with
+1.78 | F87, C05 | Stub credits the rejection of change partly to an affront to occupational values. | with
+1.79 | F87, C16 | Stub: distant venues, incompatible technique and affront to values led MCCL examiners to reject changing practice. | with
+1.80 | F88, C03 | Stub: an anticipated local courtroom challenge gave MCCL toxicologists an immediate reason to change reporting. | with
+1.81 | F88, C17 | Stub: an anticipated local court challenge created an immediate reason to change toxicology reporting practice. | with
+1.82 | F89, C02 | Stub says the NAS report did not criticise toxicology directly, only stressed accuracy and error rates: it limits how far scrutiny reached this neighbour. | qualifies
+1.83 | F89, C17 | Stub reports what the NAS report said; nothing on toxicology practice changing. | illustrates
+1.84 | F90, C03 | Stub reports the challenge arriving locally (the route); nothing on practice change. | illustrates
+1.85 | F90, C17 | Stub reports the local challenge taking shape (a condition); nothing on toxicology practice changing. | illustrates
+1.86 | F91, C04 | Stub describes toxicology's instrument work; nothing on how feasible adaptation was. | illustrates
+1.87 | F91, C17 | Stub describes routine toxicology work; nothing on a practice change. | illustrates
+1.88 | F92, C17 | Stub describes one blood-alcohol batch; nothing on a practice change. | illustrates
+1.89 | F92, C20 | No outcome on C20. Stub shows checking and traceability built into the batch routine; fits, sets no limit. | illustrates
+1.90 | F93, C04 | Stub describes a standardised, instrument-based workflow (the starting point); nothing on feasibility of adapting. | illustrates
+1.91 | F93, C17 | Stub describes the workflow; nothing on a practice change. | illustrates
+1.92 | F94, C05 | Stub shows the unit's error-prevention ethos; nothing on adapting or resisting. | illustrates
+1.93 | F94, C17 | Stub shows the unit's values; nothing on a practice change. | illustrates
+1.94 | F94, C20 | No outcome on C20. Stub shows the checking routine and the self-image together; fits, sets no limit. | illustrates
+1.95 | F95, C05 | Stub shows orderliness prized in the unit; nothing on adapting or resisting. | illustrates
+1.96 | F95, C17 | Stub is an exchange about tidy sample handling; nothing on a practice change. | illustrates
+1.97 | F95, C20 | No outcome on C20. Stub shows orderliness expected in handling samples; fits, sets no limit. | illustrates
+1.98 | F96, C05 | Stub shows what a pipetting mistake costs; nothing on adapting or resisting. | illustrates
+1.99 | F96, C17 | Stub is a pipetting moment; nothing on a practice change. | illustrates
+1.100 | F96, C20 | No outcome on C20. Stub has the consequences of a slip in the technique explaining vigilance; fits, sets no limit. | illustrates
+1.101 | F97, C05 | Stub states what makes a good toxicologist; nothing on adapting or resisting. | illustrates
+1.102 | F97, C10 | Stub gives one group's values; no difference between groups reported. | illustrates
+1.103 | F97, C17 | Stub states values; nothing on a practice change. | illustrates
+1.104 | F97, C20 | No outcome on C20. Stub ties the valued qualities to repetitive high-volume work; fits, sets no limit. | illustrates
+1.105 | F98, C01 | Stub has a court challenge speeding a change in a non-DNA unit, but places the plan before the NAS report, under ISO work: it limits what the change owes to the later pressure. | qualifies
+1.106 | F98, C03 | Stub: when the local court challenge became imminent the unit accelerated its plan. | with
+1.107 | F98, C17 | Stub: prior plan under accreditation work, imminent local court challenge, plan accelerated. | with
+1.108 | F99, C03 | Stub names the route (a direct threat to their own case); nothing on practice change. | illustrates
+1.109 | F99, C17 | Stub names how toxicologists met the comparison; nothing on practice changing. | illustrates
+1.110 | F100, C04 | Stub states the fit with existing technique (the condition); nothing separate on how feasible adapting proved. | illustrates
+1.111 | F100, C05 | Stub states the fit with values (the condition); does not report adaptation. | illustrates
+1.112 | F100, C11 | No outcome on C11. Stub is about how the demand sat with what toxicologists already did and valued; fits, sets no limit. | illustrates
+1.113 | F100, C13 | No outcome on C13. Stub shows the comparison narrowed to measurement uncertainty for toxicology; fits, sets no limit. | illustrates
+1.114 | F100, C17 | Stub lists the fit and the accreditation work (conditions); does not report the change itself. | illustrates
+1.115 | F101, C04 | Stub lists what the protocol already recorded and that fuller estimates were in preparation: the compatible starting point, nothing on feasibility as such. Close to with. | illustrates
+1.116 | F101, C17 | Stub describes existing reporting and preparation for ISO (prior preparation, a condition), not the accelerated change. | illustrates
+1.117 | F102, C17 | Stub has a new calculation in use, built on existing data and standing requirements. Jason denies NAS started it; stub is silent on the court challenge. | with
+1.118 | F103, C17 | Stub has new blood-alcohol reports in use (change occurred); no cause given. | with
+1.119 | F104, C03 | Stub states how immediate the pressure was (the condition); nothing on practice change. | illustrates
+1.120 | F104, C17 | Stub states the immediacy (a condition); nothing on practice change. | illustrates
+1.121 | F105, C02 | Stub says narcotics stayed legitimate in science, public and courts, with pressure arriving only through professional debate: it limits the arenas the claim names. Against considered. | qualifies
+1.122 | F105, C03 | Stub names the route for narcotics; nothing on practice change. | illustrates
+1.123 | F105, C18 | Stub names the route; nothing on narcotics practice changing or not. | illustrates
+1.124 | F106, C04 | Stub reports GC/MS output resembling DNA documentation and analysts' worry; nothing on how feasible adapting was. | illustrates
+1.125 | F106, C11 | No outcome on C11. Stub shows analysts reading the debate as a threat to their method; fits, sets no limit. | illustrates
+1.126 | F106, C13 | No outcome on C13. Stub has instrument output as the DNA-like feature for narcotics; fits, sets no limit. | illustrates
+1.127 | F106, C18 | Stub reports regional preferences and a worry; nothing on MCCL practice changing or not. | illustrates
+1.128 | F107, C20 | No outcome on C20. Stub describes the crystal-test routine; fits the subject, sets no limit. | illustrates
+1.129 | F108, C04 | Stub describes how GC/MS works; nothing on feasibility of adapting. | illustrates
+1.130 | F108, C20 | No outcome on C20. Stub describes an instrument method; fits the subject, sets no limit. | illustrates
+1.131 | F109, C04 | Stub describes how the two methods were divided up and why crystals were useful; nothing on feasibility of adapting. | illustrates
+1.132 | F109, C18 | Stub describes the practice as it stood; it does not report a change made or refused. | illustrates
+1.133 | F109, C20 | No outcome on C20. Stub ties the choice of method to turnaround demands; fits, sets no limit. | illustrates
+1.134 | F110, C20 | No outcome on C20. Stub describes reporting and verification of crystal tests; fits, sets no limit. | illustrates
+1.135 | F111, C05 | Stub states narcotics values and autonomy; nothing on adapting or resisting. | illustrates
+1.136 | F111, C10 | Stub says the work differed from toxicology and gives narcotics values, but does not say the values differed between groups. | illustrates
+1.137 | F111, C18 | Stub states work character and values; nothing on practice change. | illustrates
+1.138 | F111, C20 | No outcome on C20. Stub sets values beside the less standardised work; fits, sets no limit. | illustrates
+1.139 | F113, C05 | Stub reports analysts' view of toxicology as monotonous; nothing on adapting or resisting. | illustrates
+1.140 | F113, C18 | Stub reports a contrast analysts drew; nothing on narcotics practice change. | illustrates
+1.141 | F113, C20 | No outcome on C20. Stub has analysts judging work by its variety; fits, sets no limit. | illustrates
+1.142 | F114, C05 | Stub is one analyst's career move away from routine work; nothing on adapting to or resisting a comparison. | illustrates
+1.143 | F114, C18 | Stub is a career account; nothing on narcotics practice change. | illustrates
+1.144 | F114, C20 | No outcome on C20. Stub shows a dislike rooted in what the toxicology job involved; fits, sets no limit. | illustrates
+1.145 | F115, C05 | Stub states a value (careful science); nothing on adapting or resisting. | illustrates
+1.146 | F115, C20 | No outcome on C20. Stub states a value about how conclusions are represented; fits, sets no limit. | illustrates
+1.147 | F116, C05 | Stub shows insistence on precise claims in one exchange; nothing on adapting or resisting. | illustrates
+1.148 | F116, C20 | No outcome on C20. Stub shows a value enacted over a test result; fits, sets no limit. | illustrates
+1.149 | F117, C05 | Stub shows confidence in documentation routines; nothing on adapting or resisting. | illustrates
+1.150 | F117, C20 | No outcome on C20. Stub ties confidence to documentation routines; fits, sets no limit. | illustrates
+1.151 | F118, C05 | Stub reports analysts timing themselves; nothing on adapting or resisting. | illustrates
+1.152 | F119, C05 | Stub is about a slow data-entry system, not a response to an evaluative comparison. | illustrates
+1.153 | F119, C20 | No outcome on C20. Stub shows efficiency pressed in everyday tooling; fits, sets no limit. | illustrates
+1.154 | F120, C05 | Stub states what valued narcotics work combined; nothing on adapting or resisting. | illustrates
+1.155 | F120, C10 | Stub gives one group's values; no difference between groups reported. | illustrates
+1.156 | F120, C20 | No outcome on C20. Stub states values in terms of the work's tasks; fits, sets no limit. | illustrates
+1.157 | F121, C03 | Stub reports a fear about the working group (a route); nothing on local practice change. | illustrates
+1.158 | F121, C18 | Stub reports a fear of prohibition; nothing on practice changing or not. | illustrates
+1.159 | F122, C04 | Stub is a fear and an expectation of slower work; the tie-breaker cannot be completed (the stub would read the same if the claim were false). | illustrates
+1.160 | F122, C18 | Stub reports what Jodi feared and expected; no change made or refused. | illustrates
+1.161 | F122, C20 | No outcome on C20. Stub has a method valued for being fast and practical; fits, sets no limit. | illustrates
+1.162 | F123, C04 | Stub says doing without crystals was not manageable because of two instruments and long runs: feasibility limited by capacity, not technique fit. The claim's own "unless" leaves room, so not against. | qualifies
+1.163 | F123, C18 | Stub gives a practical reason crystals were needed (caseload, instruments) but reports no change made or refused. It points to another reason; not enough for against. | illustrates
+1.164 | F123, C20 | No outcome on C20. Stub ties the method to caseload and equipment; fits the subject, sets no limit. | illustrates
+1.165 | F124, C18 | Stub reports a proposal under discussion and its cost in work; no practice change reported. | illustrates
+1.166 | F124, C20 | No outcome on C20. Stub ties a proposed rule to how fast crystals form; fits, sets no limit. | illustrates
+1.167 | F125, C04 | Stub compares the cost of cameras and instruments; if the claim were false it would read the same, so nothing on the outcome I can use. | illustrates
+1.168 | F125, C18 | Stub reports a possible change being discussed (cameras), not a change made or refused. | illustrates
+1.169 | F125, C20 | No outcome on C20. Stub is about an add-on to the microscope; fits the subject, sets no limit. | illustrates
+1.170 | F126, C05 | Stub states what troubled analysts (the value conflict, the condition); not adaptation or resistance. | illustrates
+1.171 | F126, C18 | Stub states the perceived threat (a condition); nothing on practice. | illustrates
+1.172 | F126, C20 | No outcome on C20. Stub links autonomy, variety and judgement to the method in use; fits, sets no limit. | illustrates
+1.173 | F127, C05 | Stub is a comparison of skill demands; nothing on adapting or resisting. | illustrates
+1.174 | F127, C18 | Stub is Taylor's view of instrument work; nothing on practice change. | illustrates
+1.175 | F127, C20 | No outcome on C20. Stub ties expertise to what crystal work demands; fits, sets no limit. | illustrates
+1.176 | F128, C05 | Stub is one analyst's preference and reasons: a preference, not adaptation or resistance in practice. | illustrates
+1.177 | F128, C18 | Stub is a stated preference; nothing on practice changing or not. | illustrates
+1.178 | F128, C20 | No outcome on C20. Stub has a liking for the method grounded in what it lets her do; fits, sets no limit. | illustrates
+1.179 | F129, C01 | Stub has DNA-like work pressed on a non-DNA group, who resisted it. Coded on the printed direction (pressure); practice did not change and the stub says there was no immediate need. | with
+1.180 | F129, C03 | Stub: the debate created no immediate need and the analysts did not move. | with
+1.181 | F129, C05 | Stub: analysts resisted because the work conflicted with valued autonomy and variety. | with
+1.182 | F129, C18 | Stub: resisted DNA-like instrument work; conflict with values, no immediate need. | with
+1.183 | F130, C03 | Stub counts routes for firearms; nothing on practice change. | illustrates
+1.184 | F130, C16 | Stub counts routes; nothing on firearms practice. | illustrates
+1.185 | F131, C03 | Stub names toxicology's route; nothing on practice change. | illustrates
+1.186 | F131, C17 | Stub names the route (a condition); nothing on practice change. | illustrates
+1.187 | F132, C03 | Stub names narcotics' route; nothing on practice change. | illustrates
+1.188 | F132, C18 | Stub names the route (a condition); nothing on practice. | illustrates
+1.189 | F133, C02 | Stub reports scientific evaluation of firearms through the NAS report. | with
+1.190 | F133, C03 | Stub names a route; nothing on practice change. | illustrates
+1.191 | F133, C16 | Stub names a route; nothing on firearms practice. | illustrates
+1.192 | F134, C02 | Stub reports no scientific-route challenge to toxicology in the comparison: scrutiny absent where the claim has it rising. One group, one arena; qualifies considered. | against
+1.193 | F134, C03 | Stub reports a route absent for toxicology; nothing on practice change. | illustrates
+1.194 | F135, C02 | Stub reports no scientific-route challenge to narcotics in the comparison: scrutiny absent in that arena. Qualifies considered. | against
+1.195 | F135, C03 | Stub reports a route absent for narcotics; nothing on practice change. | illustrates
+1.196 | F135, C18 | Stub reports a route absent; nothing on narcotics practice. | illustrates
+1.197 | F136, C02 | Stub reports media criticism bearing on firearms. | with
+1.198 | F136, C03 | Stub names a route; nothing on practice change. | illustrates
+1.199 | F136, C16 | Stub names a route; nothing on firearms practice. | illustrates
+1.200 | F137, C02 | Stub reports no public-route challenge to toxicology in the comparison: scrutiny absent in that arena. Qualifies considered. | against
+1.201 | F137, C03 | Stub reports a route absent for toxicology; nothing on practice change. | illustrates
+1.202 | F138, C02 | Stub reports no public-route challenge to narcotics in the comparison: scrutiny absent in that arena. Qualifies considered. | against
+1.203 | F138, C03 | Stub reports a route absent for narcotics; nothing on practice change. | illustrates
+1.204 | F138, C18 | Stub reports a route absent; nothing on narcotics practice. | illustrates
+1.205 | F139, C02 | Stub reports broad admissibility challenges to firearms in outside courts. | with
+1.206 | F139, C03 | Stub names a distant route; nothing on practice change. | illustrates
+1.207 | F139, C16 | Stub names a distant route (a condition); nothing on firearms practice. | illustrates
+1.208 | F140, C02 | Stub reports defence challenges aimed at toxicology's own testimony: courtroom scrutiny of a neighbour. | with
+1.209 | F140, C03 | Stub names a direct route; nothing on practice change. | illustrates
+1.210 | F140, C17 | Stub names the direct challenge (a condition); nothing on practice change. | illustrates
+1.211 | F
+1.211 | F141, C02 | Stub reports no court-route challenge to narcotics in the comparison: scrutiny absent in that arena. Qualifies considered. | against
+1.212 | F141, C03 | Stub reports a route absent for narcotics; nothing on practice change. | illustrates
+1.213 | F141, C18 | Stub reports a route absent; nothing on narcotics practice. | illustrates
+1.214 | F142, C03 | Stub says the table shows no association route for firearms; nothing on practice change. | illustrates
+1.215 | F143, C03 | Stub names accreditation standards as part of toxicology's route; nothing on practice change. | illustrates
+1.216 | F143, C17 | Stub names the accreditation route (a condition); nothing on practice change. | illustrates
+1.217 | F144, C03 | Stub names the working-group debate as narcotics' route; nothing on practice change. | illustrates
+1.218 | F144, C18 | Stub names the route (a condition); nothing on narcotics practice. | illustrates
+1.219 | F145, C04 | Stub states the incompatibility (the condition); nothing separate on feasibility. Condition and outcome are hard to tell apart on this claim. | illustrates
+1.220 | F145, C13 | No outcome on C13. Stub has instrument and statistical analysis as the features at issue for firearms; fits, sets no limit. | illustrates
+1.221 | F145, C16 | Stub states the technical misfit (a condition); nothing on firearms practice. | illustrates
+1.222 | F145, C20 | No outcome on C20. Stub is about technique only; fits the subject, sets no limit. | illustrates
+1.223 | F146, C04 | Stub states compatibility ("could be aligned"), which is the condition; nothing separate on how feasible adapting proved. Close to with. | illustrates
+1.224 | F146, C13 | No outcome on C13. Stub has instrument work and error measurement as the features at issue for toxicology; fits, sets no limit. | illustrates
+1.225 | F146, C17 | Stub states technical compatibility (a condition); nothing on practice change. | illustrates
+1.226 | F146, C20 | No outcome on C20. Stub is about technique only; fits the subject, sets no limit. | illustrates
+1.227 | F147, C04 | Stub states a compatible but little-used option (the condition); nothing on how feasible using it more would be. | illustrates
+1.228 | F147, C13 | No outcome on C13. Stub has instrumented analysis as the feature at issue for narcotics; fits, sets no limit. | illustrates
+1.229 | F147, C18 | Stub states technical compatibility (a condition); nothing on practice change. | illustrates
+1.230 | F147, C20 | No outcome on C20. Stub is about an available technique; fits the subject, sets no limit. | illustrates
+1.231 | F148, C05 | Stub states the value conflict (the condition); not adaptation or resistance. | illustrates
+1.232 | F148, C13 | No outcome on C13. Stub has objectivity as the feature at issue for firearms; fits, sets no limit. | illustrates
+1.233 | F148, C16 | Stub states the value conflict (a condition); nothing on firearms practice. | illustrates
+1.234 | F148, C20 | No outcome on C20. Stub sets a commitment to trained judgement against the comparison; fits, sets no limit. | illustrates
+1.235 | F149, C05 | Stub states the value fit (the condition); does not report adaptation. | illustrates
+1.236 | F149, C13 | No outcome on C13. Stub has measurement error as the feature at issue for toxicology; fits, sets no limit. | illustrates
+1.237 | F149, C17 | Stub states the value fit (a condition); nothing on practice change. | illustrates
+1.238 | F149, C20 | No outcome on C20. Stub links measurement-error practice to the mistake-avoiding commitment; fits, sets no limit. | illustrates
+1.239 | F150, C05 | Stub states the value conflict (the condition); not adaptation or resistance. | illustrates
+1.240 | F150, C13 | No outcome on C13. Stub has instrumentation as the feature at issue for narcotics; fits, sets no limit. | illustrates
+1.241 | F150, C18 | Stub states the threat to variety and autonomy (a condition); nothing on practice change. | illustrates
+1.242 | F150, C20 | No outcome on C20. Stub links a change of method to loss of variety and autonomy; fits, sets no limit. | illustrates
+1.243 | F151, C03 | Stub gives the outcome only: no local change, no route shown. Fits the "remote, less change" half. Note: on a two-way claim a bare outcome can only come out with. | with
+1.244 | F151, C05 | Stub gives the outcome only: evaluation rejected, practice unchanged; no values shown. Fits the "conflict, resistance" half. Same note as 1.243. | with
+1.245 | F151, C16 | Stub: MCCL firearms examiners did not change local practice. Outcome went the asserted way; no cause given. | with
+1.246 | F152, C03 | Stub gives the outcome only: toxicologists changed local practice, no route shown. Fits the "immediate, more change" half. Same note as 1.243. | with
+1.247 | F152, C05 | Stub gives the outcome only: practice changed; no values shown. Fits the "alignment, adaptation" half. Same note as 1.243. | with
+1.248 | F152, C17 | Stub: MCCL toxicologists changed local practice. Outcome present; no cause given. | with
+1.249 | F153, C03 | Stub gives the outcome only: narcotics did not change, no route shown. Fits the "nonurgent, less change" half. Same note as 1.243. | with
+1.250 | F153, C05 | Stub gives the outcome only: no change; no values shown. Fits the "conflict, resistance" half. Same note as 1.243. | with
+1.251 | F153, C18 | Stub: MCCL narcotics analysts did not change local practice. Outcome went the asserted way; no cause given. | with
+1.252 | F154, C10 | Stub has each occupation filtering the comparison through its own work culture and stressing different features: separate cultures shown. Thin: differences are implied by "its own". | with
+1.253 | F154, C11 | No outcome on C11. Stub has each group filtering the comparison through its own culture; fits, sets no limit. | illustrates
+1.254 | F154, C13 | No outcome on C13. Stub says each occupation emphasised different features of DNA; fits, sets no limit. | illustrates
+1.255 | F155, C01 | Stub has challenges and pressure reaching the groups by three routes and shaping the form of workplace change. | with
+1.256 | F155, C03 | Stub says the routes shaped urgency and the form of workplace change, with courtroom pressure the local one. Thin: it does not say which route produced more change. | with
+1.257 | F156, C01 | Stub reports evaluation reaching occupations that do not use DNA, but nothing about their work practices. Close to with. | illustrates
+1.258 | F156, C02 | Stub says the NAS elevation of DNA triggered evaluation of non-DNA forensic occupations. | with
+1.259 | F156, C19 | Stub has spillover reaching forensic occupations that do not use DNA: outcome present, nothing said about overlap. | with
+1.260 | F157, C11 | No outcome on C11. Stub has DNA carrying a different practical meaning for each group; fits, sets no limit. | illustrates
+1.261 | F157, C13 | No outcome on C13. Stub names the feature each occupation took from DNA; fits, sets no limit. | illustrates
+1.262 | F158, C04 | Stub says spillovers differed by route and by each group's reading of DNA; nothing on feasibility of adapting. | illustrates
+1.263 | F158, C05 | Stub says spillovers differed by route and interpretation; nothing on adaptation or resistance. | illustrates
+1.264 | F158, C11 | No outcome on C11. Stub makes the occupation's interpretation one of two things spillovers varied with; fits, sets no limit. | illustrates
+1.265 | F159, C03 | Stub says the importance of each route differed by occupation; nothing on practice change. | illustrates
+1.266 | F160, C03 | Stub: firearms faced the NAS report, media and distant courts, and resisted local change. | with
+1.267 | F160, C16 | Stub: remote routes, and firearms resisted local change despite some concern. | with
+1.268 | F161, C03 | Stub: an immediate local court threat, and changing reporting practice was made easier. | with
+1.269 | F161, C17 | Stub: immediate local threat aligned with accreditation work under way, making the reporting change easier. | with
+1.270 | F162, C03 | Stub says what narcotics did and did not face and that legitimacy became salient; nothing on practice change. | illustrates
+1.271 | F162, C18 | Stub describes the pressure narcotics met (conditions); nothing on practice changing or not. | illustrates
+1.272 | F163, C03 | Stub states the general mechanism (institutions organising local interpretation); no practice outcome either way. | illustrates
+1.273 | F163, C11 | No outcome on C11. Stub has responses decided through local interpretation; fits, sets no limit. | illustrates
+1.274 | F164, C03 | Stub: direct courtroom exposure created a change opportunity for toxicologists; firearms, without it, saw no pressing local problem. | with
+1.275 | F164, C16 | Stub says distant challenges were not felt as pressing locally (the remoteness condition); nothing on firearms practice itself. Close to with. | illustrates
+1.276 | F164, C17 | Stub: direct courtroom exposure created a change opportunity for toxicologists. | with
+1.277 | F165, C19 | Stub has shared audiences marking the groups as open to comparison, then says the study could not establish how far spillovers extend: an explicit limit. | qualifies
+1.278 | F166, C01 | Stub has the DNA comparison bearing on three non-DNA groups, one of which changed. Coded on the printed direction (pressure); two of the three did not change. | with
+1.279 | F166, C04 | Stub: misfit on technique with resistance, fit with change, and a compatible instrument blocked by values; matches the direction including its "unless". | with
+1.280 | F166, C05 | Stub: value conflict with resistance in two groups, value fit with change in the third. | with
+1.281 | F166, C10 | Stub sets three different value commitments beside three different techniques. | with
+1.282 | F166, C11 | No outcome on C11. Stub explains each response by how the comparison sat with the group's work; fits, sets no limit. | illustrates
+1.283 | F166, C13 | No outcome on C13. Stub has the comparison meeting different techniques and values in each group; fits, sets no limit. | illustrates
+1.284 | F166, C16 | Stub: firearms resisted because technique and the commitment to holistic judgement conflicted with the comparison. | with
+1.285 | F166, C17 | Stub: toxicologists changed because technique and error-avoidance values fit. | with
+1.286 | F166, C18 | Stub: narcotics resisted despite a compatible instrument because craft and variety mattered. | with
+1.287 | F166, C20 | No outcome on C20. Stub pairs technique and values in each explanation; fits, sets no limit. | illustrates
+1.288 | F166, C21 | No outcome on C21. Stub explains all three responses by technique and values; fits, sets no limit. | illustrates
+1.289 | F167, C20 | No outcome on C20. Stub restates the claim with the toxicology example; fits, sets no limit. | illustrates
+1.290 | F168, C21 | No outcome on C21. Stub restates the claim; fits, sets no limit. | illustrates
+1.291 | F172, C04 | Stub is a general statement that values and technique matter to responses; nothing on feasibility of adapting. | illustrates
+1.292 | F172, C05 | Stub is a general statement; no adaptation or resistance reported for any group. | illustrates
+1.293 | F172, C21 | No outcome on C21. Stub says status or power alone cannot explain resistance; fits, sets no limit. | illustrates
+2.1 | C01 | Names the paper's concept and headline claim (abstract, opening and close of the discussion); everything else hangs on it. | true
+2.2 | C02 | The first link: without DNA as benchmark drawing scrutiny onto the neighbours there is no spillover to trace. Close to being setup for C01; kept because the abstract states it as the thing explored. | true
+2.3 | C03 | One of the three named conditions (pathways) in the abstract and Table 2; a discussion section is built on it. | true
+2.4 | C04 | One of the three named conditions (technique); the argument needs it, together with its limit shown by narcotics. | true
+2.5 | C05 | One of the three named conditions (values); it is what separates narcotics from toxicology. | true
+2.6 | C06 | Literature review: what is already known about direct adoption, set up to be departed from. | false
+2.7 | C07 | Literature review (two hospitals, same technology); background. | false
+2.8 | C08 | Literature review on power and resistance; background the paper later says is not the whole story. | false
+2.9 | C09 | Motivating premise for the concept (technology as symbol) in the theory section; a step toward C01. | false
+2.10 | C10 | Needed on the way to C04 and C05 (why the groups differ) but not itself what the paper contributes. | false
+2.11 | C11 | Framing drawn from prior studies; the lens, not the finding. | false
+2.12 | C12 | Methods justification. | false
+2.13 | C13 | A real finding (each group read the comparison differently) but it serves C04 and C05, and the abstract does not carry it. Considered true. | false
+2.14 | C14 | Explains why DNA looked objective; background to the benchmark, a step toward C02. | false
+2.15 | C15 | Gives the paper its title phrase, but the text itself moves past it to the spillover as the more important point. | false
+2.16 | C16 | One leg of the three-case comparison (remote route, misfit on technique and values); the pathway and values arguments lose their contrast without it. Considered false as a case-level instance of C03 to C05. | true
+2.17 | C17 | The only case where practice changed; the comparison cannot be made without it. Same hesitation as C16. | true
+2.18 | C18 | The case that separates values from technique (compatible method, still no change); C04's limit and C05 rest on it. Same hesitation as C16. | true
+2.19 | C19 | Raised as a question for future work about where spillovers stop; the argument does not stand on it. | false
+2.20 | C20 | An observation about the analytic split the paper makes; the argument that technique and values each mattered stands without it. A section heading names it, so considered true. | false
+2.21 | C21 | A contrast with the status and power literature drawn in one discussion passage; it positions the contribution, but the three-condition argument stands without it. Closest call on this tab. | false
+2.22 | C22 | Illustrative extension to another field in the closing section. | false
+2.23 | C23 | Closing forecast. | false
+3.1 | C01 | Firmest: "I demonstrate how" the comparison spilled over to influence others' work (pp. 607-608), repeated as "demonstrate" at p. 634. Hedged at p. 634 (a mechanism of "potential change") and p. 638 ("can prompt", "may change"). | established
+3.2 | C02 | Stated flatly: DNA held up as gold standard "resulting in" scrutiny of other groups (p. 606); the report "intensified the scrutiny" (p. 615). No hedged places found. | established
+3.3 | C03 | Responses "were predicated on" the pathways (p. 606); pathways "affected" urgency and the character of change (p. 634). Hedged at p. 635 ("may lead to change"). | established
+3.4 | C04 | Responses "were conditioned by" values and techniques (p. 608); the narcotics case "demonstrates" that a compatible technique was not enough (p. 637). | established
+3.5 | C05 | Flat causal wording: values "led them to resist" (p. 625); "Because" narcotics analysts valued autonomy and variety "they resisted" (p. 632). | established
+3.6 | C06 | Reported as settled prior knowledge ("we have learned", p. 609). Established by the cited literature rather than by this paper; the "can" belongs to the claim. | established
+3.7 | C07 | Stated as what the cited study found: the two hospitals "evolved differently because" of expertise, practices and relationships (p. 608). | established
+3.8 | C08 | Firmest statement is the cited study that "showed" it, summed up under "we have learned" (p. 609). Hedged where stated directly ("[6 words of Bechky (2020), p. 608]") and for the other studies ("suggested"). Could be read as ventured. | established
+3.9 | C09 | Technologies "may provide" symbolic legitimacy, introduced as a "potentially critical effect" (p. 610): offered, with two supporting examples. | ventured
+3.10 | C10 | Work practices and relations with the justice system "resulted in" distinct cultures (p. 620); the work "led to" distinct techniques and values (p. 615). | established
+3.11 | C11 | "Together, these studies demonstrate" it (p. 611). Asserted as shown, by prior work. | established
+3.12 | C12 | Ethnography "enables" observation of interpretations in situ (p. 613). The comparison with other methods is softer ("might be hidden"). | established
+3.13 | C13 | DNA "[7 words of Bechky (2020), p. 617]" (p. 617); its meaning "manifested differently for each" (p. 634). Stated as found. | established
+3.14 | C14 | Graphs and tables "produced an impression" of objectivity; anomalies "were neatened" in representation (pp. 618-619). Stated as fact. | established
+3.15 | C15 | "One consequence ... was" a pervasive DNA envy (p. 619). The association example is softer ("Some resentment"). | established
+3.16 | C16 | "this led them to dismiss" changing practice (p. 625); "robustly resisted" (p. 637). | established
+3.17 | C17 | The local threat "propelled a change" (p. 625). Softer at p. 635 ("made it easier"). | established
+3.18 | C18 | "Because ... they resisted", "therefore they held onto" their practices (p. 632). | established
+3.19 | C19 | The same-field point is firm (p. 634), but the more-or-less overlap relation is offered: "would probably", "suggests", raised "as a question" (p. 636). | ventured
+3.20 | C20 | "this analysis shows" the two are inseparable in practice, with values "rooted in the work itself" (p. 637). | established
+3.21 | C21 | Status and power "were much less important" [6 words of Bechky (2020), p. 637] (p. 637): no hedge. Coding the phrasing; the paper presents little on status or power. | established
+3.22 | C22 | "I would expect" resistance (p. 638): an expectation derived from the findings. | ventured
+3.23 | C23 | Spillovers "are likely to spread" (p. 638): a forecast. | ventured
+4.1 | DG01 | The paper declines to say how spillovers run in other fields because it studied one laboratory: a statement of what it does not cover. Considered absent_evidence (no data from elsewhere); rejected because it is framed as claims not made, not data missing. | scope_limit
+4.2 | DG02 | Posed as a question (how far do spillovers extend) and handed to future studies. Considered scope_limit (the closely related field is given as the reason); rejected because the paper's own framing is a question left open. | unresolved_question
+4.3 | DG03 | The footnote says the author has no data on those examiners' local actions. Considered scope_limit (they were outside the site); rejected because the wording is about missing data on a point the discussion leans on. | absent_evidence
+5.1 | CP01 | The discussion sets the two courtroom situations side by side and calls it a comparison worth making (p. 635); p. 627 already contrasts the toxicology threat with the challenge to firearms. | true
+5.2 | CP02 | Table 2 puts the two in adjacent columns on technique, values and response, and the discussion moves from narcotics to toxicology with "In contrast" (pp. 636-637). Drawn inside a three-way comparison, not as a pair of its own; the clearest text is pp. 636-637, not p. 635. | true
+6.1 | - | No before-and-after to close: three parallel cases are reported as they stood during fieldwork. Toxicology's change is complete, but the firearms challenges and the crystal-test debate are left open and the paper ends on implications. If "closes" only means each group's response is stated, it would be P1. | none
+7.1 | F49 | Incident shows contamination that cleared on a re-run with no cause found; the "judgment" half is carried by the sentence it illustrates (F48), not by the incident. Nothing contradicted. | consistent
+7.2 | F51 | A remark that a report takes the wider lab matches "shared judgment", given F50's account of reviewers and others joining the interpretation. | consistent
+7.3 | F55 | Forming an association over DNA's share, and a flyer saying trace work was pushed behind DNA, carry resentment in a professional-association setting. "Resentment" is slightly stronger than the stub's "concern". | consistent
+7.4 | F57 | The director's statement is the formal expectation of interchangeability; gloss says no more. | consistent
+7.5 | F66 | First part fits (documentation backs judgement on the stand). The p. 635 part reuses a remark about note packets as evidence that distant challenges did not feel urgent; the fragment says nothing about distant challenges. Both can be true. | goes_beyond
+7.6 | F69 | Episode shows two examiners weighing agreement and choosing images; "typical" and the aim of convincing images are carried by F68's general description. Would be goes_beyond on "typical" if F68 is not allowed to count. | consistent
+7.7 | F79 | Displaying the critics and stressing their lack of training is a defensive answer to attacks; gloss says no more. | consistent
+7.8 | F80 | First part fits (use criticism to re-examine practice). The p. 635 part turns one speaker into examiners with hearing experience being "more motivated", which the fragment cannot carry. F79, same gathering, has a speaker who also spoke of testifying under the criticism responding defensively; both can still be true. | goes_beyond
+7.9 | F85 | Outsiders' distrust of non-numerical conclusions and the rejection of percentage matches match stigma and no workable analogue; "population" statistics is supplied by F86. | consistent
+7.10 | F94 | The self-description and checking routine are the commitment the gloss names. | consistent
+7.11 | F95 | The complaint and the joke about less-compulsive coworkers show orderliness treated as a virtue in the unit. | consistent
+7.12 | F96 | The cost of one slip is why vigilance matters; "repetitive" comes from the neighbouring F97. | consistent
+7.13 | F103 | Pride in a tight uncertainty range is in the fragment, and F102 (same session) carries the fit with existing technique. The "avoiding error" part joins measurement uncertainty to mistake-avoidance, which neither fragment shows. Not contradicted. | goes_beyond
+7.14 | F114 | Taylor's dislike of paperwork-heavy toxicology and his move to other work fit the preference F113 reports for the group. | consistent
+7.15 | F116 | Insisting the test established cocaine, and declining to speak on purity, is precision with bounded claims. | consistent
+7.16 | F117 | Two narcotics analysts vouching for documentation routines shows they value them; that the value is shared across the whole laboratory is added, and F116 and F118 do not supply it. | goes_beyond
+7.17 | F119 | The meeting shows analysts pressing for speed; "alongside thorough analysis" is F120's neighbouring point, not a claim about this meeting. | consistent
+7.18 | F122 | Jodi's fear of losing a fast, definitive, practical test matches the gloss; the professional-debate source is in F121, which introduces her. | consistent
+7.19 | F127 | Saying anyone can run the instrument while crystals need training is the craft contrast; the "threat" sits in the lead-in F126 more than in Taylor's words. Mild; nothing contradicted. | consistent
+7.20 | F128 | Billie gives variety and doing chemistry as her reasons; "central reasons for resisting" at group level rests on F126 and F129 around it. In the paper's quote she adds that others would prefer the instrument, which sits a little uneasily but does not contradict. | consistent

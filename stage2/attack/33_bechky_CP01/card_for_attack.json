@@ -1,0 +1,112 @@
+{
+  "card_id": "bechky_2020_construct_inversion_from_pair_CP01_01",
+  "paper_id": "bechky_2020",
+  "move": "construct_inversion",
+  "trigger": "from_pair CP01",
+  "claim": "C03",
+  "incumbent_reading": "The paper holds that MCCL's firearms examiners kept their method because court challenges to firearms evidence were distant, while its toxicologists changed their reporting because a challenge was imminent in their own jurisdiction, so that locally immediate routes give more impetus to local change than remote ones (C03; F84, F87, F88, F160, F161, all in the author's voice).",
+  "wager": {
+    "statement": "Re-attribute what separated the two units. The paper credits distance: remote for firearms, immediate for toxicology. A second thing varied across the pair and is printed on one side only: a change already being worked toward under a standing requirement.\n\nBefore the NAS report the laboratory was adapting to ISO 17025 and the toxicology unit had a multi-year plan to estimate measurement uncertainty (F98). State law and ASCLD required a five-percent confidence range for blood-alcohol measurement, the protocol already logged instruments, reagents and standards, and the laboratory was reporting at a 95% confidence level while preparing fuller uncertainty estimates for ISO compliance (F101). When the local challenge became imminent the unit accelerated that plan and prepared the statistical analysis (F98). At an outreach session for criminal-justice personnel Jason rejected the idea that the laboratory had only begun uncertainty work because of the NAS report, cited ISO and NIST requirements, and said the new calculation used several years of existing quality-control data (F102). The paper's own table puts ASCLD accreditation standards in toxicology's professional-association cell (F143, author's account) and identifies no professional-association route for firearms (F142, author's account).\n\nOn the firearms side no fragment prints a plan for the unit, and none says what the laboratory's ISO 17025 adaptation (F98) asked of it. The one professional-body response printed on the firearms criticism is a rebuttal: AFTE leaders issued a detailed rebuttal to parts of the NAS criticism of firearms work (F78). IAI and AFTE also answered the report with selected rebuttals and commitments to have their research committees study the recommendations further (F35). One examiner's work, at least, had been under outside review: Adam says outsiders had repeatedly reviewed his work without challenging it (F66).\n\nRead this way, the pair does not set a unit that changed beside a unit that did not. It sets a unit whose change was already planned and required beside a unit with no plan and no requirement of its own in print, and the imminent challenge brought the plan forward. The wager is that the standing requirement is what made the difference, and that the immediate route accounts for when toxicology's reports changed, not for the fact that they did. A requirement met on a multi-year plan is hard to count among C03's locally immediate routes, so on this reading the pair shows the slower route doing the work.\n\nThis sits close to C17, which already lists accreditation work under way, and to F161, where the author's account has that work making the change easier. It parts from C03, which takes this pair to show that immediacy supplies the impetus.",
+    "seed_fragments": [
+      "F98",
+      "F101",
+      "F102",
+      "F143",
+      "F142",
+      "F66"
+    ],
+    "what_it_would_take_to_cohere": {
+      "observation": "The timetable of the toxicology unit's multi-year plan as it stood before the local challenge, meaning when uncertainty estimates were due to enter reports, set against when they did; and whether the laboratory's ISO 17025 adaptation placed any requirement on the firearms unit.",
+      "printed": false,
+      "printed_fragments": [],
+      "basis": "Not in the record. F98 prints that the plan was multi-year, predated the NAS report and was accelerated, but gives neither its original date nor how far it was brought forward. F101 and F102 print what the plan drew on, not when it was due. For firearms I read every fragment for that unit (F10, F14, F18, F22, F26, F29, F59 to F82, F84 to F87, F160, F171, and the Table 2 cells F130, F133, F136, F139, F142, F145, F148, F151), together with F83, a narcotics analyst speaking about firearms, F164 from the discussion, and the laboratory-wide fragments F36, F57 and F98. F98 has the laboratory adapting to ISO 17025 without saying what that asked of the firearms unit, no fragment prints a plan for firearms, and F142 records that the paper's table identifies no professional-association route for that unit. F33 and F34 print field-wide responses from AAFS and ASCLD without naming a unit. The corpus does not say why the timetable is not given."
+    },
+    "strains_against": [
+      "F98 -- two things in the stub that carries the reading. It prints that the unit accelerated the plan when the challenge became imminent, so immediacy can be moved from whether to when but stays in the episode and may have done more than the reading allows. And it has the laboratory, not the toxicology unit alone, adapting to ISO 17025 before the report; if that adaptation reached the firearms unit, that unit also stood under a requirement and did not change, and the variable the reading credits would not separate the two.",
+      "F90 -- a local defense attorney planned the challenge in an MCCL case and intended to bring in an outside engineering expert; the acceleration follows a concrete local event, which is the order C03 expects.",
+      "F81 -- the author's account is that the challenges to firearms evidence had not succeeded in excluding it, while F90 has the toxicology attack already winning DUI cases elsewhere; the record of the challenge also varied across the pair, and a challenge known to win could carry the difference without either distance or a standing requirement.",
+      "F103 -- the new reports state a narrow range at a 99% confidence level, where F101 has the laboratory previously reporting at 95%; if the plan did not already specify that level, the challenge shaped what changed as well as when, and the corpus does not say which.",
+      "F80 -- a firearms examiner who drew lessons from defense questioning urged colleagues to answer criticism and not dismiss it, and the author's gloss (p. 635) treats examiners with direct admissibility-hearing experience as more motivated toward field change; exposure moves at least what examiners say, where no plan or requirement is printed.",
+      "F153 -- outside the pair, narcotics had a professional-association route (F144, author's account) and is recorded as not changing; the reading holds only if what counted for toxicology was a requirement with a plan behind it (F98, F101), since the narcotics discussion is printed as considering a requirement (F124), not imposing one.",
+      "F33 -- AAFS and ASCLD supported the NAS recommendations and promoted actions such as universal laboratory accreditation and analyst certification; that is association pressure toward requirements on laboratories and analysts in general, the firearms unit not excepted.",
+      "F34 -- ASCLD advised laboratory leaders to ready staff for courtroom questions and to establish the reliability of their analyses; with F33, an association route to the firearms unit is in print in a general form, and the difference the reading credits narrows to whether a specific requirement and plan existed.",
+      "F67 -- firearms examiners contrast an earlier reliance on intuitive recognition with a current expectation of documented images; some change in how that unit backs its reports and testimony had happened by an undated point, so 'no plan in print' describes the record and may not describe the unit."
+    ],
+    "who_could_complete_it": "Whoever held the laboratory's accreditation timetable, such as unit supervisors, the laboratory director or the deputy director, or the laboratory's ISO 17025 planning documents from before the report, including whatever they asked of the firearms unit."
+  },
+  "fragment_jobs": {
+    "F84": "States, in the author's voice, that MCCL firearms practice was unchanged because no comparable challenge had reached local testimony; the reading keeps the outcome and questions the 'because'.",
+    "F87": "Gives the paper's fuller firearms account, in which distance is combined with incompatible technique and affronted values, which shows the pair never varied distance alone.",
+    "F160": "Summarizes the firearms side in the author's voice and is the side of the pair on which the reading finds no plan and no requirement specific to the unit printed.",
+    "F88": "States the incumbent attribution in the author's voice, that the anticipated challenge created the reason to change, and is set against F98's prior plan.",
+    "F98": "Carries the reading: it dates the uncertainty plan before the NAS report and prints the challenge as accelerating that plan, which the paper uses as support for immediacy and the reading uses to separate the direction of the change from its timing; its acceleration clause and its laboratory-wide ISO clause are both declared as strains.",
+    "F161": "Is where the author's account itself says the court threat was aligned with accreditation work already under way and that this made the change easier; the reading promotes that clause from easing condition to difference-maker.",
+    "F101": "Shows a numerical requirement from state law and ASCLD, and reporting at a 95% level, in place before the challenge, so that the unit was already working inside a standing requirement.",
+    "F102": "Gives a toxicologist's own account, at an outreach session for criminal-justice personnel, of where the work came from (ISO and NIST requirements, several years of existing quality-control data) together with his rejection of the report as its origin; the reading takes the plan's existence from F98 and F101 and uses this as his account.",
+    "F143": "Is the paper's own listing of accreditation standards as a route for toxicology, which lets the re-attribution be made inside the paper's table.",
+    "F142": "Is the paper's own record that no professional-association route is identified for firearms, the other side of the variable the reading credits.",
+    "F78": "Prints the one professional-body response that is specific to the firearms criticism, a detailed rebuttal, where toxicology's side prints a requirement.",
+    "F35": "Prints IAI and AFTE answering the report with selected rebuttals and commitments to further study; AFTE is the body F78 has rebutting the firearms criticism.",
+    "F66": "Has an examiner who appears in the unit's technical review (F69) reporting that outsiders repeatedly reviewed his own work without challenging it; the reading sets this beside the absence of any printed requirement on the unit, since review of his work is printed and a demand arising from it is not.",
+    "F90": "Declared strain: prints the planned local challenge and the outside expert, the concrete event after which the unit accelerated, and the attack's record of winning cases elsewhere.",
+    "F81": "Declared strain: with F90 it shows the record of the challenge varying across the pair, won elsewhere for toxicology and, on the author's account, not successful for firearms.",
+    "F103": "Declared strain: prints the 99% confidence level of the new reports, which may mean the challenge shaped the content of the change.",
+    "F80": "Declared strain: prints a firearms examiner urging colleagues to answer criticism, with the author's gloss tying such motivation to direct hearing experience.",
+    "F153": "Declared strain: records narcotics as unchanged although the table gives it a professional-association route.",
+    "F144": "Is the table's cell giving narcotics a professional-association route through the SWG-DRUG debate, which the reading has to distinguish from a standing requirement.",
+    "F124": "Prints the SWG-DRUG discussion as considering a requirement, which is the basis for distinguishing a debate from a requirement already in force.",
+    "F33": "Declared strain: prints AAFS and ASCLD promoting universal laboratory accreditation and analyst certification, association pressure that is not confined to one unit.",
+    "F34": "Declared strain: prints ASCLD's general advice to laboratory leaders, an association route that is not confined to toxicology.",
+    "F67": "Declared strain: prints an undated earlier change in how firearms examiners back their reports, so the unit is not without change in print."
+  },
+  "grounded_in": [
+    {
+      "kind": "divergence",
+      "items": [
+        "F98",
+        "F88"
+      ],
+      "how": "F98 prints a plan that predates the NAS report and was accelerated when the challenge became imminent; F88, in the author's voice, has the anticipated challenge creating the reason for toxicologists to change their reporting. One has the challenge altering the pace of a change already planned; the other has it supplying the reason for the change."
+    },
+    {
+      "kind": "missing_fact",
+      "question": "When was the multi-year plan due to put uncertainty estimates into reports, and how far did the imminent challenge bring that forward?",
+      "bears_on": "C03",
+      "if_one_way": "If the plan was due at about the time the reports did change, C03's toxicology case would read as a scheduled change that an immediate challenge barely moved, and the pair would not show immediacy producing change.",
+      "if_the_other": "If the plan was years from delivery or had no reporting date, C03 would read as the paper states it: the immediate local route turned preparation into practice."
+    },
+    {
+      "kind": "missing_fact",
+      "question": "Did the laboratory's ISO 17025 adaptation (F98) place any requirement on the firearms unit?",
+      "bears_on": "C03",
+      "if_one_way": "If it placed a comparable requirement on firearms and that unit still did not change, C03 would read as stated, because the two units would then differ in the distance of their challenges and not in having a requirement.",
+      "if_the_other": "If it asked nothing of firearms, C03's contrast would read as confounded: the units differed in whether any standing requirement existed, and distance could not be credited separately."
+    }
+  ],
+  "reach": {
+    "same_construct": [
+      "C16",
+      "C17",
+      "C18"
+    ],
+    "same_outcome": [
+      "C04",
+      "C05",
+      "C16",
+      "C17",
+      "C18"
+    ],
+    "feature_elsewhere": [
+      "F67",
+      "F124"
+    ],
+    "orphans_used": [
+      "F66",
+      "F67",
+      "F78",
+      "F81"
+    ]
+  },
+  "split": null,
+  "for_attack": true
+}

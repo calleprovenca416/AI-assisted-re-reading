@@ -1,0 +1,183 @@
+{
+  "paper": "Michael G. Pratt, 2000",
+  "codes": [
+    {
+      "reading": "R01",
+      "main_claim": "C07",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C03", "type": "other_mechanism"},
+        {"claim": "C34", "type": "complements"}
+      ],
+      "reason": "The reading retains the different identification outcomes but explains their distribution through stages of a membership career rather than through the success or failure of dream building and positive programming.",
+      "page": "p. 463"
+    },
+    {
+      "reading": "R02",
+      "main_claim": "C29",
+      "main_type": "rereads_evidence",
+      "other_claims": [
+        {"claim": "C23", "type": "complements"},
+        {"claim": "C06", "type": "challenges_premise"}
+      ],
+      "reason": "The reading treats the workplace denial as an immediate concession that can precede organizational reaffirmation, so the passage no longer demonstrates a distinct ambivalent attachment arising from competing sources of meaning.",
+      "page": "p. 480"
+    },
+    {
+      "reading": "R03",
+      "main_claim": "C56",
+      "main_type": "inverts",
+      "other_claims": [
+        {"claim": "C27", "type": "rereads_evidence"},
+        {"claim": "C07", "type": "rereads_evidence"}
+      ],
+      "reason": "The reading reverses the proposed sequence by making early departure prevent identification practices from taking effect, rather than making unsuccessful identification produce departure.",
+      "page": "p. 477"
+    },
+    {
+      "reading": "R04",
+      "main_claim": "C08",
+      "main_type": "challenges_premise",
+      "other_claims": [
+        {"claim": "C28", "type": "rereads_evidence"}
+      ],
+      "reason": "The reading questions whether successful recruitment is a uniform category that permits prospecting to be set aside, since joining can express attraction or an attempt to escape coercive pressure.",
+      "page": "p. 463, footnote 7"
+    },
+    {
+      "reading": "R05",
+      "main_claim": "C02",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C11", "type": "other_mechanism"},
+        {"claim": "C24", "type": "restates"}
+      ],
+      "reason": "The reading preserves positive identification arising through both practices but makes freely chosen, costly enactment and its cognitive justification the mechanism instead of creating and fulfilling a need for meaning.",
+      "page": "p. 476"
+    },
+    {
+      "reading": "R06",
+      "main_claim": "C29",
+      "main_type": "inverts",
+      "other_claims": [
+        {"claim": "C06", "type": "challenges_premise"}
+      ],
+      "reason": "The reading makes inactivity preserve outside relationships by preventing recruitment encounters, reversing the account in which retained outside relationships generate conflicting interpretations and intermittent activity.",
+      "page": "p. 481"
+    },
+    {
+      "reading": "R07",
+      "main_claim": "C09",
+      "main_type": "challenges_premise",
+      "other_claims": [],
+      "reason": "The reading accepts that reported finances failed to sort identification states but questions treating financial results as an independent measure when decisions about counting training costs already express organizational allegiance.",
+      "page": "p. 463"
+    },
+    {
+      "reading": "R08",
+      "main_claim": "C20",
+      "main_type": "rereads_evidence",
+      "other_claims": [
+        {"claim": "C21", "type": "complements"}
+      ],
+      "reason": "The reading recasts the inactive member's enduring sponsor relationship as support detached from participation, so the strong tie is evidence of what survives inactivity rather than of a relationship channeling the member into encapsulated sensemaking.",
+      "page": "p. 480"
+    },
+    {
+      "reading": "R09",
+      "main_claim": "C13",
+      "main_type": "rereads_evidence",
+      "other_claims": [
+        {"claim": "C01", "type": "challenges_premise"},
+        {"claim": "C14", "type": "rereads_evidence"}
+      ],
+      "reason": "The reading reinterprets the shopping session offered as an illustration of dream building as chiefly transmitting the mentor's manner and forming a familial bond, rather than incorporating desired possessions into a deficient self.",
+      "page": "p. 493"
+    },
+    {
+      "reading": "R10",
+      "main_claim": "C12",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C27", "type": "other_mechanism"},
+        {"claim": "C30", "type": "restates"}
+      ],
+      "reason": "The reading retains seekership but attributes it to dissatisfaction brought from members' prior lives, with dream building supplying language for that dissatisfaction rather than creating it.",
+      "page": "p. 464"
+    },
+    {
+      "reading": "R11",
+      "main_claim": "C13",
+      "main_type": "restates",
+      "other_claims": [
+        {"claim": "C15", "type": "restates"},
+        {"claim": "C17", "type": "restates"}
+      ],
+      "reason": "The reading repeats the account of dream building incorporating aspirations into the self, exposing a shortfall in the current self, and renewing that motivational shortfall through further dreams.",
+      "page": "p. 464"
+    },
+    {
+      "reading": "R12",
+      "main_claim": "C07",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C20", "type": "other_mechanism"},
+        {"claim": "C28", "type": "restates"}
+      ],
+      "reason": "The reading retains the range of identification outcomes but assigns the decisive causal role to existing outsiders' responses to recruitment rather than to whether the organization's two practices succeed.",
+      "page": "p. 463"
+    },
+    {
+      "reading": "R13",
+      "main_claim": "C09",
+      "main_type": "inverts",
+      "other_claims": [],
+      "reason": "The reading proposes that financial position could distinguish identification states once measured as net receipts and payments rather than sales volume, reversing the claim that financial performance does not sort those states.",
+      "page": "p. 463"
+    },
+    {
+      "reading": "R14",
+      "main_claim": "C12",
+      "main_type": "challenges_premise",
+      "other_claims": [
+        {"claim": "C13", "type": "rereads_evidence"},
+        {"claim": "C27", "type": "challenges_premise"}
+      ],
+      "reason": "The reading questions treating excitement about an aspiration and dissatisfaction with one's current life as a single seekership process, arguing that the former can occur without the latter.",
+      "page": "p. 469"
+    },
+    {
+      "reading": "R15",
+      "main_claim": "C28",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C27", "type": "other_mechanism"},
+        {"claim": "C58", "type": "complements"}
+      ],
+      "reason": "The reading explains oppositional departure through a perceived wrong inflicted by recruiters or uplines, regardless of continuing desire for personal change, instead of successful sensebreaking followed by failed sensegiving and outside interpretation.",
+      "page": "p. 479"
+    },
+    {
+      "reading": "R16",
+      "main_claim": "C01",
+      "main_type": "other_mechanism",
+      "other_claims": [
+        {"claim": "C07", "type": "other_mechanism"},
+        {"claim": "C13", "type": "challenges_premise"}
+      ],
+      "reason": "The reading replaces the paired causal processes with the quality of the upline relationship as the single mechanism producing dreams and organizing identification outcomes.",
+      "page": "p. 481"
+    },
+    {
+      "reading": "R17",
+      "main_claim": "C09",
+      "main_type": "inverts",
+      "other_claims": [
+        {"claim": "C11", "type": "other_mechanism"},
+        {"claim": "C28", "type": "other_mechanism"}
+      ],
+      "reason": "The reading makes the recognition and interpretation of financial costs distinguish positive, oppositional, and inactive attachments, reversing the paper's exclusion of finances as a determinant of identification states.",
+      "page": "p. 463"
+    }
+  ]
+}

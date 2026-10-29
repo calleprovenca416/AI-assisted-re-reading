@@ -1,0 +1,23 @@
+0.1 | C01 | Spillovers are said to make change possible in the work of occupations that never adopt the technology; what varies is whether that work changes (no sign given beyond change occurring). | change in the work practices of adjacent, non-adopting occupations
+0.2 | C02 | One technique's strong legitimacy is said to pull evaluation onto its neighbours; what varies is how much evaluation they come under. | evaluative scrutiny of neighboring forensic occupations
+0.3 | C03 | First clause only says pathways matter; second clause is signed: more local and immediate routes give a stronger push to change local practice. | strength of the impetus for local practice change
+0.4 | C04 | "Shapes" is unsigned on its own, but compatibility is graded and the concession (it does not by itself guarantee change) only makes sense if more compatibility means more feasible. Hard call; considered none. | feasibility of adaptation
+0.5 | C05 | Signed both ways on one thing: fit with values pushes toward adapting, threat to values pushes toward resisting; I keep the adaptation polarity. | adaptation of practice (as opposed to resistance)
+0.6 | C06 | Adoption is said to be able to reconfigure four named arrangements; what varies is whether they get reconfigured. The claim does not say who gains or loses, so the direction is only that change occurs. Hard call; considered none. | reconfiguration of occupational arrangements (task boundaries, resource access, workplace relations, status)
+0.7 | C07 | Names something that varies (workplace social arrangements) and says local expertise, routines and relationships condition it, but not which conditions give which arrangement: matters, not which way. | none
+0.8 | C08 | More professional authority is said to leave an occupation better placed to resist; what varies is that capacity. | capacity to resist technology-driven changes to tasks
+0.9 | C09 | Association with novel technology is said to raise legitimacy; signed. | an occupation's symbolic legitimacy
+0.10 | C10 | Names something that varies (occupational culture: values, preferred practices) and says work and field relationships produce the differences, but "different work, different culture" has no sign. Would otherwise have written "occupational culture". | none
+0.11 | C11 | Names change in occupational practice but says only that workers' sense-making mediates it; no direction. | none
+0.12 | C12 | A claim about method, not the setting, but causal and comparative: ethnography makes visible what other methods may hide. Borderline; considered none. | visibility of members' interpretations of and responses to field-level discourse
+0.13 | C13 | Describes how the benchmark is read: each occupation picks different features of it. Nothing is said to be pushed one way or the other. | none
+0.14 | C14 | The named DNA practices are said to turn messy judgement into evidence outsiders see as objective and credible; what varies is that perception, upward. | outsiders' perception of the evidence as objective and credible
+0.15 | C15 | DNA's privileged legitimacy and resources are said to have produced envy and resentment in the rest of the field. | envy and resentment among other forensic occupations
+0.16 | C16 | Three conditions are given as the reason firearms examiners resisted; what is affected is their resistance to changing local practice (same underlying thing as C17 and C18, kept in this claim's polarity). | firearms examiners' resistance to changing local practice
+0.17 | C17 | The claim says "accelerated": the conditions affect how soon the reporting change was made, not only whether. | speed of toxicologists' adoption of the reporting change
+0.18 | C18 | Conditions are given as the reason crystal testing was kept and not replaced by instrumentation; kept in the claim's retention polarity. | narcotics analysts' retention of crystal testing
+0.19 | C19 | Signed and conditional: more shared audiences and overlap, more spillover; weaker overlap, less. | likelihood of evaluative spillover reaching an occupation
+0.20 | C20 | Describes how values and technique stand to each other (intertwined, values rooted in the work); nothing is said to move in a direction. | none
+0.21 | C21 | Names the response pattern, but the assertion is about which causes weighed more (nature of the work over status and power), not which way the response goes. | none
+0.22 | C22 | A prediction with reasons: a strongly held anonymity value plus a weak public route, hence resistance. | ethnographers' resistance to altering masking practices
+0.23 | C23 | Signed: the more workplaces digital technologies touch, the wider spillovers travel. | breadth of occupations and industries reached by evaluative spillovers

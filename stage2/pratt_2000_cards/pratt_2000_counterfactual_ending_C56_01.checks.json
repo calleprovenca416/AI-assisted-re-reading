@@ -1,0 +1,138 @@
+{
+  "card_id": "pratt_2000_counterfactual_ending_C56_01",
+  "paper_id": "pratt_2000",
+  "move": "counterfactual_ending",
+  "claim": "C56",
+  "mechanical_checks": [
+    {
+      "mode": "record",
+      "killed": false,
+      "missing_fields": []
+    },
+    {
+      "mode": "A_provenance",
+      "killed": false,
+      "cited_fragments": 21,
+      "unknown_fragments": [],
+      "unknown_claims": []
+    },
+    {
+      "mode": "C_role_vacuity",
+      "killed": false,
+      "vacuous_jobs": [],
+      "fragments_without_a_job": [
+        "F101",
+        "F103",
+        "F70",
+        "F89",
+        "F93",
+        "F94",
+        "F95",
+        "F97"
+      ]
+    },
+    {
+      "mode": "F_discrimination",
+      "killed": false,
+      "observation_named": true,
+      "printed": false,
+      "fragments": [],
+      "note": "names an absence with a basis"
+    },
+    {
+      "mode": "G_grounding",
+      "killed": false,
+      "grounds_accepted": [
+        "How far had each former distributor in print gone into dream",
+        "What did the distributors who quit after reaching high sales",
+        "F123, F22"
+      ],
+      "grounds_rejected": []
+    }
+  ],
+  "killed_by": [],
+  "restatement": {
+    "measure": "restatement",
+    "failed": false,
+    "new_uses": [
+      [
+        "F101",
+        "the incumbent files it under C01,C03,C06,C29,C34, not C56"
+      ],
+      [
+        "F103",
+        "the incumbent files it under C01,C20,C21,C29,C37, not C56"
+      ],
+      [
+        "F110",
+        "the incumbent files it under C01,C34,C38, not C56"
+      ],
+      [
+        "F22",
+        "the incumbent files it under C09, not C56"
+      ],
+      [
+        "F24",
+        "the incumbent files it under C09, not C56"
+      ],
+      [
+        "F43",
+        "the incumbent files it under C01,C17,C34, not C56"
+      ],
+      [
+        "F44",
+        "the incumbent files it under C01,C17,C34, not C56"
+      ],
+      [
+        "F45",
+        "the incumbent files it under C01,C17,C18,C38, not C56"
+      ],
+      [
+        "F70",
+        "the incumbent files it under C01,C22,C31,C55, not C56"
+      ],
+      [
+        "F72",
+        "the incumbent files it under C01,C20,C22,C23,C60, not C56"
+      ],
+      [
+        "F93",
+        "the incumbent files it under C01,C20,C23,C27,C37,C57, not C56"
+      ],
+      [
+        "F94",
+        "the incumbent files it under C01,C13,C15,C35, not C56"
+      ],
+      [
+        "F95",
+        "the incumbent files it under C01,C13,C15,C54, not C56"
+      ],
+      [
+        "F97",
+        "the incumbent files it under C01,C21,C28,C37,C42,C58, not C56"
+      ],
+      [
+        "F98",
+        "the incumbent files it under C01,C21,C28,C42,C58, not C56"
+      ]
+    ],
+    "used_as_incumbent_does": [
+      "F123",
+      "F124",
+      "F89",
+      "F90",
+      "F91",
+      "F92"
+    ],
+    "share_new": 0.714
+  },
+  "admissibility": {
+    "applies": false
+  },
+  "not_run_here": [
+    "B_import",
+    "E_contradiction"
+  ],
+  "why_not_run": "model-judged; they require a session that has never seen the reasoning that produced this reading",
+  "register": "not opened"
+}

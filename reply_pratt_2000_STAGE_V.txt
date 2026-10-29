@@ -1,0 +1,125 @@
+V.1 | F01 | fn 1: the author recounts his own first contact, a family member joining and being unusually enthusiastic; something that happened | reported
+V.2 | F02 | fn 1: he "was struck by the fact" of strong positive or negative reactions during initial research; an observation of what was the case, no explanation offered | reported
+V.3 | F03 | epigraph: a direct quotation from a speaker at a distributor meeting | reported
+V.4 | F04 | states a fact of the setting: no central business location, work outside a traditional organisational context | reported
+V.5 | F05 | "[8 words of Pratt (2000), p. 456]": the author's own conclusion about how distributors manage members, across the whole fieldwork, no single event; the description reads flatter than the page | author_insight
+V.6 | F06 | fn 3: "I noticed considerable variance" at functions; his observation of who attended (the status inference is a tail on it) | reported
+V.7 | F07 | setting facts: retail sales, countries, number of distributors | reported
+V.8 | F08 | block quotation from Yager's 1993 book | reported
+V.9 | F09 | describes how the network is organised (sponsorship, "family tree", upline, downline); what was the case | reported
+V.10 | F10 | describes recognition levels and the training "system"; what was the case. The paragraph's closing "Taken together" sentence is interpretive but is not what the row points at | reported
+V.11 | F11 | lists four facts about members: not co-located, part time, fee and materials, legally independent | reported
+V.12 | F12 | describes distributors' duties: selling, recruiting, training and supervising recruits | reported
+V.13 | F13 | direct quotation from DeVos (1975) | reported
+V.14 | F14 | "Distributors are warned that...": reports what members are told, in the author's words | reported
+V.15 | F15 | fn 5: one member's remark, quoted, plus what that member felt; one event with its reasoning | reported
+V.16 | F16 | fn 5: upline did not care about his interviewing so long as he sold and sponsored; what was the case for him. Flag: attitudes of people across the fieldwork, author's voice, no quote, and "ends-oriented" is his label | reported
+V.17 | F17 | "[6 words of Pratt (2000), p. 462]...": explicitly the author's interpretation; the description drops that framing, page wins | author_insight
+V.18 | F18 | first "key finding": the author's sorting of informants plus "[8 words of Pratt (2000), p. 462]"; interprets across informants. Flag: the first half (noticing that two groups were not enough) leans towards report | author_insight
+V.19 | F19 | page says the two practices "seemed to account for" the reactions: an explanation across cases; the description's "tracked" is flatter than the page | author_insight
+V.20 | F20 | fn 7: the author reasons that because all members were recruited "by definition" he found no relationship; an argument explaining a non-finding, not an event. Flag: "I did not find" could be read as a report | author_insight
+V.21 | F21 | "a pattern emerged": the author's analytic pattern linking the judged success of practices to identification types, across informants and in his constructs | author_insight
+V.22 | F22 | "I met distributors who...": reports people he encountered (high sellers who quit, enthusiasts without financial success) | reported
+V.23 | F23 | reports what informants did and said when asked about profits, and how they disagreed on calculating them | reported
+V.24 | F24 | fn 8: figures attributed to the Amway Business Review (1992) | reported
+V.25 | F25 | the corporation's estimate of average monthly gross income, cited from the Amway Business Review | reported
+V.26 | F26 | the specifics (women not better represented in any group; college-educated in each) report what was the case. Flag: the lead clause, "[6 words of Pratt (2000), p. 463]", is an explanatory inference, and the groups are the author's | reported
+V.27 | F27 | third "key finding": what successful and failed practices motivated members to do with their identities; explanation across cases | author_insight
+V.28 | F28 | page says "[6 words of Pratt (2000), p. 464]" through the needs analysis: the author's reading of what the exercise does. Flag: the exercise and its question are themselves reported, so the sentence is mixed | author_insight
+V.29 | F29 | reports the results of his content analysis of success stories (100, 86 and 29 percent) | reported
+V.30 | F30 | Table 1: quotation from a dream-building session | reported
+V.31 | F31 | Table 1: tape excerpt, with the crowd's reaction noted | reported
+V.32 | F32 | Table 1: interview quotation | reported
+V.33 | F33 | Table 1: field-journal quotation of what his upline said to him | reported
+V.34 | F34 | Table 1: interview quotation | reported
+V.35 | F35 | describes how members meet dreams: tapes, books, slide shows, successful distributors on display at functions; what happened | reported
+V.36 | F36 | describes dream-building sessions and shopping sprees between upline and downline; what happened ("identified and shaped" is light characterisation) | reported
+V.37 | F37 | direct quotation from an Emerald at a meeting and dream-building session | reported
+V.38 | F38 | framed on the page as "[6 words of Pratt (2000), p. 466]": the author's analogy for the whole practice, a finite set combined per person. Flag: the pieces (status dreams unsupported, upline and downline crafting a dream) are reports, and the description strips the analogy | author_insight
+V.39 | F39 | block excerpt from his research journal recording his own excitement and doubt | reported
+V.40 | F40 | theoretical account of how dreams create an "identity deficit" and a drive to change; no event | author_insight
+V.41 | F41 | reports the setting's own terms and a "common saying", quoted, and what distributors "are told". Flag: reasoning of people across events in the author's voice; the lead clause about distinctions being "strengthened" is his | reported
+V.42 | F42 | direct quotation from a distributor | reported
+V.43 | F43 | direct quotation from DeVos (1993) | reported
+V.44 | F44 | direct quotation from a Diamond at a rally | reported
+V.45 | F45 | "In my own experience, dreams ... often evolved": presented as what he observed, no reason given. Flag: a generalisation across distributors in his own terms ("more abstract"), and p. 485 recalls it as "I have suggested" | reported
+V.46 | F46 | quotation from a tape | reported
+V.47 | F47 | block quotation from an Emerald's talk | reported
+V.48 | F48 | "The upshot ... was twofold": the author's account of what the cycle did to members, across events | author_insight
+V.49 | F49 | says what dreams represented and reflected for distributors in general (ideal selves, dissatisfactions, identities); meaning, across cases | author_insight
+V.50 | F50 | quotation from an Amagram success story | reported
+V.51 | F51 | quotation from Bob Howard in the Amagram | reported
+V.52 | F52 | quotation from a tape about Yager | reported
+V.53 | F53 | describes what the practice consisted of and what distributors learn from the upline mentor, largely in the setting's terms. Flag: general description in the author's voice; nearby sentences (positive relationships "become a source of meaning") are interpretive | reported
+V.54 | F54 | block quotation from DeVos (1993); the birth imagery is DeVos's own | reported
+V.55 | F55 | reports what upline speakers say at the end of talks and the gestures seen at rallies and seminars | reported
+V.56 | F56 | reports sayings, quoted. The remark that one phrase captures "economic and loving aspects" is a gloss on it | reported
+V.57 | F57 | quotation from an Amagram success story | reported
+V.58 | F58 | reports what new members "are told" ("duplication", "blindly obey") and that they are given the choice. Flag: "To increase new members' commitment" is the author's reading of why | reported
+V.59 | F59 | reports one success story: an upline helping a member off drugs | reported
+V.60 | F60 | reports what a married couple said at one function, partly quoted | reported
+V.61 | F61 | interview quotation from an upline distributor | reported
+V.62 | F62 | interview quotation | reported
+V.63 | F63 | reports what mentors do: guide on books and tapes, advise on marriage, parenting and religion, help members avoid non-supporters. Flag: wrapped in functional claims ("key", "critical in helping to insulate", "creating relationship barriers") that are the author's; a hard row | reported
+V.64 | F64 | fn [1 word of Pratt (2000), p. 472]: "[5 words of Pratt (2000), p. 472]...": reports what upline say about non-Amway businesses | reported
+V.65 | F65 | reports how work relationships "are promoted" and "seen", with the setting's sayings quoted ("J.O.B."). Flag: reasoning of people across events in the author's voice; the paragraph's opening sentence is his claim, and the description words it analytically | reported
+V.66 | F66 | block quotation from an interview | reported
+V.67 | F67 | reports one distributor's account of one event. Page says only that he [2 words of Pratt (2000), p. 472] "[5 words of Pratt (2000), p. 472]"; "refusing" is the description's word | reported
+V.68 | F68 | reports what distributors "are reminded" (quoted) and what "married singles" "are taught" | reported
+V.69 | F69 | block quotation from DeVos (1975) | reported
+V.70 | F70 | fn 13: characterises the boundary in in-group/out-group terms and against social identity theory ("slightly more fluid"); the author's theoretical reading across cases. Flag: it has a descriptive core (how strays and spouses are treated) | author_insight
+V.71 | F71 | reports what distributors "are still encouraged" to do and the rule about minimising contact, in the setting's terms ("wise up") | reported
+V.72 | F72 | "Social encapsulation follows directly from...", "helps to guarantee": a mechanism in the author's concept, no event; the description reads as a report, page wins | author_insight
+V.73 | F73 | how the belief system buffers members, with a hypothetical sibling ("[6 words of Pratt (2000), p. 473]"); the author's account of a mechanism | author_insight
+V.74 | F74 | quotation from one conversation with a distributor | reported
+V.75 | F75 | "Several non-members talked to me about avoiding...": reports what they told him, with their reason | reported
+V.76 | F76 | states what people did: each side avoided the other. Flag: on the page it is a "Thus" summary across events, not a stated observation; "observed" is the description's word | reported
+V.77 | F77 | argues from commitment theory that freely chosen behaviour is committing ("[7 words of Pratt (2000), p. 474]..."); explanation | author_insight
+V.78 | F78 | "[6 words of Pratt (2000), p. 474]": the author's reasoning about how either response confirms the standard; hypothetical, no event | author_insight
+V.79 | F79 | defines the author's construct, "encapsulated sensemaking", by three features; interprets across distributors | author_insight
+V.80 | F80 | interview quotation | reported
+V.81 | F81 | quotation from a distributor | reported
+V.82 | F82 | reports the label Britt uses, quoted, citing DeVos (1993) | reported
+V.83 | F83 | field-note excerpt of one dinner; Ken's own account of what the fight meant to him is that event's gloss | reported
+V.84 | F84 | interview quotation; the author's lead-in characterises this one account | reported
+V.85 | F85 | block quotation from an interview | reported
+V.86 | F86 | "When both ... [6 words of Pratt (2000), p. 476]": the author's model stated across cases, with causes | author_insight
+V.87 | F87 | block quotation from an interview with an inactive distributor | reported
+V.88 | F88 | figure setting out the author's model of practices, processes and outcomes | author_insight
+V.89 | F89 | "Interviews ... [11 words of Pratt (2000), p. 477]...": the author's explanation across interviews. Flag: it rests on informants' own reasons, in his voice, unquoted | author_insight
+V.90 | F90 | quotation from a former distributor | reported
+V.91 | F91 | quotation, plus what this one person did not want as a result; one account | reported
+V.92 | F92 | quotation from one former distributor ("just wasn't my thing"). The page does not give this person's sex | reported
+V.93 | F93 | interview quotation, with his growing distance from his upline as he told it | reported
+V.94 | F94 | quotation from a former distributor | reported
+V.95 | F95 | quotation; "[9 words of Pratt (2000), p. 478]" is the author's gloss on this one account, which the description carries | reported
+V.96 | F96 | states what these distributors' dealings with upline were like and what they expressed. Flag: a generalisation across informants grouped by the author's category | reported
+V.97 | F97 | reports what one former distributor felt and said, partly quoted | reported
+V.98 | F98 | block quotation from a former distributor | reported
+V.99 | F99 | a causal chain ("because sensegiving failed", "Consequently", "[7 words of Pratt (2000), p. 479]") across accounts. Flag: one sentence inside it, that confidants were negative "in the accounts I gathered", is a report | author_insight
+V.100 | F100 | block quotation from a website | reported
+V.101 | F101 | block quotation from an interview | reported
+V.102 | F102 | quotation from a distributor | reported
+V.103 | F103 | block quotation from an inactive distributor | reported
+V.104 | F104 | block quotation: a story a distributor told him about one exchange at work | reported
+V.105 | F105 | interview quotation | reported
+V.106 | F106 | fn 16: reports his own experience during fieldwork: ignoring colleagues, the pull between two roles | reported
+V.107 | F107 | "The net result was...", "In sensemaking terms...": the author's synthesis of why ambivalent distributors were pulled two ways. Flag: the on-and-off activity at the end is a reported behaviour | author_insight
+V.108 | F108 | "Sensemaking is motivated because...": an explanation covering every case in which an identification formed | author_insight
+V.109 | F109 | figure setting out the author's general model | author_insight
+V.110 | F110 | states that [6 words of Pratt (2000), p. 485]; something that happened. Flag: no event is shown ("not discussed in detail here") and the states are the author's categories | reported
+V.111 | F111 | "[17 words of Pratt (2000), p. 488]...": what Amway meant to people in general. Flag: the sentences either side (seemed happy; pitied non-distributors) are closer to report | author_insight
+V.112 | F112 | field-journal excerpt of one outing: what Mark did and said in the clothing store | reported
+V.113 | F113 | field journal, same outing: the sports store and Mark's offer | reported
+V.114 | F114 | field journal: the leather jacket and the arrangement with the sales clerk | reported
+V.115 | F115 | field journal: what Mark said about men's jewelry and did in the store | reported
+V.116 | F116 | field journal: what he did at the later jewelry store and what Mark said about it | reported
+V.117 | F117 | field journal: a quoted exchange at the cookie store | reported
+V.118 | F118 | field journal: the last clothing stop, Mark's remark and his prospecting the salesperson | reported
+V.119 | F119 | field journal: Mark's stated reason for looking at things he likes; reasoning given within one event | reported
+V.120 | F120 | fn 4: setting facts about products and manufacturers | reported
+V.121 | F121 | fn 15: reports how upline "often framed" the relationship, with "children" quoted | reported
+V.122 | F122 | reports the range of published estimates | reported
+V.123 | F123 | a fact about his sample: all former distributors interviewed left within a year | reported
+V.124 | F124 | reports an estimate cited from Biggart (1989), and that Amway publishes no rate | reported
+V.125 | F125 | says these people did not form strong bonds with distributors; what was the case. Flag: "[6 words of Pratt (2000), p. 478]" is motive across people in the author's voice, "Not surprisingly" ties it to his model, and the description's "had little reason to" leans further | reported

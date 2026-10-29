@@ -1,0 +1,3947 @@
+{
+ "F6": {
+  "notes": [
+   {
+    "note": "Account 2 is most helpful, although it is very long. A quick check reveals that it is longer by approx, 1000 characters than the reading itself",
+    "tab": "Bechky R05"
+   },
+   {
+    "note": "Account 2 is most helpful, although it is very long. A quick check reveals that it is longer by approx, 1000 characters than the reading itself",
+    "tab": "Bechky R07"
+   },
+   {
+    "note": "Account 2 is most helpful, although it is very long. A quick check reveals that it is longer by approx, 1000 characters than the reading itself",
+    "tab": "Bechky R16"
+   },
+   {
+    "note": "Account 1 is most helpful, although it is very long",
+    "tab": "Bechky R22"
+   },
+   {
+    "note": "Account 1 is most helpful, although it is very long",
+    "tab": "Bechky R27"
+   },
+   {
+    "note": "Account 2 is most helpful, although it is very long",
+    "tab": "Bechky R29"
+   },
+   {
+    "note": "Account 2 is most helpful, although it is very long",
+    "tab": "Pratt R01"
+   },
+   {
+    "note": "Account 1 is most helpful, although it is very long",
+    "tab": "Pratt R02"
+   },
+   {
+    "note": "Account 1 is most helpful, although it is very long",
+    "tab": "Pratt R03"
+   },
+   {
+    "note": "Account 1 is most helpful, although it is very long",
+    "tab": "Pratt R08"
+   },
+   {
+    "note": "Account 1 is most helpful, although it is very long",
+    "tab": "Pratt R09"
+   },
+   {
+    "note": "Account 2 is most helpful, although it is very long",
+    "tab": "Pratt R14"
+   }
+  ],
+  "q1": {
+   "all": {
+    "T37": 0,
+    "map": 12,
+    "neither": 0,
+    "the same": 0,
+    "unanswered": 0
+   },
+   "by_paper": {
+    "bechky": {
+     "T37": 0,
+     "map": 6,
+     "neither": 0,
+     "the same": 0,
+     "unanswered": 0
+    },
+    "pratt": {
+     "T37": 0,
+     "map": 6,
+     "neither": 0,
+     "the same": 0,
+     "unanswered": 0
+    }
+   }
+  },
+  "q2": {
+   "all": {
+    "T37": 0,
+    "map": 12,
+    "neither": 0,
+    "the same": 0,
+    "unanswered": 0
+   },
+   "by_paper": {
+    "bechky": {
+     "T37": 0,
+     "map": 6,
+     "neither": 0,
+     "the same": 0,
+     "unanswered": 0
+    },
+    "pratt": {
+     "T37": 0,
+     "map": 6,
+     "neither": 0,
+     "the same": 0,
+     "unanswered": 0
+    }
+   }
+  },
+  "tabs": [
+   {
+    "q1": "map",
+    "q2": "map",
+    "tab": "Bechky R05"
+   },
+   {
+    "q1": "map",
+    "q2": "map",
+    "tab": "Bechky R07"
+   },
+   {
+    "q1": "map",
+    "q2": "map",
+    "tab": "Bechky R16"
+   },
+   {
+    "q1": "map",
+    "q2": "map",
+    "tab": "Bechky R22"
+   },
+   {
+    "q1": "map",
+    "q2": "map",
+    "tab": "Bechky R27"
+   },
+   {
+    "q1": "map",
+    "q2": "map",
+    "tab": "Bechky R29"
+   },
+   {
+    "q1": "map",
+    "q2": "map",
+    "tab": "Pratt R01"
+   },
+   {
+    "q1": "map",
+    "q2": "map",
+    "tab": "Pratt R02"
+   },
+   {
+    "q1": "map",
+    "q2": "map",
+    "tab": "Pratt R03"
+   },
+   {
+    "q1": "map",
+    "q2": "map",
+    "tab": "Pratt R08"
+   },
+   {
+    "q1": "map",
+    "q2": "map",
+    "tab": "Pratt R09"
+   },
+   {
+    "q1": "map",
+    "q2": "map",
+    "tab": "Pratt R14"
+   }
+  ]
+ },
+ "F7": {
+  "comparison_sheet": {
+   "end": null,
+   "minutes": null,
+   "start": null
+  },
+  "steps": [
+   {
+    "chat_minutes": {
+     "73": 10,
+     "74": 10,
+     "75": 10,
+     "76": 10
+    },
+    "pi_minutes": null,
+    "pi_minutes_at_least": null,
+    "step": "round 1, the maps (chats 73 to 76)"
+   },
+   {
+    "chat_minutes": {},
+    "pi_minutes": null,
+    "pi_minutes_at_least": 120,
+    "step": "settling (both papers together)"
+   },
+   {
+    "chat_minutes": {
+     "77": null,
+     "78": null,
+     "81": 7,
+     "82": 7
+    },
+    "pi_minutes": null,
+    "pi_minutes_at_least": null,
+    "step": "round 2, the placement (chats 77 and 78; then 81 and 82 for the readings left missing)"
+   },
+   {
+    "chat_minutes": {
+     "79": 5,
+     "80": 3
+    },
+    "pi_minutes": null,
+    "pi_minutes_at_least": null,
+    "step": "round 2, the openings' check (chats 79 and 80)"
+   },
+   {
+    "chat_minutes": {},
+    "pi_minutes": 30,
+    "pi_minutes_at_least": null,
+    "step": "the PI's comparison sheet"
+   }
+  ]
+ },
+ "inputs": {
+  "map_closure_bechky.json": "7ff976788af4392a40fbe8bd40b0b7b8151690da18b484aa41f19b24680d339f",
+  "map_closure_pratt.json": "dde21e59c1423aa3877bc6dcd6254c7fec6fe013c4274196e3e5723ab91d6ea7",
+  "map_comparison_answers.json": "88120f289b7ba2a1291ae77cb43fb66bd9276affc8e750187cd84e6d644037f2",
+  "map_comparison_key.json": "a7eca76c5501ba6a787f0d9d039919d485fd6915ecaa86e8f9bb223eef4edae3",
+  "map_key.json": "81c71b6cdb340edf733122a7603b62d6e5236a1ecef81cc12ccc4be8182490a1",
+  "map_openings_key.json": "2e3f6bc95e22e93cafd3195aa2043cfc25dc957f9d447f7ef3987c6c513af3e1",
+  "map_round2_key.json": "16203667c98851db4412f5ec1e58c9dabcbff9b666558a7ac5e85a6ce7b6b313",
+  "map_settle_key_bechky.json": "80b49e0bfef163068845f11f7c3c997110f959302c73e8b780e368a0e3cc84b8",
+  "map_settle_key_pratt.json": "0cccf8ab9c51557aa5b3ee186801e6a42beee89beb423f298ee2cc410ab02938",
+  "map_settled_bechky.json": "01b7fc1b3045c294af9593573cf9b5ba0f059da901bfd62b1b25998db605380b",
+  "map_settled_pratt.json": "323c704a457c2b86357f4f7c370abc961e277a044fb6a43efe7cd6f861736532",
+  "map_times.json": "f6ea17875239f238dd7cbad9a64d0d4101a722d556b687a576e6fcb45e779f17",
+  "relation_key.json": "b8598261afbe915c4d5c58832c7d4516f7500b7f87493c531cf1682490937ea5",
+  "relation_results.json": "5dff925eb5d23484ae44642628f29fd12e28366ef4db1e5fc907c4ad97a1fc47",
+  "reply_73_bechky_map_opus.json": "8ffdfac4bc7e6a252916c616999617217a9592894c5729f77e75c65ff1ef3e82",
+  "reply_74_bechky_map_gpt6.json": "b0342c8102fe50fbb2cf3f6db60890918a3e9fbe101da1457152d851b5043f33",
+  "reply_75_pratt_map_opus.json": "dc4400bad9a878274adbea94fa060a361ef76000c8b95a4f9b3fd8d480315646",
+  "reply_76_pratt_map_gpt6.json": "6fe55f7d4ebf28f45d8e36150049bcf9b8879c655dc01ae24a012d3671575f75",
+  "reply_77_bechky_place_argon.json": "099915f0e41be3c0c0d1da89bf74a95b32d880e75bd1f7bad56555e6309c4677",
+  "reply_78_pratt_place_argon.json": "3188febbc4a9923c5124d507ed41b5be65515c4e7e91225b024d1573fb7f6dbc",
+  "reply_79_bechky_openings_gpt6.json": "9705b20d8620c2afc320e0749c0e829261e3603c3cfa2749a2655fc01edb8a53",
+  "reply_80_pratt_openings_gpt6.json": "adbcf240ecfed9091110cdcd4814895dfa0a0abb06c90235130e756e5d0216fa"
+ },
+ "papers": {
+  "bechky": {
+   "F1": {
+    "factors": {
+     "a": 3,
+     "a_unpaired": [],
+     "b": 3,
+     "b_unpaired": [],
+     "controls": {
+      "agree": 6,
+      "n": 6,
+      "raw": 1.0
+     },
+     "outcomes": {
+      "agree": 4,
+      "n": 4,
+      "raw": 1.0
+     },
+     "paired": 3,
+     "values": {
+      "agree": 12,
+      "n": 12,
+      "raw": 1.0
+     }
+    },
+    "further": {
+     "a": 6,
+     "b": 5,
+     "both": 4,
+     "both_alike": 2,
+     "both_pairs": [
+      "C05 on C02",
+      "C21 on C04",
+      "C21 on C05",
+      "C21 on C08"
+     ]
+    },
+    "listed": {
+     "a_only": 2,
+     "b_only": 8,
+     "both": 25,
+     "kappa": 0.735,
+     "n": 80,
+     "neither": 45,
+     "positive": 0.833,
+     "raw": 0.875
+    },
+    "registry": {
+     "names": 40,
+     "pairs": 780,
+     "positive": 0.667,
+     "raw": 0.996,
+     "together_a": 3,
+     "together_b": 6,
+     "together_both": 3
+    },
+    "share": {
+     "a_candidate": {
+      "edges": 25,
+      "pairs": 55,
+      "share": 0.455
+     },
+     "a_sample": {
+      "edges": 2,
+      "pairs": 25,
+      "share": 0.08
+     },
+     "b_candidate": {
+      "edges": 30,
+      "pairs": 55,
+      "share": 0.545
+     },
+     "b_sample": {
+      "edges": 3,
+      "pairs": 25,
+      "share": 0.12
+     }
+    },
+    "strength": {
+     "agree": 24,
+     "confusion": {
+      "contributing": {
+       "contributing": 19,
+       "necessary": 0
+      },
+      "necessary": {
+       "contributing": 1,
+       "necessary": 5
+      }
+     },
+     "kappa": 0.884,
+     "n": 25,
+     "raw": 0.96
+    },
+    "type": {
+     "agree": 21,
+     "confusion": {
+      "comparative": {
+       "comparative": 0,
+       "evidential": 0,
+       "mechanistic": 0,
+       "significance": 0
+      },
+      "evidential": {
+       "comparative": 3,
+       "evidential": 18,
+       "mechanistic": 0,
+       "significance": 0
+      },
+      "mechanistic": {
+       "comparative": 0,
+       "evidential": 0,
+       "mechanistic": 3,
+       "significance": 1
+      },
+      "significance": {
+       "comparative": 0,
+       "evidential": 0,
+       "mechanistic": 0,
+       "significance": 0
+      }
+     },
+     "kappa": 0.574,
+     "n": 25,
+     "raw": 0.84
+    }
+   },
+   "F2": {
+    "by_kind": {
+     "constructs": 3,
+     "further-one": 3,
+     "further-type": 2,
+     "pair-edge": 10,
+     "pair-type": 5
+    },
+    "choices": {
+     "constructs": {
+      "B": 3
+     },
+     "further-one": {
+      "A": 3
+     },
+     "further-type": {
+      "A": 1,
+      "B": 1
+     },
+     "pair-edge": {
+      "A": 10
+     },
+     "pair-type": {
+      "A": 5
+     }
+    },
+    "choices_total": {
+     "A": 19,
+     "B": 4
+    },
+    "items": 23,
+    "sheet_times": {
+     "end": null,
+     "start": null
+    }
+   },
+   "F3": {
+    "elements": 279,
+    "elements_by_kind": {
+     "absence": 1,
+     "claim": 142,
+     "construct": 33,
+     "contrast pair": 10,
+     "declared gap": 5,
+     "edge": 49,
+     "factor": 19,
+     "unit": 20
+    },
+    "planted": [
+     {
+      "claim_placed": true,
+      "elements": [
+       "C04",
+       "C13",
+       "C16",
+       "C17",
+       "C18",
+       "X2",
+       "K31",
+       "U2",
+       "U3",
+       "U4"
+      ],
+      "reading": "R02",
+      "written_to": {
+       "claim": "C04",
+       "type": "complements"
+      }
+     },
+     {
+      "claim_placed": true,
+      "elements": [
+       "C05",
+       "C20",
+       "C16",
+       "C17",
+       "C18",
+       "C03",
+       "E14",
+       "E15",
+       "E16",
+       "X3",
+       "K22"
+      ],
+      "reading": "R13",
+      "written_to": {
+       "claim": "C05",
+       "type": "inverts"
+      }
+     }
+    ],
+    "readings": [
+     {
+      "by_kind": {
+       "claim": 4,
+       "contrast pair": 1,
+       "edge": 2,
+       "factor": 2,
+       "unit": 2
+      },
+      "elements": [
+       "C18",
+       "C05",
+       "C04",
+       "C17",
+       "CP02",
+       "E12",
+       "E16",
+       "X2",
+       "X3",
+       "U3",
+       "U4"
+      ],
+      "evidence": [
+       "F102",
+       "F109",
+       "F119",
+       "F123",
+       "F124",
+       "F125"
+      ],
+      "off_map": true,
+      "reading": "R01",
+      "ties": [
+       "contrast pair",
+       "claim"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 5,
+       "construct": 1,
+       "factor": 1,
+       "unit": 3
+      },
+      "elements": [
+       "C04",
+       "C13",
+       "C16",
+       "C17",
+       "C18",
+       "X2",
+       "K31",
+       "U2",
+       "U3",
+       "U4"
+      ],
+      "evidence": [
+       "F65",
+       "F66",
+       "F67",
+       "F98",
+       "F101",
+       "F102",
+       "F106",
+       "F109",
+       "F123",
+       "F124",
+       "F125",
+       "F157"
+      ],
+      "off_map": true,
+      "reading": "R02",
+      "ties": [
+       "claim",
+       "off-map"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 6,
+       "construct": 2,
+       "contrast pair": 1,
+       "edge": 3,
+       "factor": 1
+      },
+      "elements": [
+       "C05",
+       "C16",
+       "C17",
+       "C18",
+       "C15",
+       "C21",
+       "E14",
+       "E15",
+       "E16",
+       "X3",
+       "K22",
+       "K27",
+       "CP02"
+      ],
+      "evidence": [
+       "F10",
+       "F26",
+       "F54",
+       "F85",
+       "F98",
+       "F102",
+       "F109",
+       "F118",
+       "F119",
+       "F122",
+       "F123",
+       "F124",
+       "F125"
+      ],
+      "off_map": true,
+      "reading": "R03",
+      "ties": [
+       "claim",
+       "off-map"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 4,
+       "construct": 2,
+       "edge": 2
+      },
+      "elements": [
+       "C10",
+       "C20",
+       "C18",
+       "C05",
+       "E24",
+       "E27",
+       "K19",
+       "K22"
+      ],
+      "evidence": [
+       "F06",
+       "F57",
+       "F113",
+       "F114",
+       "F128"
+      ],
+      "off_map": true,
+      "reading": "R04",
+      "ties": [
+       "claim",
+       "claim"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 4,
+       "contrast pair": 1,
+       "edge": 2,
+       "factor": 2
+      },
+      "elements": [
+       "CP02",
+       "C18",
+       "C17",
+       "C05",
+       "C04",
+       "E15",
+       "E16",
+       "X2",
+       "X3"
+      ],
+      "evidence": [
+       "F90",
+       "F91",
+       "F94",
+       "F95",
+       "F96",
+       "F98",
+       "F100",
+       "F101",
+       "F102",
+       "F103",
+       "F109",
+       "F111",
+       "F120",
+       "F121",
+       "F122",
+       "F123",
+       "F124",
+       "F125",
+       "F126",
+       "F127",
+       "F128",
+       "F129",
+       "F149",
+       "F150",
+       "F166"
+      ],
+      "off_map": true,
+      "reading": "R05",
+      "ties": [
+       "contrast pair",
+       "claim"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 5,
+       "contrast pair": 1,
+       "edge": 2,
+       "unit": 1
+      },
+      "elements": [
+       "C16",
+       "C14",
+       "C13",
+       "C03",
+       "C04",
+       "E06",
+       "E10",
+       "U2",
+       "CP01"
+      ],
+      "evidence": [
+       "F47",
+       "F48",
+       "F50",
+       "F51",
+       "F65",
+       "F66",
+       "F67",
+       "F68",
+       "F71",
+       "F73",
+       "F80",
+       "F100",
+       "F122",
+       "F124",
+       "F125"
+      ],
+      "off_map": true,
+      "reading": "R06",
+      "ties": [
+       "claim",
+       "contrast pair"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 3,
+       "contrast pair": 1,
+       "edge": 1,
+       "factor": 1
+      },
+      "elements": [
+       "C03",
+       "CP01",
+       "C17",
+       "C16",
+       "E07",
+       "X1"
+      ],
+      "evidence": [
+       "F35",
+       "F66",
+       "F78",
+       "F98",
+       "F101",
+       "F102",
+       "F142",
+       "F143",
+       "F161"
+      ],
+      "off_map": true,
+      "reading": "R07",
+      "ties": [
+       "contrast pair",
+       "claim"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 5,
+       "construct": 2,
+       "unit": 1
+      },
+      "elements": [
+       "C04",
+       "C13",
+       "C14",
+       "C05",
+       "C16",
+       "U1",
+       "K03",
+       "K15"
+      ],
+      "evidence": [
+       "F28",
+       "F43",
+       "F45",
+       "F46",
+       "F48",
+       "F49",
+       "F50",
+       "F51",
+       "F68",
+       "F69",
+       "F92",
+       "F110",
+       "F145",
+       "F146",
+       "F147",
+       "F148"
+      ],
+      "off_map": true,
+      "reading": "R08",
+      "ties": [
+       "claim",
+       "unit"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 6,
+       "construct": 2,
+       "unit": 3
+      },
+      "elements": [
+       "C05",
+       "C01",
+       "C03",
+       "C16",
+       "C17",
+       "C18",
+       "K17",
+       "K21",
+       "U2",
+       "U3",
+       "U4"
+      ],
+      "evidence": [
+       "F65",
+       "F66",
+       "F67",
+       "F68",
+       "F71",
+       "F85",
+       "F98",
+       "F102",
+       "F103",
+       "F121",
+       "F122",
+       "F125",
+       "F126",
+       "F128",
+       "F129"
+      ],
+      "off_map": true,
+      "reading": "R09",
+      "ties": [
+       "claim",
+       "off-map"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 5,
+       "construct": 1,
+       "edge": 3
+      },
+      "elements": [
+       "C20",
+       "C10",
+       "C18",
+       "C17",
+       "C05",
+       "E24",
+       "E26",
+       "E27",
+       "K22"
+      ],
+      "evidence": [
+       "F06",
+       "F95",
+       "F113",
+       "F114",
+       "F128"
+      ],
+      "off_map": true,
+      "reading": "R10",
+      "ties": [
+       "claim",
+       "claim"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 6,
+       "construct": 3,
+       "declared gap": 1,
+       "edge": 1
+      },
+      "elements": [
+       "C10",
+       "C20",
+       "C05",
+       "C17",
+       "C18",
+       "C19",
+       "DG02",
+       "E24",
+       "K14",
+       "K17",
+       "K22"
+      ],
+      "evidence": [
+       "F06",
+       "F57",
+       "F95",
+       "F113",
+       "F114",
+       "F128",
+       "F165"
+      ],
+      "off_map": true,
+      "reading": "R11",
+      "ties": [
+       "claim",
+       "off-map"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 5,
+       "construct": 1,
+       "edge": 4
+      },
+      "elements": [
+       "C02",
+       "C13",
+       "C17",
+       "C18",
+       "C01",
+       "E01",
+       "E17",
+       "E20",
+       "E21",
+       "K06"
+      ],
+      "evidence": [
+       "F60",
+       "F82",
+       "F83",
+       "F85",
+       "F99",
+       "F100",
+       "F102",
+       "F105",
+       "F106",
+       "F122",
+       "F123",
+       "F127",
+       "F128",
+       "F129"
+      ],
+      "off_map": true,
+      "reading": "R12",
+      "ties": [
+       "claim",
+       "claim"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 6,
+       "construct": 1,
+       "edge": 3,
+       "factor": 1
+      },
+      "elements": [
+       "C05",
+       "C20",
+       "C16",
+       "C17",
+       "C18",
+       "C03",
+       "E14",
+       "E15",
+       "E16",
+       "X3",
+       "K22"
+      ],
+      "evidence": [
+       "F80",
+       "F98",
+       "F102",
+       "F103",
+       "F122",
+       "F123",
+       "F126",
+       "F127",
+       "F128",
+       "F163",
+       "F164",
+       "F167"
+      ],
+      "off_map": true,
+      "reading": "R13",
+      "ties": [
+       "claim",
+       "claim"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 5,
+       "construct": 2,
+       "contrast pair": 1,
+       "edge": 1
+      },
+      "elements": [
+       "C10",
+       "C20",
+       "C05",
+       "C17",
+       "C18",
+       "CP02",
+       "E24",
+       "K19",
+       "K22"
+      ],
+      "evidence": [
+       "F06",
+       "F57",
+       "F95",
+       "F113",
+       "F114"
+      ],
+      "off_map": true,
+      "reading": "R14",
+      "ties": [
+       "contrast pair",
+       "claim"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 4,
+       "edge": 2,
+       "factor": 1,
+       "unit": 1
+      },
+      "elements": [
+       "C17",
+       "C01",
+       "C02",
+       "C03",
+       "E04",
+       "E07",
+       "X1",
+       "U3"
+      ],
+      "evidence": [
+       "F88",
+       "F89",
+       "F90",
+       "F98",
+       "F102"
+      ],
+      "off_map": true,
+      "reading": "R15",
+      "ties": [
+       "claim",
+       "claim"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 7,
+       "construct": 2
+      },
+      "elements": [
+       "C14",
+       "C05",
+       "C13",
+       "C16",
+       "C17",
+       "C18",
+       "C21",
+       "K15",
+       "K26"
+      ],
+      "evidence": [
+       "F47",
+       "F48",
+       "F49",
+       "F50",
+       "F51",
+       "F65",
+       "F66",
+       "F67",
+       "F68",
+       "F69",
+       "F122",
+       "F124",
+       "F125"
+      ],
+      "off_map": true,
+      "reading": "R16",
+      "ties": [
+       "claim",
+       "off-map"
+      ]
+     },
+     {
+      "by_kind": {
+       "absence": 1,
+       "claim": 6,
+       "contrast pair": 2,
+       "declared gap": 2,
+       "edge": 3,
+       "factor": 2
+      },
+      "elements": [
+       "C05",
+       "C03",
+       "C04",
+       "C16",
+       "C17",
+       "C18",
+       "CP01",
+       "CP02",
+       "E14",
+       "E15",
+       "E16",
+       "DG01",
+       "DG03",
+       "A01",
+       "X1",
+       "X3"
+      ],
+      "evidence": [
+       "F80",
+       "F84",
+       "F88",
+       "F90",
+       "F104",
+       "F123",
+       "F129",
+       "F164"
+      ],
+      "off_map": true,
+      "reading": "R17",
+      "ties": [
+       "claim",
+       "absence"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 5,
+       "declared gap": 1,
+       "edge": 2,
+       "factor": 2
+      },
+      "elements": [
+       "C05",
+       "C03",
+       "C16",
+       "C17",
+       "C18",
+       "E14",
+       "E16",
+       "X1",
+       "X3",
+       "DG03"
+      ],
+      "evidence": [
+       "F67",
+       "F80",
+       "F84",
+       "F98",
+       "F99",
+       "F129"
+      ],
+      "off_map": true,
+      "reading": "R18",
+      "ties": [
+       "claim",
+       "claim"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 5,
+       "construct": 2,
+       "declared gap": 1,
+       "edge": 2,
+       "unit": 1
+      },
+      "elements": [
+       "C19",
+       "DG02",
+       "C01",
+       "C17",
+       "C02",
+       "C15",
+       "E04",
+       "E07",
+       "U3",
+       "K05",
+       "K14"
+      ],
+      "evidence": [
+       "F41",
+       "F55",
+       "F57",
+       "F60",
+       "F62",
+       "F82",
+       "F89",
+       "F90",
+       "F98",
+       "F99",
+       "F101",
+       "F102",
+       "F122",
+       "F131",
+       "F151",
+       "F152",
+       "F153",
+       "F157",
+       "F165"
+      ],
+      "off_map": true,
+      "reading": "R19",
+      "ties": [
+       "claim",
+       "declared gap"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 3,
+       "contrast pair": 1,
+       "edge": 2,
+       "factor": 2,
+       "unit": 1
+      },
+      "elements": [
+       "C18",
+       "C04",
+       "C05",
+       "E12",
+       "E16",
+       "X2",
+       "X3",
+       "U4",
+       "CP02"
+      ],
+      "evidence": [
+       "F109",
+       "F119",
+       "F123",
+       "F124",
+       "F125"
+      ],
+      "off_map": true,
+      "reading": "R20",
+      "ties": [
+       "claim",
+       "claim"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 5,
+       "construct": 2,
+       "unit": 1
+      },
+      "elements": [
+       "C14",
+       "C16",
+       "C18",
+       "C13",
+       "C05",
+       "K15",
+       "K26",
+       "U2"
+      ],
+      "evidence": [
+       "F47",
+       "F48",
+       "F49",
+       "F50",
+       "F65",
+       "F66",
+       "F67",
+       "F68",
+       "F69",
+       "F122",
+       "F124",
+       "F125"
+      ],
+      "off_map": true,
+      "reading": "R21",
+      "ties": [
+       "claim",
+       "off-map"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 4,
+       "construct": 1,
+       "edge": 2,
+       "unit": 1
+      },
+      "elements": [
+       "C17",
+       "C02",
+       "C01",
+       "E04",
+       "C03",
+       "E07",
+       "K06",
+       "U3"
+      ],
+      "evidence": [
+       "F34",
+       "F89",
+       "F90",
+       "F98",
+       "F99",
+       "F102",
+       "F103",
+       "F161"
+      ],
+      "off_map": true,
+      "reading": "R22",
+      "ties": [
+       "claim",
+       "claim"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 4,
+       "construct": 1,
+       "edge": 2,
+       "unit": 1
+      },
+      "elements": [
+       "C17",
+       "C02",
+       "C01",
+       "E04",
+       "C03",
+       "E07",
+       "K06",
+       "U3"
+      ],
+      "evidence": [
+       "F89",
+       "F90",
+       "F98",
+       "F99",
+       "F102",
+       "F161"
+      ],
+      "off_map": true,
+      "reading": "R23",
+      "ties": [
+       "construct",
+       "claim"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 5,
+       "construct": 2,
+       "edge": 1
+      },
+      "elements": [
+       "C18",
+       "C21",
+       "E33",
+       "C03",
+       "C02",
+       "C05",
+       "K23",
+       "K11"
+      ],
+      "evidence": [
+       "F106",
+       "F110",
+       "F121",
+       "F123"
+      ],
+      "off_map": true,
+      "reading": "R24",
+      "ties": [
+       "claim",
+       "off-map"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 4,
+       "construct": 1,
+       "edge": 3,
+       "factor": 1,
+       "unit": 1
+      },
+      "elements": [
+       "C18",
+       "C04",
+       "X2",
+       "E12",
+       "C05",
+       "E16",
+       "C03",
+       "E08",
+       "K11",
+       "U4"
+      ],
+      "evidence": [
+       "F62",
+       "F109",
+       "F111",
+       "F118",
+       "F119",
+       "F120",
+       "F122",
+       "F123",
+       "F124",
+       "F125",
+       "F139",
+       "F141",
+       "F150",
+       "F162"
+      ],
+      "off_map": true,
+      "reading": "R25",
+      "ties": [
+       "claim",
+       "off-map"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 3,
+       "construct": 1,
+       "edge": 2,
+       "factor": 1,
+       "unit": 1
+      },
+      "elements": [
+       "C18",
+       "U4",
+       "C05",
+       "E16",
+       "C03",
+       "K11",
+       "X1",
+       "E08"
+      ],
+      "evidence": [
+       "F30",
+       "F62",
+       "F109",
+       "F122",
+       "F123",
+       "F124",
+       "F125",
+       "F129",
+       "F139",
+       "F141",
+       "F153",
+       "F162"
+      ],
+      "off_map": true,
+      "reading": "R26",
+      "ties": [
+       "claim",
+       "off-map"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 3,
+       "contrast pair": 1,
+       "edge": 1,
+       "factor": 1
+      },
+      "elements": [
+       "C17",
+       "C03",
+       "C16",
+       "CP01",
+       "X1",
+       "E07"
+      ],
+      "evidence": [
+       "F98",
+       "F101",
+       "F102",
+       "F143",
+       "F161"
+      ],
+      "off_map": true,
+      "reading": "R27",
+      "ties": [
+       "contrast pair",
+       "off-map"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 6,
+       "construct": 1,
+       "unit": 2
+      },
+      "elements": [
+       "C16",
+       "C18",
+       "C14",
+       "C13",
+       "C04",
+       "C05",
+       "K17",
+       "U2",
+       "U4"
+      ],
+      "evidence": [
+       "F47",
+       "F65",
+       "F66",
+       "F67",
+       "F68",
+       "F69",
+       "F71",
+       "F110",
+       "F122",
+       "F124",
+       "F125",
+       "F151",
+       "F153"
+      ],
+      "off_map": true,
+      "reading": "R28",
+      "ties": [
+       "claim",
+       "off-map"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 6,
+       "construct": 2,
+       "edge": 1
+      },
+      "elements": [
+       "C21",
+       "C05",
+       "C16",
+       "C18",
+       "C17",
+       "C15",
+       "E29",
+       "K23",
+       "K29"
+      ],
+      "evidence": [
+       "F54",
+       "F55",
+       "F57",
+       "F58",
+       "F74",
+       "F103",
+       "F113",
+       "F114",
+       "F127",
+       "F149"
+      ],
+      "off_map": true,
+      "reading": "R29",
+      "ties": [
+       "claim",
+       "off-map"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 3,
+       "construct": 1,
+       "edge": 2,
+       "factor": 1
+      },
+      "elements": [
+       "C17",
+       "C01",
+       "E04",
+       "C03",
+       "X1",
+       "E07",
+       "K21"
+      ],
+      "evidence": [
+       "F98",
+       "F99",
+       "F102"
+      ],
+      "off_map": true,
+      "reading": "R30",
+      "ties": [
+       "claim",
+       "claim"
+      ]
+     }
+    ],
+    "ties_by_kind": {
+     "absence": 1,
+     "claim": 38,
+     "construct": 1,
+     "contrast pair": 6,
+     "declared gap": 1,
+     "off-map": 12,
+     "unit": 1
+    },
+    "with_evidence": 30,
+    "with_off_map": 30
+   },
+   "F4": {
+    "labels_on_core": {
+     "astra": {
+      "contested": 23,
+      "idle": 2,
+      "restated": 1,
+      "unsupported": 29,
+      "weakened": 81
+     },
+     "gemini": {
+      "contested": 36,
+      "idle": 2,
+      "restated": 2,
+      "unsupported": 36,
+      "weakened": 103
+     }
+    },
+    "readings": [
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C03": "unsupported",
+        "C04": "unsupported",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C18",
+       "main_type": "other_mechanism"
+      },
+      "gemini": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "contested",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C18",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R01",
+      "worth": 3
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "contested",
+        "C05": "weakened",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C04",
+       "main_type": "challenges_premise"
+      },
+      "gemini": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "contested",
+        "C05": "weakened",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C04",
+       "main_type": "challenges_premise"
+      },
+      "planted": true,
+      "reading": "R02",
+      "worth": null
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C03": "unsupported",
+        "C04": "unsupported",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C05",
+       "main_type": "other_mechanism"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C03": "unsupported",
+        "C04": "unsupported",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C05",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R03",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {},
+       "main_claim": "C10",
+       "main_type": "complements"
+      },
+      "gemini": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "unsupported",
+        "C05": "weakened",
+        "C13": "weakened",
+        "C20": "contested",
+        "C21": "weakened"
+       },
+       "main_claim": "C10",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R04",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C03": "unsupported",
+        "C04": "unsupported",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C05",
+       "main_type": "other_mechanism"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C03": "unsupported",
+        "C04": "unsupported",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C18",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R05",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "weakened",
+        "C05": "weakened",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C16",
+       "main_type": "rereads_evidence"
+      },
+      "gemini": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "weakened",
+        "C05": "weakened",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C16",
+       "main_type": "rereads_evidence"
+      },
+      "planted": false,
+      "reading": "R06",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C03": "contested",
+        "C04": "weakened",
+        "C05": "weakened",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C03",
+       "main_type": "other_mechanism"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C03": "contested",
+        "C04": "weakened",
+        "C05": "weakened",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C03",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R07",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C04": "contested",
+        "C20": "idle",
+        "C21": "restated"
+       },
+       "main_claim": "C04",
+       "main_type": "challenges_premise"
+      },
+      "gemini": {
+       "core_labels": {
+        "C04": "contested",
+        "C05": "contested",
+        "C20": "idle",
+        "C21": "restated"
+       },
+       "main_claim": "C04",
+       "main_type": "challenges_premise"
+      },
+      "planted": false,
+      "reading": "R08",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "weakened",
+        "C05": "weakened",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C16",
+       "main_type": "rereads_evidence"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C03": "unsupported",
+        "C04": "weakened",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C05",
+       "main_type": "challenges_premise"
+      },
+      "planted": false,
+      "reading": "R09",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C20": "contested"
+       },
+       "main_claim": "C10",
+       "main_type": "inverts"
+      },
+      "gemini": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "unsupported",
+        "C05": "weakened",
+        "C13": "weakened",
+        "C20": "contested",
+        "C21": "weakened"
+       },
+       "main_claim": "C20",
+       "main_type": "inverts"
+      },
+      "planted": false,
+      "reading": "R10",
+      "worth": 0
+     },
+     {
+      "astra": {
+       "core_labels": {},
+       "main_claim": "C10",
+       "main_type": "complements"
+      },
+      "gemini": {
+       "core_labels": {
+        "C20": "contested"
+       },
+       "main_claim": "C10",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R11",
+      "worth": 1
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C03": "unsupported",
+        "C04": "unsupported",
+        "C05": "unsupported",
+        "C13": "unsupported",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C02",
+       "main_type": "rereads_evidence"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C03": "unsupported",
+        "C04": "unsupported",
+        "C05": "unsupported",
+        "C13": "contested",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C02",
+       "main_type": "rereads_evidence"
+      },
+      "planted": false,
+      "reading": "R12",
+      "worth": 1
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C03": "unsupported",
+        "C04": "unsupported",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C05",
+       "main_type": "inverts"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C03": "unsupported",
+        "C04": "unsupported",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C05",
+       "main_type": "inverts"
+      },
+      "planted": true,
+      "reading": "R13",
+      "worth": null
+     },
+     {
+      "astra": {
+       "core_labels": {},
+       "main_claim": "C10",
+       "main_type": "complements"
+      },
+      "gemini": {
+       "core_labels": {
+        "C05": "contested",
+        "C20": "contested",
+        "C21": "restated"
+       },
+       "main_claim": "C10",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R14",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {},
+       "main_claim": "C17",
+       "main_type": "complements"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "contested",
+        "C03": "unsupported",
+        "C04": "weakened",
+        "C05": "weakened",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C17",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R15",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {},
+       "main_claim": "C14",
+       "main_type": "complements"
+      },
+      "gemini": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "unsupported",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C05",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R16",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "weakened",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C05",
+       "main_type": "other_mechanism"
+      },
+      "gemini": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "weakened",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C05",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R17",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "weakened",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C05",
+       "main_type": "other_mechanism"
+      },
+      "gemini": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "unsupported",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C05",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R18",
+      "worth": 3
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "contested",
+        "C03": "unsupported",
+        "C04": "weakened",
+        "C05": "weakened",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C19",
+       "main_type": "rereads_evidence"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "contested",
+        "C03": "unsupported",
+        "C04": "weakened",
+        "C05": "weakened",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C19",
+       "main_type": "challenges_premise"
+      },
+      "planted": false,
+      "reading": "R19",
+      "worth": 1
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "contested",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C18",
+       "main_type": "other_mechanism"
+      },
+      "gemini": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "contested",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C18",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R20",
+      "worth": 3
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "weakened",
+        "C05": "weakened",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C14",
+       "main_type": "complements"
+      },
+      "gemini": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "weakened",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C05",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R21",
+      "worth": 3
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "contested",
+        "C03": "unsupported",
+        "C04": "unsupported",
+        "C05": "unsupported",
+        "C13": "unsupported",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C17",
+       "main_type": "other_mechanism"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "contested",
+        "C03": "unsupported",
+        "C04": "unsupported",
+        "C05": "unsupported",
+        "C13": "unsupported",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C17",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R22",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "contested",
+        "C03": "unsupported",
+        "C04": "unsupported",
+        "C05": "unsupported",
+        "C13": "unsupported",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C17",
+       "main_type": "other_mechanism"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "contested",
+        "C03": "unsupported",
+        "C04": "unsupported",
+        "C05": "unsupported",
+        "C13": "unsupported",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C17",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R23",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "unsupported",
+        "C05": "weakened",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "contested"
+       },
+       "main_claim": "C21",
+       "main_type": "other_mechanism"
+      },
+      "gemini": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "unsupported",
+        "C05": "weakened",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "contested"
+       },
+       "main_claim": "C18",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R24",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C03": "contested",
+        "C04": "contested",
+        "C05": "weakened",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C18",
+       "main_type": "other_mechanism"
+      },
+      "gemini": {
+       "core_labels": {
+        "C03": "contested",
+        "C04": "unsupported",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C18",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R25",
+      "worth": 1
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C03": "contested",
+        "C04": "unsupported",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C18",
+       "main_type": "rereads_evidence"
+      },
+      "gemini": {
+       "core_labels": {
+        "C03": "contested",
+        "C04": "unsupported",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C18",
+       "main_type": "rereads_evidence"
+      },
+      "planted": false,
+      "reading": "R26",
+      "worth": 0
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C03": "contested"
+       },
+       "main_claim": "C03",
+       "main_type": "other_mechanism"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C03": "contested",
+        "C04": "weakened",
+        "C05": "weakened",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C17",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R27",
+      "worth": 0
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "unsupported",
+        "C05": "weakened",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C16",
+       "main_type": "rereads_evidence"
+      },
+      "gemini": {
+       "core_labels": {
+        "C03": "weakened",
+        "C04": "unsupported",
+        "C05": "contested",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C16",
+       "main_type": "rereads_evidence"
+      },
+      "planted": false,
+      "reading": "R28",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C05": "contested",
+        "C20": "idle",
+        "C21": "contested"
+       },
+       "main_claim": "C21",
+       "main_type": "other_mechanism"
+      },
+      "gemini": {
+       "core_labels": {
+        "C05": "contested",
+        "C20": "idle",
+        "C21": "contested"
+       },
+       "main_claim": "C21",
+       "main_type": "inverts"
+      },
+      "planted": false,
+      "reading": "R29",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {},
+       "main_claim": "C17",
+       "main_type": "complements"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "contested",
+        "C03": "unsupported",
+        "C04": "weakened",
+        "C05": "weakened",
+        "C13": "weakened",
+        "C20": "weakened",
+        "C21": "weakened"
+       },
+       "main_claim": "C17",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R30",
+      "worth": 2
+     }
+    ],
+    "readings_with_a_label_besides_contested": {
+     "astra": 22,
+     "gemini": 29
+    }
+   },
+   "F5": {
+    "faithful": 27,
+    "not": 3,
+    "readings": [
+     {
+      "faithful": true,
+      "reading": "R01"
+     },
+     {
+      "faithful": true,
+      "reading": "R02"
+     },
+     {
+      "faithful": true,
+      "reading": "R03"
+     },
+     {
+      "faithful": true,
+      "reading": "R04"
+     },
+     {
+      "faithful": true,
+      "reading": "R05"
+     },
+     {
+      "faithful": true,
+      "reading": "R06"
+     },
+     {
+      "faithful": false,
+      "reading": "R07"
+     },
+     {
+      "faithful": true,
+      "reading": "R08"
+     },
+     {
+      "faithful": true,
+      "reading": "R09"
+     },
+     {
+      "faithful": true,
+      "reading": "R10"
+     },
+     {
+      "faithful": true,
+      "reading": "R11"
+     },
+     {
+      "faithful": true,
+      "reading": "R12"
+     },
+     {
+      "faithful": true,
+      "reading": "R13"
+     },
+     {
+      "faithful": true,
+      "reading": "R14"
+     },
+     {
+      "faithful": true,
+      "reading": "R15"
+     },
+     {
+      "faithful": true,
+      "reading": "R16"
+     },
+     {
+      "faithful": true,
+      "reading": "R17"
+     },
+     {
+      "faithful": true,
+      "reading": "R18"
+     },
+     {
+      "faithful": true,
+      "reading": "R19"
+     },
+     {
+      "faithful": true,
+      "reading": "R20"
+     },
+     {
+      "faithful": false,
+      "reading": "R21"
+     },
+     {
+      "faithful": true,
+      "reading": "R22"
+     },
+     {
+      "faithful": true,
+      "reading": "R23"
+     },
+     {
+      "faithful": true,
+      "reading": "R24"
+     },
+     {
+      "faithful": true,
+      "reading": "R25"
+     },
+     {
+      "faithful": true,
+      "reading": "R26"
+     },
+     {
+      "faithful": true,
+      "reading": "R27"
+     },
+     {
+      "faithful": false,
+      "reading": "R28"
+     },
+     {
+      "faithful": true,
+      "reading": "R29"
+     },
+     {
+      "faithful": true,
+      "reading": "R30"
+     }
+    ]
+   }
+  },
+  "pratt": {
+   "F1": {
+    "factors": {
+     "a": 3,
+     "a_unpaired": [
+      "C27"
+     ],
+     "b": 3,
+     "b_unpaired": [
+      "C13"
+     ],
+     "controls": {
+      "agree": 4,
+      "n": 6,
+      "raw": 0.667
+     },
+     "paired": 2
+    },
+    "further": {
+     "a": 10,
+     "b": 10,
+     "both": 6,
+     "both_alike": 1,
+     "both_pairs": [
+      "C02 on C12",
+      "C02 on C20",
+      "C11 on C12",
+      "C13 on C17",
+      "C28 on C12",
+      "C29 on C12"
+     ]
+    },
+    "listed": {
+     "a_only": 3,
+     "b_only": 15,
+     "both": 22,
+     "kappa": 0.57,
+     "n": 92,
+     "neither": 52,
+     "positive": 0.71,
+     "raw": 0.804
+    },
+    "registry": {
+     "names": 92,
+     "pairs": 4186,
+     "positive": 1.0,
+     "raw": 1.0,
+     "together_a": 6,
+     "together_b": 6,
+     "together_both": 6
+    },
+    "share": {
+     "a_candidate": {
+      "edges": 18,
+      "pairs": 62,
+      "share": 0.29
+     },
+     "a_sample": {
+      "edges": 7,
+      "pairs": 30,
+      "share": 0.233
+     },
+     "b_candidate": {
+      "edges": 30,
+      "pairs": 62,
+      "share": 0.484
+     },
+     "b_sample": {
+      "edges": 7,
+      "pairs": 30,
+      "share": 0.233
+     }
+    },
+    "strength": {
+     "agree": 17,
+     "confusion": {
+      "contributing": {
+       "contributing": 15,
+       "necessary": 4
+      },
+      "necessary": {
+       "contributing": 1,
+       "necessary": 2
+      }
+     },
+     "kappa": 0.321,
+     "n": 22,
+     "raw": 0.773
+    },
+    "type": {
+     "agree": 18,
+     "confusion": {
+      "comparative": {
+       "comparative": 0,
+       "evidential": 0,
+       "mechanistic": 0,
+       "significance": 0
+      },
+      "evidential": {
+       "comparative": 0,
+       "evidential": 11,
+       "mechanistic": 3,
+       "significance": 0
+      },
+      "mechanistic": {
+       "comparative": 0,
+       "evidential": 1,
+       "mechanistic": 6,
+       "significance": 0
+      },
+      "significance": {
+       "comparative": 0,
+       "evidential": 0,
+       "mechanistic": 0,
+       "significance": 1
+      }
+     },
+     "kappa": 0.651,
+     "n": 22,
+     "raw": 0.818
+    }
+   },
+   "F2": {
+    "by_kind": {
+     "contrast": 2,
+     "factor-one": 2,
+     "further-one": 8,
+     "further-type": 5,
+     "pair-edge": 18,
+     "pair-type": 7
+    },
+    "choices": {
+     "contrast": {
+      "A": 2
+     },
+     "factor-one": {
+      "A": 2
+     },
+     "further-one": {
+      "A": 4,
+      "B": 2,
+      "own": 2
+     },
+     "further-type": {
+      "A": 1,
+      "B": 4
+     },
+     "pair-edge": {
+      "A": 17,
+      "B": 1
+     },
+     "pair-type": {
+      "A": 4,
+      "B": 3
+     }
+    },
+    "choices_total": {
+     "A": 30,
+     "B": 10,
+     "own": 2
+    },
+    "items": 42,
+    "sheet_times": {
+     "end": null,
+     "start": null
+    }
+   },
+   "F3": {
+    "elements": 140,
+    "elements_by_kind": {
+     "absence": 3,
+     "claim": 81,
+     "construct": 14,
+     "contrast pair": 5,
+     "declared gap": 3,
+     "edge": 22,
+     "factor": 12
+    },
+    "planted": [
+     {
+      "claim_placed": true,
+      "elements": [
+       "C02",
+       "C11",
+       "C12",
+       "E12",
+       "C24",
+       "C18",
+       "C05",
+       "C09",
+       "C26",
+       "C28",
+       "K06"
+      ],
+      "reading": "R05",
+      "written_to": {
+       "claim": "C02",
+       "type": "other_mechanism"
+      }
+     },
+     {
+      "claim_placed": true,
+      "elements": [
+       "C12",
+       "C13",
+       "C15",
+       "C17",
+       "C20",
+       "E18",
+       "E21",
+       "E22",
+       "X1"
+      ],
+      "reading": "R11",
+      "written_to": {
+       "claim": "C13",
+       "type": "restates"
+      }
+     }
+    ],
+    "readings": [
+     {
+      "by_kind": {
+       "claim": 8,
+       "construct": 1,
+       "declared gap": 1,
+       "edge": 1
+      },
+      "elements": [
+       "C07",
+       "C01",
+       "E03",
+       "C03",
+       "C27",
+       "C18",
+       "C38",
+       "C55",
+       "C34",
+       "K35",
+       "DG03"
+      ],
+      "evidence": [
+       "F45",
+       "F46",
+       "F47",
+       "F70",
+       "F74",
+       "F88",
+       "F90",
+       "F107",
+       "F110",
+       "F123"
+      ],
+      "off_map": true,
+      "reading": "R01",
+      "ties": [
+       "claim",
+       "declared gap"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 3,
+       "construct": 2,
+       "contrast pair": 1,
+       "factor": 1
+      },
+      "elements": [
+       "CP03",
+       "C23",
+       "C29",
+       "C36",
+       "X3",
+       "K01",
+       "K24"
+      ],
+      "evidence": [
+       "F79",
+       "F83",
+       "F84",
+       "F85",
+       "F104",
+       "F106"
+      ],
+      "off_map": true,
+      "reading": "R02",
+      "ties": [
+       "contrast pair",
+       "claim"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 6,
+       "construct": 1,
+       "declared gap": 1,
+       "edge": 2
+      },
+      "elements": [
+       "C56",
+       "C27",
+       "C03",
+       "C07",
+       "E02",
+       "E09",
+       "C17",
+       "C22",
+       "DG03",
+       "K83"
+      ],
+      "evidence": [
+       "F22",
+       "F24",
+       "F43",
+       "F44",
+       "F45",
+       "F72",
+       "F90",
+       "F91",
+       "F92",
+       "F98",
+       "F110",
+       "F123",
+       "F124"
+      ],
+      "off_map": true,
+      "reading": "R03",
+      "ties": [
+       "claim",
+       "off-map"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 3,
+       "construct": 1,
+       "edge": 2,
+       "factor": 1
+      },
+      "elements": [
+       "C08",
+       "C28",
+       "E28",
+       "E30",
+       "C11",
+       "X1",
+       "K61"
+      ],
+      "evidence": [
+       "F20",
+       "F37",
+       "F94",
+       "F98",
+       "F99"
+      ],
+      "off_map": true,
+      "reading": "R04",
+      "ties": [
+       "claim",
+       "claim"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 9,
+       "construct": 1,
+       "edge": 1
+      },
+      "elements": [
+       "C02",
+       "C11",
+       "C12",
+       "E12",
+       "C24",
+       "C18",
+       "C05",
+       "C09",
+       "C26",
+       "C28",
+       "K06"
+      ],
+      "evidence": [
+       "F11",
+       "F22",
+       "F23",
+       "F25",
+       "F48",
+       "F71",
+       "F74",
+       "F76",
+       "F77",
+       "F86",
+       "F98",
+       "F112"
+      ],
+      "off_map": true,
+      "reading": "R05",
+      "ties": [
+       "claim",
+       "claim"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 2,
+       "construct": 1,
+       "edge": 1,
+       "factor": 1
+      },
+      "elements": [
+       "C29",
+       "E32",
+       "C22",
+       "X3",
+       "K01"
+      ],
+      "evidence": [
+       "F74",
+       "F101",
+       "F103",
+       "F105",
+       "F107"
+      ],
+      "off_map": true,
+      "reading": "R06",
+      "ties": [
+       "claim",
+       "factor"
+      ]
+     },
+     {
+      "by_kind": {
+       "absence": 1,
+       "claim": 2,
+       "construct": 1
+      },
+      "elements": [
+       "C09",
+       "A01",
+       "K28",
+       "C36"
+      ],
+      "evidence": [
+       "F10",
+       "F11",
+       "F22",
+       "F23",
+       "F35"
+      ],
+      "off_map": true,
+      "reading": "R07",
+      "ties": [
+       "claim",
+       "absence"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 3,
+       "contrast pair": 1,
+       "edge": 1,
+       "factor": 1
+      },
+      "elements": [
+       "CP02",
+       "C20",
+       "C21",
+       "E23",
+       "C29",
+       "X2"
+      ],
+      "evidence": [
+       "F16",
+       "F62",
+       "F97",
+       "F103"
+      ],
+      "off_map": true,
+      "reading": "R08",
+      "ties": [
+       "contrast pair",
+       "claim"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 4,
+       "construct": 1,
+       "edge": 1
+      },
+      "elements": [
+       "C13",
+       "C14",
+       "E20",
+       "C01",
+       "C21",
+       "K18"
+      ],
+      "evidence": [
+       "F36",
+       "F112",
+       "F113",
+       "F114",
+       "F115",
+       "F116",
+       "F117",
+       "F118",
+       "F119"
+      ],
+      "off_map": true,
+      "reading": "R09",
+      "ties": [
+       "claim",
+       "claim"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 5,
+       "contrast pair": 1,
+       "declared gap": 1,
+       "edge": 1,
+       "factor": 1
+      },
+      "elements": [
+       "C12",
+       "C13",
+       "C16",
+       "C27",
+       "C30",
+       "E18",
+       "X1",
+       "CP01",
+       "DG01"
+      ],
+      "evidence": [
+       "F32",
+       "F40",
+       "F57",
+       "F59",
+       "F60",
+       "F91",
+       "F102",
+       "F109"
+      ],
+      "off_map": true,
+      "reading": "R10",
+      "ties": [
+       "claim",
+       "off-map"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 5,
+       "edge": 3,
+       "factor": 1
+      },
+      "elements": [
+       "C12",
+       "C13",
+       "C15",
+       "C17",
+       "C20",
+       "E18",
+       "E21",
+       "E22",
+       "X1"
+      ],
+      "evidence": [
+       "F28",
+       "F30",
+       "F31",
+       "F32",
+       "F40",
+       "F41",
+       "F42",
+       "F43",
+       "F44",
+       "F45",
+       "F48",
+       "F49",
+       "F52"
+      ],
+      "off_map": true,
+      "reading": "R11",
+      "ties": [
+       "off-map",
+       "off-map"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 5,
+       "edge": 2,
+       "factor": 1
+      },
+      "elements": [
+       "C07",
+       "C20",
+       "C22",
+       "C28",
+       "C29",
+       "E24",
+       "E32",
+       "X3"
+      ],
+      "evidence": [
+       "F67",
+       "F68",
+       "F72",
+       "F74",
+       "F75",
+       "F76",
+       "F99",
+       "F104",
+       "F105",
+       "F106",
+       "F107"
+      ],
+      "off_map": true,
+      "reading": "R12",
+      "ties": [
+       "claim",
+       "off-map"
+      ]
+     },
+     {
+      "by_kind": {
+       "absence": 1,
+       "claim": 3,
+       "construct": 1
+      },
+      "elements": [
+       "C09",
+       "K28",
+       "A01",
+       "C28",
+       "C58"
+      ],
+      "evidence": [
+       "F11",
+       "F16",
+       "F22",
+       "F23",
+       "F98",
+       "F99",
+       "F118"
+      ],
+      "off_map": true,
+      "reading": "R13",
+      "ties": [
+       "claim",
+       "absence"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 4,
+       "construct": 1,
+       "contrast pair": 1,
+       "edge": 2,
+       "factor": 1
+      },
+      "elements": [
+       "C12",
+       "C13",
+       "C15",
+       "C27",
+       "K67",
+       "X1",
+       "E18",
+       "E21",
+       "CP01"
+      ],
+      "evidence": [
+       "F32",
+       "F35",
+       "F39",
+       "F90",
+       "F91",
+       "F94",
+       "F102"
+      ],
+      "off_map": true,
+      "reading": "R14",
+      "ties": [
+       "factor",
+       "off-map"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 4,
+       "contrast pair": 1,
+       "edge": 3,
+       "factor": 2
+      },
+      "elements": [
+       "C28",
+       "C27",
+       "CP01",
+       "X1",
+       "X2",
+       "C57",
+       "C58",
+       "E28",
+       "E29",
+       "E30"
+      ],
+      "evidence": [
+       "F91",
+       "F94",
+       "F95",
+       "F96",
+       "F97",
+       "F98",
+       "F99",
+       "F125"
+      ],
+      "off_map": true,
+      "reading": "R15",
+      "ties": [
+       "contrast pair",
+       "off-map"
+      ]
+     },
+     {
+      "by_kind": {
+       "claim": 7,
+       "construct": 2,
+       "edge": 2,
+       "factor": 2
+      },
+      "elements": [
+       "C01",
+       "C07",
+       "C13",
+       "C14",
+       "C21",
+       "C57",
+       "C29",
+       "K73",
+       "K74",
+       "X1",
+       "X2",
+       "E18",
+       "E23"
+      ],
+      "evidence": [
+       "F35",
+       "F36",
+       "F38",
+       "F62",
+       "F80",
+       "F93",
+       "F97",
+       "F112",
+       "F114",
+       "F115",
+       "F117",
+       "F119"
+      ],
+      "off_map": true,
+      "reading": "R16",
+      "ties": [
+       "claim",
+       "off-map"
+      ]
+     },
+     {
+      "by_kind": {
+       "absence": 1,
+       "claim": 8,
+       "construct": 1
+      },
+      "elements": [
+       "C09",
+       "A01",
+       "C07",
+       "K35",
+       "C11",
+       "C02",
+       "C20",
+       "C28",
+       "C29",
+       "C56"
+      ],
+      "evidence": [
+       "F11",
+       "F23",
+       "F24",
+       "F25",
+       "F63",
+       "F98",
+       "F99",
+       "F123"
+      ],
+      "off_map": true,
+      "reading": "R17",
+      "ties": [
+       "claim",
+       "off-map"
+      ]
+     }
+    ],
+    "ties_by_kind": {
+     "absence": 2,
+     "claim": 17,
+     "contrast pair": 3,
+     "declared gap": 1,
+     "factor": 2,
+     "off-map": 9
+    },
+    "with_evidence": 17,
+    "with_off_map": 17
+   },
+   "F4": {
+    "labels_on_core": {
+     "astra": {
+      "contested": 21,
+      "idle": 4,
+      "restated": 0,
+      "unsupported": 50,
+      "weakened": 13
+     },
+     "gemini": {
+      "contested": 21,
+      "idle": 6,
+      "restated": 0,
+      "unsupported": 54,
+      "weakened": 13
+     }
+    },
+    "readings": [
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "weakened"
+       },
+       "main_claim": "C07",
+       "main_type": "other_mechanism"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "weakened"
+       },
+       "main_claim": "C07",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R01",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "weakened",
+        "C29": "contested"
+       },
+       "main_claim": "C29",
+       "main_type": "rereads_evidence"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "weakened",
+        "C20": "weakened",
+        "C29": "contested"
+       },
+       "main_claim": "C23",
+       "main_type": "rereads_evidence"
+      },
+      "planted": false,
+      "reading": "R02",
+      "worth": 0
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "weakened",
+        "C12": "weakened",
+        "C27": "contested",
+        "C34": "weakened"
+       },
+       "main_claim": "C56",
+       "main_type": "inverts"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "weakened",
+        "C12": "weakened",
+        "C27": "contested",
+        "C34": "weakened"
+       },
+       "main_claim": "C56",
+       "main_type": "inverts"
+      },
+      "planted": false,
+      "reading": "R03",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C02": "unsupported",
+        "C11": "unsupported",
+        "C20": "unsupported",
+        "C28": "contested",
+        "C29": "unsupported",
+        "C34": "idle"
+       },
+       "main_claim": "C08",
+       "main_type": "challenges_premise"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C02": "unsupported",
+        "C11": "unsupported",
+        "C20": "unsupported",
+        "C28": "contested",
+        "C29": "unsupported",
+        "C34": "idle"
+       },
+       "main_claim": "C28",
+       "main_type": "rereads_evidence"
+      },
+      "planted": false,
+      "reading": "R04",
+      "worth": 1
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "weakened",
+        "C02": "contested",
+        "C11": "contested"
+       },
+       "main_claim": "C02",
+       "main_type": "other_mechanism"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C02": "contested",
+        "C11": "unsupported",
+        "C12": "contested",
+        "C20": "unsupported",
+        "C27": "unsupported",
+        "C28": "unsupported",
+        "C29": "unsupported",
+        "C34": "weakened"
+       },
+       "main_claim": "C02",
+       "main_type": "other_mechanism"
+      },
+      "planted": true,
+      "reading": "R05",
+      "worth": null
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "weakened",
+        "C29": "contested"
+       },
+       "main_claim": "C29",
+       "main_type": "inverts"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "weakened",
+        "C29": "contested"
+       },
+       "main_claim": "C29",
+       "main_type": "inverts"
+      },
+      "planted": false,
+      "reading": "R06",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {},
+       "main_claim": "C09",
+       "main_type": "challenges_premise"
+      },
+      "gemini": {
+       "core_labels": {},
+       "main_claim": "C09",
+       "main_type": "challenges_premise"
+      },
+      "planted": false,
+      "reading": "R07",
+      "worth": 0
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C02": "unsupported",
+        "C11": "unsupported",
+        "C20": "contested",
+        "C28": "unsupported",
+        "C29": "unsupported",
+        "C34": "idle"
+       },
+       "main_claim": "C20",
+       "main_type": "rereads_evidence"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C02": "unsupported",
+        "C11": "unsupported",
+        "C20": "contested",
+        "C28": "unsupported",
+        "C29": "contested",
+        "C34": "idle"
+       },
+       "main_claim": "C20",
+       "main_type": "inverts"
+      },
+      "planted": false,
+      "reading": "R08",
+      "worth": 0
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "contested",
+        "C02": "unsupported",
+        "C11": "unsupported",
+        "C12": "unsupported",
+        "C13": "contested",
+        "C20": "unsupported",
+        "C27": "unsupported",
+        "C28": "unsupported",
+        "C29": "unsupported",
+        "C34": "weakened"
+       },
+       "main_claim": "C13",
+       "main_type": "rereads_evidence"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "contested",
+        "C02": "unsupported",
+        "C11": "unsupported",
+        "C12": "unsupported",
+        "C13": "contested",
+        "C20": "unsupported",
+        "C27": "unsupported",
+        "C28": "unsupported",
+        "C29": "unsupported",
+        "C34": "weakened"
+       },
+       "main_claim": "C13",
+       "main_type": "rereads_evidence"
+      },
+      "planted": false,
+      "reading": "R09",
+      "worth": 0
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C02": "unsupported",
+        "C11": "unsupported",
+        "C12": "contested",
+        "C20": "unsupported",
+        "C27": "contested",
+        "C28": "unsupported",
+        "C29": "unsupported",
+        "C34": "weakened"
+       },
+       "main_claim": "C12",
+       "main_type": "other_mechanism"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C02": "unsupported",
+        "C11": "unsupported",
+        "C12": "contested",
+        "C20": "unsupported",
+        "C27": "contested",
+        "C28": "unsupported",
+        "C29": "unsupported",
+        "C34": "weakened"
+       },
+       "main_claim": "C12",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R10",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {},
+       "main_claim": "C13",
+       "main_type": "restates"
+      },
+      "gemini": {
+       "core_labels": {},
+       "main_claim": "C13",
+       "main_type": "restates"
+      },
+      "planted": true,
+      "reading": "R11",
+      "worth": null
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C02": "unsupported",
+        "C11": "unsupported",
+        "C20": "contested",
+        "C28": "unsupported",
+        "C29": "unsupported",
+        "C34": "idle"
+       },
+       "main_claim": "C07",
+       "main_type": "other_mechanism"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C02": "unsupported",
+        "C11": "unsupported",
+        "C20": "contested",
+        "C28": "unsupported",
+        "C29": "contested",
+        "C34": "idle"
+       },
+       "main_claim": "C20",
+       "main_type": "other_mechanism"
+      },
+      "planted": false,
+      "reading": "R12",
+      "worth": 1
+     },
+     {
+      "astra": {
+       "core_labels": {},
+       "main_claim": "C09",
+       "main_type": "inverts"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C02": "unsupported",
+        "C11": "unsupported",
+        "C20": "unsupported",
+        "C28": "contested",
+        "C29": "unsupported",
+        "C34": "idle"
+       },
+       "main_claim": "C09",
+       "main_type": "inverts"
+      },
+      "planted": false,
+      "reading": "R13",
+      "worth": 1
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C02": "unsupported",
+        "C11": "unsupported",
+        "C12": "contested",
+        "C13": "contested",
+        "C20": "unsupported",
+        "C27": "contested",
+        "C28": "unsupported",
+        "C29": "unsupported",
+        "C34": "weakened"
+       },
+       "main_claim": "C12",
+       "main_type": "challenges_premise"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C02": "unsupported",
+        "C11": "unsupported",
+        "C12": "contested",
+        "C13": "unsupported",
+        "C20": "unsupported",
+        "C27": "contested",
+        "C28": "unsupported",
+        "C29": "unsupported",
+        "C34": "weakened"
+       },
+       "main_claim": "C27",
+       "main_type": "challenges_premise"
+      },
+      "planted": false,
+      "reading": "R14",
+      "worth": 1
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C02": "unsupported",
+        "C11": "unsupported",
+        "C12": "weakened",
+        "C20": "unsupported",
+        "C27": "contested",
+        "C28": "contested",
+        "C29": "unsupported",
+        "C34": "weakened"
+       },
+       "main_claim": "C28",
+       "main_type": "other_mechanism"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C02": "unsupported",
+        "C11": "unsupported",
+        "C12": "weakened",
+        "C20": "unsupported",
+        "C27": "contested",
+        "C28": "contested",
+        "C29": "unsupported",
+        "C34": "weakened"
+       },
+       "main_claim": "C28",
+       "main_type": "rereads_evidence"
+      },
+      "planted": false,
+      "reading": "R15",
+      "worth": 1
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "contested",
+        "C02": "unsupported",
+        "C11": "unsupported",
+        "C12": "unsupported",
+        "C13": "contested",
+        "C20": "unsupported",
+        "C27": "unsupported",
+        "C28": "unsupported",
+        "C29": "unsupported",
+        "C34": "weakened"
+       },
+       "main_claim": "C01",
+       "main_type": "other_mechanism"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "contested",
+        "C34": "idle"
+       },
+       "main_claim": "C07",
+       "main_type": "challenges_premise"
+      },
+      "planted": false,
+      "reading": "R16",
+      "worth": 2
+     },
+     {
+      "astra": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C02": "unsupported",
+        "C11": "contested",
+        "C20": "unsupported",
+        "C28": "contested",
+        "C29": "unsupported",
+        "C34": "idle"
+       },
+       "main_claim": "C09",
+       "main_type": "inverts"
+      },
+      "gemini": {
+       "core_labels": {
+        "C01": "unsupported",
+        "C02": "unsupported",
+        "C11": "unsupported",
+        "C20": "unsupported",
+        "C28": "contested",
+        "C29": "unsupported",
+        "C34": "idle"
+       },
+       "main_claim": "C09",
+       "main_type": "rereads_evidence"
+      },
+      "planted": false,
+      "reading": "R17",
+      "worth": 0
+     }
+    ],
+    "readings_with_a_label_besides_contested": {
+     "astra": 14,
+     "gemini": 15
+    }
+   },
+   "F5": {
+    "faithful": 13,
+    "not": 4,
+    "readings": [
+     {
+      "faithful": true,
+      "reading": "R01"
+     },
+     {
+      "faithful": true,
+      "reading": "R02"
+     },
+     {
+      "faithful": false,
+      "reading": "R03"
+     },
+     {
+      "faithful": false,
+      "reading": "R04"
+     },
+     {
+      "faithful": true,
+      "reading": "R05"
+     },
+     {
+      "faithful": true,
+      "reading": "R06"
+     },
+     {
+      "faithful": false,
+      "reading": "R07"
+     },
+     {
+      "faithful": false,
+      "reading": "R08"
+     },
+     {
+      "faithful": true,
+      "reading": "R09"
+     },
+     {
+      "faithful": true,
+      "reading": "R10"
+     },
+     {
+      "faithful": true,
+      "reading": "R11"
+     },
+     {
+      "faithful": true,
+      "reading": "R12"
+     },
+     {
+      "faithful": true,
+      "reading": "R13"
+     },
+     {
+      "faithful": true,
+      "reading": "R14"
+     },
+     {
+      "faithful": true,
+      "reading": "R15"
+     },
+     {
+      "faithful": true,
+      "reading": "R16"
+     },
+     {
+      "faithful": true,
+      "reading": "R17"
+     }
+    ]
+   }
+  }
+ },
+ "scorer_sha256": "190ab734c6c01001e0de945932ba9bce5ddb971956c96555546ea1f70002777a",
+ "what": "The results of the map test (T39), by score_map_test.py: every measure of MAP_TEST_PLAN.md's part F, described, not tested."
+}

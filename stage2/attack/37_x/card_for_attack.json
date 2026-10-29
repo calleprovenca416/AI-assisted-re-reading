@@ -1,0 +1,95 @@
+{
+  "card_id": "pratt_2000_counterfactual_ending_C56_01",
+  "paper_id": "pratt_2000",
+  "move": "counterfactual_ending",
+  "trigger": "ventured_claims entry (unresolved_question_gaps empty): read on C56, with C42 and C52",
+  "claim": "C56",
+  "incumbent_reading": "The paper ventures that because its practices do not secure identification in every member the organization is exposed to departures, and it counts turnover among the possible costs of intensive identification management.",
+  "wager": {
+    "statement": "The paper's hedge makes leaving the end that the practices come to when they fail on a member. Read as provisional, the departures in print are not that end; they come before the practices have run. Every former distributor interviewed had [6 words of Pratt (2000), p. 461] (F123). Most of them had been recruited through the same upline, whose own distributorship folded that year (F123), and they left as it went. Their accounts are of an early appeal that faded (F90), of something tried that did not suit (F92), of a regular job that became satisfying (F91), of buying in to get out of an embarrassing situation at a presentation (F98). The printed figures agree that staying active is not the usual course: a secondary source puts yearly leaving between about two-fifths and nearly all of the membership (F124), and Amway's own publication counts fewer than half of recorded distributors as active (F24). The practices, meanwhile, are printed as working by repetition and over time: an achieved dream is to be replaced by a larger one (F43), no achievement is to be taken as a final peak (F44), successful distributors' aspirations shifted over time (F45), and by the author's account encapsulation grew as members spent more time with other distributors (F72). On this reading the order in C56 turns over. The leavers did not go because identification failed to take; they went early, before the repeated work the paper describes had been done on them, and identification was not secured because they had gone. Leaving in the first year is then one thing and the failure of the practices another, and the leavers in print speak only to the first. Where the practices fail would show in people who left after long, active membership. The record comes near such people twice and prints no account from either: distributors who reached high sales levels before quitting (F22), whose length of membership is not given, and distributors who moved away from positive identification (F110), of whom it is not said whether any left.",
+    "seed_fragments": [
+      "F123",
+      "F124",
+      "F24",
+      "F90",
+      "F91",
+      "F92",
+      "F98",
+      "F22",
+      "F110"
+    ],
+    "what_it_would_take_to_cohere": {
+      "observation": "An account from a member who left after long, active membership; or, for the leavers who are in print, a record of what each had been through in dream building and mentoring before leaving.",
+      "printed": false,
+      "printed_fragments": [],
+      "basis": "Absent. F123 says every former distributor interviewed left within a year. F22 and F110 report quitting after high sales and movement away from positive identification, without accounts or lengths of membership. None of F90 to F98 says what sessions, functions or mentor contact the speaker had; F97 mentions meetings and F94 a successful member's home. F125, the author's account, says the detached sought little upline advice and formed no strong bonds, which is the nearest thing to such a record and is offered as a result, not a count. The paper's own declared limit (DG03) is that it does not analyze movements between states."
+    },
+    "strains_against": [
+      "F97 -- his upline had already answered him with more meetings: the practices were being applied to him before he left.",
+      "F95 -- a leaver who frames his own dream in a persistence logic like the one he met in Amway: something of the practice had taken hold inside the year.",
+      "F94 -- he was drawn in by a successful member's home, and the paper prints displays of high-status distributors' wealth among the ways model dreams reached members (F35); the practice had arguably reached him.",
+      "F93 -- he was in long enough to see how members deferred to upline figures and to reject it.",
+      "F96 -- upline relationships that had turned irritated or openly angry are relationships that had time to form.",
+      "F89 -- the author's account is that some of those without enduring identification had felt dissatisfaction and then stopped feeling it, which has the practice working and lapsing, not arriving too late."
+    ],
+    "who_could_complete_it": "Former distributors of several years' active standing, or records of what each leaver attended and with whom before leaving."
+  },
+  "fragment_jobs": {
+    "F123": "fixes every interviewed leaver inside the first year, which is the fact the reading turns on.",
+    "F124": "gives a secondary source's range for yearly leaving, which makes leaving a common course and not an exception.",
+    "F24": "gives Amway's own count that fewer than half of recorded distributors were active, so that idling without leaving is common too.",
+    "F90": "prints a leaver whose account is of an early appeal that faded.",
+    "F91": "prints a leaver whose regular job became satisfying and left little desire for meetings or sales work.",
+    "F92": "prints a leaver who tried it and found it did not suit him.",
+    "F98": "prints a leaver who bought in only to get out of an embarrassing situation, so that his joining was itself not a taking up of the dream.",
+    "F43": "prints the instruction to replace an achieved dream with a larger one, one place where the practice is shown as repeated.",
+    "F44": "prints the urging that no achievement be treated as a final peak, the practice again shown as without an end point.",
+    "F45": "prints successful distributors' aspirations shifting over time, the practice shown as long-running.",
+    "F72": "is the author's account that encapsulation grew with time spent among distributors.",
+    "F22": "reports quitters who had reached high sales levels and prints nothing they said.",
+    "F110": "reports movement away from positive identification over time and prints no case."
+  },
+  "grounded_in": [
+    {
+      "kind": "missing_fact",
+      "question": "How far had each former distributor in print gone into dream building and mentoring when they stopped?",
+      "bears_on": "C56",
+      "if_one_way": "If they had been through repeated sessions and a working mentor relationship, C56 would read as written: the practices were applied, did not hold them, and the organization is exposed for that reason.",
+      "if_the_other": "If they had seen a presentation and some meetings and no more, C56 would read as a statement about the first year of membership, where leaving comes before any test of the practices, and C27 and C28 would describe early leavers, not failed applications."
+    },
+    {
+      "kind": "missing_fact",
+      "question": "What did the distributors who quit after reaching high sales levels (F22) say of their leaving, and had they been positively identified?",
+      "bears_on": "C42",
+      "if_one_way": "If they had been positively identified and then left, C42 would have a printed case of departure from inside the practices, and turnover would read as a cost of their intensity.",
+      "if_the_other": "If none of them had been, every departure in print would lie outside the reach of the practices, and the turnover in C42 would read as leaving that the practices had no hand in."
+    },
+    {
+      "kind": "divergence",
+      "items": [
+        "F123",
+        "F22"
+      ],
+      "how": "F123 makes the interviewed leavers people of under a year's membership; F22 reports quitters who had reached high sales levels. They point different ways on whether leaving comes before or after a member is fully engaged, and the corpus does not say whether the second group is inside the first."
+    }
+  ],
+  "reach": {
+    "same_construct": [
+      "F89"
+    ],
+    "same_outcome": [
+      "F93",
+      "F94",
+      "F95",
+      "F97"
+    ],
+    "feature_elsewhere": [
+      "F70",
+      "F101",
+      "F103"
+    ],
+    "orphans_used": []
+  },
+  "split": null,
+  "for_attack": true
+}

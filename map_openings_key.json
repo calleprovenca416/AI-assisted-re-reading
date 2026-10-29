@@ -1,0 +1,68 @@
+{
+ "builder_sha256": "627ed3a777dab4f21fd609ee2a78055d3a01f7bf72607bc8ebc179e4a570be5e",
+ "papers": {
+  "bechky": {
+   "citation": "Bechky, B. A. 2020. Evaluative spillovers from technological change: The effects of \"DNA envy\" on occupational practices in forensic science. Administrative Science Quarterly, 65(3): 606–643.",
+   "file_sha256": "fcf3e2b2ebfa6dd51a4a5803b8b93343b013a676ad4b8fbec22888b710ceff12",
+   "readings": [
+    "R01",
+    "R02",
+    "R03",
+    "R04",
+    "R05",
+    "R06",
+    "R07",
+    "R08",
+    "R09",
+    "R10",
+    "R11",
+    "R12",
+    "R13",
+    "R14",
+    "R15",
+    "R16",
+    "R17",
+    "R18",
+    "R19",
+    "R20",
+    "R21",
+    "R22",
+    "R23",
+    "R24",
+    "R25",
+    "R26",
+    "R27",
+    "R28",
+    "R29",
+    "R30"
+   ],
+   "reply_sha256": "099915f0e41be3c0c0d1da89bf74a95b32d880e75bd1f7bad56555e6309c4677"
+  },
+  "pratt": {
+   "citation": "Pratt, M. G. 2000. The good, the bad, and the ambivalent: Managing identification among Amway distributors. Administrative Science Quarterly, 45(3): 456–493.",
+   "file_sha256": "4eb1526d6ddfa1866a428755fa8a1b2c27388c1b3ce07ba470c66b09a527f82d",
+   "readings": [
+    "R01",
+    "R02",
+    "R03",
+    "R04",
+    "R05",
+    "R06",
+    "R07",
+    "R08",
+    "R09",
+    "R10",
+    "R11",
+    "R12",
+    "R13",
+    "R14",
+    "R15",
+    "R16",
+    "R17"
+   ],
+   "reply_sha256": "3188febbc4a9923c5124d507ed41b5be65515c4e7e91225b024d1573fb7f6dbc"
+  }
+ },
+ "round2_key_sha256": "16203667c98851db4412f5ec1e58c9dabcbff9b666558a7ac5e85a6ce7b6b313",
+ "what": "The key of the openings' check (T39, round 2, chats 79 and 80): the readings, and the hashes of the placement replies the openings come from. Not for any chat."
+}

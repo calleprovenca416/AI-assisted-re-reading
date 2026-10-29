@@ -1,0 +1,60 @@
+0.1 | C01 | Describes the means by which Amway manages identification; identification is named as the thing managed, but the claim says it is shaped, not which way it goes. Considered "members' identification with the organization". | none
+0.2 | C02 | Both practices succeeding is the condition; what results is members identifying positively with the organization. | positive identification with the organization
+0.3 | C03 | Failure of either practice is the condition; what moves is the form of attachment, away from positive and toward deidentified, disidentified or ambivalent. | non-positive identification (deidentification, disidentification or ambivalence)
+0.4 | C04 | Less supervision and fewer conventional cues are the condition; what rises is the need to instil values as a way of controlling members. | need for shared organizational values as a means of control
+0.5 | C05 | Definitional: sets identification apart from neighbouring constructs; nothing is said to vary. | none
+0.6 | C06 | A correspondence used to tell identification states apart: valence and state are matched, not one affecting the other, and the paper words the dependence both ways (p. 462 against p. 485). Hard; considered "type of identification". | none
+0.7 | C07 | Success or failure of the two practices is the condition; what differs with it is which identification a distributor has, and p. 463 and Figure 1 say which combination goes with which type. Hard because the row's own wording ("track") gives no direction. | type of identification with Amway
+0.8 | C08 | Denies a relationship: prospecting is said not to relate to identification, so nothing is said to be affected and no direction is asserted. | none
+0.9 | C09 | Denies an effect: financial success is said not to settle identification, so nothing is said to be affected and no direction is asserted. | none
+0.10 | C10 | Denies an effect: demographics are said not to account for identification differences, so nothing is said to be affected and no direction is asserted. | none
+0.11 | C11 | The paper's overall framing of where identification comes from; identification is named as a product of sensemaking, but not which way anything pushes it. Considered "type of identification". | none
+0.12 | C12 | Successful sensebreaking is the condition; what it produces is a discontent-driven need to find meaning about the self. | seekership
+0.13 | C13 | Partly a description of what dream building is, but it also says dream building produces something: a void or deficit in the sense of self, which it keeps alive. Flagged as borderline with none. | meaning void in the distributor's sense of self
+0.14 | C14 | Choice, familiarity and emotion in the dream are the condition; what gets easier is taking the dream into the self. | incorporation of dreams into the sense of self
+0.15 | C15 | Comparing ideal with current self is the condition; the identity deficit is the step in between; what ends up affected is the drive to change the present self. | motivation to change the current self
+0.16 | C16 | Crisis or unhappiness with the current identity is the condition; what gets stronger is the pull the deficit exerts. | motivational force of identity deficits
+0.17 | C17 | Continual dream building is the condition; what it maintains is the state of seeking, which would otherwise lapse when dreams are met. | persistence of seekership
+0.18 | C18 | Continued dream building over time is the condition; what grows is how much of life is bound up with being a distributor. | extent of a distributor's life intertwined with the distributor identity
+0.19 | C19 | Seekership is the condition; what it sets off is an active search, through other people, for meaning about who one is. | search for meaning about the self
+0.20 | C20 | Successful positive programming is the condition; what results is sensemaking done with members and not with outsiders. | encapsulated sensemaking
+0.21 | C21 | Mentors showing both economic and emotional support is the condition; what gets stronger is the tie between upline and downline. | strength of upline-downline bonds
+0.22 | C22 | Revaluing outside relationships against the Amway standard is the condition; what increases, through the barriers it creates, is members' separation from non-members. | social and ideological encapsulation of members
+0.23 | C23 | Encapsulation is the condition; the claim names two things, more sensemaking through organizational sources and less weight for outsiders' negative views. Coded the first as the main one; the second is its other face. | reliance on organizational sources for sensemaking
+0.24 | C24 | Freely chosen distributing is the condition; commitment is the step in between; what ends up affected is how far one thinks of oneself as a distributor. | self-definition as a distributor
+0.25 | C25 | Trying to sponsor friends and family is the condition; whatever they do, what is strengthened is the conviction that Amway ties are the better ones. | belief [7 words of Pratt (2000), p. 474]
+0.26 | C26 | Positive identification is the condition; what becomes more likely is going on with dream building and the like. | continued engagement in sensebreaking (dream building)
+0.27 | C27 | Failed sensebreaking, so no seekership, is the condition; what results is identification not forming or breaking. | deidentification or failure to identify
+0.28 | C28 | Successful sensebreaking with failed sensegiving is the condition; what results is identifying in opposition to Amway. | disidentification
+0.29 | C29 | Successful sensebreaking with partly successful sensegiving is the condition; what results is a torn, two-way attachment. | ambivalent identification
+0.30 | C30 | Selecting people predisposed to seek is the condition; what is eased is the organization's management of identification. | ease of managing members' identification
+0.31 | C31 | Having outsiders [6 words of Pratt (2000), p. 483] is the condition; what falls is how much strong insider-outsider barriers are needed. | need for [6 words of Pratt (2000), p. 483]
+0.32 | C32 | Positive identification is the condition; what rises is members doing what the organization demands. | compliance with organizational demands
+0.33 | C33 | Positive identification is the condition; what rises is openness to more of the same practices. | amenability to further sensebreaking and sensegiving
+0.34 | C34 | Characterises identification management as never finished; says identification can change in several directions but names nothing pushing it one way. | none
+0.35 | C35 | A gap between current and ideal self is the condition; the need for meaning is the step in between; what it supplies is a motive to identify. | [6 words of Pratt (2000), p. 487]
+0.36 | C36 | States a two-way relation between identification and sensemaking (residue and lens); nothing is said to go up or down. | none
+0.37 | C37 | Says relationships with members and non-members matter to identification, not which way they move it. | none
+0.38 | C38 | More facets of identity bound to the organization is the condition; what increases is how deep the identification runs. | depth of identification
+0.39 | C39 | Self-unsettling practices paired with close bonds and time demands are the condition; what is built up is identification with the profession. | strength of identification with the profession
+0.40 | C40 | Fostering encapsulated sensemaking in a dispersed workforce is the condition; what is kept up is a shared purpose. | members' sense of common purpose
+0.41 | C41 | Strong positive identification is the condition; what is helped is how well the organization functions. | organizational functioning
+0.42 | C42 | Managing identification this intensively is the condition; what rises is a set of harms to people and to the organization, which the claim lists. | costs to members and organizations
+0.43 | C43 | Amway uniting segmented parts of life is the condition; what active distributors gained was purpose and belonging. | sense of purpose and community among active distributors
+0.44 | C44 | A strong culture is the condition; what it shores up is members' attachment once job security no longer does. | members' loyalty and commitment
+0.45 | C45 | Studying an extreme case is the condition; greater visibility of the dynamics is the mechanism; what is helped is building theory. | ease of theory building
+0.46 | C46 | Using multiple data sources is the condition; what gets stronger is what can be asserted about interpretations. | strength of assertions about interpretations
+0.47 | C47 | [6 words of Pratt (2000), p. 460] member is the condition; what rises is their trust. | informants' trust in the researcher
+0.48 | C48 | A semiovert role is the condition; what widens is the room to ask things a normal coworker could not. | researcher's opportunity to ask unusual questions
+0.49 | C49 | Balanced, stable relationship triads are the condition; what they may strengthen is the Amway-built context for sensemaking. | strength of [7 words of Pratt (2000), p. 474]
+0.50 | C50 | Seekership among part-time, contingent or voluntary members is the condition; what it supplies is a reason to identify. | [6 words of Pratt (2000), p. 487]
+0.51 | C51 | Seekership during long socialization is the condition; what it keeps up is willingness to go on training and improving. | motivation for continued improvement
+0.52 | C52 | Size of the available labor pool is the condition; what varies with it is how well suited these turnover-prone practices are. | suitability of the identification-management practices for an organization
+0.53 | C53 | Says when culture learning is settled (the first six months), which means the period matters; it names no cause pushing learning one way. Considered "learning of the organization's culture". | none
+0.54 | C54 | A goal being linked to the sense of self is the condition; what rises is how strongly it motivates. | motivating force of goals
+0.55 | C55 | Mostly a description of how fluid the categories are, but the footnote does say which way some things move a person (interest brings an outsider in quickly, straying moves a member out only slowly). Hard; borderline with none. | in-group or out-group standing of a person
+0.56 | C56 | The practices not always working is the condition; what is higher as a result is the rate at which members leave. | member turnover
+0.57 | C57 | No felt need to change oneself is the condition; what falls is turning to, and bonding with, the upline. | seeking out and bonding with upline distributors
+0.58 | C58 | Mixing instrumental and social ties is the condition; what rises is how easily mentoring relationships turn negative. | volatility of mentoring relationships
+0.59 | C59 | Practices that invalidate the current self (other than dream building) are the condition; what they produce is the same state of seeking. | seekership
+0.60 | C60 | Managing cohesion, group distinctions, contacts and co-opted outsiders is the condition; what is promoted is sensemaking kept within the organization's orbit. | encapsulated sensemaking

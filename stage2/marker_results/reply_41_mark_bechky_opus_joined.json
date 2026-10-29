@@ -1,0 +1,1742 @@
+{
+ "paper": "Bechky 2020",
+ "codes": [
+  {
+   "unit": "B01-01",
+   "code": "R",
+   "page": "p. 612",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B01-02",
+   "code": "R",
+   "page": "p. 631",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B01-03",
+   "code": "R",
+   "page": "p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B01-04",
+   "code": "R",
+   "page": "p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B01-05",
+   "code": "R",
+   "page": "p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B01-06",
+   "code": "RA",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Talk at benches and in group meetings is at p. 615 and pp. 631–632. No instruction to give up crystal testing, and no refusal of one, is printed anywhere; the two-test guideline at p. 630 is already met and p. 632 says no change was needed."
+  },
+  {
+   "unit": "B01-07",
+   "code": "RI",
+   "page": "p. 629; p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Both facts are printed; that the quantified objections are the capacity ones follows from going through pp. 631–632."
+  },
+  {
+   "unit": "B01-08",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B01-09",
+   "code": "R",
+   "page": "p. 621; p. 632; p. 633; p. 635",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Follows Robin's passage (p. 632) and sets it against the author's entries at p. 633 and p. 635."
+  },
+  {
+   "unit": "B02-01",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B02-02",
+   "code": "R",
+   "page": "p. 625; pp. 627–628",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B02-03",
+   "code": "R",
+   "page": "p. 624; p. 632; p. 635",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B02-04",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B02-05",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B02-06",
+   "code": "RI",
+   "page": "p. 613; p. 634",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "One laboratory is printed; one condition per occupation follows for its own units. The paper also prints firearms examiners from other jurisdictions with hearing experience (p. 635, note 5)."
+  },
+  {
+   "unit": "B02-07",
+   "code": "R",
+   "page": "p. 625",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "The paper says a specific case and prints no name for it."
+  },
+  {
+   "unit": "B02-08",
+   "code": "RI",
+   "page": "p. 624; p. 625; p. 633; p. 635",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Deduced from the three units' entries; nothing is printed on court challenges for the DNA unit."
+  },
+  {
+   "unit": "B02-09",
+   "code": "R",
+   "page": "p. 624",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B02-10",
+   "code": "R",
+   "page": "p. 635",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B02-11",
+   "code": "R",
+   "page": "p. 635",
+   "position": null,
+   "drift": true,
+   "reasoning_stated": null,
+   "note": "Drift: the stance is the author's impression at p. 635, without data on those examiners' own labs (note 5); at p. 623 a meeting speaker who says testifying has got harder attacks the critics instead."
+  },
+  {
+   "unit": "B02-12",
+   "code": "RI",
+   "page": "pp. 623–624; p. 635",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "That he is not from MCCL follows from p. 635 and note 5."
+  },
+  {
+   "unit": "B02-13",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B02-14",
+   "code": "R",
+   "page": "p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B02-15",
+   "code": "RI",
+   "page": "p. 632; p. 635",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Where the hearing took place is not printed; 'somewhere else' follows from p. 635, which records no court challenge met by MCCL narcotics analysts."
+  },
+  {
+   "unit": "B02-16",
+   "code": "R",
+   "page": "p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B02-17",
+   "code": "RI",
+   "page": "p. 607; p. 612; p. 614",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Report month at p. 607, fieldwork dates at p. 612, time per unit at p. 614; the different distances follow from these."
+  },
+  {
+   "unit": "B03-01",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B03-02",
+   "code": "R",
+   "page": "p. 620; p. 624",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B03-03",
+   "code": "R",
+   "page": "p. 627; p. 631; p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Taylor names the East Coast; Billie describes the GC routine as what other people would prefer, without naming the East Coast."
+  },
+  {
+   "unit": "B03-04",
+   "code": "R",
+   "page": "p. 627; p. 628; p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B03-05",
+   "code": "RA",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Checked pp. 617–637. No quoted toxicologist names DNA. A narcotics analyst's phrase at p. 617 is general and the one at p. 624 is about firearms. The tie to their own work is only in the author's voice (p. 627, p. 632, p. 637)."
+  },
+  {
+   "unit": "B03-06",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B04-01",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B04-02",
+   "code": "R",
+   "page": "p. 633; p. 636",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B04-03",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B04-04",
+   "code": "R",
+   "page": "p. 620; p. 621; p. 624",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B04-05",
+   "code": "RA",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Analyst's phrase at p. 617 and Jodi at p. 631 are printed. No other passage has a participant tie narcotics work to DNA; the narcotics analyst quoted at p. 624 speaks of firearms."
+  },
+  {
+   "unit": "B04-06",
+   "code": "R",
+   "page": "p. 625; p. 627",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B04-07",
+   "code": "RA",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Jason and Neha never name DNA (pp. 625–628) and the attorney is never quoted. The only link is the author's statement at p. 627 that he would draw a parallel."
+  },
+  {
+   "unit": "B04-08",
+   "code": "R",
+   "page": "p. 627; p. 633; p. 634",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B04-09",
+   "code": "R",
+   "page": "p. 633; p. 636",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B04-10",
+   "code": "R",
+   "page": "p. 613; pp. 619–620; p. 634; p. 636",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B04-11",
+   "code": "RA",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Table 2 responses are at p. 633. No participant ties the uncertainty requirements or the courtroom challenge to DNA; the tie appears in the author's voice at p. 627, p. 633, p. 634 and p. 635."
+  },
+  {
+   "unit": "B04-12",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B04-13",
+   "code": "C",
+   "page": "p. 612; p. 616",
+   "position": "illustration",
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "p. 612 names fingerprint analysts as a forensic occupation with its own association, and p. 616 has that association answering the report. The flyer and the trace examiners' concern are at p. 619; no evaluation of their methods against DNA is printed."
+  },
+  {
+   "unit": "B05-01",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B05-02",
+   "code": "R",
+   "page": "p. 625; p. 627",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B05-03",
+   "code": "R",
+   "page": "p. 625; p. 627; p. 628",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B05-04",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B05-05",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B05-06",
+   "code": "R",
+   "page": "p. 625; p. 627",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B05-07",
+   "code": "R",
+   "page": "p. 625",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B05-08",
+   "code": "R",
+   "page": "p. 625",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "As described at p. 625 the challenge is to omitted uncertainty estimates; the parallel to DNA is added in the author's voice at p. 627."
+  },
+  {
+   "unit": "B05-09",
+   "code": "R",
+   "page": "p. 627",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B05-10",
+   "code": "R",
+   "page": "p. 627",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "What p. 627 dates before the report is the ISO revision and the plan; the new reports came after the challenge was heard of."
+  },
+  {
+   "unit": "B05-11",
+   "code": "R",
+   "page": "p. 627",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B05-12",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B05-13",
+   "code": "R",
+   "page": "pp. 627–628",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B05-14",
+   "code": "R",
+   "page": "p. 635",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B06-01",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B06-02",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B06-03",
+   "code": "R",
+   "page": "pp. 627–628",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B06-04",
+   "code": "RI",
+   "page": "p. 629; p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Robin speaks of keeping up with the caseload (p. 632); the turnaround law is at p. 629. The sentence joins the two."
+  },
+  {
+   "unit": "B06-05",
+   "code": "R",
+   "page": "p. 614; p. 624",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Unit size and the lack of population statistics are printed. The affordability clause is the reading's thesis: no costs are printed for firearms, and p. 623 shows the counting method was known and available."
+  },
+  {
+   "unit": "B06-06",
+   "code": "R",
+   "page": "p. 629",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B06-07",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B06-08",
+   "code": "R",
+   "page": "p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B06-09",
+   "code": "R",
+   "page": "p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B06-10",
+   "code": "R",
+   "page": "p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B06-11",
+   "code": "R",
+   "page": "p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B06-12",
+   "code": "R",
+   "page": "p. 631",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B06-13",
+   "code": "P",
+   "page": "p. 631",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": false,
+   "note": "Jodi's quote opens with the lack of reviewable output and the attacks on forensic science; speed comes later, though more than once. Ranking speed first is the reading's judgment. No pronoun is printed for Jodi."
+  },
+  {
+   "unit": "B06-14",
+   "code": "R",
+   "page": "p. 631",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "The slowdown is called major; one minute is what Taylor says would remain after fixes. Timing is printed for one or two analysts."
+  },
+  {
+   "unit": "B06-15",
+   "code": "R",
+   "page": "pp. 627–628",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B06-16",
+   "code": "R",
+   "page": "p. 619",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B06-17",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B06-18",
+   "code": "R",
+   "page": "p. 624",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B07-01",
+   "code": "R",
+   "page": "pp. 619–620",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B07-02",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B07-03",
+   "code": "R",
+   "page": "pp. 627–628; p. 630",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "The button-pressing remark is printed for narcotics analysts only."
+  },
+  {
+   "unit": "B07-04",
+   "code": "R",
+   "page": "p. 637",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B07-05",
+   "code": "R",
+   "page": "p. 619",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B07-06",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B07-07",
+   "code": "R",
+   "page": "pp. 619–620",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B07-08",
+   "code": "R",
+   "page": "pp. 619–620",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B07-09",
+   "code": "R",
+   "page": "p. 620",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B07-10",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B07-11",
+   "code": "R",
+   "page": "p. 630",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B07-12",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B07-13",
+   "code": "R",
+   "page": "p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B07-14",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B07-15",
+   "code": "R",
+   "page": "p. 623",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B07-16",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B07-17",
+   "code": "R",
+   "page": "p. 628",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B07-18",
+   "code": "R",
+   "page": "p. 633",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B08-01",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B08-02",
+   "code": "R",
+   "page": "p. 627",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B08-03",
+   "code": "R",
+   "page": "p. 627",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B08-04",
+   "code": "R",
+   "page": "pp. 627–628",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B08-05",
+   "code": "R",
+   "page": "p. 627",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B08-06",
+   "code": "R",
+   "page": "p. 627",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B08-07",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B08-08",
+   "code": "RA",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Checked the whole paper. No plan or scheduled change is printed for firearms: the ISO 17025 adjustment at p. 627 is laboratory-wide with detail only for toxicology, and Table 2 (p. 633) enters no association pathway for firearms."
+  },
+  {
+   "unit": "B08-09",
+   "code": "R",
+   "page": "p. 633; p. 635",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B09-01",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B09-02",
+   "code": "R",
+   "page": "pp. 627–628",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B09-03",
+   "code": "R",
+   "page": "pp. 625–626",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B09-04",
+   "code": "R",
+   "page": "p. 627",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B09-05",
+   "code": "R",
+   "page": "p. 625; pp. 627–628",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B09-06",
+   "code": "RA",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "No change to preparing or running samples is printed; at p. 628 Jason says the instrument and method are unchanged."
+  },
+  {
+   "unit": "B09-07",
+   "code": "R",
+   "page": "p. 628; p. 631",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B09-08",
+   "code": "R",
+   "page": "p. 629",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B09-09",
+   "code": "R",
+   "page": "p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B09-10",
+   "code": "R",
+   "page": "p. 631",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B09-11",
+   "code": "R",
+   "page": "p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B09-12",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B09-13",
+   "code": "R",
+   "page": "pp. 625–626; pp. 627–628",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B09-14",
+   "code": "R",
+   "page": "p. 629; p. 631; p. 633",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B09-15",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B09-16",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B09-17",
+   "code": "R",
+   "page": "p. 631; p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B09-18",
+   "code": "R",
+   "page": "p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B09-19",
+   "code": "RI",
+   "page": "p. 626; pp. 626–627; pp. 627–628; p. 633",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "All items are printed; that the pride comes after the change is deduced from its being shown when the new practice was presented."
+  },
+  {
+   "unit": "B09-20",
+   "code": "R",
+   "page": "p. 630; p. 631",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B09-21",
+   "code": "R",
+   "page": "p. 632; p. 633; p. 637",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B10-01",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B10-02",
+   "code": "P",
+   "page": "p. 615; pp. 617–619",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": false,
+   "note": "The paper prints no count of forensic biology passages; fourteen depends on how they are divided. The silence claimed holds (only Carly and Terri speak, p. 619), and the introduction is at p. 615."
+  },
+  {
+   "unit": "B10-03",
+   "code": "R",
+   "page": "p. 617; p. 619",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "p. 618 adds a second historical sentence, on practices set up after court challenges."
+  },
+  {
+   "unit": "B10-04",
+   "code": "R",
+   "page": "p. 619",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B10-05",
+   "code": "R",
+   "page": "p. 619",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B10-06",
+   "code": "R",
+   "page": "p. 619",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B10-07",
+   "code": "R",
+   "page": "p. 617; p. 618",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B10-08",
+   "code": "R",
+   "page": "p. 617",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B10-09",
+   "code": "RI",
+   "page": "p. 617; p. 619",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "'First' follows from the 1990s at p. 617 against the 2009 report."
+  },
+  {
+   "unit": "B10-10",
+   "code": "R",
+   "page": "p. 619; p. 622",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B10-11",
+   "code": "RA",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Review is printed for all four units (p. 617, p. 622, p. 626, pp. 629–630) and the figure at p. 618. No such figure is printed for toxicology or narcotics, and p. 624 says firearms lacks one."
+  },
+  {
+   "unit": "B10-12",
+   "code": "R",
+   "page": "p. 617; p. 619; p. 633; p. 634",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B10-13",
+   "code": "R",
+   "page": "pp. 618–619",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B10-14",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B10-15",
+   "code": "C",
+   "page": "p. 618",
+   "position": "illustration",
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "p. 618 prints that once DNA evidence met court challenges, forensic biologists set up practices that include calculating statistical estimates. So a link is printed for the figure; only the review steps are left unlinked."
+  },
+  {
+   "unit": "B11-01",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B11-02",
+   "code": "R",
+   "page": "p. 630",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "No pronoun is printed for Taylor."
+  },
+  {
+   "unit": "B11-03",
+   "code": "R",
+   "page": "p. 626",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B11-04",
+   "code": "R",
+   "page": "p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "No pronoun is printed for Billie."
+  },
+  {
+   "unit": "B11-05",
+   "code": "R",
+   "page": "p. 613",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B11-06",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B11-07",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B12-01",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B12-02",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B12-03",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B12-04",
+   "code": "R",
+   "page": "p. 621; p. 622; pp. 623–624",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B12-05",
+   "code": "R",
+   "page": "p. 631; p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B12-06",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B12-07",
+   "code": "R",
+   "page": "pp. 618–619",
+   "position": null,
+   "drift": true,
+   "reasoning_stated": null,
+   "note": "Drift: the link between DNA's standing and its reviewable outputs is the author's account, stated here as fact."
+  },
+  {
+   "unit": "B12-08",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B12-09",
+   "code": "R",
+   "page": "p. 621",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B12-10",
+   "code": "R",
+   "page": "p. 621",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B12-11",
+   "code": "R",
+   "page": "p. 622",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B12-12",
+   "code": "R",
+   "page": "pp. 621–622",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B12-13",
+   "code": "R",
+   "page": "p. 622",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B12-14",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B12-15",
+   "code": "R",
+   "page": "p. 623",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Printed as not used regularly; Tom keeps it as a tool for borderline calls."
+  },
+  {
+   "unit": "B12-16",
+   "code": "RI",
+   "page": "p. 622; pp. 623–624",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Joins the documenting at p. 622 with the refusal of counting and numbers at pp. 623–624."
+  },
+  {
+   "unit": "B12-17",
+   "code": "R",
+   "page": "p. 631",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B12-18",
+   "code": "R",
+   "page": "p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B12-19",
+   "code": "RI",
+   "page": "p. 622; p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Joins the camera talk at p. 632 with the imaging already required at p. 622."
+  },
+  {
+   "unit": "B12-20",
+   "code": "R",
+   "page": "p. 630",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B13-01",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B13-02",
+   "code": "R",
+   "page": "pp. 624–625; p. 628; p. 635",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B13-03",
+   "code": "RA",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Toxicology's plan under the ISO standard is at p. 627. No change in progress under a requirement is printed for firearms; the image requirement at p. 622 is described as already in force."
+  },
+  {
+   "unit": "B13-04",
+   "code": "R",
+   "page": "p. 627",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B13-05",
+   "code": "R",
+   "page": "p. 627",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B13-06",
+   "code": "R",
+   "page": "p. 627",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B13-07",
+   "code": "R",
+   "page": "pp. 627–628",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B13-08",
+   "code": "R",
+   "page": "p. 633",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B13-09",
+   "code": "RA",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "No plan is printed for the firearms unit, and the ISO 17025 passage at p. 627 gives detail only for toxicology."
+  },
+  {
+   "unit": "B13-10",
+   "code": "RA",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "AFTE's refutation is at p. 623 and p. 616. No other body's response to the firearms criticism is printed; the AAFS and ASCLD statements at p. 616 address the report as a whole."
+  },
+  {
+   "unit": "B13-11",
+   "code": "R",
+   "page": "p. 616",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B13-12",
+   "code": "R",
+   "page": "p. 621",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B13-13",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B13-14",
+   "code": "RA",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "Toxicology's plan and its acceleration are at p. 627. No plan or pending requirement is printed for firearms; the duty to document with images (p. 622) is already met and its source is not given."
+  },
+  {
+   "unit": "B13-15",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B13-16",
+   "code": "R",
+   "page": "p. 625; p. 627; p. 628; p. 635",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B13-17",
+   "code": "R",
+   "page": "p. 627; p. 633; p. 635",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B13-18",
+   "code": "R",
+   "page": "p. 625; pp. 635–636",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B14-01",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B14-02",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B14-03",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B14-04",
+   "code": "R",
+   "page": "p. 621; p. 622; pp. 627–628; p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B14-05",
+   "code": "R",
+   "page": "p. 623; p. 624; p. 631; p. 632",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B14-06",
+   "code": "RA",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": "X changes are at p. 622, pp. 627–628 and p. 632. No unit is printed adopting a change that replaces the analyst's own judging (p. 623, p. 632), and toxicology is asked only for uncertainty estimates (p. 625, p. 627)."
+  },
+  {
+   "unit": "B14-07",
+   "code": "N",
+   "page": null,
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  },
+  {
+   "unit": "B14-08",
+   "code": "R",
+   "page": "p. 622; p. 633; p. 637",
+   "position": null,
+   "drift": false,
+   "reasoning_stated": null,
+   "note": ""
+  }
+ ]
+}

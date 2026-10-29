@@ -1,0 +1,3258 @@
+{
+ "what": "the key to the judges' tables: for no judge",
+ "seed": 20261013,
+ "built_by": "build_judge_table.py",
+ "papers": {
+  "pratt_2000": {
+   "sources": {
+    "pratt_2000_v1.json": "a4810cc03d9a439220b2c8781acf494c62d5ac63f7f53f359157238739147c99",
+    "pratt_2000_v1_voice_gloss.json": "7e26bffb2e5cc8cdb9f359bae8472dbaa5a9a667e6a4dd6d9911bd74e9d89956",
+    "packs/pratt_2000/key/pratt_2000_pack_key.json": "1d28c84d498dca17b75291e37cd68488add2a8a2c4ca2fbe457b53f1ae263117",
+    "pratt_2000_readings.json": "9a87a1210105d3b356235d56daebe2fc08cfb572f6b5760764b564a8949a3e17",
+    "against_check_results.json": "cdb54145104e93083454ccb157329c1625da3ebcc4d2ec5b4398aae2a74f6ef2",
+    "returned_pratt_2000_STAGE_A_coder2.xlsx": "250dcce2ca58504f62758285d4bd936d553395de569e5e9a5a758381219ff9b3",
+    "returned_pratt_2000_STAGE_A2_coder2.xlsx": "3699be60bcdad0ebf28ce4a8152bf6aee5eb3fec9188c869976fb868243cb1a1",
+    "returned_pratt_2000_STAGE_V_coder2.xlsx": "871734aa5e98ce6502cc46f9f66f42adaf98646da25b4c8313be8ef97b4adae6",
+    "returned_pratt_2000_STAGE_B_coder2.xlsx": "9f268d85fc7aa10dde3879726f347fa8b6889e320dfadbc1fbcefda1a553123d"
+   },
+   "parts": {
+    "1": {
+     "file": "JUDGE_TABLE_pratt_part1.md",
+     "sha256": "26d9372a50f2b108b3380dc7b2821ad7b761bf471d06c7d7086fc3f48ff69a6a",
+     "rows": 50,
+     "differing_rows": 19,
+     "statements": [
+      {
+       "id": "FXDV",
+       "field": "core",
+       "key": [
+        "C35"
+       ],
+       "code": "false",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "QX63",
+       "field": "core",
+       "key": [
+        "C06"
+       ],
+       "code": "true",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "AZME",
+       "field": "outcome",
+       "key": [
+        "C08"
+       ],
+       "code": "none",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "8H92",
+       "field": "outcome",
+       "key": [
+        "C09"
+       ],
+       "code": "organizational identification",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "L7UC",
+       "field": "outcome",
+       "key": [
+        "C33"
+       ],
+       "code": "receptivity to further identification-management practices",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "FQQR",
+       "field": "outcome",
+       "key": [
+        "C53"
+       ],
+       "code": "learning of organizational culture",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "UZEF",
+       "field": "core",
+       "key": [
+        "C35"
+       ],
+       "code": "true",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "LZ38",
+       "field": "outcome",
+       "key": [
+        "C55"
+       ],
+       "code": "permeability of the insider–outsider boundary",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "Y5T6",
+       "field": "outcome",
+       "key": [
+        "C30"
+       ],
+       "code": "ease of identification management",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "FZ2P",
+       "field": "core",
+       "key": [
+        "C29"
+       ],
+       "code": "true",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "2YYU",
+       "field": "outcome",
+       "key": [
+        "C08"
+       ],
+       "code": "organizational identification",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "656W",
+       "field": "stated_as",
+       "key": [
+        "C17"
+       ],
+       "code": "ventured",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "SABM",
+       "field": "core",
+       "key": [
+        "C34"
+       ],
+       "code": "false",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "K89L",
+       "field": "core",
+       "key": [
+        "C03"
+       ],
+       "code": "true",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "8CJD",
+       "field": "core",
+       "key": [
+        "C05"
+       ],
+       "code": "false",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "5MC3",
+       "field": "outcome",
+       "key": [
+        "C10"
+       ],
+       "code": "none",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "N4C8",
+       "field": "outcome",
+       "key": [
+        "C13"
+       ],
+       "code": "meaning void in the distributor's sense of self",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "KTMA",
+       "field": "outcome",
+       "key": [
+        "C27"
+       ],
+       "code": "organizational identification",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "XV9P",
+       "field": "stated_as",
+       "key": [
+        "C56"
+       ],
+       "code": "ventured",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "H7J5",
+       "field": "outcome",
+       "key": [
+        "C36"
+       ],
+       "code": "influence of identification on later sensemaking",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "SZA8",
+       "field": "outcome",
+       "key": [
+        "C27"
+       ],
+       "code": "deidentification or failure to identify",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "LH8R",
+       "field": "core",
+       "key": [
+        "C03"
+       ],
+       "code": "false",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "P572",
+       "field": "outcome",
+       "key": [
+        "C10"
+       ],
+       "code": "organizational identification",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "5ZEH",
+       "field": "outcome",
+       "key": [
+        "C03"
+       ],
+       "code": "nonpositive identification outcomes",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "GZ97",
+       "field": "stated_as",
+       "key": [
+        "C60"
+       ],
+       "code": "ventured",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "SMYN",
+       "field": "stated_as",
+       "key": [
+        "C44"
+       ],
+       "code": "ventured",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "PYJQ",
+       "field": "stated_as",
+       "key": [
+        "C25"
+       ],
+       "code": "ventured",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "MZC6",
+       "field": "outcome",
+       "key": [
+        "C06"
+       ],
+       "code": "identification type",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "2X3H",
+       "field": "core",
+       "key": [
+        "C07"
+       ],
+       "code": "true",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "E4XD",
+       "field": "outcome",
+       "key": [
+        "C45"
+       ],
+       "code": "ease of theory building",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "MKF6",
+       "field": "core",
+       "key": [
+        "C05"
+       ],
+       "code": "true",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "M8T3",
+       "field": "outcome",
+       "key": [
+        "C06"
+       ],
+       "code": "none",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "Q9YB",
+       "field": "stated_as",
+       "key": [
+        "C17"
+       ],
+       "code": "established",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "A65A",
+       "field": "outcome",
+       "key": [
+        "C11"
+       ],
+       "code": "none",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "WAN8",
+       "field": "outcome",
+       "key": [
+        "C13"
+       ],
+       "code": "seekership",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "R7ED",
+       "field": "outcome",
+       "key": [
+        "C53"
+       ],
+       "code": "none",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "39XX",
+       "field": "stated_as",
+       "key": [
+        "C60"
+       ],
+       "code": "established",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "GCKZ",
+       "field": "outcome",
+       "key": [
+        "C45"
+       ],
+       "code": "visibility of focal dynamics",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "3B2S",
+       "field": "outcome",
+       "key": [
+        "C09"
+       ],
+       "code": "none",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "YZZZ",
+       "field": "stated_as",
+       "key": [
+        "C56"
+       ],
+       "code": "established",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "WC3K",
+       "field": "outcome",
+       "key": [
+        "C33"
+       ],
+       "code": "none",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "68BE",
+       "field": "core",
+       "key": [
+        "C34"
+       ],
+       "code": "true",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "U723",
+       "field": "outcome",
+       "key": [
+        "C55"
+       ],
+       "code": "in-group or out-group standing of a person",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "K4SH",
+       "field": "outcome",
+       "key": [
+        "C01"
+       ],
+       "code": "none",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "LA8X",
+       "field": "core",
+       "key": [
+        "C06"
+       ],
+       "code": "false",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "EHY5",
+       "field": "core",
+       "key": [
+        "C07"
+       ],
+       "code": "false",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "J8KP",
+       "field": "outcome",
+       "key": [
+        "C03"
+       ],
+       "code": "none",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "ZWSY",
+       "field": "outcome",
+       "key": [
+        "C11"
+       ],
+       "code": "identification type",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "9SX6",
+       "field": "outcome",
+       "key": [
+        "C36"
+       ],
+       "code": "none",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "JA78",
+       "field": "stated_as",
+       "key": [
+        "C25"
+       ],
+       "code": "established",
+       "who": "coder 2",
+       "differ": true
+      }
+     ]
+    },
+    "2": {
+     "file": "JUDGE_TABLE_pratt_part2.md",
+     "sha256": "0bee9e37036411b6edf390d5ba7fbef1ecbd75a77ba5c785fadb54ae7031ac54",
+     "rows": 156,
+     "differing_rows": 60,
+     "statements": [
+      {
+       "id": "MJDH",
+       "field": "direction",
+       "key": [
+        "F98",
+        "C42"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "CUMX",
+       "field": "direction",
+       "key": [
+        "F109",
+        "C29"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "ZYRS",
+       "field": "direction",
+       "key": [
+        "F86",
+        "C32"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "YAPG",
+       "field": "direction",
+       "key": [
+        "F41",
+        "C15"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "X3WV",
+       "field": "direction",
+       "key": [
+        "F49",
+        "C19"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "VD3P",
+       "field": "direction",
+       "key": [
+        "F28",
+        "C54"
+       ],
+       "code": "qualifies",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "T47B",
+       "field": "direction",
+       "key": [
+        "F93",
+        "C23"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "QZA7",
+       "field": "direction",
+       "key": [
+        "F93",
+        "C20"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "EHPL",
+       "field": "direction",
+       "key": [
+        "F77",
+        "C24"
+       ],
+       "code": "illustrates",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "AJAY",
+       "field": "direction",
+       "key": [
+        "F106",
+        "C29"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "MYQU",
+       "field": "direction",
+       "key": [
+        "F74",
+        "C42"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "R7WW",
+       "field": "direction",
+       "key": [
+        "F105",
+        "C42"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "YXUT",
+       "field": "direction",
+       "key": [
+        "F105",
+        "C22"
+       ],
+       "code": "qualifies",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "F9CL",
+       "field": "direction",
+       "key": [
+        "F52",
+        "C26"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "3JRQ",
+       "field": "direction",
+       "key": [
+        "F41",
+        "C16"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "Y6QZ",
+       "field": "direction",
+       "key": [
+        "F61",
+        "C20"
+       ],
+       "code": "qualifies",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "ZRP4",
+       "field": "direction",
+       "key": [
+        "F74",
+        "C42"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "2DVN",
+       "field": "direction",
+       "key": [
+        "F107",
+        "C06"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "9K3G",
+       "field": "direction",
+       "key": [
+        "F77",
+        "C24"
+       ],
+       "code": "with",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "CVTE",
+       "field": "direction",
+       "key": [
+        "F97",
+        "C42"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "RR32",
+       "field": "direction",
+       "key": [
+        "F89",
+        "C12"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "27L7",
+       "field": "direction",
+       "key": [
+        "F95",
+        "C15"
+       ],
+       "code": "against",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "W3SW",
+       "field": "direction",
+       "key": [
+        "F108",
+        "C12"
+       ],
+       "code": "with",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "45XF",
+       "field": "direction",
+       "key": [
+        "F92",
+        "C42"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "GTPA",
+       "field": "direction",
+       "key": [
+        "F63",
+        "C23"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "VB92",
+       "field": "direction",
+       "key": [
+        "F105",
+        "C42"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "5NY7",
+       "field": "direction",
+       "key": [
+        "F94",
+        "C01"
+       ],
+       "code": "qualifies",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "C5JQ",
+       "field": "direction",
+       "key": [
+        "F66",
+        "C22"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "NM5C",
+       "field": "direction",
+       "key": [
+        "F71",
+        "C22"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "BLHA",
+       "field": "direction",
+       "key": [
+        "F108",
+        "C12"
+       ],
+       "code": "qualifies",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "NDPH",
+       "field": "direction",
+       "key": [
+        "F109",
+        "C29"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "A5WF",
+       "field": "direction",
+       "key": [
+        "F40",
+        "C12"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "4JGT",
+       "field": "direction",
+       "key": [
+        "F111",
+        "C40"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "EHTW",
+       "field": "direction",
+       "key": [
+        "F88",
+        "C03"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "XHA7",
+       "field": "direction",
+       "key": [
+        "F93",
+        "C57"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "9NLU",
+       "field": "direction",
+       "key": [
+        "F70",
+        "C01"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "8DAU",
+       "field": "direction",
+       "key": [
+        "F100",
+        "C42"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "HPAP",
+       "field": "direction",
+       "key": [
+        "F23",
+        "C09"
+       ],
+       "code": "qualifies",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "AA68",
+       "field": "direction",
+       "key": [
+        "F67",
+        "C42"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "WCHP",
+       "field": "direction",
+       "key": [
+        "F96",
+        "C42"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "J7KN",
+       "field": "direction",
+       "key": [
+        "F104",
+        "C06"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "R53Q",
+       "field": "direction",
+       "key": [
+        "F52",
+        "C26"
+       ],
+       "code": "against",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "L4RV",
+       "field": "direction",
+       "key": [
+        "F125",
+        "C20"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "QM67",
+       "field": "direction",
+       "key": [
+        "F93",
+        "C57"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "6SMT",
+       "field": "direction",
+       "key": [
+        "F97",
+        "C42"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "VM3L",
+       "field": "direction",
+       "key": [
+        "F107",
+        "C06"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "PG84",
+       "field": "direction",
+       "key": [
+        "F105",
+        "C25"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "3E58",
+       "field": "direction",
+       "key": [
+        "F88",
+        "C29"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "RJQS",
+       "field": "direction",
+       "key": [
+        "F43",
+        "C34"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "GAVU",
+       "field": "direction",
+       "key": [
+        "F125",
+        "C20"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "WMFF",
+       "field": "direction",
+       "key": [
+        "F80",
+        "C21"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "RMCP",
+       "field": "direction",
+       "key": [
+        "F109",
+        "C03"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "YMZ6",
+       "field": "direction",
+       "key": [
+        "F109",
+        "C28"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "RNH7",
+       "field": "direction",
+       "key": [
+        "F98",
+        "C21"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "6JRN",
+       "field": "direction",
+       "key": [
+        "F117",
+        "C21"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "Q4V4",
+       "field": "direction",
+       "key": [
+        "F21",
+        "C11"
+       ],
+       "code": "with",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "GMS5",
+       "field": "direction",
+       "key": [
+        "F86",
+        "C32"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "FDMT",
+       "field": "direction",
+       "key": [
+        "F89",
+        "C12"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "GXTF",
+       "field": "direction",
+       "key": [
+        "F117",
+        "C21"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "3T8Z",
+       "field": "direction",
+       "key": [
+        "F106",
+        "C29"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "WHVG",
+       "field": "direction",
+       "key": [
+        "F53",
+        "C23"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "VCXG",
+       "field": "direction",
+       "key": [
+        "F49",
+        "C19"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "UQSQ",
+       "field": "direction",
+       "key": [
+        "F117",
+        "C01"
+       ],
+       "code": "qualifies",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "JJ9Y",
+       "field": "direction",
+       "key": [
+        "F88",
+        "C29"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "JDVP",
+       "field": "direction",
+       "key": [
+        "F91",
+        "C42"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "WB23",
+       "field": "direction",
+       "key": [
+        "F61",
+        "C20"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "ZKQF",
+       "field": "direction",
+       "key": [
+        "F65",
+        "C20"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "MZR4",
+       "field": "direction",
+       "key": [
+        "F106",
+        "C23"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "RTWM",
+       "field": "direction",
+       "key": [
+        "F34",
+        "C18"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "3NK7",
+       "field": "direction",
+       "key": [
+        "F101",
+        "C01"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "SZ6K",
+       "field": "direction",
+       "key": [
+        "F69",
+        "C22"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "X6SE",
+       "field": "direction",
+       "key": [
+        "F84",
+        "C36"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "PD48",
+       "field": "direction",
+       "key": [
+        "F50",
+        "C32"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "PKJ3",
+       "field": "direction",
+       "key": [
+        "F84",
+        "C37"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "BVNH",
+       "field": "direction",
+       "key": [
+        "F68",
+        "C55"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "3TXM",
+       "field": "direction",
+       "key": [
+        "F111",
+        "C40"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "E4ZF",
+       "field": "direction",
+       "key": [
+        "F88",
+        "C02"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "GHUE",
+       "field": "direction",
+       "key": [
+        "F93",
+        "C20"
+       ],
+       "code": "against",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "WEST",
+       "field": "direction",
+       "key": [
+        "F42",
+        "C15"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "GPF6",
+       "field": "direction",
+       "key": [
+        "F40",
+        "C12"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "D3RN",
+       "field": "direction",
+       "key": [
+        "F93",
+        "C23"
+       ],
+       "code": "against",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "RDFE",
+       "field": "direction",
+       "key": [
+        "F76",
+        "C42"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "4R5G",
+       "field": "direction",
+       "key": [
+        "F33",
+        "C18"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "3HNH",
+       "field": "direction",
+       "key": [
+        "F72",
+        "C22"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "4E7J",
+       "field": "direction",
+       "key": [
+        "F117",
+        "C01"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "ASRN",
+       "field": "direction",
+       "key": [
+        "F71",
+        "C22"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "SQJ5",
+       "field": "direction",
+       "key": [
+        "F101",
+        "C01"
+       ],
+       "code": "qualifies",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "4VCX",
+       "field": "direction",
+       "key": [
+        "F75",
+        "C42"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "MRG8",
+       "field": "direction",
+       "key": [
+        "F40",
+        "C13"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "AZUA",
+       "field": "direction",
+       "key": [
+        "F70",
+        "C55"
+       ],
+       "code": "with",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "3HVV",
+       "field": "direction",
+       "key": [
+        "F106",
+        "C42"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "V3TJ",
+       "field": "direction",
+       "key": [
+        "F99",
+        "C36"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "VH7U",
+       "field": "direction",
+       "key": [
+        "F109",
+        "C03"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "WKHN",
+       "field": "direction",
+       "key": [
+        "F91",
+        "C42"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "NFNB",
+       "field": "direction",
+       "key": [
+        "F51",
+        "C32"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "9GD8",
+       "field": "direction",
+       "key": [
+        "F39",
+        "C14"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "S66J",
+       "field": "direction",
+       "key": [
+        "F84",
+        "C22"
+       ],
+       "code": "with",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "YX3T",
+       "field": "direction",
+       "key": [
+        "F85",
+        "C01"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "AUV9",
+       "field": "direction",
+       "key": [
+        "F76",
+        "C42"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "WZ5Z",
+       "field": "direction",
+       "key": [
+        "F80",
+        "C21"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "TVCL",
+       "field": "direction",
+       "key": [
+        "F104",
+        "C06"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "2M99",
+       "field": "direction",
+       "key": [
+        "F50",
+        "C32"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "EBKF",
+       "field": "direction",
+       "key": [
+        "F106",
+        "C23"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "GF4E",
+       "field": "direction",
+       "key": [
+        "F75",
+        "C42"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "5UUW",
+       "field": "direction",
+       "key": [
+        "F92",
+        "C42"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "TW2M",
+       "field": "direction",
+       "key": [
+        "F48",
+        "C01"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "9JQL",
+       "field": "direction",
+       "key": [
+        "F88",
+        "C02"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "DHTY",
+       "field": "direction",
+       "key": [
+        "F63",
+        "C23"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "UXK2",
+       "field": "direction",
+       "key": [
+        "F40",
+        "C13"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "BDPX",
+       "field": "direction",
+       "key": [
+        "F53",
+        "C23"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "9RPS",
+       "field": "direction",
+       "key": [
+        "F109",
+        "C02"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "YP3Z",
+       "field": "direction",
+       "key": [
+        "F39",
+        "C54"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "VUV6",
+       "field": "direction",
+       "key": [
+        "F72",
+        "C22"
+       ],
+       "code": "against",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "PCC2",
+       "field": "direction",
+       "key": [
+        "F109",
+        "C28"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "FFRX",
+       "field": "direction",
+       "key": [
+        "F96",
+        "C42"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "FBR8",
+       "field": "direction",
+       "key": [
+        "F109",
+        "C27"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "A2CD",
+       "field": "direction",
+       "key": [
+        "F72",
+        "C60"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "C2AZ",
+       "field": "direction",
+       "key": [
+        "F88",
+        "C27"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "5FQM",
+       "field": "direction",
+       "key": [
+        "F106",
+        "C42"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "HEHJ",
+       "field": "direction",
+       "key": [
+        "F85",
+        "C01"
+       ],
+       "code": "qualifies",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "B66L",
+       "field": "direction",
+       "key": [
+        "F94",
+        "C01"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "EDF2",
+       "field": "direction",
+       "key": [
+        "F23",
+        "C09"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "YDJZ",
+       "field": "direction",
+       "key": [
+        "F88",
+        "C28"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "9AQB",
+       "field": "direction",
+       "key": [
+        "F90",
+        "C42"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "DEM8",
+       "field": "direction",
+       "key": [
+        "F88",
+        "C27"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "8WTD",
+       "field": "direction",
+       "key": [
+        "F105",
+        "C25"
+       ],
+       "code": "against",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "DQ4E",
+       "field": "direction",
+       "key": [
+        "F105",
+        "C29"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "J24W",
+       "field": "direction",
+       "key": [
+        "F109",
+        "C02"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "LHGV",
+       "field": "direction",
+       "key": [
+        "F42",
+        "C15"
+       ],
+       "code": "qualifies",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "9LDX",
+       "field": "direction",
+       "key": [
+        "F109",
+        "C27"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "XFRA",
+       "field": "direction",
+       "key": [
+        "F61",
+        "C43"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "N2KD",
+       "field": "direction",
+       "key": [
+        "F43",
+        "C34"
+       ],
+       "code": "qualifies",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "C8ZM",
+       "field": "direction",
+       "key": [
+        "F88",
+        "C03"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "MY9Q",
+       "field": "direction",
+       "key": [
+        "F39",
+        "C54"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "W9HW",
+       "field": "direction",
+       "key": [
+        "F33",
+        "C18"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "ZTDA",
+       "field": "direction",
+       "key": [
+        "F34",
+        "C18"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "6KXA",
+       "field": "direction",
+       "key": [
+        "F51",
+        "C32"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "XEKX",
+       "field": "direction",
+       "key": [
+        "F98",
+        "C42"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "388T",
+       "field": "direction",
+       "key": [
+        "F95",
+        "C15"
+       ],
+       "code": "with",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "6K38",
+       "field": "direction",
+       "key": [
+        "F105",
+        "C29"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "J6TY",
+       "field": "direction",
+       "key": [
+        "F98",
+        "C21"
+       ],
+       "code": "against",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "A9XF",
+       "field": "direction",
+       "key": [
+        "F41",
+        "C16"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "QC3Q",
+       "field": "direction",
+       "key": [
+        "F115",
+        "C14"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "KWMK",
+       "field": "direction",
+       "key": [
+        "F105",
+        "C22"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "4TQT",
+       "field": "direction",
+       "key": [
+        "F68",
+        "C55"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "KWMP",
+       "field": "direction",
+       "key": [
+        "F88",
+        "C28"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "EMEP",
+       "field": "direction",
+       "key": [
+        "F67",
+        "C42"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "RVJJ",
+       "field": "direction",
+       "key": [
+        "F61",
+        "C43"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "AQTK",
+       "field": "direction",
+       "key": [
+        "F100",
+        "C42"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "L953",
+       "field": "direction",
+       "key": [
+        "F35",
+        "C14"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "B3EE",
+       "field": "direction",
+       "key": [
+        "F90",
+        "C42"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "BFAJ",
+       "field": "direction",
+       "key": [
+        "F41",
+        "C15"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "EMLM",
+       "field": "direction",
+       "key": [
+        "F84",
+        "C36"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "A5F4",
+       "field": "direction",
+       "key": [
+        "F39",
+        "C14"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "VYLT",
+       "field": "direction",
+       "key": [
+        "F28",
+        "C54"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "3VV3",
+       "field": "direction",
+       "key": [
+        "F99",
+        "C36"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      }
+     ]
+    }
+   }
+  },
+  "bechky_2020": {
+   "sources": {
+    "bechky_2020_v1.json": "6f83d744cd1dd68326cce29568a4aff461580d852d1222c4f1d096cb6922ced0",
+    "bechky_2020_v1_voice_gloss.json": "e4b6d8c974a6661440e9366f24f85e8ebfc51d0defdceea99281f2eb567bea8a",
+    "packs/bechky_2020/key/bechky_2020_pack_key.json": "ba615a627d7d96dbd36c80af09b898725fc0356f4617f2eaedcae8111212534e",
+    "bechky_2020_readings.json": "f4309a06458406184494d20ba5e411b3586afb8b6ace81f96c38238fb30e5997",
+    "against_check_results.json": "cdb54145104e93083454ccb157329c1625da3ebcc4d2ec5b4398aae2a74f6ef2",
+    "returned_bechky_2020_STAGE_A_coder2.xlsx": "59b8e53858272fa41bedc0be01d952927c6646fde9d456d033d0e2425d34d122",
+    "returned_bechky_2020_STAGE_A2_coder2.xlsx": "8b4e02ae2ba5bafd8a14f7af422fa5fd91955d7c13c91e89e381f24c07673e90",
+    "returned_bechky_2020_STAGE_V_coder2.xlsx": "2b72532b79e96fec088a28825a362295d9a8294cde3b0d172837641d7721bc33",
+    "returned_bechky_2020_STAGE_B_coder2.xlsx": "6c226f8fbefae310afeeafb7f7f036ffe3210ca8c6670fdddf928b682e13f742"
+   },
+   "parts": {
+    "1": {
+     "file": "JUDGE_TABLE_bechky_part1.md",
+     "sha256": "c60dce6ef36f7f24eb97c5e2dffdcad1bd579a24e258e7527569141601aa0c13",
+     "rows": 28,
+     "differing_rows": 11,
+     "statements": [
+      {
+       "id": "UZSB",
+       "field": "core",
+       "key": [
+        "C21"
+       ],
+       "code": "false",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "7DDP",
+       "field": "outcome",
+       "key": [
+        "C04"
+       ],
+       "code": "none",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "FPF2",
+       "field": "core",
+       "key": [
+        "C02"
+       ],
+       "code": "false",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "NBH4",
+       "field": "outcome",
+       "key": [
+        "C10"
+       ],
+       "code": "differentiation of occupational cultures",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "CK99",
+       "field": "outcome",
+       "key": [
+        "C18"
+       ],
+       "code": "local narcotics practice change",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "MTMT",
+       "field": "core",
+       "key": [
+        "C20"
+       ],
+       "code": "true",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "DWC6",
+       "field": "core",
+       "key": [
+        "C21"
+       ],
+       "code": "true",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "VPTH",
+       "field": "outcome",
+       "key": [
+        "C10"
+       ],
+       "code": "none",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "GWWZ",
+       "field": "core",
+       "key": [
+        "C15"
+       ],
+       "code": "true",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "Q3C3",
+       "field": "outcome",
+       "key": [
+        "C20"
+       ],
+       "code": "none",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "UJXM",
+       "field": "outcome",
+       "key": [
+        "C03"
+       ],
+       "code": "strength of the impetus for local practice change",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "9M52",
+       "field": "outcome",
+       "key": [
+        "C16"
+       ],
+       "code": "local firearms practice change",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "JXGV",
+       "field": "core",
+       "key": [
+        "C17"
+       ],
+       "code": "true",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "N5ZM",
+       "field": "outcome",
+       "key": [
+        "C18"
+       ],
+       "code": "narcotics analysts' retention of crystal testing",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "234L",
+       "field": "core",
+       "key": [
+        "C20"
+       ],
+       "code": "false",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "ZEDF",
+       "field": "core",
+       "key": [
+        "C18"
+       ],
+       "code": "false",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "DZKC",
+       "field": "core",
+       "key": [
+        "C13"
+       ],
+       "code": "false",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "C4XS",
+       "field": "core",
+       "key": [
+        "C16"
+       ],
+       "code": "true",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "KFJY",
+       "field": "core",
+       "key": [
+        "C15"
+       ],
+       "code": "false",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "QBZ8",
+       "field": "core",
+       "key": [
+        "C13"
+       ],
+       "code": "true",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "CYZX",
+       "field": "core",
+       "key": [
+        "C02"
+       ],
+       "code": "true",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "YX9D",
+       "field": "core",
+       "key": [
+        "C16"
+       ],
+       "code": "false",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "C6CW",
+       "field": "outcome",
+       "key": [
+        "C04"
+       ],
+       "code": "feasibility of local practice adaptation",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "2HSG",
+       "field": "outcome",
+       "key": [
+        "C03"
+       ],
+       "code": "local work-practice change",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "W76M",
+       "field": "outcome",
+       "key": [
+        "C16"
+       ],
+       "code": "firearms examiners' resistance to changing local practice",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "4B6W",
+       "field": "core",
+       "key": [
+        "C18"
+       ],
+       "code": "true",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "GPUF",
+       "field": "core",
+       "key": [
+        "C17"
+       ],
+       "code": "false",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "2ESC",
+       "field": "core",
+       "key": [
+        "C11"
+       ],
+       "code": "false",
+       "who": "both",
+       "differ": false
+      }
+     ]
+    },
+    "2": {
+     "file": "JUDGE_TABLE_bechky_part2.md",
+     "sha256": "36ed9f3dad97313473eef911b2f6807171c5ac85d823c3f97464a93423218b4c",
+     "rows": 63,
+     "differing_rows": 24,
+     "statements": [
+      {
+       "id": "BCBE",
+       "field": "direction",
+       "key": [
+        "F98",
+        "C01"
+       ],
+       "code": "with",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "GDKN",
+       "field": "direction",
+       "key": [
+        "F155",
+        "C03"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "QW8G",
+       "field": "direction",
+       "key": [
+        "F89",
+        "C02"
+       ],
+       "code": "qualifies",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "YJQS",
+       "field": "direction",
+       "key": [
+        "F136",
+        "C02"
+       ],
+       "code": "qualifies",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "45TK",
+       "field": "direction",
+       "key": [
+        "F87",
+        "C04"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "ZR4E",
+       "field": "direction",
+       "key": [
+        "F155",
+        "C01"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "DS9S",
+       "field": "direction",
+       "key": [
+        "F135",
+        "C02"
+       ],
+       "code": "against",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "K3SR",
+       "field": "direction",
+       "key": [
+        "F166",
+        "C04"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "3WNH",
+       "field": "direction",
+       "key": [
+        "F84",
+        "C03"
+       ],
+       "code": "with",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "TK64",
+       "field": "direction",
+       "key": [
+        "F37",
+        "C02"
+       ],
+       "code": "with",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "WUXX",
+       "field": "direction",
+       "key": [
+        "F77",
+        "C16"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "V3PL",
+       "field": "direction",
+       "key": [
+        "F85",
+        "C04"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "3XK6",
+       "field": "direction",
+       "key": [
+        "F129",
+        "C01"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "ZWHG",
+       "field": "direction",
+       "key": [
+        "F123",
+        "C04"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "AGPG",
+       "field": "direction",
+       "key": [
+        "F137",
+        "C02"
+       ],
+       "code": "against",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "TWEG",
+       "field": "direction",
+       "key": [
+        "F107",
+        "C20"
+       ],
+       "code": "qualifies",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "9TCM",
+       "field": "direction",
+       "key": [
+        "F44",
+        "C02"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "6A8Q",
+       "field": "direction",
+       "key": [
+        "F123",
+        "C04"
+       ],
+       "code": "qualifies",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "62KC",
+       "field": "direction",
+       "key": [
+        "F91",
+        "C17"
+       ],
+       "code": "qualifies",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "MTMH",
+       "field": "direction",
+       "key": [
+        "F87",
+        "C01"
+       ],
+       "code": "qualifies",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "5PNZ",
+       "field": "direction",
+       "key": [
+        "F107",
+        "C20"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "B59K",
+       "field": "direction",
+       "key": [
+        "F86",
+        "C04"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "ESH5",
+       "field": "direction",
+       "key": [
+        "F134",
+        "C02"
+       ],
+       "code": "qualifies",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "3JED",
+       "field": "direction",
+       "key": [
+        "F136",
+        "C02"
+       ],
+       "code": "with",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "T7EW",
+       "field": "direction",
+       "key": [
+        "F48",
+        "C14"
+       ],
+       "code": "illustrates",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "VQRR",
+       "field": "direction",
+       "key": [
+        "F155",
+        "C03"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "9WB5",
+       "field": "direction",
+       "key": [
+        "F86",
+        "C04"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "8WHE",
+       "field": "direction",
+       "key": [
+        "F89",
+        "C02"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "MEBY",
+       "field": "direction",
+       "key": [
+        "F141",
+        "C02"
+       ],
+       "code": "qualifies",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "T3A3",
+       "field": "direction",
+       "key": [
+        "F156",
+        "C19"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "Q24A",
+       "field": "direction",
+       "key": [
+        "F136",
+        "C03"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "XUVM",
+       "field": "direction",
+       "key": [
+        "F155",
+        "C01"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "UQ8T",
+       "field": "direction",
+       "key": [
+        "F164",
+        "C17"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "XJWW",
+       "field": "direction",
+       "key": [
+        "F141",
+        "C02"
+       ],
+       "code": "against",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "6FEA",
+       "field": "direction",
+       "key": [
+        "F77",
+        "C05"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "32MF",
+       "field": "direction",
+       "key": [
+        "F138",
+        "C02"
+       ],
+       "code": "against",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "BYZ9",
+       "field": "direction",
+       "key": [
+        "F135",
+        "C02"
+       ],
+       "code": "qualifies",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "JZP6",
+       "field": "direction",
+       "key": [
+        "F87",
+        "C04"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "RW8B",
+       "field": "direction",
+       "key": [
+        "F139",
+        "C02"
+       ],
+       "code": "with",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "B5AP",
+       "field": "direction",
+       "key": [
+        "F87",
+        "C01"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "MGDJ",
+       "field": "direction",
+       "key": [
+        "F154",
+        "C13"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "9KES",
+       "field": "direction",
+       "key": [
+        "F164",
+        "C17"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "DR4X",
+       "field": "direction",
+       "key": [
+        "F129",
+        "C01"
+       ],
+       "code": "qualifies",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "LRJL",
+       "field": "direction",
+       "key": [
+        "F156",
+        "C19"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "9FZS",
+       "field": "direction",
+       "key": [
+        "F134",
+        "C02"
+       ],
+       "code": "against",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "DQ43",
+       "field": "direction",
+       "key": [
+        "F154",
+        "C13"
+       ],
+       "code": "qualifies",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "G34J",
+       "field": "direction",
+       "key": [
+        "F164",
+        "C03"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "3DJZ",
+       "field": "direction",
+       "key": [
+        "F137",
+        "C02"
+       ],
+       "code": "qualifies",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "Q69Y",
+       "field": "direction",
+       "key": [
+        "F91",
+        "C17"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "8STU",
+       "field": "direction",
+       "key": [
+        "F77",
+        "C05"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "AC3S",
+       "field": "direction",
+       "key": [
+        "F35",
+        "C03"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "5AG5",
+       "field": "direction",
+       "key": [
+        "F166",
+        "C10"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "4PQT",
+       "field": "direction",
+       "key": [
+        "F84",
+        "C03"
+       ],
+       "code": "qualifies",
+       "who": "neither",
+       "differ": false
+      },
+      {
+       "id": "AMBY",
+       "field": "direction",
+       "key": [
+        "F38",
+        "C03"
+       ],
+       "code": "illustrates",
+       "who": "both",
+       "differ": false
+      },
+      {
+       "id": "7P4T",
+       "field": "direction",
+       "key": [
+        "F164",
+        "C03"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "6SG7",
+       "field": "direction",
+       "key": [
+        "F77",
+        "C16"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "BY4M",
+       "field": "direction",
+       "key": [
+        "F138",
+        "C02"
+       ],
+       "code": "qualifies",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "WZYL",
+       "field": "direction",
+       "key": [
+        "F85",
+        "C04"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "FBN8",
+       "field": "direction",
+       "key": [
+        "F166",
+        "C04"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "3NRZ",
+       "field": "direction",
+       "key": [
+        "F48",
+        "C14"
+       ],
+       "code": "qualifies",
+       "who": "coder 1",
+       "differ": true
+      },
+      {
+       "id": "BVNN",
+       "field": "direction",
+       "key": [
+        "F98",
+        "C01"
+       ],
+       "code": "qualifies",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "DCE7",
+       "field": "direction",
+       "key": [
+        "F166",
+        "C10"
+       ],
+       "code": "with",
+       "who": "coder 2",
+       "differ": true
+      },
+      {
+       "id": "ZZQ4",
+       "field": "direction",
+       "key": [
+        "F44",
+        "C02"
+       ],
+       "code": "illustrates",
+       "who": "coder 1",
+       "differ": true
+      }
+     ]
+    }
+   }
+  }
+ }
+}

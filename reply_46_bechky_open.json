@@ -1,0 +1,253 @@
+{
+  "paper": "Beth A. Bechky, 2020 (Administrative Science Quarterly, [6 words of Bechky (2020), p. 606] copyright line prints 2019)",
+  "readings": [
+    {
+      "reading_id": "R1",
+      "place": {
+        "page": "p. 627",
+        "reading_one": "A local DUI challenge was about to bring a comparison with error measurement in DNA profiling into the toxicologists' own courtroom, and that comparison moved them to change; the plan they already held only made the change easy.",
+        "reading_two": "The toxicologists delivered early a step their accreditation path had already scheduled; the challenge set the date but supplied neither the content nor the cause."
+      },
+      "wager": "Toxicology's change was an accreditation step brought forward, not a response to DNA profiling. Its content, an uncertainty figure built largely from quality-control data the unit already held, was set by a plan the unit had before it heard of the challenge, part of ISO work begun before the report appeared. A DUI defense tactic already succeeding in other states decided the timing. DNA enters only through the paper's own statements about what the attorney would argue. If so, the one case of embraced change shows codified lab standards and DUI litigation at work, and says little about whether a neighbor's technology moves anyone.",
+      "evidence": [
+        {
+          "page": "p. 625",
+          "job": "The report hardly mentions toxicology and does not fault it, and the line of attack (lab reports that leave out an uncertainty estimate) was already winning DUI cases elsewhere and being taught to other attorneys. The challenge has a history of its own in DUI litigation, and the tactic as described makes no reference to DNA."
+        },
+        {
+          "page": "p. 627",
+          "job": "Before the report came out the lab was aligning itself with ISO 17025 (printed as 17205 in a quotation lower on the page) on its accreditor's recommendation, and the unit held a three-year plan for estimating uncertainty when it first heard of the challenge. The content of the change is fixed ahead of the trigger."
+        },
+        {
+          "page": "p. 627",
+          "job": "At an outreach session an analyst denies that labs are scrambling because of the report, says the unit was 'already doing it', and cites general measurement documents. The unit's own public account plays down the report and makes no comparison with DNA."
+        },
+        {
+          "page": "p. 628",
+          "job": "The instrument has been the same for five years and the method is unchanged; the uncertainty figure is assembled from quality-control data already on file plus a step-by-step assessment of the procedure, and what is new is a range and a confidence level on the report. The change has the size and shape of a planned compliance step."
+        },
+        {
+          "page": "p. 616",
+          "job": "The lab directors' association (the lab's accreditor, p. 627) urged managers to ready their staff for courtroom questions about the report. The accreditor, not the example of the DNA unit, is the channel into the lab."
+        },
+        {
+          "page": "p. 635",
+          "job": "The discussion grants that accreditation-driven changes already under way made the response easier. What the paper treats as an enabling condition is, in this reading, the cause."
+        }
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "What the challenge actually argued and how the toxicologists described it: a motion, expert testimony or analyst's remark tying uncertainty of measurement to DNA profiling, set against the dated three-year plan showing when the same reporting fell due anyway. The paper states that the attorney would draw the DNA parallel (p. 627) but prints no words from the attorney, the expert or any toxicologist that mention DNA, does not report the hearing itself, and gives no due date for the plan.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {
+          "page": "p. 627",
+          "why": "The paper says the attorney would compare the unit's reporting with error measurement in DNA profiling; if he did, DNA was the yardstick in the room whatever the plan's origin."
+        },
+        {
+          "page": "p. 625",
+          "why": "The paper traces the attorneys' tactic to the report's attention to measurement error, and that report sets DNA apart from the other disciplines (p. 607), so the challenge may be the DNA comparison at one remove."
+        },
+        {
+          "page": "p. 627",
+          "why": "The plan allowed three years, and the unit acted at once only when a specific case loomed; the same analyst says uncertainty work is 'not just' spurred by the report, conceding that it was in part."
+        },
+        {
+          "page": "p. 628",
+          "why": "The toxicologists present the reporting as a new practice and are visibly proud of it (Table 2, p. 633, has them 'leading the state'), which is more than early compliance alone would explain."
+        }
+      ],
+      "who_could_complete_it": "The court file of the DUI challenge (motion, expert testimony, transcript) read against the lab's dated accreditation plan; or a quality manager or accreditation assessor who saw both timelines."
+    },
+    {
+      "reading_id": "R2",
+      "place": {
+        "page": "pp. 621–622",
+        "reading_one": "The image packets and countersigned pages are the firearms unit's settled technique, the baseline from which it then declined to change.",
+        "reading_two": "The examiners are describing a change they had already made, giving up bare recognition for a reviewable record once recognition stopped being accepted in reports and testimony."
+      },
+      "wager": "The firearms unit had already met the demand in the form comparison microscopy can carry. It replaced claims of personal recognition with an image-by-image record, countersigned by a second examiner and built to be reviewed by outsiders and to hold up on the stand; that is the reviewable-record part of the DNA model. What it refuses is the statistical part alone. Read this way, 'never been challenged' is what earlier adaptation looks like from inside, and the units differ in which piece of the DNA model each could take up, and when, more than in embracing or resisting it.",
+      "evidence": [
+        {
+          "page": "pp. 618–619",
+          "job": "Forensic biologists built their ways of presenting evidence as DNA was challenged in court; the legal parties can inspect the raw data, graphs and tables; yet the analysts regard the work behind them as messy judgment settled among colleagues. Seen from inside, the DNA model is judgment made reviewable for court, which is the part a firearms unit could take."
+        },
+        {
+          "page": "p. 621",
+          "job": "The image record exists to back judgments on the stand; packets hold images of every compared set, matching or not; a senior examiner says outsiders have reviewed his work [6 words of Bechky (2020), p. 621]'. The absence of local challenge can then be credited to the record."
+        },
+        {
+          "page": "p. 622",
+          "job": "Examiners say appeals to personal recognition are no longer accepted in reports or testimony and that images are now required; a second examiner views each comparison and signs each page. This is the change itself, with the examiners' stated reason."
+        },
+        {
+          "page": "p. 623",
+          "job": "All three qualified examiners are trained in the counting method and one keeps it for borderline calls. The numerical route is held in reserve."
+        },
+        {
+          "page": "pp. 623–624",
+          "job": "An examiner at the statewide meeting, drawing on questioning by defense attorneys, says critics build on examiners' own testimony and that it falls to examiners to be more convincing. Members of the discipline treat courtroom demand as a reason to improve the record, the motive the unit gives for its images."
+        },
+        {
+          "page": "p. 627",
+          "job": "Toxicologists met the demand narrowly, as one standard on measurement error. This is the paper's own precedent for a unit taking a single part of the DNA model."
+        },
+        {
+          "page": "p. 632",
+          "job": "Narcotics analysts weigh microscope cameras and a second viewer for crystal tests, whose exposure (p. 631) is that they leave nothing to review later. Reviewability is the DNA-like quality at stake in this lab; firearms already has it."
+        }
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "A dated account of the shift: when the unit moved from stated recognition to image packets with page-by-page countersignature, what prompted it (courtroom questioning, accreditation rules or DNA's example), and who the outsiders were that reviewed the senior examiner's work. The paper prints that the shift happened and that the old way stopped being acceptable (pp. 621–622), and says its interviews covered changes in analytic practice (p. 614), but gives no date, cause or reviewer.",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {
+          "page": "p. 624",
+          "why": "The paper says the attacks did not lead the unit's examiners to alter how they worked, and Table 2 (p. 633) records rejection; if the imaging shift long predates the scrutiny, it is baseline and no response at all."
+        },
+        {
+          "page": "p. 623",
+          "why": "Examiners call the discipline subjective, speak dismissively of counting, and scoff at peers who think marked-up counts make them more objective; they offer images as support for a judgment, with no change in how an identification is reached."
+        },
+        {
+          "page": "p. 624",
+          "why": "Asked what being like DNA would mean, the examiners answer statistics and numbers; by their own account the demand is one they have not met and cannot meet."
+        },
+        {
+          "page": "p. 631",
+          "why": "Careful documentation is described as shared by every unit, and technical review is lab-wide (p. 622), so image packets may be house routine that owes nothing to the DNA comparison."
+        }
+      ],
+      "who_could_complete_it": "A long-serving examiner or the lab's quality records: dated procedure manuals and old case files showing when images and countersignatures began, with local court transcripts showing what examiners were asked."
+    },
+    {
+      "reading_id": "R3",
+      "place": {
+        "page": "p. 632",
+        "reading_one": "An analyst's account of a workshop illustrates a worry inside a professional debate, in a unit that met no court challenge and held to crystal tests chiefly for the autonomy and variety they afford.",
+        "reading_two": "The same account reports a court hearing against the unit's main method and answers it with arithmetic: two instruments, long runs and a caseload that cannot wait."
+      },
+      "wager": "The narcotics unit kept crystal tests because, on a legal clock and with two instruments, it could not clear its cases any other way; that is the reason an analyst gave when describing a hearing that contested the method. On this reading the unit was neither sheltered inside a professional debate nor chiefly defending a craft. It was holding a position set by statute and equipment while pricing the cheapest way to leave a reviewable record. Its veteran analyst expected the move to instruments, and given the capacity most of the unit would make it.",
+      "evidence": [
+        {
+          "page": "p. 629",
+          "job": "The law requires quick turnaround because charges depend on which drug and how much; the commonest drug is confirmed by crystals in 10–15 minutes, and GC/MS is already used for samples crystals cannot settle. This sets the clock and shows the instrument in use, without recorded objection, where it is needed."
+        },
+        {
+          "page": "p. 631",
+          "job": "A veteran analyst names the method's weakness (nothing others can check later), expects the unit will probably have to move to GC/MS, and objects that it takes longer. Compliance is anticipated, with time as the stated cost."
+        },
+        {
+          "page": "p. 632",
+          "job": "Describing a workshop on a Daubert hearing against crystal testing, an analyst says the county could not keep up without crystals, having two instruments and long runs. Capacity is the reason given, in a court context."
+        },
+        {
+          "page": "p. 632",
+          "job": "A second viewer would double analysis time, and microscope cameras, though costly, would be far cheaper than more instruments. Analysts are weighing fixes by time and money and already considering change."
+        },
+        {
+          "page": "p. 631",
+          "job": "Analysts time themselves and press for fixes to a new records system that slowed their cases. Speed is a standing concern, one the paper lists among the unit's values (p. 630), though Table 2 (p. 633) names only autonomy and variety as what the comparison offends."
+        },
+        {
+          "page": "p. 633",
+          "job": "Table 2 records no court pathway for narcotics, and p. 635 says the unit met no court challenges of any kind; challenges to firearms evidence, likewise in other jurisdictions and relayed at a professional meeting (p. 621), are coded yes. This is the coding the place unsettles."
+        }
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "What the unit did once capacity was priced or supplied: a decision on the cameras, a request for instruments or staff, or the analysts' stance when instrument runs no longer threatened the deadline, together with how analysts in an instrument-first drug unit regard that work. The paper prints the cameras only as a possibility (p. 632), gives no outcome for the hearing or the working-group debate, and reports nothing from the day spent observing an Eastern lab's controlled substances unit (p. 614).",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {
+          "page": "p. 632",
+          "why": "The paper's judgment, after months in the unit, is that loss of autonomy, variety and control troubled analysts most; one analyst's dread of repetition and another's 'any schmo' remark concern the work itself and would survive any budget."
+        },
+        {
+          "page": "p. 630",
+          "why": "Several analysts had left toxicology to get away from its button-pressing routine, a preference older than any capacity problem."
+        },
+        {
+          "page": "p. 631",
+          "why": "The veteran analyst also defends the crystal test on its merits, as old and definitive, so attachment to the method is not only about speed."
+        },
+        {
+          "page": "p. 635",
+          "why": "The paper says the unit met no court challenges and that courts accepted its analysis (p. 628); the hearing's place and result are not given, so it may have been distant and unsuccessful, leaving the matter inside the profession as the paper has it."
+        }
+      ],
+      "who_could_complete_it": "The unit's caseload, turnaround and run-time figures with equipment quotes; an analyst from a drug unit that runs instruments first under similar deadlines; the record of the admissibility hearing on crystal tests."
+    },
+    {
+      "reading_id": "R4",
+      "place": {
+        "page": "pp. 619–620",
+        "reading_one": "Whatever the director says, the units are in practice separate neighboring occupations whose cultures come from their distinct work and training.",
+        "reading_two": "The units are postings within one occupation and one employer, filled by people with the same degrees whom management moves, and who move themselves, between benches."
+      },
+      "wager": "What the paper calls occupational values are, at this site, partly the residue of sorting inside one lab. Analysts with the same degrees are placed where there is an opening, can be reassigned by the director, and can lobby to be retrained; several of those now in narcotics had left toxicology because they could not stand its routine. Their recoil from instrument-first drug testing, and the toxicologists' ease with error figures, would then describe who ended up at which bench as much as what each kind of work teaches. A forced change of method would be met with transfer requests as well as resistance, a response the paper's embrace-or-resist pair leaves out.",
+      "evidence": [
+        {
+          "page": "p. 613",
+          "job": "Analysts arrive with the same kinds of degree and are hired into a particular unit after tests and a panel interview. Placement is the employer's decision about similar recruits."
+        },
+        {
+          "page": "pp. 619–620",
+          "job": "All are [6 words of Bechky (2020), p. 619] are treated as interchangeable; the director plans to swap two analysts between narcotics and firearms and tells staff that each of them ought to be deployable anywhere in the lab. The units appear as postings."
+        },
+        {
+          "page": "p. 630",
+          "job": "Several narcotics analysts had worked in toxicology and wanted out; one took the toxicology job because it was the opening, found it slow to leave, and persuaded management to train them elsewhere; the unit calls toxicology's work mind-numbing. Entry by vacancy and exit by preference is sorting, and the contrast the paper reads as occupational values is voiced by people who left."
+        },
+        {
+          "page": "p. 626",
+          "job": "A toxicologist remarks that an occasional 'normal person' in the unit annoys the rest. Fit between person and unit varies and is policed, as selection would predict."
+        },
+        {
+          "page": "p. 632",
+          "job": "An analyst frames her liking for crystal tests as personal: other people would prefer the instrument and she is not one of them. Preference is attached to persons."
+        },
+        {
+          "page": "p. 614",
+          "job": "Interviews covered career histories. The material that would test the sorting account was gathered."
+        },
+        {
+          "page": "p. 636",
+          "job": "The paper leaves open how neighboring occupations should be bounded. This is its own invitation to ask whether these are occupations or postings."
+        }
+      ],
+      "what_it_would_take_to_cohere": {
+        "observation": "Unit-by-unit career histories: who entered each unit by vacancy, assignment or request, who moved, in which direction and why, and whether anyone chose to move toward instrument work. The paper says its interviews covered career histories (p. 614) but prints only one analyst's account and a general remark about several others (p. 630).",
+        "printed": false,
+        "pages": []
+      },
+      "strains_against": [
+        {
+          "page": "p. 620",
+          "why": "The paper holds that in practice these are different occupations and points to long unit-specific training (nine months in forensic biology, two years in firearms); training of that length forms people as well as selecting them, and makes swaps costly."
+        },
+        {
+          "page": "p. 623",
+          "why": "Firearms examiners locate their criteria for identification in training and accumulated experience, which is values formed by the work."
+        },
+        {
+          "page": "p. 637",
+          "why": "Toxicologists' intolerance of error is presented as learned from seeing what follows when it lapses, something the work teaches."
+        },
+        {
+          "page": "p. 628",
+          "why": "The split between crystal tests in the West and instruments in the East is described as nationwide; who was posted where in one lab cannot explain a regional pattern in method."
+        },
+        {
+          "page": "p. 614",
+          "why": "The units identified as separate occupations with their own associations and commitments."
+        }
+      ],
+      "who_could_complete_it": "The lab's posting and transfer records read alongside career-history interviews with analysts who changed units; or a supervisor or manager who made those assignments."
+    }
+  ]
+}

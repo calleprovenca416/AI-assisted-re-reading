@@ -1,0 +1,238 @@
+{
+ "rule": {
+  "run": 6,
+  "renderings": "A plain, heads off, hyphens joined; B the same, hyphens as breaks; C layout, hyphens joined"
+ },
+ "pdf_sha256": "fecf2b463fb8a72b686c71887ab8e38fe351a1af15a77d1bc32122bc4a4251bf",
+ "pdf_pages": 39,
+ "page": "CLAIM_NETWORK_bechky.html",
+ "page_sha256": "84582d04d5d8b69f16c916249f45a2cec9f2b40cd1eb4d0b5c0e37c1cceff450",
+ "script_sha256": "26bee3879717444b062d85631334a1367f14fb45a6bcca5f3e9438504265ee51",
+ "blocks_checked": 1877,
+ "runs": [
+  {
+   "where": "page",
+   "part": "p",
+   "words": "evaluative spillovers from technological change the effects of dna envy on occupational practices in forensic science administrative science quarterly",
+   "length": 19,
+   "paper_pages": [
+    606
+   ],
+   "class": "the paper's citation"
+  },
+  {
+   "where": "reading-R23",
+   "part": "li",
+   "words": "[7 words of Bechky (2020), p. 627]",
+   "length": 7,
+   "paper_pages": [
+    627
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R12",
+   "part": "p",
+   "words": "[6 words of Bechky (2020), p. 620]",
+   "length": 6,
+   "paper_pages": [
+    620
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R12",
+   "part": "p",
+   "words": "[6 words of Bechky (2020), p. 606]",
+   "length": 6,
+   "paper_pages": [
+    606
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R12",
+   "part": "p",
+   "words": "[8 words of Bechky (2020), p. 606]",
+   "length": 8,
+   "paper_pages": [
+    606
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R12",
+   "part": "p",
+   "words": "[6 words of Bechky (2020), p. 615]",
+   "length": 6,
+   "paper_pages": [
+    615
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R26",
+   "part": "li",
+   "words": "[6 words of Bechky (2020), p. 615]",
+   "length": 6,
+   "paper_pages": [
+    615
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R26",
+   "part": "li",
+   "words": "[7 words of Bechky (2020), p. 632]",
+   "length": 7,
+   "paper_pages": [
+    632
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R17",
+   "part": "p",
+   "words": "[6 words of Bechky (2020), p. 624]",
+   "length": 6,
+   "paper_pages": [
+    624
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R17",
+   "part": "p",
+   "words": "[6 words of Bechky (2020), p. 635]",
+   "length": 6,
+   "paper_pages": [
+    635
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R17",
+   "part": "p",
+   "words": "[6 words of Bechky (2020), p. 632]",
+   "length": 6,
+   "paper_pages": [
+    632
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R29",
+   "part": "p",
+   "words": "[6 words of Bechky (2020), p. 637]. The",
+   "length": 7,
+   "paper_pages": [
+    637
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R29",
+   "part": "p",
+   "words": "[7 words of Bechky (2020), p. 620]",
+   "length": 7,
+   "paper_pages": [
+    620
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R06",
+   "part": "p",
+   "words": "[6 words of Bechky (2020), p. 621]",
+   "length": 6,
+   "paper_pages": [
+    621
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R09",
+   "part": "p",
+   "words": "[10 words of Bechky (2020), p. 606]",
+   "length": 10,
+   "paper_pages": [
+    606
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R09",
+   "part": "li",
+   "words": "[6 words of Bechky (2020), p. 633]",
+   "length": 6,
+   "paper_pages": [
+    633
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R10",
+   "part": "p",
+   "words": "[6 words of Bechky (2020), p. 637]",
+   "length": 6,
+   "paper_pages": [
+    637
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R10",
+   "part": "li",
+   "words": "[8 words of Bechky (2020), p. 620]",
+   "length": 8,
+   "paper_pages": [
+    620
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R10",
+   "part": "li",
+   "words": "[6 words of Bechky (2020), p. 620]",
+   "length": 6,
+   "paper_pages": [
+    620
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R10",
+   "part": "p",
+   "words": "[8 words of Bechky (2020), p. 637]",
+   "length": 8,
+   "paper_pages": [
+    637
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R27",
+   "part": "p",
+   "words": "[6 words of Bechky (2020), p. 635]",
+   "length": 6,
+   "paper_pages": [
+    635
+   ],
+   "class": "a reading"
+  },
+  {
+   "where": "reading-R11",
+   "part": "p",
+   "words": "[6 words of Bechky (2020), p. 619]",
+   "length": 6,
+   "paper_pages": [
+    619
+   ],
+   "class": "a reading"
+  }
+ ],
+ "by_class": {
+  "the paper's citation": 1,
+  "a reading": 21
+ }
+}
